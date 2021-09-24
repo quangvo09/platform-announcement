@@ -4,9 +4,13 @@ import { fileURLToPath } from "url";
 import { dirname } from "path";
 
 import * as lazada from "./platforms/lazada.js";
+import fetcher from "./utils/fetcher.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
+
+const token_bot = process.env.TELEGRAM_TOKEN_BOT;
+const chat_id = process.env.TELEGRAM_CHAT_ID;
 
 const file = join(__dirname, "db", "db.json");
 const adapter = new JSONFile(file);
@@ -14,8 +18,9 @@ const db = new Low(adapter);
 
 const insertAnnouncement = (announcement) => {
   const _announcement = db.data.announcements.find(
-    (a) => a.id == announcement.id
+    (a) => a.id == announcement.id && a.platform === announcement.platform
   );
+
   if (!_announcement) {
     db.data.announcements.unshift(announcement);
     return { announcement, isNew: true };
@@ -24,16 +29,30 @@ const insertAnnouncement = (announcement) => {
   return { announcement, isNew: false };
 };
 
-const sendNotification = (announcement) => {};
+const sendNotification = (announcement) => {
+  let message = `
+------
+📣📣📣
+\\[Announcement\]: *${announcement.title}*
+\\[Platform\]: \`${announcement.platform}\`
+\\[Link\]: [${announcement.url}](${announcement.url})
+  `;
+  message = message.substring(0, 4096);
+  message = encodeURIComponent(message);
+
+  const url = `https://api.telegram.org/bot${token_bot}/sendMessage?chat_id=@${chat_id}&text=${message}&parse_mode=markdown`;
+  fetcher(url).then(console.log).catch(console.error);
+};
 
 const main = async () => {
+  // Load database
   await db.read();
   db.data ||= { announcements: [] };
 
   lazada
     .scrape()
     .then((announcements) => {
-      announcements.forEach((announcement) => {
+      announcements.splice(0, 1).forEach((announcement) => {
         const { isNew } = insertAnnouncement(announcement);
         if (isNew) {
           sendNotification(announcement);
@@ -41,7 +60,7 @@ const main = async () => {
       });
     })
     .then(() => {
-      return db.write();
+      // return db.write();
     });
 };
 

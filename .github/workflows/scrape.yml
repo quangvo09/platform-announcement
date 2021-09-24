@@ -12,8 +12,9 @@ jobs:
         run: npm install
       - name: Scraping
         run: npm run index
-        # env:
-        #   WHATEVER_TOKEN: ${{ secrets.YOU_WANT }}
+        env:
+          TELEGRAM_TOKEN_BOT: ${{ secrets.TELEGRAM_TOKEN_BOT }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       - uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
