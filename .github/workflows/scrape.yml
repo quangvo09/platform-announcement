@@ -1,0 +1,19 @@
+name: Scrape Platform Announcement
+on:
+  schedule:
+    - cron: "0 * * * *"
+name: Scrape Data
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Install dependencies
+        run: npm install
+      - name: Scraping
+        run: npm run index
+        # env:
+        #   WHATEVER_TOKEN: ${{ secrets.YOU_WANT }}
+      - uses: mikeal/publish-to-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

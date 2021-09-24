@@ -1,0 +1,24 @@
+{
+  "name": "platform-announcement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quangvo09/platform-announcement.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quangvo09/platform-announcement/issues"
+  },
+  "homepage": "https://github.com/quangvo09/platform-announcement#readme",
+  "dependencies": {
+    "lowdb": "^3.0.0"
+  }
+}
