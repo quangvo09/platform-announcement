@@ -1,7 +1,7 @@
 name: Scrape Open Platform API Announcement
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "* * * * *"
 jobs:
   scrape:
     runs-on: ubuntu-latest
