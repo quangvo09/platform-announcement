@@ -47,12 +47,12 @@ const sendNotification = (announcement) => {
 const main = async () => {
   // Load database
   await db.read();
-  db.data ||= { announcements: [] };
+  db.data = db.data || { announcements: [] };
 
   lazada
     .scrape()
     .then((announcements) => {
-      announcements.splice(0, 1).forEach((announcement) => {
+      announcements.forEach((announcement) => {
         const { isNew } = insertAnnouncement(announcement);
         if (isNew) {
           sendNotification(announcement);
@@ -60,7 +60,7 @@ const main = async () => {
       });
     })
     .then(() => {
-      // return db.write();
+      return db.write();
     });
 };
 
