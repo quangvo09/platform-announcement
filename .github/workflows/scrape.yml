@@ -10,7 +10,7 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Scraping
-        run: npm run index
+        run: npm run start
         env:
           TELEGRAM_TOKEN_BOT: ${{ secrets.TELEGRAM_TOKEN_BOT }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
