@@ -1,0 +1,64 @@
+{
+  "announcements": [
+    {
+      "id": 520,
+      "platform": "lazada",
+      "title": "LAZADA 9.9 Product Listing Downgrade Plan",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=520"
+    },
+    {
+      "id": 507,
+      "platform": "lazada",
+      "title": "LazOP 2.0 - Custom variant (sales) attribute",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=507"
+    },
+    {
+      "id": 449,
+      "platform": "lazada",
+      "title": "LazOP 2.0 Overview",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=449"
+    },
+    {
+      "id": 309,
+      "platform": "lazada",
+      "title": "Push： New push event online \"Product\"",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=309"
+    },
+    {
+      "id": 205,
+      "platform": "lazada",
+      "title": "New API-/order/repack live",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=205"
+    },
+    {
+      "id": 201,
+      "platform": "lazada",
+      "title": "Getproducts API Limit the total number of pagination queries（Effective 2021.08.01）",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=201"
+    },
+    {
+      "id": 200,
+      "platform": "lazada",
+      "title": "Order Status Update（June 29）",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=200"
+    },
+    {
+      "id": 135,
+      "platform": "lazada",
+      "title": "GetProducts offline the search field and online filter field（June 22）",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=135"
+    },
+    {
+      "id": 134,
+      "platform": "lazada",
+      "title": "GetProducts and GetProductItem can get the item level product image（June 22）",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=134"
+    },
+    {
+      "id": 133,
+      "platform": "lazada",
+      "title": "New API DeactivateProduct online （June 22）",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=133"
+    }
+  ]
+}
