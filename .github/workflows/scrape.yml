@@ -3,6 +3,9 @@ on:
   push:
     branches:
       - master
+    paths:
+      - "**.js"
+      - "**.yml"
   schedule:
     - cron: "0 * * * *"
 jobs:
