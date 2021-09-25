@@ -4,7 +4,7 @@ This tool helps we monitor announcements from multiple platform APIs and send no
 
 So that we can update new APIs, new changes to make right decision
 
-# Technology
+# Technical
 
 1. Use github action to trigger and run scraper
 
