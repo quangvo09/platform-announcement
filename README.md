@@ -2,7 +2,7 @@
 
 This tool helps we monitor announcements from multiple platform APIs and send notification to Telegram group
 
-So that we can update new APIs, new changes to make right decision
+So that we can discover new APIs, new changes to make decisions
 
 # Technical
 
