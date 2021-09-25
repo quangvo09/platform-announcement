@@ -10,8 +10,8 @@ import fetcher from "./utils/fetcher.js";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const token_bot = process.env.TELEGRAM_TOKEN_BOT;
-const chat_id = process.env.TELEGRAM_CHAT_ID;
+const tokenBot = process.env.TELEGRAM_TOKEN_BOT;
+const chatId = process.env.TELEGRAM_CHAT_ID;
 
 const file = join(__dirname, "db", "db.json");
 const adapter = new JSONFile(file);
@@ -40,7 +40,7 @@ const sendNotification = (announcement) => {
   message = message.substring(0, 4096);
   message = encodeURIComponent(message);
 
-  const url = `https://api.telegram.org/bot${token_bot}/sendMessage?chat_id=@${chat_id}&text=${message}&parse_mode=markdown`;
+  const url = `https://api.telegram.org/bot${tokenBot}/sendMessage?chat_id=@${chatId}&text=${message}&parse_mode=markdown`;
   fetcher(url).then(console.log).catch(console.error);
 };
 
