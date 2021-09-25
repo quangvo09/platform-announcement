@@ -40,7 +40,7 @@ const sendNotification = (announcement) => {
   message = message.substring(0, 4096);
   message = encodeURIComponent(message);
 
-  const url = `https://api.telegram.org/bot${tokenBot}/sendMessage?chat_id=@${chatId}&text=${message}&parse_mode=markdown`;
+  const url = `https://api.telegram.org/bot${tokenBot}/sendMessage?chat_id=${chatId}&text=${message}&parse_mode=markdown`;
   fetcher(url).then(console.log).catch(console.error);
 };
 
