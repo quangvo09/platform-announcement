@@ -4,6 +4,7 @@ import { fileURLToPath } from "url";
 import { dirname } from "path";
 
 import * as lazada from "./platforms/lazada.js";
+import * as shopee from "./platforms/shopee.js";
 import fetcher from "./utils/fetcher.js";
 
 const __filename = fileURLToPath(import.meta.url);
@@ -32,9 +33,8 @@ const insertAnnouncement = (announcement) => {
 const sendNotification = (announcement) => {
   let message = `
 ------
-📣📣📣
+📣📣📣 ${announcement.platform.toUpperCase()} 📣📣📣
 \\[Announcement\]: *${announcement.title}*
-\\[Platform\]: \`${announcement.platform}\`
 \\[Link\]: [${announcement.url}](${announcement.url})
   `;
   message = message.substring(0, 4096);
@@ -49,8 +49,7 @@ const main = async () => {
   await db.read();
   db.data = db.data || { announcements: [] };
 
-  lazada
-    .scrape()
+  flattenPromise([lazada.scrape(), shopee.scrape()])
     .then((announcements) => {
       announcements.forEach((announcement) => {
         const { isNew } = insertAnnouncement(announcement);
@@ -62,6 +61,24 @@ const main = async () => {
     .then(() => {
       return db.write();
     });
+};
+
+const flattenPromise = (promises) => {
+  const successPromises = promises.map((p) => {
+    return p.catch((error) => {
+      console.warn(error);
+      return Promise.resolve([]);
+    });
+  });
+
+  return Promise.all(successPromises).then((values) => {
+    return Promise.resolve(
+      values.reduce((acc, value) => {
+        acc.push(...value);
+        return acc;
+      })
+    );
+  });
 };
 
 console.log("Start scraping...");
