@@ -41,7 +41,7 @@ const sendNotification = (announcement) => {
   message = encodeURIComponent(message);
 
   const url = `https://api.telegram.org/bot${tokenBot}/sendMessage?chat_id=${chatId}&text=${message}&parse_mode=markdown`;
-  fetcher(url).then(console.log).catch(console.error);
+  return fetcher(url).then(console.log).catch(console.warn);
 };
 
 const main = async () => {
@@ -49,21 +49,27 @@ const main = async () => {
   await db.read();
   db.data = db.data || { announcements: [] };
 
-  flattenPromise([lazada.scrape(), shopee.scrape()])
-    .then((announcements) => {
-      announcements.forEach((announcement) => {
+  parallelPromise([lazada.scrape(), shopee.scrape()]).then((results) => {
+    const announcements = results.reduce((acc, value) => {
+      acc.push(...value);
+      return acc;
+    });
+
+    return announcements.reduce((promise, announcement) => {
+      return promise.finally(() => {
         const { isNew } = insertAnnouncement(announcement);
         if (isNew) {
-          sendNotification(announcement);
+          db.write();
+          return sendNotification(announcement).then(() => delay(1000));
         }
+
+        return Promise.resolve();
       });
-    })
-    .then(() => {
-      return db.write();
-    });
+    }, Promise.resolve());
+  });
 };
 
-const flattenPromise = (promises) => {
+const parallelPromise = (promises) => {
   const successPromises = promises.map((p) => {
     return p.catch((error) => {
       console.warn(error);
@@ -71,13 +77,12 @@ const flattenPromise = (promises) => {
     });
   });
 
-  return Promise.all(successPromises).then((values) => {
-    return Promise.resolve(
-      values.reduce((acc, value) => {
-        acc.push(...value);
-        return acc;
-      })
-    );
+  return Promise.all(successPromises);
+};
+
+const delay = (ms) => {
+  return new Promise((resolve) => {
+    setTimeout(() => resolve(), ms);
   });
 };
 
