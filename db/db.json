@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 499,
+      "platform": "shopee",
+      "title": "[Action Required] Fill in mandatory attributes before transition period ends",
+      "url": "https://open.shopee.com/announcement/499"
+    },
+    {
       "id": 498,
       "platform": "shopee",
       "title": "[MY] Label Air Waybill with COD tag correctly",
