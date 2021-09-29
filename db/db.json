@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 578,
+      "platform": "lazada",
+      "title": "Sandbox Test function has been officially launched",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=578"
+    },
+    {
       "id": 499,
       "platform": "shopee",
       "title": "[Action Required] Fill in mandatory attributes before transition period ends",
