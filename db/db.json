@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 503,
+      "platform": "shopee",
+      "title": "Important reminder for Open Platform policies",
+      "url": "https://open.shopee.com/announcement/503"
+    },
+    {
       "id": 578,
       "platform": "lazada",
       "title": "Sandbox Test function has been officially launched",
