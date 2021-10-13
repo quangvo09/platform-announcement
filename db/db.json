@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 506,
+      "platform": "shopee",
+      "title": "[Final reminder] Important updates to Shopee Open Platform seller accounts",
+      "url": "https://open.shopee.com/announcement/506"
+    },
+    {
       "id": 503,
       "platform": "shopee",
       "title": "Important reminder for Open Platform policies",
