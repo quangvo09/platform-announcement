@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 507,
+      "platform": "shopee",
+      "title": "Important updates for Open Platform Chat API",
+      "url": "https://open.shopee.com/announcement/507"
+    },
+    {
       "id": 504,
       "platform": "shopee",
       "title": "Significant Open API Updates",
