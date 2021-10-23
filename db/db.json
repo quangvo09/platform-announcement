@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 623,
+      "platform": "lazada",
+      "title": "Product API update \"special_from_date\" field not mandatory when setting up\"special_price\"",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=623"
+    },
+    {
       "id": 507,
       "platform": "shopee",
       "title": "Important updates for Open Platform Chat API",
