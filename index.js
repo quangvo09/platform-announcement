@@ -14,6 +14,11 @@ const file = join(__dirname, "db", "db.json");
 const adapter = new JSONFile(file);
 const db = new Low(adapter);
 
+const consumer = new DiscordConsumer(
+  process.env.DISCORD_BOT_TOKEN,
+  process.env.DISCORD_CHANNEL_ID
+);
+
 const insertAnnouncement = (announcement) => {
   const _announcement = db.data.announcements.find(
     (a) => a.id == announcement.id && a.platform === announcement.platform
@@ -27,19 +32,10 @@ const insertAnnouncement = (announcement) => {
   return { announcement, isNew: false };
 };
 
-const initConsumer = () => {
-  return new DiscordConsumer(
-    process.env.DISCORD_BOT_TOKEN,
-    process.env.DISCORD_CHANNEL_ID
-  );
-};
-
 const main = async () => {
   // Load database
   await db.read();
   db.data = db.data || { announcements: [] };
-
-  const consumer = initConsumer();
 
   parallelPromise([lazada.scrape(), shopee.scrape()]).then((results) => {
     const announcements = results.reduce((acc, value) => {
