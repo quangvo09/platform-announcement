@@ -5,13 +5,10 @@ import { dirname } from "path";
 
 import * as lazada from "./platforms/lazada.js";
 import * as shopee from "./platforms/shopee.js";
-import fetcher from "./utils/fetcher.js";
+import { DiscordConsumer } from "./consumers/discord_consumer.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
-
-const tokenBot = process.env.TELEGRAM_TOKEN_BOT;
-const chatId = process.env.TELEGRAM_CHAT_ID;
 
 const file = join(__dirname, "db", "db.json");
 const adapter = new JSONFile(file);
@@ -30,24 +27,19 @@ const insertAnnouncement = (announcement) => {
   return { announcement, isNew: false };
 };
 
-const sendNotification = (announcement) => {
-  let message = `
-------
-📣📣📣 ${announcement.platform.toUpperCase()} 📣📣📣
-\\[Announcement\]: *${announcement.title}*
-\\[Link\]: [${announcement.url}](${announcement.url})
-  `;
-  message = message.substring(0, 4096);
-  message = encodeURIComponent(message);
-
-  const url = `https://api.telegram.org/bot${tokenBot}/sendMessage?chat_id=${chatId}&text=${message}&parse_mode=markdown`;
-  return fetcher(url).then(console.log).catch(console.warn);
+const initConsumer = () => {
+  return new DiscordConsumer(
+    process.env.DISCORD_BOT_TOKEN,
+    process.env.DISCORD_CHANNEL_ID
+  );
 };
 
 const main = async () => {
   // Load database
   await db.read();
   db.data = db.data || { announcements: [] };
+
+  const consumer = initConsumer();
 
   parallelPromise([lazada.scrape(), shopee.scrape()]).then((results) => {
     const announcements = results.reduce((acc, value) => {
@@ -60,7 +52,7 @@ const main = async () => {
         const { isNew } = insertAnnouncement(announcement);
         if (isNew) {
           db.write();
-          return sendNotification(announcement).then(() => delay(1000));
+          return consumer.send(announcement).then(() => delay(1000));
         }
 
         return Promise.resolve();
