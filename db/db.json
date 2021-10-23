@@ -1,6 +1,48 @@
 {
   "announcements": [
     {
+      "id": 623,
+      "platform": "lazada",
+      "title": "Product API update \"special_from_date\" field not mandatory when setting up\"special_price\"",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=623"
+    },
+    {
+      "id": 507,
+      "platform": "shopee",
+      "title": "Important updates for Open Platform Chat API",
+      "url": "https://open.shopee.com/announcement/507"
+    },
+    {
+      "id": 504,
+      "platform": "shopee",
+      "title": "Significant Open API Updates",
+      "url": "https://open.shopee.com/announcement/504"
+    },
+    {
+      "id": 506,
+      "platform": "shopee",
+      "title": "[Final reminder] Important updates to Shopee Open Platform seller accounts",
+      "url": "https://open.shopee.com/announcement/506"
+    },
+    {
+      "id": 503,
+      "platform": "shopee",
+      "title": "Important reminder for Open Platform policies",
+      "url": "https://open.shopee.com/announcement/503"
+    },
+    {
+      "id": 578,
+      "platform": "lazada",
+      "title": "Sandbox Test function has been officially launched",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=578"
+    },
+    {
+      "id": 499,
+      "platform": "shopee",
+      "title": "[Action Required] Fill in mandatory attributes before transition period ends",
+      "url": "https://open.shopee.com/announcement/499"
+    },
+    {
       "id": 498,
       "platform": "shopee",
       "title": "[MY] Label Air Waybill with COD tag correctly",
