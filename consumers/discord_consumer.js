@@ -18,6 +18,10 @@ export class DiscordConsumer {
     const headers = {
       authorization: `Bot ${this.token}`,
     };
+    console.log(
+      "🚀 ~ file: discord_consumer.js ~ line 21 ~ DiscordConsumer ~ send= ~ headers",
+      headers
+    );
     const data = { content: message };
     return post(url, headers, data).then(console.log).catch(console.warn);
   };
