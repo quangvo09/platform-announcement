@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 626,
+      "platform": "lazada",
+      "title": "Product API -getProducts/getProductItem marketing images field is online",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=626"
+    },
+    {
       "id": 623,
       "platform": "lazada",
       "title": "Product API update \"special_from_date\" field not mandatory when setting up\"special_price\"",
