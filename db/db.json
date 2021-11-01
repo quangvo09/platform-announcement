@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 510,
+      "platform": "shopee",
+      "title": "Significant Open API Updates",
+      "url": "https://open.shopee.com/announcement/510"
+    },
+    {
       "id": 626,
       "platform": "lazada",
       "title": "Product API -getProducts/getProductItem marketing images field is online",
