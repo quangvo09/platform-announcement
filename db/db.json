@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 637,
+      "platform": "lazada",
+      "title": "D11 Open API Downgrade Plan",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=637"
+    },
+    {
       "id": 510,
       "platform": "shopee",
       "title": "Significant Open API Updates",
