@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 640,
+      "platform": "lazada",
+      "title": "GetOrders throttling limit  on D11",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=640"
+    },
+    {
       "id": 637,
       "platform": "lazada",
       "title": "D11 Open API Downgrade Plan",
