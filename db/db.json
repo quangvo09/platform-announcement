@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 644,
+      "platform": "lazada",
+      "title": "Product API - The API related to the saleable inventory modification has been launched",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=644"
+    },
+    {
       "id": 640,
       "platform": "lazada",
       "title": "GetOrders throttling limit  on D11",
