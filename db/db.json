@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 513,
+      "platform": "shopee",
+      "title": "[Action Required] BR Category Tree Adjustment in Jan 2022",
+      "url": "https://open.shopee.com/announcement/513"
+    },
+    {
       "id": 644,
       "platform": "lazada",
       "title": "Product API - The API related to the saleable inventory modification has been launched",
