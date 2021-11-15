@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 512,
+      "platform": "shopee",
+      "title": "Significant Open API Updates",
+      "url": "https://open.shopee.com/announcement/512"
+    },
+    {
       "id": 513,
       "platform": "shopee",
       "title": "[Action Required] BR Category Tree Adjustment in Jan 2022",
