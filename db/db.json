@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 515,
+      "platform": "shopee",
+      "title": "Significant Open API Updates",
+      "url": "https://open.shopee.com/announcement/515"
+    },
+    {
       "id": 512,
       "platform": "shopee",
       "title": "Significant Open API Updates",
