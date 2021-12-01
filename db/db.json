@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 517,
+      "platform": "shopee",
+      "title": "[Reminder] Updated your IT asset information on Shopee Open Platform？",
+      "url": "https://open.shopee.com/announcement/517"
+    },
+    {
       "id": 515,
       "platform": "shopee",
       "title": "Significant Open API Updates",
