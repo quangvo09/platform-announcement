@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 519,
+      "platform": "shopee",
+      "title": "[Action Required - Shopee Open API] Sandbox Testing for Category Tree Adjustment",
+      "url": "https://open.shopee.com/announcement/519"
+    },
+    {
       "id": 673,
       "platform": "lazada",
       "title": "12.12 Open API Downgrade Plan",
