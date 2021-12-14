@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 520,
+      "platform": "shopee",
+      "title": "Significant Open API Updates",
+      "url": "https://open.shopee.com/announcement/520"
+    },
+    {
       "id": 519,
       "platform": "shopee",
       "title": "[Action Required - Shopee Open API] Sandbox Testing for Category Tree Adjustment",
