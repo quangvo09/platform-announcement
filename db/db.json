@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 527,
+      "platform": "shopee",
+      "title": "Category Tree Adjustment in January 2022",
+      "url": "https://open.shopee.com/announcement/527"
+    },
+    {
       "id": 526,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
