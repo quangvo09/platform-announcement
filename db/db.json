@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 711,
+      "platform": "lazada",
+      "title": "Product API Update",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=711"
+    },
+    {
       "id": 527,
       "platform": "shopee",
       "title": "Category Tree Adjustment in January 2022",
