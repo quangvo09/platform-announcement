@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 533,
+      "platform": "shopee",
+      "title": "[Update] Category Tree Adjustment Deployed Successfully in BR",
+      "url": "https://open.shopee.com/announcement/533"
+    },
+    {
       "id": 532,
       "platform": "shopee",
       "title": "[MY] Important Update for Open Platform AWB API (SEA & Self Collection)",
