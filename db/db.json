@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 538,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcement/538"
+    },
+    {
       "id": 537,
       "platform": "shopee",
       "title": "Open platform supports Argentine (AR) market",
