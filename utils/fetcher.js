@@ -45,7 +45,7 @@ export const post = (url, headers, body) => {
           resolve(data);
         });
       })
-      .on("error", (err) => {
+      .on("error", (error) => {
         reject(error);
       });
 

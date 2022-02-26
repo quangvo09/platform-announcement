@@ -5,7 +5,7 @@ import { dirname } from "path";
 
 import * as lazada from "./platforms/lazada.js";
 import * as shopee from "./platforms/shopee.js";
-import { DiscordConsumer } from "./consumers/discord_consumer.js";
+import { WebhookConsumer } from "./consumers/webhook_consumer.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -14,10 +14,7 @@ const file = join(__dirname, "db", "db.json");
 const adapter = new JSONFile(file);
 const db = new Low(adapter);
 
-const consumer = new DiscordConsumer(
-  process.env.DISCORD_BOT_TOKEN,
-  process.env.DISCORD_CHANNEL_ID
-);
+const consumer = new WebhookConsumer(process.env.WEBHOOK_URL);
 
 const insertAnnouncement = (announcement) => {
   const _announcement = db.data.announcements.find(
