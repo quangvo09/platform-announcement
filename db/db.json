@@ -1,6 +1,162 @@
 {
   "announcements": [
     {
+      "id": 538,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcement/538"
+    },
+    {
+      "id": 537,
+      "platform": "shopee",
+      "title": "Open platform supports Argentine (AR) market",
+      "url": "https://open.shopee.com/announcement/537"
+    },
+    {
+      "id": 536,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcement/536"
+    },
+    {
+      "id": 535,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcement/535"
+    },
+    {
+      "id": 533,
+      "platform": "shopee",
+      "title": "[Update] Category Tree Adjustment Deployed Successfully in BR",
+      "url": "https://open.shopee.com/announcement/533"
+    },
+    {
+      "id": 532,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Open Platform AWB API (SEA & Self Collection)",
+      "url": "https://open.shopee.com/announcement/532"
+    },
+    {
+      "id": 530,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcement/530"
+    },
+    {
+      "id": 711,
+      "platform": "lazada",
+      "title": "Product API Update",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=711"
+    },
+    {
+      "id": 527,
+      "platform": "shopee",
+      "title": "Category Tree Adjustment in January 2022",
+      "url": "https://open.shopee.com/announcement/527"
+    },
+    {
+      "id": 526,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcement/526"
+    },
+    {
+      "id": 525,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcement/525"
+    },
+    {
+      "id": 524,
+      "platform": "shopee",
+      "title": "Policy Update on Listings Migration",
+      "url": "https://open.shopee.com/announcement/524"
+    },
+    {
+      "id": 523,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcement/523"
+    },
+    {
+      "id": 520,
+      "platform": "shopee",
+      "title": "Significant Open API Updates",
+      "url": "https://open.shopee.com/announcement/520"
+    },
+    {
+      "id": 519,
+      "platform": "shopee",
+      "title": "[Action Required - Shopee Open API] Sandbox Testing for Category Tree Adjustment",
+      "url": "https://open.shopee.com/announcement/519"
+    },
+    {
+      "id": 673,
+      "platform": "lazada",
+      "title": "12.12 Open API Downgrade Plan",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=673"
+    },
+    {
+      "id": 517,
+      "platform": "shopee",
+      "title": "[Reminder] Updated your IT asset information on Shopee Open Platform？",
+      "url": "https://open.shopee.com/announcement/517"
+    },
+    {
+      "id": 515,
+      "platform": "shopee",
+      "title": "Significant Open API Updates",
+      "url": "https://open.shopee.com/announcement/515"
+    },
+    {
+      "id": 512,
+      "platform": "shopee",
+      "title": "Significant Open API Updates",
+      "url": "https://open.shopee.com/announcement/512"
+    },
+    {
+      "id": 513,
+      "platform": "shopee",
+      "title": "[Action Required] BR Category Tree Adjustment in Jan 2022",
+      "url": "https://open.shopee.com/announcement/513"
+    },
+    {
+      "id": 644,
+      "platform": "lazada",
+      "title": "Product API - The API related to the saleable inventory modification has been launched",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=644"
+    },
+    {
+      "id": 640,
+      "platform": "lazada",
+      "title": "GetOrders throttling limit  on D11",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=640"
+    },
+    {
+      "id": 637,
+      "platform": "lazada",
+      "title": "D11 Open API Downgrade Plan",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=637"
+    },
+    {
+      "id": 510,
+      "platform": "shopee",
+      "title": "Significant Open API Updates",
+      "url": "https://open.shopee.com/announcement/510"
+    },
+    {
+      "id": 626,
+      "platform": "lazada",
+      "title": "Product API -getProducts/getProductItem marketing images field is online",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=626"
+    },
+    {
+      "id": 623,
+      "platform": "lazada",
+      "title": "Product API update \"special_from_date\" field not mandatory when setting up\"special_price\"",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=623"
+    },
+    {
       "id": 507,
       "platform": "shopee",
       "title": "Important updates for Open Platform Chat API",
