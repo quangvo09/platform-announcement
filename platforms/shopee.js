@@ -12,7 +12,7 @@ export const scrape = async () => {
         id: d.id,
         platform: "shopee",
         title: d.title,
-        url: `https://open.shopee.com/announcement/${d.id}`,
+        url: `https://open.shopee.com/announcements/${d.id}`,
       }));
     return announcements;
   } catch (error) {
