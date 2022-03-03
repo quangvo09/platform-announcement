@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 753,
+      "platform": "lazada",
+      "title": "LazOP Policy Update - low API success rate email notification and punishment",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=753"
+    },
+    {
       "id": 542,
       "platform": "shopee",
       "title": "[MY] Important Update for Open Platform Logistic Channel Related API",
