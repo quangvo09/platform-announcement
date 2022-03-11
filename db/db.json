@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 766,
+      "platform": "lazada",
+      "title": "Bday Open API Downgrade Plan",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=766"
+    },
+    {
       "id": 753,
       "platform": "lazada",
       "title": "LazOP Policy Update - low API success rate email notification and punishment",
