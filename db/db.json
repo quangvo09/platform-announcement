@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 773,
+      "platform": "lazada",
+      "title": "Updates to Lazada Open Platform Terms of Use",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=773"
+    },
+    {
       "id": 766,
       "platform": "lazada",
       "title": "Bday Open API Downgrade Plan",
