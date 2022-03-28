@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 544,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/544"
+    },
+    {
       "id": 545,
       "platform": "shopee",
       "title": "[MY] Important Update for Logistic Channel Name",
