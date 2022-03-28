@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 545,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Logistic Channel Name",
+      "url": "https://open.shopee.com/announcements/545"
+    },
+    {
       "id": 773,
       "platform": "lazada",
       "title": "Updates to Lazada Open Platform Terms of Use",
