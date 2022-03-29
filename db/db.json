@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": 547,
+      "platform": "shopee",
+      "title": "NEW Platform Partner Rules",
+      "url": "https://open.shopee.com/announcements/547"
+    },
+    {
+      "id": 546,
+      "platform": "shopee",
+      "title": "[Action Required] Declare your IT assets on Open Platform",
+      "url": "https://open.shopee.com/announcements/546"
+    },
+    {
       "id": 544,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
