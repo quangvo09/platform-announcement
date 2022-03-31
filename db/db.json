@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 780,
+      "platform": "lazada",
+      "title": "GetTransactionDetails API is going offline soon",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=780"
+    },
+    {
       "id": 547,
       "platform": "shopee",
       "title": "NEW Platform Partner Rules",
