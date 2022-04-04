@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 549,
+      "platform": "shopee",
+      "title": "[Announcement] Item related push services temporarily shut down",
+      "url": "https://open.shopee.com/announcements/549"
+    },
+    {
       "id": 780,
       "platform": "lazada",
       "title": "GetTransactionDetails API is going offline soon",
