@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 550,
+      "platform": "shopee",
+      "title": "Launch of the Service Partner Program",
+      "url": "https://open.shopee.com/announcements/550"
+    },
+    {
       "id": 549,
       "platform": "shopee",
       "title": "[Announcement] Item related push services temporarily shut down",
