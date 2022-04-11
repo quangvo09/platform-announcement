@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 789,
+      "platform": "lazada",
+      "title": "New features will be online - some product APIs support Json format",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=789"
+    },
+    {
       "id": 550,
       "platform": "shopee",
       "title": "Launch of the Service Partner Program",
