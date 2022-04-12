@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 790,
+      "platform": "lazada",
+      "title": "Get Platform Products API replacement",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=790"
+    },
+    {
       "id": 789,
       "platform": "lazada",
       "title": "New features will be online - some product APIs support Json format",
