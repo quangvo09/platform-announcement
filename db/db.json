@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 548,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/548"
+    },
+    {
       "id": 790,
       "platform": "lazada",
       "title": "Get Platform Products API replacement",
