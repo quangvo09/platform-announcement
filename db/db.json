@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 553,
+      "platform": "shopee",
+      "title": "Support existing app upgrade and can get existing authorized shop's token",
+      "url": "https://open.shopee.com/announcements/553"
+    },
+    {
       "id": 548,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
