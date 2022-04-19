@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 554,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Logistic Channel Name",
+      "url": "https://open.shopee.com/announcements/554"
+    },
+    {
       "id": 553,
       "platform": "shopee",
       "title": "Support existing app upgrade and can get existing authorized shop's token",
