@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 562,
+      "platform": "shopee",
+      "title": "Chat API updates",
+      "url": "https://open.shopee.com/announcements/562"
+    },
+    {
       "id": 554,
       "platform": "shopee",
       "title": "[MY] Important Update for Logistic Channel Name",
