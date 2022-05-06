@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 563,
+      "platform": "shopee",
+      "title": "[Action Required] Fill in mandatory attributes before transition period ends",
+      "url": "https://open.shopee.com/announcements/563"
+    },
+    {
       "id": 557,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
