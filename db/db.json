@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 805,
+      "platform": "lazada",
+      "title": "GSP ProductAPI-发布GSP商品成功率改善",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=805"
+    },
+    {
       "id": 563,
       "platform": "shopee",
       "title": "[Action Required] Fill in mandatory attributes before transition period ends",
