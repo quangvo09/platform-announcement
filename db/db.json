@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 556,
+      "platform": "shopee",
+      "title": "[Important] Open API 1.0 Deprecation Plan",
+      "url": "https://open.shopee.com/announcements/556"
+    },
+    {
       "id": 805,
       "platform": "lazada",
       "title": "GSP ProductAPI-发布GSP商品成功率改善",
