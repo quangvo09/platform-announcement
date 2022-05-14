@@ -10,4 +10,4 @@ So that we can discover new APIs, new changes to make decisions
 
 2. Collect announcement and save to `db/db.json`
 
-3. Send new announcement to `Telegram group`
+3. Send new announcement to `Telegram group`, `Discord` or `Microsoft Teams`
