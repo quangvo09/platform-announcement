@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 810,
+      "platform": "lazada",
+      "title": "Get Platform Products API Replacement",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=810"
+    },
+    {
       "id": 564,
       "platform": "shopee",
       "title": "[Important] Open API 1.0 Deprecation Plan",
