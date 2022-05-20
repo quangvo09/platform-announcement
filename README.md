@@ -1,8 +1,8 @@
 # Open Platform API Announcement
 
-This tool helps we monitor announcements from multiple platform APIs and send notification to Telegram group
+This tool helps we watch announcements from multiple platform APIs and send notification to Telegram group
 
-So that we can discover new APIs, new changes to make decisions
+So that we can monitor new APIs, new changes to make decisions asap
 
 # Technical
 
