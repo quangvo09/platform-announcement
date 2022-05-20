@@ -21,6 +21,12 @@ export class WebhookConsumer {
         color = "f36f21";
         break;
 
+      case "TIKTOK":
+        platformImage =
+          "https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png";
+        color = "03033f";
+        break;
+
       default:
     }
 

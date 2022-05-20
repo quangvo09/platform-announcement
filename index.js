@@ -5,6 +5,7 @@ import { dirname } from "path";
 
 import * as lazada from "./platforms/lazada.js";
 import * as shopee from "./platforms/shopee.js";
+import * as tiktok from "./platforms/tiktok.js";
 import { WebhookConsumer } from "./consumers/webhook_consumer.js";
 
 const __filename = fileURLToPath(import.meta.url);
@@ -34,7 +35,8 @@ const main = async () => {
   await db.read();
   db.data = db.data || { announcements: [] };
 
-  parallelPromise([lazada.scrape(), shopee.scrape()]).then((results) => {
+  const scrapers = [lazada.scrape(), shopee.scrape(), tiktok.scrape()];
+  parallelPromise(scrapers).then((results) => {
     const announcements = results.reduce((acc, value) => {
       acc.push(...value);
       return acc;

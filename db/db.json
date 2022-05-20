@@ -1,6 +1,270 @@
 {
   "announcements": [
     {
+      "id": "237259",
+      "platform": "tiktok",
+      "title": "Help Center is Live",
+      "url": "https://developers.tiktok-shops.com/documents/document/237259"
+    },
+    {
+      "id": "237260",
+      "platform": "tiktok",
+      "title": "Significant Open API Updates",
+      "url": "https://developers.tiktok-shops.com/documents/document/237260"
+    },
+    {
+      "id": "237269",
+      "platform": "tiktok",
+      "title": "New API - Product API is launched",
+      "url": "https://developers.tiktok-shops.com/documents/document/237269"
+    },
+    {
+      "id": "237270",
+      "platform": "tiktok",
+      "title": "New API - Authorization API",
+      "url": "https://developers.tiktok-shops.com/documents/document/237270"
+    },
+    {
+      "id": "237261",
+      "platform": "tiktok",
+      "title": " Authorization logic changes",
+      "url": "https://developers.tiktok-shops.com/documents/document/237261"
+    },
+    {
+      "id": "237262",
+      "platform": "tiktok",
+      "title": "Order Sensitive Data Masking",
+      "url": "https://developers.tiktok-shops.com/documents/document/237262"
+    },
+    {
+      "id": "237271",
+      "platform": "tiktok",
+      "title": "New API - Finance API is Live!",
+      "url": "https://developers.tiktok-shops.com/documents/document/237271"
+    },
+    {
+      "id": "237272",
+      "platform": "tiktok",
+      "title": "New API - Reverse Order API",
+      "url": "https://developers.tiktok-shops.com/documents/document/237272"
+    },
+    {
+      "id": "237273",
+      "platform": "tiktok",
+      "title": "New APIs - Global Products & CancelOrder & Webhook Update",
+      "url": "https://developers.tiktok-shops.com/documents/document/237273"
+    },
+    {
+      "id": "237263",
+      "platform": "tiktok",
+      "title": "Shipping Process Changes",
+      "url": "https://developers.tiktok-shops.com/documents/document/237263"
+    },
+    {
+      "id": "237264",
+      "platform": "tiktok",
+      "title": "Changes in Product Categories",
+      "url": "https://developers.tiktok-shops.com/documents/document/237264"
+    },
+    {
+      "id": "237265",
+      "platform": "tiktok",
+      "title": "Traffic Limits for APIs",
+      "url": "https://developers.tiktok-shops.com/documents/document/237265"
+    },
+    {
+      "id": "237266",
+      "platform": "tiktok",
+      "title": "Risk-Order split/combine APIs",
+      "url": "https://developers.tiktok-shops.com/documents/document/237266"
+    },
+    {
+      "id": "237274",
+      "platform": "tiktok",
+      "title": "Order & Logistics API Update",
+      "url": "https://developers.tiktok-shops.com/documents/document/237274"
+    },
+    {
+      "id": "237275",
+      "platform": "tiktok",
+      "title": "Webhook & Shop API Update",
+      "url": "https://developers.tiktok-shops.com/documents/document/237275"
+    },
+    {
+      "id": "237276",
+      "platform": "tiktok",
+      "title": "Product API Update",
+      "url": "https://developers.tiktok-shops.com/documents/document/237276"
+    },
+    {
+      "id": "237277",
+      "platform": "tiktok",
+      "title": "Order API Update",
+      "url": "https://developers.tiktok-shops.com/documents/document/237277"
+    },
+    {
+      "id": "237278",
+      "platform": "tiktok",
+      "title": "Order API & Webhook Update",
+      "url": "https://developers.tiktok-shops.com/documents/document/237278"
+    },
+    {
+      "id": "237279",
+      "platform": "tiktok",
+      "title": "GetOrderDetail API update",
+      "url": "https://developers.tiktok-shops.com/documents/document/237279"
+    },
+    {
+      "id": "237267",
+      "platform": "tiktok",
+      "title": "Risk - Global Product API",
+      "url": "https://developers.tiktok-shops.com/documents/document/237267"
+    },
+    {
+      "id": "237268",
+      "platform": "tiktok",
+      "title": "Important - New Open API & Product Open API updates",
+      "url": "https://developers.tiktok-shops.com/documents/document/237268"
+    },
+    {
+      "id": "237245",
+      "platform": "tiktok",
+      "title": "APP go-live review process is launched",
+      "url": "https://developers.tiktok-shops.com/documents/document/237245"
+    },
+    {
+      "id": "234980",
+      "platform": "tiktok",
+      "title": "API call specification-22.4.14",
+      "url": "https://developers.tiktok-shops.com/documents/document/234980"
+    },
+    {
+      "id": "235313",
+      "platform": "tiktok",
+      "title": "Help Center is Live",
+      "url": "https://developers.tiktok-shops.com/documents/document/235313"
+    },
+    {
+      "id": "235306",
+      "platform": "tiktok",
+      "title": "Significant Open API Updates",
+      "url": "https://developers.tiktok-shops.com/documents/document/235306"
+    },
+    {
+      "id": "235314",
+      "platform": "tiktok",
+      "title": " Authorization logic changes",
+      "url": "https://developers.tiktok-shops.com/documents/document/235314"
+    },
+    {
+      "id": "235315",
+      "platform": "tiktok",
+      "title": "Order Sensitive Data Masking",
+      "url": "https://developers.tiktok-shops.com/documents/document/235315"
+    },
+    {
+      "id": "235307",
+      "platform": "tiktok",
+      "title": "Shipping Process Changes",
+      "url": "https://developers.tiktok-shops.com/documents/document/235307"
+    },
+    {
+      "id": "235312",
+      "platform": "tiktok",
+      "title": "Changes in Product Categories",
+      "url": "https://developers.tiktok-shops.com/documents/document/235312"
+    },
+    {
+      "id": "235299",
+      "platform": "tiktok",
+      "title": "Traffic Limits for APIs",
+      "url": "https://developers.tiktok-shops.com/documents/document/235299"
+    },
+    {
+      "id": "235243",
+      "platform": "tiktok",
+      "title": "Risk-Order split/combine APIs",
+      "url": "https://developers.tiktok-shops.com/documents/document/235243"
+    },
+    {
+      "id": "235679",
+      "platform": "tiktok",
+      "title": "Risk - Global Product API",
+      "url": "https://developers.tiktok-shops.com/documents/document/235679"
+    },
+    {
+      "id": "235937",
+      "platform": "tiktok",
+      "title": "Important - New Open API & Product Open API updates",
+      "url": "https://developers.tiktok-shops.com/documents/document/235937"
+    },
+    {
+      "id": "235300",
+      "platform": "tiktok",
+      "title": "New API - Product API is launched",
+      "url": "https://developers.tiktok-shops.com/documents/document/235300"
+    },
+    {
+      "id": "235302",
+      "platform": "tiktok",
+      "title": "New API - Authorization API",
+      "url": "https://developers.tiktok-shops.com/documents/document/235302"
+    },
+    {
+      "id": "235309",
+      "platform": "tiktok",
+      "title": "New API - Finance API is Live!",
+      "url": "https://developers.tiktok-shops.com/documents/document/235309"
+    },
+    {
+      "id": "235308",
+      "platform": "tiktok",
+      "title": "New API - Reverse Order API",
+      "url": "https://developers.tiktok-shops.com/documents/document/235308"
+    },
+    {
+      "id": "235310",
+      "platform": "tiktok",
+      "title": "New APIs - Global Products & CancelOrder & Webhook Update",
+      "url": "https://developers.tiktok-shops.com/documents/document/235310"
+    },
+    {
+      "id": "235316",
+      "platform": "tiktok",
+      "title": "Order & Logistics API Update",
+      "url": "https://developers.tiktok-shops.com/documents/document/235316"
+    },
+    {
+      "id": "235317",
+      "platform": "tiktok",
+      "title": "Webhook & Shop API Update",
+      "url": "https://developers.tiktok-shops.com/documents/document/235317"
+    },
+    {
+      "id": "235318",
+      "platform": "tiktok",
+      "title": "Product API Update",
+      "url": "https://developers.tiktok-shops.com/documents/document/235318"
+    },
+    {
+      "id": "235319",
+      "platform": "tiktok",
+      "title": "Order API Update",
+      "url": "https://developers.tiktok-shops.com/documents/document/235319"
+    },
+    {
+      "id": "235320",
+      "platform": "tiktok",
+      "title": "Order API & Webhook Update",
+      "url": "https://developers.tiktok-shops.com/documents/document/235320"
+    },
+    {
+      "id": "235675",
+      "platform": "tiktok",
+      "title": "GetOrderDetail API update",
+      "url": "https://developers.tiktok-shops.com/documents/document/235675"
+    },
+    {
       "id": 565,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
