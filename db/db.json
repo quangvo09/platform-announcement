@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 568,
+      "platform": "shopee",
+      "title": "[MY] Important update for Open Platform Logistic Channel Related API",
+      "url": "https://open.shopee.com/announcements/568"
+    },
+    {
       "id": "237258",
       "platform": "tiktok",
       "title": "API call specification-22.4.14",
