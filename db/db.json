@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "239284",
+      "platform": "tiktok",
+      "title": "Updates about the get_brands API and Order Split",
+      "url": "https://developers.tiktok-shops.com/documents/document/239284"
+    },
+    {
       "id": 567,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
