@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 570,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/570"
+    },
+    {
       "id": "239284",
       "platform": "tiktok",
       "title": "Updates about the get_brands API and Order Split",
