@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 571,
+      "platform": "shopee",
+      "title": "[Final reminder] Complete the acknowledgment survey about V1.0 API Deprecation",
+      "url": "https://open.shopee.com/announcements/571"
+    },
+    {
       "id": 570,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
