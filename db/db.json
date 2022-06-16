@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "240047",
+      "platform": "tiktok",
+      "title": "[For UK market] GTIN related API changes",
+      "url": "https://developers.tiktok-shops.com/documents/document/240047"
+    },
+    {
       "id": 571,
       "platform": "shopee",
       "title": "[Final reminder] Complete the acknowledgment survey about V1.0 API Deprecation",
