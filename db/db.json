@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 569,
+      "platform": "shopee",
+      "title": "[Important]新增中国大陆开发者访问接口域名",
+      "url": "https://open.shopee.com/announcements/569"
+    },
+    {
       "id": "240047",
       "platform": "tiktok",
       "title": "[For UK market] GTIN related API changes",
