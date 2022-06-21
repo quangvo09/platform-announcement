@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 931,
+      "platform": "lazada",
+      "title": "Updates to Lazada Security Measures",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=931"
+    },
+    {
       "id": 569,
       "platform": "shopee",
       "title": "[Important]新增中国大陆开发者访问接口域名",
