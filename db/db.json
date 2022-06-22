@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 572,
+      "platform": "shopee",
+      "title": " Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/572"
+    },
+    {
       "id": 931,
       "platform": "lazada",
       "title": "Updates to Lazada Security Measures",
