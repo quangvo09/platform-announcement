@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 933,
+      "platform": "lazada",
+      "title": "Product API QC Field Update",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=933"
+    },
+    {
       "id": 572,
       "platform": "shopee",
       "title": " Significant OpenAPI Updates",
