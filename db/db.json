@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 938,
+      "platform": "lazada",
+      "title": "New features are coming - some product APIs support custom variant-related features",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=938"
+    },
+    {
       "id": 933,
       "platform": "lazada",
       "title": "Product API QC Field Update",
