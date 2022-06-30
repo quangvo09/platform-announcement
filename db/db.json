@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "243063",
+      "platform": "tiktok",
+      "title": "ship_package API update & Open Platform Announcement Email",
+      "url": "https://developers.tiktok-shops.com/documents/document/243063"
+    },
+    {
       "id": 938,
       "platform": "lazada",
       "title": "New features are coming - some product APIs support custom variant-related features",
