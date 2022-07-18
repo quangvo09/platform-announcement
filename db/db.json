@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 578,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/578"
+    },
+    {
       "id": 577,
       "platform": "shopee",
       "title": "[Action Required][TW] Important update for TW SPX air waybill",
