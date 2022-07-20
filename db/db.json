@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "244807",
+      "platform": "tiktok",
+      "title": "[Important] Ship Order API deprecation and GTIN related reminder",
+      "url": "https://developers.tiktok-shops.com/documents/document/244807"
+    },
+    {
       "id": 578,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
