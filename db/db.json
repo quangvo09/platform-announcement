@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 579,
+      "platform": "shopee",
+      "title": "[Important] Some Open APIs will shut down 2 minutes at 19:40 SGT on 25 Jul 2022",
+      "url": "https://open.shopee.com/announcements/579"
+    },
+    {
       "id": "244807",
       "platform": "tiktok",
       "title": "[Important] Ship Order API deprecation and GTIN related reminder",
