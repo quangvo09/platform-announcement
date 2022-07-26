@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 1273,
+      "platform": "lazada",
+      "title": "Pre launch notice about the new open platform page",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=1273"
+    },
+    {
       "id": 579,
       "platform": "shopee",
       "title": "[Important] Some Open APIs will shut down 2 minutes at 19:40 SGT on 25 Jul 2022",
