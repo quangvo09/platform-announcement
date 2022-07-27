@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 1280,
+      "platform": "lazada",
+      "title": "API product create new rule",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=1280"
+    },
+    {
       "id": 1273,
       "platform": "lazada",
       "title": "Pre launch notice about the new open platform page",
