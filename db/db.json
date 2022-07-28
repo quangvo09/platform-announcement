@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "245762",
+      "platform": "tiktok",
+      "title": "[Important] Product API related updates",
+      "url": "https://developers.tiktok-shops.com/documents/document/245762"
+    },
+    {
       "id": 1280,
       "platform": "lazada",
       "title": "API product create new rule",
