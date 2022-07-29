@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": 585,
+      "platform": "shopee",
+      "title": "[Important] KRSC API integration need to be finished before 2022-10-17",
+      "url": "https://open.shopee.com/announcements/585"
+    },
+    {
+      "id": 584,
+      "platform": "shopee",
+      "title": "Tightening of buyer info access in Open API",
+      "url": "https://open.shopee.com/announcements/584"
+    },
+    {
       "id": 582,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
