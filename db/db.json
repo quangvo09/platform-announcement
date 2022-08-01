@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 583,
+      "platform": "shopee",
+      "title": "[Update] [Important] Open API 1.0 Deprecation Plan ",
+      "url": "https://open.shopee.com/announcements/583"
+    },
+    {
       "id": 585,
       "platform": "shopee",
       "title": "[Important] KRSC API integration need to be finished before 2022-10-17",
