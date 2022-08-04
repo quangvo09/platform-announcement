@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 581,
+      "platform": "shopee",
+      "title": "[Action Required] Data Protection Policy updates",
+      "url": "https://open.shopee.com/announcements/581"
+    },
+    {
       "id": 587,
       "platform": "shopee",
       "title": "[Important] Seller Registration Verification for Open API",
