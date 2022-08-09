@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 588,
+      "platform": "shopee",
+      "title": "[Action required] Important update for customized Air Waybills (AWB)",
+      "url": "https://open.shopee.com/announcements/588"
+    },
+    {
       "id": 581,
       "platform": "shopee",
       "title": "[Action Required] Data Protection Policy updates",
