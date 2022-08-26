@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 592,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/592"
+    },
+    {
       "id": 591,
       "platform": "shopee",
       "title": "Add a new customize airwaybill API to respond PII as an image",
