@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 593,
+      "platform": "shopee",
+      "title": "MY Shop Seller Registration Verification in Open API",
+      "url": "https://open.shopee.com/announcements/593"
+    },
+    {
       "id": 592,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
