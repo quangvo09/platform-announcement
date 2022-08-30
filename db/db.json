@@ -1,6 +1,162 @@
 {
   "announcements": [
     {
+      "id": "254550",
+      "platform": "tiktok",
+      "title": "New API - Product API is launched",
+      "url": "https://developers.tiktok-shops.com/documents/document/254550"
+    },
+    {
+      "id": "254585",
+      "platform": "tiktok",
+      "title": "Changes in Product Categories",
+      "url": "https://developers.tiktok-shops.com/documents/document/254585"
+    },
+    {
+      "id": "254617",
+      "platform": "tiktok",
+      "title": "Product API Update",
+      "url": "https://developers.tiktok-shops.com/documents/document/254617"
+    },
+    {
+      "id": "254631",
+      "platform": "tiktok",
+      "title": "Important - New Open API & Product Open API updates",
+      "url": "https://developers.tiktok-shops.com/documents/document/254631"
+    },
+    {
+      "id": "254633",
+      "platform": "tiktok",
+      "title": "Updates about the get_brands API",
+      "url": "https://developers.tiktok-shops.com/documents/document/254633"
+    },
+    {
+      "id": "254634",
+      "platform": "tiktok",
+      "title": "[For UK market] GTIN related API changes",
+      "url": "https://developers.tiktok-shops.com/documents/document/254634"
+    },
+    {
+      "id": "254637",
+      "platform": "tiktok",
+      "title": "[Important] Product API related updates",
+      "url": "https://developers.tiktok-shops.com/documents/document/254637"
+    },
+    {
+      "id": "254618",
+      "platform": "tiktok",
+      "title": "Order API Update",
+      "url": "https://developers.tiktok-shops.com/documents/document/254618"
+    },
+    {
+      "id": "254627",
+      "platform": "tiktok",
+      "title": "GetOrderDetail API update",
+      "url": "https://developers.tiktok-shops.com/documents/document/254627"
+    },
+    {
+      "id": "254549",
+      "platform": "tiktok",
+      "title": "Significant Open API Updates",
+      "url": "https://developers.tiktok-shops.com/documents/document/254549"
+    },
+    {
+      "id": "254579",
+      "platform": "tiktok",
+      "title": "Order Sensitive Data Masking",
+      "url": "https://developers.tiktok-shops.com/documents/document/254579"
+    },
+    {
+      "id": "254584",
+      "platform": "tiktok",
+      "title": "Shipping Process Changes",
+      "url": "https://developers.tiktok-shops.com/documents/document/254584"
+    },
+    {
+      "id": "254587",
+      "platform": "tiktok",
+      "title": "Risk-Order split/combine APIs",
+      "url": "https://developers.tiktok-shops.com/documents/document/254587"
+    },
+    {
+      "id": "254615",
+      "platform": "tiktok",
+      "title": "Order & Logistics API Update",
+      "url": "https://developers.tiktok-shops.com/documents/document/254615"
+    },
+    {
+      "id": "254635",
+      "platform": "tiktok",
+      "title": "ship_package API update & Open Platform Announcement Email",
+      "url": "https://developers.tiktok-shops.com/documents/document/254635"
+    },
+    {
+      "id": "254636",
+      "platform": "tiktok",
+      "title": "[Important] Ship Order API deprecation and GTIN related reminder",
+      "url": "https://developers.tiktok-shops.com/documents/document/254636"
+    },
+    {
+      "id": "254582",
+      "platform": "tiktok",
+      "title": "New API - Reverse Order API",
+      "url": "https://developers.tiktok-shops.com/documents/document/254582"
+    },
+    {
+      "id": "254580",
+      "platform": "tiktok",
+      "title": "New API - Finance API is Live!",
+      "url": "https://developers.tiktok-shops.com/documents/document/254580"
+    },
+    {
+      "id": "254616",
+      "platform": "tiktok",
+      "title": "Webhook & Shop API Update",
+      "url": "https://developers.tiktok-shops.com/documents/document/254616"
+    },
+    {
+      "id": "254626",
+      "platform": "tiktok",
+      "title": "Order API & Webhook Update",
+      "url": "https://developers.tiktok-shops.com/documents/document/254626"
+    },
+    {
+      "id": "254551",
+      "platform": "tiktok",
+      "title": "New API - Authorization API",
+      "url": "https://developers.tiktok-shops.com/documents/document/254551"
+    },
+    {
+      "id": "254552",
+      "platform": "tiktok",
+      "title": " Authorization logic changes",
+      "url": "https://developers.tiktok-shops.com/documents/document/254552"
+    },
+    {
+      "id": "254546",
+      "platform": "tiktok",
+      "title": "API call specification-22.4.14",
+      "url": "https://developers.tiktok-shops.com/documents/document/254546"
+    },
+    {
+      "id": "254548",
+      "platform": "tiktok",
+      "title": "Help Center is Live",
+      "url": "https://developers.tiktok-shops.com/documents/document/254548"
+    },
+    {
+      "id": "254586",
+      "platform": "tiktok",
+      "title": "Traffic Limits for APIs",
+      "url": "https://developers.tiktok-shops.com/documents/document/254586"
+    },
+    {
+      "id": "254632",
+      "platform": "tiktok",
+      "title": "APP go-live review process is launched",
+      "url": "https://developers.tiktok-shops.com/documents/document/254632"
+    },
+    {
       "id": 593,
       "platform": "shopee",
       "title": "MY Shop Seller Registration Verification in Open API",
