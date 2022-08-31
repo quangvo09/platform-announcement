@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "254812",
+      "platform": "tiktok",
+      "title": "[Important] Product API update",
+      "url": "https://developers.tiktok-shops.com/documents/document/254812"
+    },
+    {
+      "id": "254813",
+      "platform": "tiktok",
+      "title": "[Important] Ship package API update",
+      "url": "https://developers.tiktok-shops.com/documents/document/254813"
+    },
+    {
       "id": "254550",
       "platform": "tiktok",
       "title": "New API - Product API is launched",
