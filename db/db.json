@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 594,
+      "platform": "shopee",
+      "title": "[Important]Old stock fields will be deprecated soon",
+      "url": "https://open.shopee.com/announcements/594"
+    },
+    {
       "id": "254812",
       "platform": "tiktok",
       "title": "[Important] Product API update",
