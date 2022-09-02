@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "255217",
+      "platform": "tiktok",
+      "title": "Important update in July-Aug",
+      "url": "https://developers.tiktok-shops.com/documents/document/255217"
+    },
+    {
       "id": 594,
       "platform": "shopee",
       "title": "[Important]Old stock fields will be deprecated soon",
