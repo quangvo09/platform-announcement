@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 595,
+      "platform": "shopee",
+      "title": "Open platform supports Push log and API log tool",
+      "url": "https://open.shopee.com/announcements/595"
+    },
+    {
       "id": 596,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
