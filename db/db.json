@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "257172",
+      "platform": "tiktok",
+      "title": "Get Brands API supports query by brand name and pagination",
+      "url": "https://developers.tiktok-shops.com/documents/document/257172"
+    },
+    {
       "id": 595,
       "platform": "shopee",
       "title": "Open platform supports Push log and API log tool",
