@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": 599,
+      "platform": "shopee",
+      "title": "PL sandbox environment  is ready",
+      "url": "https://open.shopee.com/announcements/599"
+    },
+    {
+      "id": 597,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/597"
+    },
+    {
       "id": "257172",
       "platform": "tiktok",
       "title": "Get Brands API supports query by brand name and pagination",
