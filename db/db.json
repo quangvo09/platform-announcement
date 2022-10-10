@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "257400",
+      "platform": "tiktok",
+      "title": "Identify orders cancelled by buyers",
+      "url": "https://developers.tiktok-shops.com/documents/document/257400"
+    },
+    {
       "id": 599,
       "platform": "shopee",
       "title": "PL sandbox environment  is ready",
