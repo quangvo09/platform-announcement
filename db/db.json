@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "257939",
+      "platform": "tiktok",
+      "title": "Add new forward order status webhook and Reverse webhook status",
+      "url": "https://developers.tiktok-shops.com/documents/document/257939"
+    },
+    {
       "id": 600,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
