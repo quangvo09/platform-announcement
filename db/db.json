@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 602,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/602"
+    },
+    {
       "id": "257939",
       "platform": "tiktok",
       "title": "Add new forward order status webhook and Reverse webhook status",
