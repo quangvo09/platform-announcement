@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 603,
+      "platform": "shopee",
+      "title": "[Update][Phase 2] Open API 1.0 Deprecation",
+      "url": "https://open.shopee.com/announcements/603"
+    },
+    {
       "id": 602,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
