@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "260588",
+      "platform": "tiktok",
+      "title": "Introducing the Category Recommended API",
+      "url": "https://developers.tiktok-shops.com/documents/document/260588"
+    },
+    {
       "id": 605,
       "platform": "shopee",
       "title": "[Action Required] Migration to the new customize airway bill API",
