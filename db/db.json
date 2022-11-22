@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 606,
+      "platform": "shopee",
+      "title": "[Important] NEW Vulnerability Dashboard on Open Platform Console",
+      "url": "https://open.shopee.com/announcements/606"
+    },
+    {
       "id": "260588",
       "platform": "tiktok",
       "title": "Introducing the Category Recommended API",
