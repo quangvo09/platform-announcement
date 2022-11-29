@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "261074",
+      "platform": "tiktok",
+      "title": "Introducing the Create Draft Product API",
+      "url": "https://developers.tiktok-shops.com/documents/document/261074"
+    },
+    {
+      "id": "261075",
+      "platform": "tiktok",
+      "title": "Introducing the Batch Ship Packages API",
+      "url": "https://developers.tiktok-shops.com/documents/document/261075"
+    },
+    {
       "id": 606,
       "platform": "shopee",
       "title": "[Important] NEW Vulnerability Dashboard on Open Platform Console",
