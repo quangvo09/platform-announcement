@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": "261076",
+      "platform": "tiktok",
+      "title": "Required fields change in Create Product API and Edit Product API",
+      "url": "https://developers.tiktok-shops.com/documents/document/261076"
+    },
+    {
       "id": "261074",
       "platform": "tiktok",
       "title": "Introducing the Create Draft Product API",
