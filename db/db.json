@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 607,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/607"
+    },
+    {
       "id": "261076",
       "platform": "tiktok",
       "title": "Required fields change in Create Product API and Edit Product API",
