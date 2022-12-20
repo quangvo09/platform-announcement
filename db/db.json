@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 614,
+      "platform": "shopee",
+      "title": " [Important] Updated Platform Partner Rules",
+      "url": "https://open.shopee.com/announcements/614"
+    },
+    {
       "id": 612,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
