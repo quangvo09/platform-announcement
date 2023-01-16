@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 620,
+      "platform": "shopee",
+      "title": "New Order Push- shipping_document_status_push",
+      "url": "https://open.shopee.com/announcements/620"
+    },
+    {
       "id": 617,
       "platform": "shopee",
       "title": "[Ação Necessária][Depreciação OpenAPI v1] Novo prazo 31/01/2023",
