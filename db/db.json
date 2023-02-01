@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 624,
+      "platform": "shopee",
+      "title": " [Update] Open API 1.0 Deprecation",
+      "url": "https://open.shopee.com/announcements/624"
+    },
+    {
       "id": 620,
       "platform": "shopee",
       "title": "New Order Push- shipping_document_status_push",
