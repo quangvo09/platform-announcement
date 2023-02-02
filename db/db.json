@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 626,
+      "platform": "shopee",
+      "title": "Ticket System Update_Case Tracker on Live",
+      "url": "https://open.shopee.com/announcements/626"
+    },
+    {
       "id": 624,
       "platform": "shopee",
       "title": " [Update] Open API 1.0 Deprecation",
