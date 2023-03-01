@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 636,
+      "platform": "shopee",
+      "title": "[Important] Tightening of Access to Buyer's Information on Open API",
+      "url": "https://open.shopee.com/announcements/636"
+    },
+    {
       "id": 626,
       "platform": "shopee",
       "title": "Ticket System Update_Case Tracker on Live",
