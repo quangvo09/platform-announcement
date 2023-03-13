@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 637,
+      "platform": "shopee",
+      "title": "4 Brand New Chat APIs and an Improved v2.get.message API",
+      "url": "https://open.shopee.com/announcements/637"
+    },
+    {
       "id": 636,
       "platform": "shopee",
       "title": "[Important] Tightening of Access to Buyer's Information on Open API",
