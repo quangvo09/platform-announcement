@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 639,
+      "platform": "shopee",
+      "title": "[MY] Update for the shipping carrier name of Bulky & Heavy Delivery & J&T Cargo",
+      "url": "https://open.shopee.com/announcements/639"
+    },
+    {
       "id": 637,
       "platform": "shopee",
       "title": "4 Brand New Chat APIs and an Improved v2.get.message API",
