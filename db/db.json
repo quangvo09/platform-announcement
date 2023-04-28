@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 646,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/646"
+    },
+    {
       "id": 639,
       "platform": "shopee",
       "title": "[MY] Update for the shipping carrier name of Bulky & Heavy Delivery & J&T Cargo",
