@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 662,
+      "platform": "shopee",
+      "title": "[Important] 3PF Seller CBSC Migration & Upgrade for Product and Stock Management",
+      "url": "https://open.shopee.com/announcements/662"
+    },
+    {
       "id": 660,
       "platform": "shopee",
       "title": " [CB] Significant OpenAPI Updates",
