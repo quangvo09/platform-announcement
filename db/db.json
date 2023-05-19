@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 664,
+      "platform": "shopee",
+      "title": "[Updated] [Action required]Important update for PH customized Air Waybills (AWB）",
+      "url": "https://open.shopee.com/announcements/664"
+    },
+    {
       "id": 662,
       "platform": "shopee",
       "title": "[Important] 3PF Seller CBSC Migration & Upgrade for Product and Stock Management",
