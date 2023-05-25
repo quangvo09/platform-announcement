@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 668,
+      "platform": "shopee",
+      "title": "[Important] Tightening of Access to Buyer's Information on Open API",
+      "url": "https://open.shopee.com/announcements/668"
+    },
+    {
       "id": 664,
       "platform": "shopee",
       "title": "[Updated] [Action required]Important update for PH customized Air Waybills (AWB）",
