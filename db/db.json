@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 682,
+      "platform": "shopee",
+      "title": "[important] Implement PENDING as a new order status in Open API",
+      "url": "https://open.shopee.com/announcements/682"
+    },
+    {
       "id": 676,
       "platform": "shopee",
       "title": " Significant OpenAPI Updates",
