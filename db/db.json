@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 684,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/684"
+    },
+    {
       "id": 683,
       "platform": "shopee",
       "title": "Open Platform support Member Management and Developer Account Deletion",
