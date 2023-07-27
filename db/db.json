@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 699,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/699"
+    },
+    {
       "id": 696,
       "platform": "shopee",
       "title": "[MY] Important Update for Shipping Carrier Airway Bill ",
