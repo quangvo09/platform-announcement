@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 714,
+      "platform": "shopee",
+      "title": "[For your action] Sunset \"recipient_addr\" field in Customized Airway Bill API",
+      "url": "https://open.shopee.com/announcements/714"
+    },
+    {
       "id": 710,
       "platform": "shopee",
       "title": "[MY] Important Update for Logistic Channel Name",
