@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 715,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/715"
+    },
+    {
       "id": 714,
       "platform": "shopee",
       "title": "[For your action] Sunset \"recipient_addr\" field in Customized Airway Bill API",
