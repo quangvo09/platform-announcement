@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 717,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Open Platform Shopee Logistics API (Flash Express)",
+      "url": "https://open.shopee.com/announcements/717"
+    },
+    {
       "id": 715,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
