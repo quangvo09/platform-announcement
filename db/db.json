@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 724,
+      "platform": "shopee",
+      "title": "Significant Open Platform Updates",
+      "url": "https://open.shopee.com/announcements/724"
+    },
+    {
       "id": 725,
       "platform": "shopee",
       "title": "[Important] System Upgrade Drill in Live Environment",
