@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": 732,
+      "platform": "shopee",
+      "title": "[Important] Upcoming System Upgrade in Live Environment",
+      "url": "https://open.shopee.com/announcements/732"
+    },
+    {
+      "id": 731,
+      "platform": "shopee",
+      "title": "[Important][For your action]Significant Open Platform Updates",
+      "url": "https://open.shopee.com/announcements/731"
+    },
+    {
       "id": 724,
       "platform": "shopee",
       "title": "Significant Open Platform Updates",
