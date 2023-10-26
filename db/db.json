@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 738,
+      "platform": "shopee",
+      "title": "[Important] Significant Open API Updates For CNSC and KRSC sellers",
+      "url": "https://open.shopee.com/announcements/738"
+    },
+    {
       "id": 733,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
