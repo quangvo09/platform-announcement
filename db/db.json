@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 760,
+      "platform": "shopee",
+      "title": "[Important Update] IP Address Whitelist Function ",
+      "url": "https://open.shopee.com/announcements/760"
+    },
+    {
       "id": 740,
       "platform": "shopee",
       "title": "[Important] New BR Domain Name Launched For Faster API Services ",
