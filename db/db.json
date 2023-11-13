@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 771,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/771"
+    },
+    {
       "id": 760,
       "platform": "shopee",
       "title": "[Important Update] IP Address Whitelist Function ",
