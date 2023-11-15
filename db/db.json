@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 774,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Open Platform Shopee Logistics API (BEST Cargo)",
+      "url": "https://open.shopee.com/announcements/774"
+    },
+    {
       "id": 769,
       "platform": "shopee",
       "title": "[Important] Supports more granular item_status and deboost information",
