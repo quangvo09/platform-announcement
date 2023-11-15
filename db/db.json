@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 769,
+      "platform": "shopee",
+      "title": "[Important] Supports more granular item_status and deboost information",
+      "url": "https://open.shopee.com/announcements/769"
+    },
+    {
       "id": 771,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
