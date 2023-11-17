@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 778,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/778"
+    },
+    {
       "id": 774,
       "platform": "shopee",
       "title": "[MY] Important Update for Open Platform Shopee Logistics API (BEST Cargo)",
