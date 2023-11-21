@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 784,
+      "platform": "shopee",
+      "title": "[Important] 3PF PFF Shop Mode Support & 3PF Shop Upgrade",
+      "url": "https://open.shopee.com/announcements/784"
+    },
+    {
       "id": 778,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
