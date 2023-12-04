@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 799,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/799"
+    },
+    {
       "id": 790,
       "platform": "shopee",
       "title": "[중요] 3PF PFF Shop 모드 지원 및 3PF 상점 업그레이드에 대한 안내",
