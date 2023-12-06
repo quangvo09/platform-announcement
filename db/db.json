@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 800,
+      "platform": "shopee",
+      "title": "[Resend announcement] [SG] New Next Day Doorstep Delivery Logistic Channel",
+      "url": "https://open.shopee.com/announcements/800"
+    },
+    {
       "id": 799,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
