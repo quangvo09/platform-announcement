@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 815,
+      "platform": "shopee",
+      "title": "[Final Reminder] IP Address Whitelist Function",
+      "url": "https://open.shopee.com/announcements/815"
+    },
+    {
       "id": 800,
       "platform": "shopee",
       "title": "[Resend announcement] [SG] New Next Day Doorstep Delivery Logistic Channel",
