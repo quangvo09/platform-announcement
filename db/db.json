@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 841,
+      "platform": "shopee",
+      "title": "[Action Required] Supports more granular item_status and deboost information",
+      "url": "https://open.shopee.com/announcements/841"
+    },
+    {
       "id": 837,
       "platform": "shopee",
       "title": "Significant Open Platform",
