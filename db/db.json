@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 843,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Open Platform AWB API - Shopee Express (East Malaysia)",
+      "url": "https://open.shopee.com/announcements/843"
+    },
+    {
       "id": 841,
       "platform": "shopee",
       "title": "[Action Required] Supports more granular item_status and deboost information",
