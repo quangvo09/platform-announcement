@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 850,
+      "platform": "shopee",
+      "title": "Open API Updates: New Image Ratios and Promotional Image Fields",
+      "url": "https://open.shopee.com/announcements/850"
+    },
+    {
       "id": 843,
       "platform": "shopee",
       "title": "[MY] Important Update for Open Platform AWB API - Shopee Express (East Malaysia)",
