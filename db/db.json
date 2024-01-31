@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 853,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Logistic Channel Renaming & Introduction to New Logist",
+      "url": "https://open.shopee.com/announcements/853"
+    },
+    {
       "id": 850,
       "platform": "shopee",
       "title": "Open API Updates: New Image Ratios and Promotional Image Fields",
