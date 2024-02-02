@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 856,
+      "platform": "shopee",
+      "title": "[CBSC] Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/856"
+    },
+    {
       "id": 853,
       "platform": "shopee",
       "title": "[MY] Important Update for Logistic Channel Renaming & Introduction to New Logist",
