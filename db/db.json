@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 859,
+      "platform": "shopee",
+      "title": "[Important][PH] New YTO Express Logistic (Standard Local) Channel",
+      "url": "https://open.shopee.com/announcements/859"
+    },
+    {
       "id": 856,
       "platform": "shopee",
       "title": "[CBSC] Significant OpenAPI Updates",
