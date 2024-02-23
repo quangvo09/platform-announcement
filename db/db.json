@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 860,
+      "platform": "shopee",
+      "title": " [Important] [TW]Tightening of Access to Buyer's Information on Open API",
+      "url": "https://open.shopee.com/announcements/860"
+    },
+    {
       "id": 859,
       "platform": "shopee",
       "title": "[Important][PH] New YTO Express Logistic (Standard Local) Channel",
