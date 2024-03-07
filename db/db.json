@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 861,
+      "platform": "shopee",
+      "title": "New Penalties Added for Platform Violations",
+      "url": "https://open.shopee.com/announcements/861"
+    },
+    {
       "id": 860,
       "platform": "shopee",
       "title": " [Important] [TW]Tightening of Access to Buyer's Information on Open API",
