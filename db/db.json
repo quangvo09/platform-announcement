@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 865,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/865"
+    },
+    {
       "id": 861,
       "platform": "shopee",
       "title": "New Penalties Added for Platform Violations",
