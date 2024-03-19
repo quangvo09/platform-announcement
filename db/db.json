@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 871,
+      "platform": "shopee",
+      "title": "[Important][Action Required] Regular Credential Reset For All Developers",
+      "url": "https://open.shopee.com/announcements/871"
+    },
+    {
       "id": 870,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
