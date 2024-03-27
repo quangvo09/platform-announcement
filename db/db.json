@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 873,
+      "platform": "shopee",
+      "title": "[Important] Update for Standardizing Product Variation",
+      "url": "https://open.shopee.com/announcements/873"
+    },
+    {
       "id": 871,
       "platform": "shopee",
       "title": "[Important][Action Required] Regular Credential Reset For All Developers",
