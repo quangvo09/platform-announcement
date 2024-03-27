@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 877,
+      "platform": "shopee",
+      "title": "[Important] [TW] New \"蝦皮店到店 - 隔日到貨\" Channel",
+      "url": "https://open.shopee.com/announcements/877"
+    },
+    {
       "id": 873,
       "platform": "shopee",
       "title": "[Important] Update for Standardizing Product Variation",
