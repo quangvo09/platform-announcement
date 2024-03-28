@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 876,
+      "platform": "shopee",
+      "title": "[Important][PH] Adjustment of Pickup Time Slot Selection",
+      "url": "https://open.shopee.com/announcements/876"
+    },
+    {
       "id": 877,
       "platform": "shopee",
       "title": "[Important] [TW] New \"蝦皮店到店 - 隔日到貨\" Channel",
