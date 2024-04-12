@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 883,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/883"
+    },
+    {
       "id": 876,
       "platform": "shopee",
       "title": "[Important][PH] Adjustment of Pickup Time Slot Selection",
