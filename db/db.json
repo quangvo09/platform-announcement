@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 891,
+      "platform": "shopee",
+      "title": "[Important][PH] SPX-FEX 4PL Multi-Leg Channel Integration",
+      "url": "https://open.shopee.com/announcements/891"
+    },
+    {
       "id": 884,
       "platform": "shopee",
       "title": "[MY] Important Update for Open Platform Customized AWB API",
