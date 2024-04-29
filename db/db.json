@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 893,
+      "platform": "shopee",
+      "title": "Shopee Ads Open API Now Available!",
+      "url": "https://open.shopee.com/announcements/893"
+    },
+    {
       "id": 891,
       "platform": "shopee",
       "title": "[Important][PH] SPX-FEX 4PL Multi-Leg Channel Integration",
