@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 902,
+      "platform": "shopee",
+      "title": "[Important] Open Platform Authorization Flow Improvement",
+      "url": "https://open.shopee.com/announcements/902"
+    },
+    {
       "id": 898,
       "platform": "shopee",
       "title": "Significant Open Platform and OpenAPI Updates",
