@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 907,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Open Platform AWB API - Shopee Express (Sea Shipping)",
+      "url": "https://open.shopee.com/announcements/907"
+    },
+    {
       "id": 905,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
