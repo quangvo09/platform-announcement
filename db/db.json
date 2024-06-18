@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 918,
+      "platform": "shopee",
+      "title": "[Important] Upcoming System Upgrade in Live Environment",
+      "url": "https://open.shopee.com/announcements/918"
+    },
+    {
       "id": 917,
       "platform": "shopee",
       "title": "[MY] Important Update for Open Platform Shopee Logistics API (Same Day Delivery)",
