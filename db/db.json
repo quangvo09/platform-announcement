@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 928,
+      "platform": "shopee",
+      "title": "[SG] Sunday Pick-up Application Form (SPX Pick-up only)",
+      "url": "https://open.shopee.com/announcements/928"
+    },
+    {
       "id": 925,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
