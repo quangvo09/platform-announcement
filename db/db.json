@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 937,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Shipping Carrier Airway Bill (Poslaju)",
+      "url": "https://open.shopee.com/announcements/937"
+    },
+    {
       "id": 928,
       "platform": "shopee",
       "title": "[SG] Sunday Pick-up Application Form (SPX Pick-up only)",
