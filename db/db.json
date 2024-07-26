@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 938,
+      "platform": "shopee",
+      "title": "The Consignment Service OpenAPI is Opened Now",
+      "url": "https://open.shopee.com/announcements/938"
+    },
+    {
       "id": 937,
       "platform": "shopee",
       "title": "[MY] Important Update for Shipping Carrier Airway Bill (Poslaju)",
