@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 946,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/946"
+    },
+    {
       "id": 938,
       "platform": "shopee",
       "title": "The Consignment Service OpenAPI is Opened Now",
