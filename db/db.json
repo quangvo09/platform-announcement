@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 956,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/956"
+    },
+    {
       "id": 952,
       "platform": "shopee",
       "title": "[Important] Token Character Length Update & Open API and Push Mechanism Sunset",
