@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 957,
+      "platform": "shopee",
+      "title": "[Important][PH] SPX Weekend Label and RTS Zone ID Display on AWBs",
+      "url": "https://open.shopee.com/announcements/957"
+    },
+    {
       "id": 956,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
