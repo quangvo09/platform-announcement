@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 963,
+      "platform": "shopee",
+      "title": "[CB] Important Update for Open Platform AWB API-18080 - 5 day delivery (SPX)",
+      "url": "https://open.shopee.com/announcements/963"
+    },
+    {
       "id": 957,
       "platform": "shopee",
       "title": "[Important][PH] SPX Weekend Label and RTS Zone ID Display on AWBs",
