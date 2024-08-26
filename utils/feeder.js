@@ -6,14 +6,14 @@ const feed = new Feed({
   id: "https://github.com/quangvo09/platform-announcement",
   link: "https://github.com/quangvo09/platform-announcement",
   language: "en",
-  image: "https://github.com/user-attachments/assets/83a7dfa8-5f5a-4e58-a342-111c343c48af",
-  favicon: "",
-  copyright: "2024",
-  generator: "",
+  image: "https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/rss.jpg",
+  favicon: "https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/favicon.ico",
+  copyright: "@2024",
+  generator: "QuangVo",
   author: {
     name: "Quang Vo",
     email: "quangvt.la@gmail.com",
-    link: "https://github.com/quangvo09/platform-announcement"
+    link: "https://github.com/quangvo09"
   },
 });
 
@@ -24,19 +24,19 @@ const getPlatformMedia = (platform) => {
   switch (platform.toUpperCase()) {
     case "LAZADA":
       platformImage =
-        "https://user-images.githubusercontent.com/6206464/155825664-034ea33e-31ec-40ed-a320-52cdd13f04d1.png";
+        "https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png";
       color = "0f146c";
       break;
 
     case "SHOPEE":
       platformImage =
-        "https://user-images.githubusercontent.com/6206464/155825741-b1ae6a6e-2839-4e92-a977-ac1c337aebef.png";
+        "https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png";
       color = "f36f21";
       break;
 
     case "TIKTOK":
       platformImage =
-        "https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png";
+        "https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png";
       color = "03033f";
       break;
 

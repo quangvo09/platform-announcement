@@ -4,16 +4,16 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 26 Aug 2024 03:42:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 05:42:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
+        <generator>QuangVo</generator>
         <language>en</language>
         <image>
             <title>Platform Announcements</title>
-            <url>https://github.com/user-attachments/assets/83a7dfa8-5f5a-4e58-a342-111c343c48af</url>
+            <url>https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/rss.jpg</url>
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
-        <copyright>2024</copyright>
+        <copyright>@2024</copyright>
         <category>tiktok</category>
         <category>shopee</category>
         <category>lazada</category>
@@ -25,7 +25,7 @@
             <description><![CDATA[Sunsetting Listing Schemas Endpoint]]></description>
             <content:encoded><![CDATA[Sunsetting Listing Schemas Endpoint]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[SHOPEE] - [CB] Important Update for Open Platform AWB API-18080 - 5 day delivery (SPX)]]></title>
@@ -35,7 +35,7 @@
             <description><![CDATA[[CB] Important Update for Open Platform AWB API-18080 - 5 day delivery (SPX)]]></description>
             <content:encoded><![CDATA[[CB] Important Update for Open Platform AWB API-18080 - 5 day delivery (SPX)]]></content:encoded>
             <category>shopee</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/155825741-b1ae6a6e-2839-4e92-a977-ac1c337aebef.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[LAZADA] - IMPORTANT UPDATES ON CATEGORY ATTRIBUTES]]></title>
@@ -45,7 +45,7 @@
             <description><![CDATA[IMPORTANT UPDATES ON CATEGORY ATTRIBUTES]]></description>
             <content:encoded><![CDATA[IMPORTANT UPDATES ON CATEGORY ATTRIBUTES]]></content:encoded>
             <category>lazada</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/155825664-034ea33e-31ec-40ed-a320-52cdd13f04d1.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - US and UK Markets: New Properties Added to Finance API]]></title>
@@ -55,7 +55,7 @@
             <description><![CDATA[US and UK Markets: New Properties Added to Finance API]]></description>
             <content:encoded><![CDATA[US and UK Markets: New Properties Added to Finance API]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - New Webhook: Product Creation]]></title>
@@ -65,7 +65,7 @@
             <description><![CDATA[New Webhook: Product Creation]]></description>
             <content:encoded><![CDATA[New Webhook: Product Creation]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[SHOPEE] - [Important][PH] SPX Weekend Label and RTS Zone ID Display on AWBs]]></title>
@@ -75,7 +75,7 @@
             <description><![CDATA[[Important][PH] SPX Weekend Label and RTS Zone ID Display on AWBs]]></description>
             <content:encoded><![CDATA[[Important][PH] SPX Weekend Label and RTS Zone ID Display on AWBs]]></content:encoded>
             <category>shopee</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/155825741-b1ae6a6e-2839-4e92-a977-ac1c337aebef.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates]]></title>
@@ -85,7 +85,7 @@
             <description><![CDATA[Significant OpenAPI Updates]]></description>
             <content:encoded><![CDATA[Significant OpenAPI Updates]]></content:encoded>
             <category>shopee</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/155825741-b1ae6a6e-2839-4e92-a977-ac1c337aebef.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[LAZADA] - LAZADA D9 Campaign Downgrade Plan]]></title>
@@ -95,7 +95,7 @@
             <description><![CDATA[LAZADA D9 Campaign Downgrade Plan]]></description>
             <content:encoded><![CDATA[LAZADA D9 Campaign Downgrade Plan]]></content:encoded>
             <category>lazada</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/155825664-034ea33e-31ec-40ed-a320-52cdd13f04d1.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[LAZADA] - AI Recommended Image Sequences feature coming soon]]></title>
@@ -105,7 +105,7 @@
             <description><![CDATA[AI Recommended Image Sequences feature coming soon]]></description>
             <content:encoded><![CDATA[AI Recommended Image Sequences feature coming soon]]></content:encoded>
             <category>lazada</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/155825664-034ea33e-31ec-40ed-a320-52cdd13f04d1.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[SHOPEE] - [Important] Token Character Length Update & Open API and Push Mechanism Sunset]]></title>
@@ -115,7 +115,7 @@
             <description><![CDATA[[Important] Token Character Length Update & Open API and Push Mechanism Sunset]]></description>
             <content:encoded><![CDATA[[Important] Token Character Length Update & Open API and Push Mechanism Sunset]]></content:encoded>
             <category>shopee</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/155825741-b1ae6a6e-2839-4e92-a977-ac1c337aebef.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - For the SEA market: Various categories will require the Mandatory attribute - "Dangerous Goods"]]></title>
@@ -125,7 +125,7 @@
             <description><![CDATA[For the SEA market: Various categories will require the Mandatory attribute - "Dangerous Goods"]]></description>
             <content:encoded><![CDATA[For the SEA market: Various categories will require the Mandatory attribute - "Dangerous Goods"]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - For the PH market: Updates to Mandatory attributes on Fresh and Frozen related categories]]></title>
@@ -135,7 +135,7 @@
             <description><![CDATA[For the PH market: Updates to Mandatory attributes on Fresh and Frozen related categories]]></description>
             <content:encoded><![CDATA[For the PH market: Updates to Mandatory attributes on Fresh and Frozen related categories]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - US and UK Markets: Product Category Recommendation]]></title>
@@ -145,7 +145,7 @@
             <description><![CDATA[US and UK Markets: Product Category Recommendation]]></description>
             <content:encoded><![CDATA[US and UK Markets: Product Category Recommendation]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates]]></title>
@@ -155,7 +155,7 @@
             <description><![CDATA[Significant OpenAPI Updates]]></description>
             <content:encoded><![CDATA[Significant OpenAPI Updates]]></content:encoded>
             <category>shopee</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/155825741-b1ae6a6e-2839-4e92-a977-ac1c337aebef.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - New APIs and Webhook for Affiliates (Beta)]]></title>
@@ -165,7 +165,7 @@
             <description><![CDATA[New APIs and Webhook for Affiliates (Beta)]]></description>
             <content:encoded><![CDATA[New APIs and Webhook for Affiliates (Beta)]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - Adding SKU and Product limit to Promotion API]]></title>
@@ -175,7 +175,7 @@
             <description><![CDATA[Adding SKU and Product limit to Promotion API]]></description>
             <content:encoded><![CDATA[Adding SKU and Product limit to Promotion API]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates]]></title>
@@ -185,7 +185,7 @@
             <description><![CDATA[Significant OpenAPI Updates]]></description>
             <content:encoded><![CDATA[Significant OpenAPI Updates]]></content:encoded>
             <category>shopee</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/155825741-b1ae6a6e-2839-4e92-a977-ac1c337aebef.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[SHOPEE] - The Consignment Service OpenAPI is Opened Now]]></title>
@@ -195,7 +195,7 @@
             <description><![CDATA[The Consignment Service OpenAPI is Opened Now]]></description>
             <content:encoded><![CDATA[The Consignment Service OpenAPI is Opened Now]]></content:encoded>
             <category>shopee</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/155825741-b1ae6a6e-2839-4e92-a977-ac1c337aebef.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[SHOPEE] - [MY] Important Update for Shipping Carrier Airway Bill (Poslaju)]]></title>
@@ -205,7 +205,7 @@
             <description><![CDATA[[MY] Important Update for Shipping Carrier Airway Bill (Poslaju)]]></description>
             <content:encoded><![CDATA[[MY] Important Update for Shipping Carrier Airway Bill (Poslaju)]]></content:encoded>
             <category>shopee</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/155825741-b1ae6a6e-2839-4e92-a977-ac1c337aebef.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - US Market: Mandatory hazmat attributes added]]></title>
@@ -215,7 +215,7 @@
             <description><![CDATA[US Market: Mandatory hazmat attributes added]]></description>
             <content:encoded><![CDATA[US Market: Mandatory hazmat attributes added]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - New Promotion APIs: Gift With Purchase and Free Sample]]></title>
@@ -225,7 +225,7 @@
             <description><![CDATA[New Promotion APIs: Gift With Purchase and Free Sample]]></description>
             <content:encoded><![CDATA[New Promotion APIs: Gift With Purchase and Free Sample]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - For the TH market: Updates to Mandatory Certifications for Certain Product Categories]]></title>
@@ -235,7 +235,7 @@
             <description><![CDATA[For the TH market: Updates to Mandatory Certifications for Certain Product Categories]]></description>
             <content:encoded><![CDATA[For the TH market: Updates to Mandatory Certifications for Certain Product Categories]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - New fields added to Product API for ShopAds]]></title>
@@ -245,7 +245,7 @@
             <description><![CDATA[New fields added to Product API for ShopAds]]></description>
             <content:encoded><![CDATA[New fields added to Product API for ShopAds]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[LAZADA] - GSP API-CreateGlobalProduct ,Input parameter update]]></title>
@@ -255,7 +255,7 @@
             <description><![CDATA[GSP API-CreateGlobalProduct ,Input parameter update]]></description>
             <content:encoded><![CDATA[GSP API-CreateGlobalProduct ,Input parameter update]]></content:encoded>
             <category>lazada</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/155825664-034ea33e-31ec-40ed-a320-52cdd13f04d1.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[SHOPEE] - [SG] Sunday Pick-up Application Form (SPX Pick-up only)]]></title>
@@ -265,7 +265,7 @@
             <description><![CDATA[[SG] Sunday Pick-up Application Form (SPX Pick-up only)]]></description>
             <content:encoded><![CDATA[[SG] Sunday Pick-up Application Form (SPX Pick-up only)]]></content:encoded>
             <category>shopee</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/155825741-b1ae6a6e-2839-4e92-a977-ac1c337aebef.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates]]></title>
@@ -275,7 +275,7 @@
             <description><![CDATA[Significant OpenAPI Updates]]></description>
             <content:encoded><![CDATA[Significant OpenAPI Updates]]></content:encoded>
             <category>shopee</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/155825741-b1ae6a6e-2839-4e92-a977-ac1c337aebef.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[LAZADA] - Notification - Mandatory Category Attributes]]></title>
@@ -285,7 +285,7 @@
             <description><![CDATA[Notification - Mandatory Category Attributes]]></description>
             <content:encoded><![CDATA[Notification - Mandatory Category Attributes]]></content:encoded>
             <category>lazada</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/155825664-034ea33e-31ec-40ed-a320-52cdd13f04d1.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[LAZADA] - Old order cancellation API is going offline soon]]></title>
@@ -295,7 +295,7 @@
             <description><![CDATA[Old order cancellation API is going offline soon]]></description>
             <content:encoded><![CDATA[Old order cancellation API is going offline soon]]></content:encoded>
             <category>lazada</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/155825664-034ea33e-31ec-40ed-a320-52cdd13f04d1.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[LAZADA] - TLS 1.0 is offline]]></title>
@@ -305,7 +305,7 @@
             <description><![CDATA[TLS 1.0 is offline]]></description>
             <content:encoded><![CDATA[TLS 1.0 is offline]]></content:encoded>
             <category>lazada</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/155825664-034ea33e-31ec-40ed-a320-52cdd13f04d1.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - For the TH market: Updates to Mandatory Attributes and Product Certifications for Certain Product Categories]]></title>
@@ -315,7 +315,7 @@
             <description><![CDATA[For the TH market: Updates to Mandatory Attributes and Product Certifications for Certain Product Categories]]></description>
             <content:encoded><![CDATA[For the TH market: Updates to Mandatory Attributes and Product Certifications for Certain Product Categories]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - US Market: Product Category Expansion]]></title>
@@ -325,7 +325,7 @@
             <description><![CDATA[US Market: Product Category Expansion]]></description>
             <content:encoded><![CDATA[US Market: Product Category Expansion]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - US and UK Markets: Product Information Quality APIs]]></title>
@@ -335,7 +335,7 @@
             <description><![CDATA[US and UK Markets: Product Information Quality APIs]]></description>
             <content:encoded><![CDATA[US and UK Markets: Product Information Quality APIs]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[LAZADA] - LAZADA D6 Campaign Downgrade Plan]]></title>
@@ -345,7 +345,7 @@
             <description><![CDATA[LAZADA D6 Campaign Downgrade Plan]]></description>
             <content:encoded><![CDATA[LAZADA D6 Campaign Downgrade Plan]]></content:encoded>
             <category>lazada</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/155825664-034ea33e-31ec-40ed-a320-52cdd13f04d1.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[LAZADA] - Seller Notification Centre API is online]]></title>
@@ -355,7 +355,7 @@
             <description><![CDATA[Seller Notification Centre API is online]]></description>
             <content:encoded><![CDATA[Seller Notification Centre API is online]]></content:encoded>
             <category>lazada</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/155825664-034ea33e-31ec-40ed-a320-52cdd13f04d1.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - Authorization Page Updates]]></title>
@@ -365,7 +365,7 @@
             <description><![CDATA[Authorization Page Updates]]></description>
             <content:encoded><![CDATA[Authorization Page Updates]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - For the UK market: Updates to Mandatory Attributes and Product Certifications for Certain Product Categories]]></title>
@@ -375,7 +375,7 @@
             <description><![CDATA[For the UK market: Updates to Mandatory Attributes and Product Certifications for Certain Product Categories]]></description>
             <content:encoded><![CDATA[For the UK market: Updates to Mandatory Attributes and Product Certifications for Certain Product Categories]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - ARD Updates]]></title>
@@ -385,7 +385,7 @@
             <description><![CDATA[ARD Updates]]></description>
             <content:encoded><![CDATA[ARD Updates]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - For SEA market: Upcoming changes on tracking number availability]]></title>
@@ -395,7 +395,7 @@
             <description><![CDATA[For SEA market: Upcoming changes on tracking number availability]]></description>
             <content:encoded><![CDATA[For SEA market: Upcoming changes on tracking number availability]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - Development Shops supports creating accounts for cross-border shops]]></title>
@@ -405,7 +405,7 @@
             <description><![CDATA[Development Shops supports creating accounts for cross-border shops]]></description>
             <content:encoded><![CDATA[Development Shops supports creating accounts for cross-border shops]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - Virtual Bundles are now available in Order Details]]></title>
@@ -415,7 +415,7 @@
             <description><![CDATA[Virtual Bundles are now available in Order Details]]></description>
             <content:encoded><![CDATA[Virtual Bundles are now available in Order Details]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - For UK Market: Support Item Level Cancellation]]></title>
@@ -425,7 +425,7 @@
             <description><![CDATA[For UK Market: Support Item Level Cancellation]]></description>
             <content:encoded><![CDATA[For UK Market: Support Item Level Cancellation]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - For US Market: New property address_level field added to Orders API]]></title>
@@ -435,7 +435,7 @@
             <description><![CDATA[For US Market: New property address_level field added to Orders API]]></description>
             <content:encoded><![CDATA[For US Market: New property address_level field added to Orders API]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - For US Market: Replacement orders now available]]></title>
@@ -445,7 +445,7 @@
             <description><![CDATA[For US Market: Replacement orders now available]]></description>
             <content:encoded><![CDATA[For US Market: Replacement orders now available]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - New Webhook: Product Update]]></title>
@@ -455,7 +455,7 @@
             <description><![CDATA[New Webhook: Product Update]]></description>
             <content:encoded><![CDATA[New Webhook: Product Update]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - UK Market Only: Size Chart is now mandatory for Product Listings]]></title>
@@ -465,7 +465,7 @@
             <description><![CDATA[UK Market Only: Size Chart is now mandatory for Product Listings]]></description>
             <content:encoded><![CDATA[UK Market Only: Size Chart is now mandatory for Product Listings]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - New Endpoint: Listing Schema]]></title>
@@ -475,7 +475,7 @@
             <description><![CDATA[New Endpoint: Listing Schema]]></description>
             <content:encoded><![CDATA[New Endpoint: Listing Schema]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - For SEA markets: Introducing Development Shops]]></title>
@@ -485,7 +485,7 @@
             <description><![CDATA[For SEA markets: Introducing Development Shops]]></description>
             <content:encoded><![CDATA[For SEA markets: Introducing Development Shops]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - For SEA market: Upcoming changes on tracking number availability in Orders API]]></title>
@@ -495,7 +495,7 @@
             <description><![CDATA[For SEA market: Upcoming changes on tracking number availability in Orders API]]></description>
             <content:encoded><![CDATA[For SEA market: Upcoming changes on tracking number availability in Orders API]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - Return amount detail information available in Search Return API]]></title>
@@ -505,7 +505,7 @@
             <description><![CDATA[Return amount detail information available in Search Return API]]></description>
             <content:encoded><![CDATA[Return amount detail information available in Search Return API]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - For US local sellers: Retail Delivery Fee is added to API]]></title>
@@ -515,7 +515,7 @@
             <description><![CDATA[For US local sellers: Retail Delivery Fee is added to API]]></description>
             <content:encoded><![CDATA[For US local sellers: Retail Delivery Fee is added to API]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - US Only: Order Cancellation Workflow Updates]]></title>
@@ -525,7 +525,7 @@
             <description><![CDATA[US Only: Order Cancellation Workflow Updates]]></description>
             <content:encoded><![CDATA[US Only: Order Cancellation Workflow Updates]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - For US local sellers: item level tax rate added to Order resource]]></title>
@@ -535,7 +535,7 @@
             <description><![CDATA[For US local sellers: item level tax rate added to Order resource]]></description>
             <content:encoded><![CDATA[For US local sellers: item level tax rate added to Order resource]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - Delivery instructions now available in Order API]]></title>
@@ -545,7 +545,7 @@
             <description><![CDATA[Delivery instructions now available in Order API]]></description>
             <content:encoded><![CDATA[Delivery instructions now available in Order API]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - SLA information now available in Order API]]></title>
@@ -555,7 +555,7 @@
             <description><![CDATA[SLA information now available in Order API]]></description>
             <content:encoded><![CDATA[SLA information now available in Order API]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - Draft status available for Create Product API]]></title>
@@ -565,7 +565,7 @@
             <description><![CDATA[Draft status available for Create Product API]]></description>
             <content:encoded><![CDATA[Draft status available for Create Product API]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - Changes to Create Product and Edit Product APIs]]></title>
@@ -575,7 +575,7 @@
             <description><![CDATA[Changes to Create Product and Edit Product APIs]]></description>
             <content:encoded><![CDATA[Changes to Create Product and Edit Product APIs]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - Changes to Check Listing Prerequisite API in v202312]]></title>
@@ -585,7 +585,7 @@
             <description><![CDATA[Changes to Check Listing Prerequisite API in v202312]]></description>
             <content:encoded><![CDATA[Changes to Check Listing Prerequisite API in v202312]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - New function: Pre-publish checklist]]></title>
@@ -595,7 +595,7 @@
             <description><![CDATA[New function: Pre-publish checklist]]></description>
             <content:encoded><![CDATA[New function: Pre-publish checklist]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - Seller Center Development Shops]]></title>
@@ -605,7 +605,7 @@
             <description><![CDATA[Seller Center Development Shops]]></description>
             <content:encoded><![CDATA[Seller Center Development Shops]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - Removal of "unable to deliver to buyer address" as a cancellation reason in ID, VN, TH, SG, PH Markets]]></title>
@@ -615,7 +615,7 @@
             <description><![CDATA[Removal of "unable to deliver to buyer address" as a cancellation reason in ID, VN, TH, SG, PH Markets]]></description>
             <content:encoded><![CDATA[Removal of "unable to deliver to buyer address" as a cancellation reason in ID, VN, TH, SG, PH Markets]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - For US and UK markets: Introducing "On Hold" order status]]></title>
@@ -625,7 +625,7 @@
             <description><![CDATA[For US and UK markets: Introducing "On Hold" order status]]></description>
             <content:encoded><![CDATA[For US and UK markets: Introducing "On Hold" order status]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[LAZADA] - 【Important】Authorization Upgrade on Lazada Open Platform]]></title>
@@ -635,7 +635,7 @@
             <description><![CDATA[【Important】Authorization Upgrade on Lazada Open Platform]]></description>
             <content:encoded><![CDATA[【Important】Authorization Upgrade on Lazada Open Platform]]></content:encoded>
             <category>lazada</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/155825664-034ea33e-31ec-40ed-a320-52cdd13f04d1.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - New property added to Get Category Rules API to indicate whether the package dimension is mandatory]]></title>
@@ -645,7 +645,7 @@
             <description><![CDATA[New property added to Get Category Rules API to indicate whether the package dimension is mandatory]]></description>
             <content:encoded><![CDATA[New property added to Get Category Rules API to indicate whether the package dimension is mandatory]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - Upcoming Updates to TikTok Shop Open API (Release: December 2023/Q1 2024)]]></title>
@@ -655,7 +655,7 @@
             <description><![CDATA[Upcoming Updates to TikTok Shop Open API (Release: December 2023/Q1 2024)]]></description>
             <content:encoded><![CDATA[Upcoming Updates to TikTok Shop Open API (Release: December 2023/Q1 2024)]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - TikTok Shop Open API Release Update - November 2023]]></title>
@@ -665,7 +665,7 @@
             <description><![CDATA[TikTok Shop Open API Release Update - November 2023]]></description>
             <content:encoded><![CDATA[TikTok Shop Open API Release Update - November 2023]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - For local sellers in the UK market: introducing item level order split shipping]]></title>
@@ -675,7 +675,7 @@
             <description><![CDATA[For local sellers in the UK market: introducing item level order split shipping]]></description>
             <content:encoded><![CDATA[For local sellers in the UK market: introducing item level order split shipping]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - For local and cross-border sellers in the US market: Shipping information update time window extended to 72 hours]]></title>
@@ -685,7 +685,7 @@
             <description><![CDATA[For local and cross-border sellers in the US market: Shipping information update time window extended to 72 hours]]></description>
             <content:encoded><![CDATA[For local and cross-border sellers in the US market: Shipping information update time window extended to 72 hours]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - New shipping label format launched in the ID, MY and VN markets]]></title>
@@ -695,7 +695,7 @@
             <description><![CDATA[New shipping label format launched in the ID, MY and VN markets]]></description>
             <content:encoded><![CDATA[New shipping label format launched in the ID, MY and VN markets]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - New property added to Recommend Category API to indicate whether sellers can use the recommended category]]></title>
@@ -705,7 +705,7 @@
             <description><![CDATA[New property added to Recommend Category API to indicate whether sellers can use the recommended category]]></description>
             <content:encoded><![CDATA[New property added to Recommend Category API to indicate whether sellers can use the recommended category]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - For local sellers in the US market: Warning information added to Mark Package As Shipped API]]></title>
@@ -715,7 +715,7 @@
             <description><![CDATA[For local sellers in the US market: Warning information added to Mark Package As Shipped API]]></description>
             <content:encoded><![CDATA[For local sellers in the US market: Warning information added to Mark Package As Shipped API]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - Black Friday Cyber Monday Campaign Developer Update]]></title>
@@ -725,7 +725,7 @@
             <description><![CDATA[Black Friday Cyber Monday Campaign Developer Update]]></description>
             <content:encoded><![CDATA[Black Friday Cyber Monday Campaign Developer Update]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - Shortened string length for buyer_email in Get Order Detail API]]></title>
@@ -735,7 +735,7 @@
             <description><![CDATA[Shortened string length for buyer_email in Get Order Detail API]]></description>
             <content:encoded><![CDATA[Shortened string length for buyer_email in Get Order Detail API]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - Introducing API version 202309]]></title>
@@ -745,7 +745,7 @@
             <description><![CDATA[Introducing API version 202309]]></description>
             <content:encoded><![CDATA[Introducing API version 202309]]></content:encoded>
             <category>tiktok</category>
-            <enclosure url="https://user-images.githubusercontent.com/6206464/169569609-82fc8678-5d4d-4d11-9b9a-586e9cd5fc72.png" length="0" type="image/png"/>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
