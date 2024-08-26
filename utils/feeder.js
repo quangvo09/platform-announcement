@@ -6,7 +6,7 @@ const feed = new Feed({
   id: "https://github.com/quangvo09/platform-announcement",
   link: "https://github.com/quangvo09/platform-announcement",
   language: "en",
-  image: "",
+  image: "https://github.com/user-attachments/assets/83a7dfa8-5f5a-4e58-a342-111c343c48af",
   favicon: "",
   copyright: "2024",
   generator: "",

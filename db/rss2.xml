@@ -4,10 +4,15 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 26 Aug 2024 03:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 03:42:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <image>
+            <title>Platform Announcements</title>
+            <url>https://github.com/user-attachments/assets/83a7dfa8-5f5a-4e58-a342-111c343c48af</url>
+            <link>https://github.com/quangvo09/platform-announcement</link>
+        </image>
         <copyright>2024</copyright>
         <category>tiktok</category>
         <category>shopee</category>
