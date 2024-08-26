@@ -1,436 +1,515 @@
 {
   "announcements": [
     {
-      "id": 963,
-      "platform": "shopee",
-      "title": "[CB] Important Update for Open Platform AWB API-18080 - 5 day delivery (SPX)",
-      "url": "https://open.shopee.com/announcements/963"
-    },
-    {
-      "id": 957,
-      "platform": "shopee",
-      "title": "[Important][PH] SPX Weekend Label and RTS Zone ID Display on AWBs",
-      "url": "https://open.shopee.com/announcements/957"
-    },
-    {
-      "id": 956,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/956"
-    },
-    {
-      "id": 952,
-      "platform": "shopee",
-      "title": "[Important] Token Character Length Update & Open API and Push Mechanism Sunset",
-      "url": "https://open.shopee.com/announcements/952"
-    },
-    {
-      "id": 947,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/947"
-    },
-    {
-      "id": 946,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/946"
-    },
-    {
-      "id": 938,
-      "platform": "shopee",
-      "title": "The Consignment Service OpenAPI is Opened Now",
-      "url": "https://open.shopee.com/announcements/938"
-    },
-    {
-      "id": 937,
-      "platform": "shopee",
-      "title": "[MY] Important Update for Shipping Carrier Airway Bill (Poslaju)",
-      "url": "https://open.shopee.com/announcements/937"
-    },
-    {
-      "id": 928,
-      "platform": "shopee",
-      "title": "[SG] Sunday Pick-up Application Form (SPX Pick-up only)",
-      "url": "https://open.shopee.com/announcements/928"
-    },
-    {
-      "id": 925,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/925"
-    },
-    {
-      "id": 121763,
-      "platform": "lazada",
-      "title": "IMPORTANT UPDATES ON CATEGORY ATTRIBUTES",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121763"
-    },
-    {
-      "id": 121760,
-      "platform": "lazada",
-      "title": "LAZADA D9 Campaign Downgrade Plan",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121760"
-    },
-    {
-      "id": 121756,
-      "platform": "lazada",
-      "title": "AI Recommended Image Sequences feature coming soon",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121756"
-    },
-    {
-      "id": 2127,
-      "platform": "lazada",
-      "title": "GSP API-CreateGlobalProduct ,Input parameter update",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2127"
-    },
-    {
-      "id": 2117,
-      "platform": "lazada",
-      "title": "Notification - Mandatory Category Attributes",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2117"
-    },
-    {
-      "id": 2114,
-      "platform": "lazada",
-      "title": "Old order cancellation API is going offline soon",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2114"
-    },
-    {
-      "id": 2113,
-      "platform": "lazada",
-      "title": "TLS 1.0 is offline",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2113"
-    },
-    {
-      "id": 2104,
-      "platform": "lazada",
-      "title": "LAZADA D6 Campaign Downgrade Plan",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2104"
-    },
-    {
-      "id": 2100,
-      "platform": "lazada",
-      "title": "Seller Notification Centre API is online",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2100"
-    },
-    {
-      "id": 1989,
-      "platform": "lazada",
-      "title": "【Important】Authorization Upgrade on Lazada Open Platform",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=1989"
+      "id": "66cbf1e7597571030d9e5fdb",
+      "platform": "tiktok",
+      "title": "Sunsetting Listing Schemas Endpoint",
+      "url": "https://partner.tiktokshop.com/docv2/page/66cbf1e7597571030d9e5fdb",
+      "createdAt": 1724641778
     },
     {
       "id": "66c5d9b6290e4202f857d5b7",
       "platform": "tiktok",
       "title": "US and UK Markets: New Properties Added to Finance API",
-      "url": "https://partner.tiktokshop.com/docv2/page/66c5d9b6290e4202f857d5b7"
+      "url": "https://partner.tiktokshop.com/docv2/page/66c5d9b6290e4202f857d5b7",
+      "createdAt": 1724242698
     },
     {
       "id": "66c5d9b4e863d902fac36b74",
       "platform": "tiktok",
       "title": "New Webhook: Product Creation",
-      "url": "https://partner.tiktokshop.com/docv2/page/66c5d9b4e863d902fac36b74"
+      "url": "https://partner.tiktokshop.com/docv2/page/66c5d9b4e863d902fac36b74",
+      "createdAt": 1724242698
     },
     {
       "id": "66b5c41e0d6ef902f1b49220",
       "platform": "tiktok",
       "title": "For the SEA market: Various categories will require the Mandatory attribute - \"Dangerous Goods\"",
-      "url": "https://partner.tiktokshop.com/docv2/page/66b5c41e0d6ef902f1b49220"
+      "url": "https://partner.tiktokshop.com/docv2/page/66b5c41e0d6ef902f1b49220",
+      "createdAt": 1723188334
     },
     {
       "id": "66b58ce40d6ef902f1b3bc27",
       "platform": "tiktok",
       "title": "For the PH market: Updates to Mandatory attributes on Fresh and Frozen related categories",
-      "url": "https://partner.tiktokshop.com/docv2/page/66b58ce40d6ef902f1b3bc27"
+      "url": "https://partner.tiktokshop.com/docv2/page/66b58ce40d6ef902f1b3bc27",
+      "createdAt": 1723174205
     },
     {
       "id": "66ad61aab3950e02ff3c345a",
       "platform": "tiktok",
       "title": "US and UK Markets: Product Category Recommendation",
-      "url": "https://partner.tiktokshop.com/docv2/page/66ad61aab3950e02ff3c345a"
+      "url": "https://partner.tiktokshop.com/docv2/page/66ad61aab3950e02ff3c345a",
+      "createdAt": 1722640364
     },
     {
       "id": "66978e5099c26c02ff76472b",
       "platform": "tiktok",
       "title": "New APIs and Webhook for Affiliates (Beta)",
-      "url": "https://partner.tiktokshop.com/docv2/page/66978e5099c26c02ff76472b"
+      "url": "https://partner.tiktokshop.com/docv2/page/66978e5099c26c02ff76472b",
+      "createdAt": 1722556059
     },
     {
       "id": "66ab20d2d452bf02e7ef8f3b",
       "platform": "tiktok",
       "title": "Adding SKU and Product limit to Promotion API",
-      "url": "https://partner.tiktokshop.com/docv2/page/66ab20d2d452bf02e7ef8f3b"
+      "url": "https://partner.tiktokshop.com/docv2/page/66ab20d2d452bf02e7ef8f3b",
+      "createdAt": 1722492385
     },
     {
       "id": "66957bc499c26c02ff6c57a9",
       "platform": "tiktok",
       "title": "US Market: Mandatory hazmat attributes added",
-      "url": "https://partner.tiktokshop.com/docv2/page/66957bc499c26c02ff6c57a9"
+      "url": "https://partner.tiktokshop.com/docv2/page/66957bc499c26c02ff6c57a9",
+      "createdAt": 1721075174
     },
     {
       "id": "66957b8688c8b702f75ff09c",
       "platform": "tiktok",
       "title": "New Promotion APIs: Gift With Purchase and Free Sample",
-      "url": "https://partner.tiktokshop.com/docv2/page/66957b8688c8b702f75ff09c"
+      "url": "https://partner.tiktokshop.com/docv2/page/66957b8688c8b702f75ff09c",
+      "createdAt": 1721075167
     },
     {
       "id": "6695695742784f0300c36d38",
       "platform": "tiktok",
       "title": "For the TH market: Updates to Mandatory Certifications for Certain Product Categories",
-      "url": "https://partner.tiktokshop.com/docv2/page/6695695742784f0300c36d38"
+      "url": "https://partner.tiktokshop.com/docv2/page/6695695742784f0300c36d38",
+      "createdAt": 1721068024
     },
     {
       "id": "668c6009737c3702ef0269df",
       "platform": "tiktok",
       "title": "New fields added to Product API for ShopAds",
-      "url": "https://partner.tiktokshop.com/docv2/page/668c6009737c3702ef0269df"
+      "url": "https://partner.tiktokshop.com/docv2/page/668c6009737c3702ef0269df",
+      "createdAt": 1720476946
     },
     {
       "id": "666bb8aa9962ee02c1826afe",
       "platform": "tiktok",
       "title": "For the TH market: Updates to Mandatory Attributes and Product Certifications for Certain Product Categories",
-      "url": "https://partner.tiktokshop.com/docv2/page/666bb8aa9962ee02c1826afe"
+      "url": "https://partner.tiktokshop.com/docv2/page/666bb8aa9962ee02c1826afe",
+      "createdAt": 1718335716
     },
     {
       "id": "6658fcae39313f02dd4e1b47",
       "platform": "tiktok",
       "title": "US Market: Product Category Expansion",
-      "url": "https://partner.tiktokshop.com/docv2/page/6658fcae39313f02dd4e1b47"
+      "url": "https://partner.tiktokshop.com/docv2/page/6658fcae39313f02dd4e1b47",
+      "createdAt": 1717192947
     },
     {
       "id": "6658fdefa4dd6c02c335c538",
       "platform": "tiktok",
       "title": "US and UK Markets: Product Information Quality APIs",
-      "url": "https://partner.tiktokshop.com/docv2/page/6658fdefa4dd6c02c335c538"
+      "url": "https://partner.tiktokshop.com/docv2/page/6658fdefa4dd6c02c335c538",
+      "createdAt": 1717192924
     },
     {
       "id": "661f02b62e1a5d02e267d159",
       "platform": "tiktok",
       "title": "Authorization Page Updates",
-      "url": "https://partner.tiktokshop.com/docv2/page/661f02b62e1a5d02e267d159"
+      "url": "https://partner.tiktokshop.com/docv2/page/661f02b62e1a5d02e267d159",
+      "createdAt": 1715273404
     },
     {
       "id": "66329335cb261f02e0b66da9",
       "platform": "tiktok",
       "title": "For the UK market: Updates to Mandatory Attributes and Product Certifications for Certain Product Categories",
-      "url": "https://partner.tiktokshop.com/docv2/page/66329335cb261f02e0b66da9"
+      "url": "https://partner.tiktokshop.com/docv2/page/66329335cb261f02e0b66da9",
+      "createdAt": 1714592060
     },
     {
       "id": "6626f71ad3869d02da297554",
       "platform": "tiktok",
       "title": "ARD Updates",
-      "url": "https://partner.tiktokshop.com/docv2/page/6626f71ad3869d02da297554"
+      "url": "https://partner.tiktokshop.com/docv2/page/6626f71ad3869d02da297554",
+      "createdAt": 1713829824
     },
     {
       "id": "662153a2bfca1402d27eb5f5",
       "platform": "tiktok",
       "title": "For SEA market: Upcoming changes on tracking number availability",
-      "url": "https://partner.tiktokshop.com/docv2/page/662153a2bfca1402d27eb5f5"
+      "url": "https://partner.tiktokshop.com/docv2/page/662153a2bfca1402d27eb5f5",
+      "createdAt": 1713460219
     },
     {
       "id": "661d36d77dcc9602c67ecd0a",
       "platform": "tiktok",
       "title": "Development Shops supports creating accounts for cross-border shops",
-      "url": "https://partner.tiktokshop.com/docv2/page/661d36d77dcc9602c67ecd0a"
+      "url": "https://partner.tiktokshop.com/docv2/page/661d36d77dcc9602c67ecd0a",
+      "createdAt": 1713190751
     },
     {
       "id": "660e1827941bca02c0aaab6c",
       "platform": "tiktok",
       "title": "Virtual Bundles are now available in Order Details",
-      "url": "https://partner.tiktokshop.com/docv2/page/660e1827941bca02c0aaab6c"
+      "url": "https://partner.tiktokshop.com/docv2/page/660e1827941bca02c0aaab6c",
+      "createdAt": 1712201160
     },
     {
       "id": "660d8ff9a2d6d902c70a043f",
       "platform": "tiktok",
       "title": "For UK Market: Support Item Level Cancellation",
-      "url": "https://partner.tiktokshop.com/docv2/page/660d8ff9a2d6d902c70a043f"
+      "url": "https://partner.tiktokshop.com/docv2/page/660d8ff9a2d6d902c70a043f",
+      "createdAt": 1712167614
     },
     {
       "id": "660d8bab589cba02c0ee3c28",
       "platform": "tiktok",
       "title": "For US Market: New property address_level field added to Orders API",
-      "url": "https://partner.tiktokshop.com/docv2/page/660d8bab589cba02c0ee3c28"
+      "url": "https://partner.tiktokshop.com/docv2/page/660d8bab589cba02c0ee3c28",
+      "createdAt": 1712164837
     },
     {
       "id": "65e97f2d27659802db37f0cf",
       "platform": "tiktok",
       "title": "For US Market: Replacement orders now available",
-      "url": "https://partner.tiktokshop.com/docv2/page/65e97f2d27659802db37f0cf"
+      "url": "https://partner.tiktokshop.com/docv2/page/65e97f2d27659802db37f0cf",
+      "createdAt": 1710212026
     },
     {
       "id": "65bdc016ae1e2602d9a30922",
       "platform": "tiktok",
       "title": "New Webhook: Product Update",
-      "url": "https://partner.tiktokshop.com/docv2/page/65bdc016ae1e2602d9a30922"
+      "url": "https://partner.tiktokshop.com/docv2/page/65bdc016ae1e2602d9a30922",
+      "createdAt": 1709236096
     },
     {
       "id": "65d3fea12184f602e3da78b1",
       "platform": "tiktok",
       "title": "UK Market Only: Size Chart is now mandatory for Product Listings",
-      "url": "https://partner.tiktokshop.com/docv2/page/65d3fea12184f602e3da78b1"
+      "url": "https://partner.tiktokshop.com/docv2/page/65d3fea12184f602e3da78b1",
+      "createdAt": 1708414993
     },
     {
       "id": "65bc5cf0e1a05b02db89d1a1",
       "platform": "tiktok",
       "title": "New Endpoint: Listing Schema",
-      "url": "https://partner.tiktokshop.com/docv2/page/65bc5cf0e1a05b02db89d1a1"
+      "url": "https://partner.tiktokshop.com/docv2/page/65bc5cf0e1a05b02db89d1a1",
+      "createdAt": 1706844061
     },
     {
       "id": "65b8ca9afa59d87f8384eb4d",
       "platform": "tiktok",
       "title": "For SEA markets: Introducing Development Shops",
-      "url": "https://partner.tiktokshop.com/docv2/page/65b8ca9afa59d87f8384eb4d"
+      "url": "https://partner.tiktokshop.com/docv2/page/65b8ca9afa59d87f8384eb4d",
+      "createdAt": 1706610186
     },
     {
       "id": "65a8c3944f1c9102d961b181",
       "platform": "tiktok",
       "title": "For SEA market: Upcoming changes on tracking number availability in Orders API",
-      "url": "https://partner.tiktokshop.com/docv2/page/65a8c3944f1c9102d961b181"
+      "url": "https://partner.tiktokshop.com/docv2/page/65a8c3944f1c9102d961b181",
+      "createdAt": 1705558987
     },
     {
       "id": "65a854399e905f02dfed7ab9",
       "platform": "tiktok",
       "title": "Return amount detail information available in Search Return API",
-      "url": "https://partner.tiktokshop.com/docv2/page/65a854399e905f02dfed7ab9"
+      "url": "https://partner.tiktokshop.com/docv2/page/65a854399e905f02dfed7ab9",
+      "createdAt": 1705530713
     },
     {
       "id": "65a851046032c702e0bdbee6",
       "platform": "tiktok",
       "title": "For US local sellers: Retail Delivery Fee is added to API",
-      "url": "https://partner.tiktokshop.com/docv2/page/65a851046032c702e0bdbee6"
+      "url": "https://partner.tiktokshop.com/docv2/page/65a851046032c702e0bdbee6",
+      "createdAt": 1705530339
     },
     {
       "id": "65a848f4ea874002e1f672d1",
       "platform": "tiktok",
       "title": "US Only: Order Cancellation Workflow Updates",
-      "url": "https://partner.tiktokshop.com/docv2/page/65a848f4ea874002e1f672d1"
+      "url": "https://partner.tiktokshop.com/docv2/page/65a848f4ea874002e1f672d1",
+      "createdAt": 1705528841
     },
     {
       "id": "65a848b169663802db44999c",
       "platform": "tiktok",
       "title": "For US local sellers: item level tax rate added to Order resource",
-      "url": "https://partner.tiktokshop.com/docv2/page/65a848b169663802db44999c"
+      "url": "https://partner.tiktokshop.com/docv2/page/65a848b169663802db44999c",
+      "createdAt": 1705527498
     },
     {
       "id": "65a835db4420b502df0a9db3",
       "platform": "tiktok",
       "title": "Delivery instructions now available in Order API",
-      "url": "https://partner.tiktokshop.com/docv2/page/65a835db4420b502df0a9db3"
+      "url": "https://partner.tiktokshop.com/docv2/page/65a835db4420b502df0a9db3",
+      "createdAt": 1705522985
     },
     {
       "id": "65a0693b9e905f02dfa80acf",
       "platform": "tiktok",
       "title": "SLA information now available in Order API",
-      "url": "https://partner.tiktokshop.com/docv2/page/65a0693b9e905f02dfa80acf"
+      "url": "https://partner.tiktokshop.com/docv2/page/65a0693b9e905f02dfa80acf",
+      "createdAt": 1705013647
     },
     {
       "id": "65a052028350e302e20d21f1",
       "platform": "tiktok",
       "title": "Draft status available for Create Product API",
-      "url": "https://partner.tiktokshop.com/docv2/page/65a052028350e302e20d21f1"
+      "url": "https://partner.tiktokshop.com/docv2/page/65a052028350e302e20d21f1",
+      "createdAt": 1705008440
     },
     {
       "id": "65a0406cb8a10102da32c57d",
       "platform": "tiktok",
       "title": "Changes to Create Product and Edit Product APIs",
-      "url": "https://partner.tiktokshop.com/docv2/page/65a0406cb8a10102da32c57d"
+      "url": "https://partner.tiktokshop.com/docv2/page/65a0406cb8a10102da32c57d",
+      "createdAt": 1705005355
     },
     {
       "id": "65a029e6a7406102df5e951e",
       "platform": "tiktok",
       "title": "Changes to Check Listing Prerequisite API in v202312",
-      "url": "https://partner.tiktokshop.com/docv2/page/65a029e6a7406102df5e951e"
+      "url": "https://partner.tiktokshop.com/docv2/page/65a029e6a7406102df5e951e",
+      "createdAt": 1704996186
     },
     {
       "id": "659e0fff81b5ab02dfc154b7",
       "platform": "tiktok",
       "title": "New function: Pre-publish checklist",
-      "url": "https://partner.tiktokshop.com/docv2/page/659e0fff81b5ab02dfc154b7"
+      "url": "https://partner.tiktokshop.com/docv2/page/659e0fff81b5ab02dfc154b7",
+      "createdAt": 1704858214
     },
     {
       "id": "658c988a92e82502df316c54",
       "platform": "tiktok",
       "title": "Seller Center Development Shops",
-      "url": "https://partner.tiktokshop.com/docv2/page/658c988a92e82502df316c54"
+      "url": "https://partner.tiktokshop.com/docv2/page/658c988a92e82502df316c54",
+      "createdAt": 1703713492
     },
     {
       "id": "65852b58bb426602df90ebba",
       "platform": "tiktok",
       "title": "Removal of \"unable to deliver to buyer address\" as a cancellation reason in ID, VN, TH, SG, PH Markets",
-      "url": "https://partner.tiktokshop.com/docv2/page/65852b58bb426602df90ebba"
+      "url": "https://partner.tiktokshop.com/docv2/page/65852b58bb426602df90ebba",
+      "createdAt": 1703226376
     },
     {
       "id": "656d9d5fe87cdf02c1625d01",
       "platform": "tiktok",
       "title": "For US and UK markets: Introducing \"On Hold\" order status",
-      "url": "https://partner.tiktokshop.com/docv2/page/656d9d5fe87cdf02c1625d01"
+      "url": "https://partner.tiktokshop.com/docv2/page/656d9d5fe87cdf02c1625d01",
+      "createdAt": 1701976100
     },
     {
       "id": "656d70d9cca08202dbc037f8",
       "platform": "tiktok",
       "title": "New property added to Get Category Rules API to indicate whether the package dimension is mandatory",
-      "url": "https://partner.tiktokshop.com/docv2/page/656d70d9cca08202dbc037f8"
+      "url": "https://partner.tiktokshop.com/docv2/page/656d70d9cca08202dbc037f8",
+      "createdAt": 1701671237
     },
     {
       "id": "6566dd463022b702d8841afb",
       "platform": "tiktok",
       "title": "Upcoming Updates to TikTok Shop Open API (Release: December 2023/Q1 2024)",
-      "url": "https://partner.tiktokshop.com/docv2/page/6566dd463022b702d8841afb"
+      "url": "https://partner.tiktokshop.com/docv2/page/6566dd463022b702d8841afb",
+      "createdAt": 1701240321
     },
     {
       "id": "655d791328310802de8aa39d",
       "platform": "tiktok",
       "title": "TikTok Shop Open API Release Update - November 2023",
-      "url": "https://partner.tiktokshop.com/docv2/page/655d791328310802de8aa39d"
+      "url": "https://partner.tiktokshop.com/docv2/page/655d791328310802de8aa39d",
+      "createdAt": 1700624702
     },
     {
       "id": "655c6230f4488c02df97fb13",
       "platform": "tiktok",
       "title": "For local sellers in the UK market: introducing item level order split shipping",
-      "url": "https://partner.tiktokshop.com/docv2/page/655c6230f4488c02df97fb13"
+      "url": "https://partner.tiktokshop.com/docv2/page/655c6230f4488c02df97fb13",
+      "createdAt": 1700554028
     },
     {
       "id": "65532219ff8ea502bd3df6a2",
       "platform": "tiktok",
       "title": "For local and cross-border sellers in the US market: Shipping information update time window extended to 72 hours",
-      "url": "https://partner.tiktokshop.com/docv2/page/65532219ff8ea502bd3df6a2"
+      "url": "https://partner.tiktokshop.com/docv2/page/65532219ff8ea502bd3df6a2",
+      "createdAt": 1699947067
     },
     {
       "id": "654dc3fca1dde702c05579f8",
       "platform": "tiktok",
       "title": "New shipping label format launched in the ID, MY and VN markets",
-      "url": "https://partner.tiktokshop.com/docv2/page/654dc3fca1dde702c05579f8"
+      "url": "https://partner.tiktokshop.com/docv2/page/654dc3fca1dde702c05579f8",
+      "createdAt": 1699596107
     },
     {
       "id": "654b225e080aee02c31ac1f8",
       "platform": "tiktok",
       "title": "New property added to Recommend Category API to indicate whether sellers can use the recommended category",
-      "url": "https://partner.tiktokshop.com/docv2/page/654b225e080aee02c31ac1f8"
+      "url": "https://partner.tiktokshop.com/docv2/page/654b225e080aee02c31ac1f8",
+      "createdAt": 1699422953
     },
     {
       "id": "6543158d6f932c02ba1b78a8",
       "platform": "tiktok",
       "title": "For local sellers in the US market: Warning information added to Mark Package As Shipped API",
-      "url": "https://partner.tiktokshop.com/docv2/page/6543158d6f932c02ba1b78a8"
+      "url": "https://partner.tiktokshop.com/docv2/page/6543158d6f932c02ba1b78a8",
+      "createdAt": 1698933832
     },
     {
       "id": "6539de15a3d5b702be6167e4",
       "platform": "tiktok",
       "title": "Black Friday Cyber Monday Campaign Developer Update",
-      "url": "https://partner.tiktokshop.com/docv2/page/6539de15a3d5b702be6167e4"
+      "url": "https://partner.tiktokshop.com/docv2/page/6539de15a3d5b702be6167e4",
+      "createdAt": 1698291464
     },
     {
       "id": "653779d99971b602ba81187d",
       "platform": "tiktok",
       "title": "Shortened string length for buyer_email in Get Order Detail API",
-      "url": "https://partner.tiktokshop.com/docv2/page/653779d99971b602ba81187d"
+      "url": "https://partner.tiktokshop.com/docv2/page/653779d99971b602ba81187d",
+      "createdAt": 1698136678
     },
     {
       "id": "6509b2aec16ffe02b8d7623c",
       "platform": "tiktok",
       "title": "Introducing API version 202309",
-      "url": "https://partner.tiktokshop.com/docv2/page/6509b2aec16ffe02b8d7623c"
+      "url": "https://partner.tiktokshop.com/docv2/page/6509b2aec16ffe02b8d7623c",
+      "createdAt": 1695105697
+    },
+    {
+      "id": 963,
+      "platform": "shopee",
+      "title": "[CB] Important Update for Open Platform AWB API-18080 - 5 day delivery (SPX)",
+      "url": "https://open.shopee.com/announcements/963",
+      "createdAt": 1724408475
+    },
+    {
+      "id": 957,
+      "platform": "shopee",
+      "title": "[Important][PH] SPX Weekend Label and RTS Zone ID Display on AWBs",
+      "url": "https://open.shopee.com/announcements/957",
+      "createdAt": 1724151356
+    },
+    {
+      "id": 956,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/956",
+      "createdAt": 1724060820
+    },
+    {
+      "id": 952,
+      "platform": "shopee",
+      "title": "[Important] Token Character Length Update & Open API and Push Mechanism Sunset",
+      "url": "https://open.shopee.com/announcements/952",
+      "createdAt": 1723192624
+    },
+    {
+      "id": 947,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/947",
+      "createdAt": 1722596322
+    },
+    {
+      "id": 946,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/946",
+      "createdAt": 1721991339
+    },
+    {
+      "id": 938,
+      "platform": "shopee",
+      "title": "The Consignment Service OpenAPI is Opened Now",
+      "url": "https://open.shopee.com/announcements/938",
+      "createdAt": 1721981732
+    },
+    {
+      "id": 937,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Shipping Carrier Airway Bill (Poslaju)",
+      "url": "https://open.shopee.com/announcements/937",
+      "createdAt": 1721629562
+    },
+    {
+      "id": 928,
+      "platform": "shopee",
+      "title": "[SG] Sunday Pick-up Application Form (SPX Pick-up only)",
+      "url": "https://open.shopee.com/announcements/928",
+      "createdAt": 1719977510
+    },
+    {
+      "id": 925,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/925",
+      "createdAt": 1719568187
+    },
+    {
+      "id": 121763,
+      "platform": "lazada",
+      "title": "IMPORTANT UPDATES ON CATEGORY ATTRIBUTES",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121763",
+      "createdAt": 1724397781
+    },
+    {
+      "id": 121760,
+      "platform": "lazada",
+      "title": "LAZADA D9 Campaign Downgrade Plan",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121760",
+      "createdAt": 1724055933
+    },
+    {
+      "id": 121756,
+      "platform": "lazada",
+      "title": "AI Recommended Image Sequences feature coming soon",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121756",
+      "createdAt": 1724031717
+    },
+    {
+      "id": 2127,
+      "platform": "lazada",
+      "title": "GSP API-CreateGlobalProduct ,Input parameter update",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2127",
+      "createdAt": 1720149921
+    },
+    {
+      "id": 2117,
+      "platform": "lazada",
+      "title": "Notification - Mandatory Category Attributes",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2117",
+      "createdAt": 1719310312
+    },
+    {
+      "id": 2114,
+      "platform": "lazada",
+      "title": "Old order cancellation API is going offline soon",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2114",
+      "createdAt": 1718852926
+    },
+    {
+      "id": 2113,
+      "platform": "lazada",
+      "title": "TLS 1.0 is offline",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2113",
+      "createdAt": 1718342966
+    },
+    {
+      "id": 2104,
+      "platform": "lazada",
+      "title": "LAZADA D6 Campaign Downgrade Plan",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2104",
+      "createdAt": 1716444590
+    },
+    {
+      "id": 2100,
+      "platform": "lazada",
+      "title": "Seller Notification Centre API is online",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2100",
+      "createdAt": 1715650277
+    },
+    {
+      "id": 1989,
+      "platform": "lazada",
+      "title": "【Important】Authorization Upgrade on Lazada Open Platform",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=1989",
+      "createdAt": 1701933043
     }
   ]
 }

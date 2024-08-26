@@ -15,6 +15,7 @@ export const scrape = async () => {
         platform: "tiktok",
         title: d.name,
         url: `https://partner.tiktokshop.com/docv2/page/${d.document_id}`,
+        createdAt: +d.update_time,
       }));
     return announcements;
   } catch (error) {

@@ -1,3 +1,4 @@
+import fs from "fs";
 import { JSONFile, Low } from "lowdb";
 import { dirname, join } from "path";
 import { fileURLToPath } from "url";
@@ -5,6 +6,7 @@ import { fileURLToPath } from "url";
 import * as lazada from "./platforms/lazada.js";
 import * as shopee from "./platforms/shopee.js";
 import * as tiktok from "./platforms/tiktok.js";
+import generateFeed from "./utils/feeder.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -22,6 +24,13 @@ const notify = (message) => {
 
   return parallelPromise(promises);
 };
+
+const feedie = async (announcements) => {
+  const rss2 = await generateFeed(announcements)
+
+  // Save to file rss2.xml
+  fs.writeFileSync(join(__dirname, "db", "rss2.xml"), rss2)
+}
 
 const insertAnnouncement = (announcement) => {
   const _announcement = db.data.announcements.find(
@@ -47,7 +56,7 @@ const main = async () => {
   db.data = db.data || { announcements: [] };
 
   const scrapers = [tiktok.scrape(), lazada.scrape(), shopee.scrape()];
-  parallelPromise(scrapers).then((results) => {
+  await parallelPromise(scrapers).then((results) => {
     const announcements = results.reduce((acc, value) => {
       acc.push(...value);
       return acc;
@@ -65,6 +74,8 @@ const main = async () => {
       });
     }, Promise.resolve());
   });
+
+  await feedie(db.data.announcements)
 };
 
 const parallelPromise = (promises) => {

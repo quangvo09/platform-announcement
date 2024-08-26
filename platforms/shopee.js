@@ -13,6 +13,7 @@ export const scrape = async () => {
         platform: "shopee",
         title: d.title,
         url: `https://open.shopee.com/announcements/${d.id}`,
+        createdAt: +d.release_time
       }));
     return announcements;
   } catch (error) {

@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/quangvo09/platform-announcement#readme",
   "dependencies": {
+    "feed": "^4.2.2",
     "lowdb": "^3.0.0"
   }
 }
