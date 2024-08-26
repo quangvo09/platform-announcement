@@ -1,6 +1,6 @@
 import fetcher from "../utils/fetcher.js";
 const API_URL =
-  "https://open.lazada.com/handler/share/announcement/getAnnouncementList.json?parentId=27&page=1&pageSize=10";
+  "https://isvconsole.lazada.com/handler/share/announcement/getAnnouncementList.json?pageSize=10&parentId=27&page=1";
 
 export const scrape = async () => {
   try {

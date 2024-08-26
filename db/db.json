@@ -61,1714 +61,376 @@
       "url": "https://open.shopee.com/announcements/925"
     },
     {
-      "id": 924,
-      "platform": "shopee",
-      "title": "Significant Open Platform Updates",
-      "url": "https://open.shopee.com/announcements/924"
-    },
-    {
-      "id": 921,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/921"
-    },
-    {
-      "id": 918,
-      "platform": "shopee",
-      "title": "[Important] Upcoming System Upgrade in Live Environment",
-      "url": "https://open.shopee.com/announcements/918"
-    },
-    {
-      "id": 917,
-      "platform": "shopee",
-      "title": "[MY] Important Update for Open Platform Shopee Logistics API (Same Day Delivery)",
-      "url": "https://open.shopee.com/announcements/917"
-    },
-    {
-      "id": 908,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/908"
-    },
-    {
-      "id": 907,
-      "platform": "shopee",
-      "title": "[MY] Important Update for Open Platform AWB API - Shopee Express (Sea Shipping)",
-      "url": "https://open.shopee.com/announcements/907"
-    },
-    {
-      "id": 905,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/905"
-    },
-    {
-      "id": 902,
-      "platform": "shopee",
-      "title": "[Important] Open Platform Authorization Flow Improvement",
-      "url": "https://open.shopee.com/announcements/902"
-    },
-    {
-      "id": 898,
-      "platform": "shopee",
-      "title": "Significant Open Platform and OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/898"
-    },
-    {
-      "id": 894,
-      "platform": "shopee",
-      "title": "[Important][PH] SPX-FEX 4PL Multi-Leg Channel Integration",
-      "url": "https://open.shopee.com/announcements/894"
-    },
-    {
-      "id": 893,
-      "platform": "shopee",
-      "title": "Shopee Ads Open API Now Available!",
-      "url": "https://open.shopee.com/announcements/893"
-    },
-    {
-      "id": 891,
-      "platform": "shopee",
-      "title": "[Important][PH] SPX-FEX 4PL Multi-Leg Channel Integration",
-      "url": "https://open.shopee.com/announcements/891"
-    },
-    {
-      "id": 884,
-      "platform": "shopee",
-      "title": "[MY] Important Update for Open Platform Customized AWB API",
-      "url": "https://open.shopee.com/announcements/884"
-    },
-    {
-      "id": 883,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/883"
-    },
-    {
-      "id": 876,
-      "platform": "shopee",
-      "title": "[Important][PH] Adjustment of Pickup Time Slot Selection",
-      "url": "https://open.shopee.com/announcements/876"
-    },
-    {
-      "id": 877,
-      "platform": "shopee",
-      "title": "[Important] [TW] New \"蝦皮店到店 - 隔日到貨\" Channel",
-      "url": "https://open.shopee.com/announcements/877"
-    },
-    {
-      "id": 873,
-      "platform": "shopee",
-      "title": "[Important] Update for Standardizing Product Variation",
-      "url": "https://open.shopee.com/announcements/873"
-    },
-    {
-      "id": 871,
-      "platform": "shopee",
-      "title": "[Important][Action Required] Regular Credential Reset For All Developers",
-      "url": "https://open.shopee.com/announcements/871"
-    },
-    {
-      "id": 870,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/870"
-    },
-    {
-      "id": 865,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/865"
-    },
-    {
-      "id": 861,
-      "platform": "shopee",
-      "title": "New Penalties Added for Platform Violations",
-      "url": "https://open.shopee.com/announcements/861"
-    },
-    {
-      "id": 860,
-      "platform": "shopee",
-      "title": " [Important] [TW]Tightening of Access to Buyer's Information on Open API",
-      "url": "https://open.shopee.com/announcements/860"
-    },
-    {
-      "id": 859,
-      "platform": "shopee",
-      "title": "[Important][PH] New YTO Express Logistic (Standard Local) Channel",
-      "url": "https://open.shopee.com/announcements/859"
-    },
-    {
-      "id": 856,
-      "platform": "shopee",
-      "title": "[CBSC] Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/856"
-    },
-    {
-      "id": 853,
-      "platform": "shopee",
-      "title": "[MY] Important Update for Logistic Channel Renaming & Introduction to New Logist",
-      "url": "https://open.shopee.com/announcements/853"
-    },
-    {
-      "id": 850,
-      "platform": "shopee",
-      "title": "Open API Updates: New Image Ratios and Promotional Image Fields",
-      "url": "https://open.shopee.com/announcements/850"
-    },
-    {
-      "id": 843,
-      "platform": "shopee",
-      "title": "[MY] Important Update for Open Platform AWB API - Shopee Express (East Malaysia)",
-      "url": "https://open.shopee.com/announcements/843"
-    },
-    {
-      "id": 841,
-      "platform": "shopee",
-      "title": "[Action Required] Supports more granular item_status and deboost information",
-      "url": "https://open.shopee.com/announcements/841"
-    },
-    {
-      "id": 837,
-      "platform": "shopee",
-      "title": "Significant Open Platform",
-      "url": "https://open.shopee.com/announcements/837"
-    },
-    {
-      "id": 838,
-      "platform": "shopee",
-      "title": "Significant Open Platform and OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/838"
-    },
-    {
-      "id": 831,
-      "platform": "shopee",
-      "title": "[CB] Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/831"
-    },
-    {
-      "id": 826,
-      "platform": "shopee",
-      "title": "Significant Open Platform and OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/826"
-    },
-    {
-      "id": 815,
-      "platform": "shopee",
-      "title": "[Final Reminder] IP Address Whitelist Function",
-      "url": "https://open.shopee.com/announcements/815"
-    },
-    {
-      "id": 800,
-      "platform": "shopee",
-      "title": "[Resend announcement] [SG] New Next Day Doorstep Delivery Logistic Channel",
-      "url": "https://open.shopee.com/announcements/800"
-    },
-    {
-      "id": 799,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/799"
-    },
-    {
-      "id": 790,
-      "platform": "shopee",
-      "title": "[중요] 3PF PFF Shop 모드 지원 및 3PF 상점 업그레이드에 대한 안내",
-      "url": "https://open.shopee.com/announcements/790"
-    },
-    {
-      "id": 785,
-      "platform": "shopee",
-      "title": "[Important] 3PF PFF Shop Mode Support & 3PF Shop Upgrade",
-      "url": "https://open.shopee.com/announcements/785"
-    },
-    {
-      "id": 784,
-      "platform": "shopee",
-      "title": "[Important] 3PF PFF Shop Mode Support & 3PF Shop Upgrade",
-      "url": "https://open.shopee.com/announcements/784"
-    },
-    {
-      "id": 778,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/778"
-    },
-    {
-      "id": 774,
-      "platform": "shopee",
-      "title": "[MY] Important Update for Open Platform Shopee Logistics API (BEST Cargo)",
-      "url": "https://open.shopee.com/announcements/774"
-    },
-    {
-      "id": 769,
-      "platform": "shopee",
-      "title": "[Important] Supports more granular item_status and deboost information",
-      "url": "https://open.shopee.com/announcements/769"
-    },
-    {
-      "id": 771,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/771"
-    },
-    {
-      "id": 760,
-      "platform": "shopee",
-      "title": "[Important Update] IP Address Whitelist Function ",
-      "url": "https://open.shopee.com/announcements/760"
-    },
-    {
-      "id": 740,
-      "platform": "shopee",
-      "title": "[Important] New BR Domain Name Launched For Faster API Services ",
-      "url": "https://open.shopee.com/announcements/740"
-    },
-    {
-      "id": 739,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/739"
-    },
-    {
-      "id": 738,
-      "platform": "shopee",
-      "title": "[Important] Significant Open API Updates For CNSC and KRSC sellers",
-      "url": "https://open.shopee.com/announcements/738"
-    },
-    {
-      "id": 733,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/733"
-    },
-    {
-      "id": 732,
-      "platform": "shopee",
-      "title": "[Important] Upcoming System Upgrade in Live Environment",
-      "url": "https://open.shopee.com/announcements/732"
-    },
-    {
-      "id": 731,
-      "platform": "shopee",
-      "title": "[Important][For your action]Significant Open Platform Updates",
-      "url": "https://open.shopee.com/announcements/731"
-    },
-    {
-      "id": 724,
-      "platform": "shopee",
-      "title": "Significant Open Platform Updates",
-      "url": "https://open.shopee.com/announcements/724"
-    },
-    {
-      "id": 725,
-      "platform": "shopee",
-      "title": "[Important] System Upgrade Drill in Live Environment",
-      "url": "https://open.shopee.com/announcements/725"
-    },
-    {
-      "id": 723,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/723"
-    },
-    {
-      "id": 719,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/719"
-    },
-    {
-      "id": 717,
-      "platform": "shopee",
-      "title": "[MY] Important Update for Open Platform Shopee Logistics API (Flash Express)",
-      "url": "https://open.shopee.com/announcements/717"
-    },
-    {
-      "id": 715,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/715"
-    },
-    {
-      "id": 714,
-      "platform": "shopee",
-      "title": "[For your action] Sunset \"recipient_addr\" field in Customized Airway Bill API",
-      "url": "https://open.shopee.com/announcements/714"
-    },
-    {
-      "id": 710,
-      "platform": "shopee",
-      "title": "[MY] Important Update for Logistic Channel Name",
-      "url": "https://open.shopee.com/announcements/710"
-    },
-    {
-      "id": 699,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/699"
-    },
-    {
-      "id": 696,
-      "platform": "shopee",
-      "title": "[MY] Important Update for Shipping Carrier Airway Bill ",
-      "url": "https://open.shopee.com/announcements/696"
-    },
-    {
-      "id": 684,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/684"
-    },
-    {
-      "id": 683,
-      "platform": "shopee",
-      "title": "Open Platform support Member Management and Developer Account Deletion",
-      "url": "https://open.shopee.com/announcements/683"
-    },
-    {
-      "id": 682,
-      "platform": "shopee",
-      "title": "[important] Implement PENDING as a new order status in Open API",
-      "url": "https://open.shopee.com/announcements/682"
-    },
-    {
-      "id": 676,
-      "platform": "shopee",
-      "title": " Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/676"
-    },
-    {
-      "id": 675,
-      "platform": "shopee",
-      "title": " [Important] Tightening of Access to Buyer's Information on Open API",
-      "url": "https://open.shopee.com/announcements/675"
-    },
-    {
-      "id": 674,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/674"
-    },
-    {
-      "id": 668,
-      "platform": "shopee",
-      "title": "[Important] Tightening of Access to Buyer's Information on Open API",
-      "url": "https://open.shopee.com/announcements/668"
-    },
-    {
-      "id": 664,
-      "platform": "shopee",
-      "title": "[Updated] [Action required]Important update for PH customized Air Waybills (AWB）",
-      "url": "https://open.shopee.com/announcements/664"
-    },
-    {
-      "id": 662,
-      "platform": "shopee",
-      "title": "[Important] 3PF Seller CBSC Migration & Upgrade for Product and Stock Management",
-      "url": "https://open.shopee.com/announcements/662"
-    },
-    {
-      "id": 660,
-      "platform": "shopee",
-      "title": " [CB] Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/660"
-    },
-    {
-      "id": 650,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/650"
-    },
-    {
-      "id": 646,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/646"
-    },
-    {
-      "id": 639,
-      "platform": "shopee",
-      "title": "[MY] Update for the shipping carrier name of Bulky & Heavy Delivery & J&T Cargo",
-      "url": "https://open.shopee.com/announcements/639"
-    },
-    {
-      "id": 637,
-      "platform": "shopee",
-      "title": "4 Brand New Chat APIs and an Improved v2.get.message API",
-      "url": "https://open.shopee.com/announcements/637"
-    },
-    {
-      "id": 636,
-      "platform": "shopee",
-      "title": "[Important] Tightening of Access to Buyer's Information on Open API",
-      "url": "https://open.shopee.com/announcements/636"
-    },
-    {
-      "id": 626,
-      "platform": "shopee",
-      "title": "Ticket System Update_Case Tracker on Live",
-      "url": "https://open.shopee.com/announcements/626"
-    },
-    {
-      "id": 624,
-      "platform": "shopee",
-      "title": " [Update] Open API 1.0 Deprecation",
-      "url": "https://open.shopee.com/announcements/624"
-    },
-    {
-      "id": 620,
-      "platform": "shopee",
-      "title": "New Order Push- shipping_document_status_push",
-      "url": "https://open.shopee.com/announcements/620"
-    },
-    {
-      "id": 617,
-      "platform": "shopee",
-      "title": "[Ação Necessária][Depreciação OpenAPI v1] Novo prazo 31/01/2023",
-      "url": "https://open.shopee.com/announcements/617"
-    },
-    {
-      "id": 616,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/616"
-    },
-    {
-      "id": 614,
-      "platform": "shopee",
-      "title": " [Important] Updated Platform Partner Rules",
-      "url": "https://open.shopee.com/announcements/614"
-    },
-    {
-      "id": 612,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/612"
-    },
-    {
-      "id": 611,
-      "platform": "shopee",
-      "title": "[MY] Important Update for Logistic Channel Related APIs",
-      "url": "https://open.shopee.com/announcements/611"
-    },
-    {
-      "id": 610,
-      "platform": "shopee",
-      "title": "[CB]Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/610"
-    },
-    {
-      "id": 607,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/607"
-    },
-    {
-      "id": "261076",
-      "platform": "tiktok",
-      "title": "Required fields change in Create Product API and Edit Product API",
-      "url": "https://developers.tiktok-shops.com/documents/document/261076"
-    },
-    {
-      "id": "261074",
-      "platform": "tiktok",
-      "title": "Introducing the Create Draft Product API",
-      "url": "https://developers.tiktok-shops.com/documents/document/261074"
-    },
-    {
-      "id": "261075",
-      "platform": "tiktok",
-      "title": "Introducing the Batch Ship Packages API",
-      "url": "https://developers.tiktok-shops.com/documents/document/261075"
-    },
-    {
-      "id": 606,
-      "platform": "shopee",
-      "title": "[Important] NEW Vulnerability Dashboard on Open Platform Console",
-      "url": "https://open.shopee.com/announcements/606"
-    },
-    {
-      "id": "260588",
-      "platform": "tiktok",
-      "title": "Introducing the Category Recommended API",
-      "url": "https://developers.tiktok-shops.com/documents/document/260588"
-    },
-    {
-      "id": 605,
-      "platform": "shopee",
-      "title": "[Action Required] Migration to the new customize airway bill API",
-      "url": "https://open.shopee.com/announcements/605"
-    },
-    {
-      "id": 603,
-      "platform": "shopee",
-      "title": "[Update][Phase 2] Open API 1.0 Deprecation",
-      "url": "https://open.shopee.com/announcements/603"
-    },
-    {
-      "id": 602,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/602"
-    },
-    {
-      "id": "257939",
-      "platform": "tiktok",
-      "title": "Add new forward order status webhook and Reverse webhook status",
-      "url": "https://developers.tiktok-shops.com/documents/document/257939"
-    },
-    {
-      "id": 600,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/600"
-    },
-    {
-      "id": "257400",
-      "platform": "tiktok",
-      "title": "Identify orders cancelled by buyers",
-      "url": "https://developers.tiktok-shops.com/documents/document/257400"
-    },
-    {
-      "id": 599,
-      "platform": "shopee",
-      "title": "PL sandbox environment  is ready",
-      "url": "https://open.shopee.com/announcements/599"
-    },
-    {
-      "id": 597,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/597"
-    },
-    {
-      "id": "257172",
-      "platform": "tiktok",
-      "title": "Get Brands API supports query by brand name and pagination",
-      "url": "https://developers.tiktok-shops.com/documents/document/257172"
-    },
-    {
-      "id": 595,
-      "platform": "shopee",
-      "title": "Open platform supports Push log and API log tool",
-      "url": "https://open.shopee.com/announcements/595"
-    },
-    {
-      "id": 596,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/596"
-    },
-    {
-      "id": "255217",
-      "platform": "tiktok",
-      "title": "Important update in July-Aug",
-      "url": "https://developers.tiktok-shops.com/documents/document/255217"
-    },
-    {
-      "id": 594,
-      "platform": "shopee",
-      "title": "[Important]Old stock fields will be deprecated soon",
-      "url": "https://open.shopee.com/announcements/594"
-    },
-    {
-      "id": "254812",
-      "platform": "tiktok",
-      "title": "[Important] Product API update",
-      "url": "https://developers.tiktok-shops.com/documents/document/254812"
-    },
-    {
-      "id": "254813",
-      "platform": "tiktok",
-      "title": "[Important] Ship package API update",
-      "url": "https://developers.tiktok-shops.com/documents/document/254813"
-    },
-    {
-      "id": "254550",
-      "platform": "tiktok",
-      "title": "New API - Product API is launched",
-      "url": "https://developers.tiktok-shops.com/documents/document/254550"
-    },
-    {
-      "id": "254585",
-      "platform": "tiktok",
-      "title": "Changes in Product Categories",
-      "url": "https://developers.tiktok-shops.com/documents/document/254585"
-    },
-    {
-      "id": "254617",
-      "platform": "tiktok",
-      "title": "Product API Update",
-      "url": "https://developers.tiktok-shops.com/documents/document/254617"
-    },
-    {
-      "id": "254631",
-      "platform": "tiktok",
-      "title": "Important - New Open API & Product Open API updates",
-      "url": "https://developers.tiktok-shops.com/documents/document/254631"
-    },
-    {
-      "id": "254633",
-      "platform": "tiktok",
-      "title": "Updates about the get_brands API",
-      "url": "https://developers.tiktok-shops.com/documents/document/254633"
-    },
-    {
-      "id": "254634",
-      "platform": "tiktok",
-      "title": "[For UK market] GTIN related API changes",
-      "url": "https://developers.tiktok-shops.com/documents/document/254634"
-    },
-    {
-      "id": "254637",
-      "platform": "tiktok",
-      "title": "[Important] Product API related updates",
-      "url": "https://developers.tiktok-shops.com/documents/document/254637"
-    },
-    {
-      "id": "254618",
-      "platform": "tiktok",
-      "title": "Order API Update",
-      "url": "https://developers.tiktok-shops.com/documents/document/254618"
-    },
-    {
-      "id": "254627",
-      "platform": "tiktok",
-      "title": "GetOrderDetail API update",
-      "url": "https://developers.tiktok-shops.com/documents/document/254627"
-    },
-    {
-      "id": "254549",
-      "platform": "tiktok",
-      "title": "Significant Open API Updates",
-      "url": "https://developers.tiktok-shops.com/documents/document/254549"
-    },
-    {
-      "id": "254579",
-      "platform": "tiktok",
-      "title": "Order Sensitive Data Masking",
-      "url": "https://developers.tiktok-shops.com/documents/document/254579"
-    },
-    {
-      "id": "254584",
-      "platform": "tiktok",
-      "title": "Shipping Process Changes",
-      "url": "https://developers.tiktok-shops.com/documents/document/254584"
-    },
-    {
-      "id": "254587",
-      "platform": "tiktok",
-      "title": "Risk-Order split/combine APIs",
-      "url": "https://developers.tiktok-shops.com/documents/document/254587"
-    },
-    {
-      "id": "254615",
-      "platform": "tiktok",
-      "title": "Order & Logistics API Update",
-      "url": "https://developers.tiktok-shops.com/documents/document/254615"
-    },
-    {
-      "id": "254635",
-      "platform": "tiktok",
-      "title": "ship_package API update & Open Platform Announcement Email",
-      "url": "https://developers.tiktok-shops.com/documents/document/254635"
-    },
-    {
-      "id": "254636",
-      "platform": "tiktok",
-      "title": "[Important] Ship Order API deprecation and GTIN related reminder",
-      "url": "https://developers.tiktok-shops.com/documents/document/254636"
-    },
-    {
-      "id": "254582",
-      "platform": "tiktok",
-      "title": "New API - Reverse Order API",
-      "url": "https://developers.tiktok-shops.com/documents/document/254582"
-    },
-    {
-      "id": "254580",
-      "platform": "tiktok",
-      "title": "New API - Finance API is Live!",
-      "url": "https://developers.tiktok-shops.com/documents/document/254580"
-    },
-    {
-      "id": "254616",
-      "platform": "tiktok",
-      "title": "Webhook & Shop API Update",
-      "url": "https://developers.tiktok-shops.com/documents/document/254616"
-    },
-    {
-      "id": "254626",
-      "platform": "tiktok",
-      "title": "Order API & Webhook Update",
-      "url": "https://developers.tiktok-shops.com/documents/document/254626"
-    },
-    {
-      "id": "254551",
-      "platform": "tiktok",
-      "title": "New API - Authorization API",
-      "url": "https://developers.tiktok-shops.com/documents/document/254551"
-    },
-    {
-      "id": "254552",
-      "platform": "tiktok",
-      "title": " Authorization logic changes",
-      "url": "https://developers.tiktok-shops.com/documents/document/254552"
-    },
-    {
-      "id": "254546",
-      "platform": "tiktok",
-      "title": "API call specification-22.4.14",
-      "url": "https://developers.tiktok-shops.com/documents/document/254546"
-    },
-    {
-      "id": "254548",
-      "platform": "tiktok",
-      "title": "Help Center is Live",
-      "url": "https://developers.tiktok-shops.com/documents/document/254548"
-    },
-    {
-      "id": "254586",
-      "platform": "tiktok",
-      "title": "Traffic Limits for APIs",
-      "url": "https://developers.tiktok-shops.com/documents/document/254586"
-    },
-    {
-      "id": "254632",
-      "platform": "tiktok",
-      "title": "APP go-live review process is launched",
-      "url": "https://developers.tiktok-shops.com/documents/document/254632"
-    },
-    {
-      "id": 593,
-      "platform": "shopee",
-      "title": "MY Shop Seller Registration Verification in Open API",
-      "url": "https://open.shopee.com/announcements/593"
-    },
-    {
-      "id": 592,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/592"
-    },
-    {
-      "id": 591,
-      "platform": "shopee",
-      "title": "Add a new customize airwaybill API to respond PII as an image",
-      "url": "https://open.shopee.com/announcements/591"
-    },
-    {
-      "id": 590,
-      "platform": "shopee",
-      "title": "[Update][Phase 1] Open API 1.0 Deprecation ",
-      "url": "https://open.shopee.com/announcements/590"
-    },
-    {
-      "id": 589,
-      "platform": "shopee",
-      "title": " [Updated] [Action required] Important update for customized Air Waybills (AWB)",
-      "url": "https://open.shopee.com/announcements/589"
-    },
-    {
-      "id": 588,
-      "platform": "shopee",
-      "title": "[Action required] Important update for customized Air Waybills (AWB)",
-      "url": "https://open.shopee.com/announcements/588"
-    },
-    {
-      "id": 581,
-      "platform": "shopee",
-      "title": "[Action Required] Data Protection Policy updates",
-      "url": "https://open.shopee.com/announcements/581"
-    },
-    {
-      "id": 587,
-      "platform": "shopee",
-      "title": "[Important] Seller Registration Verification for Open API",
-      "url": "https://open.shopee.com/announcements/587"
-    },
-    {
-      "id": 583,
-      "platform": "shopee",
-      "title": "[Update] [Important] Open API 1.0 Deprecation Plan ",
-      "url": "https://open.shopee.com/announcements/583"
-    },
-    {
-      "id": 585,
-      "platform": "shopee",
-      "title": "[Important] KRSC API integration need to be finished before 2022-10-17",
-      "url": "https://open.shopee.com/announcements/585"
-    },
-    {
-      "id": 584,
-      "platform": "shopee",
-      "title": "Tightening of buyer info access in Open API",
-      "url": "https://open.shopee.com/announcements/584"
-    },
-    {
-      "id": 582,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/582"
-    },
-    {
-      "id": "245762",
-      "platform": "tiktok",
-      "title": "[Important] Product API related updates",
-      "url": "https://developers.tiktok-shops.com/documents/document/245762"
-    },
-    {
-      "id": 1280,
+      "id": 121763,
       "platform": "lazada",
-      "title": "API product create new rule",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=1280"
+      "title": "IMPORTANT UPDATES ON CATEGORY ATTRIBUTES",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121763"
     },
     {
-      "id": 1273,
+      "id": 121760,
       "platform": "lazada",
-      "title": "Pre launch notice about the new open platform page",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=1273"
+      "title": "LAZADA D9 Campaign Downgrade Plan",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121760"
     },
     {
-      "id": 579,
-      "platform": "shopee",
-      "title": "[Important] Some Open APIs will shut down 2 minutes at 19:40 SGT on 25 Jul 2022",
-      "url": "https://open.shopee.com/announcements/579"
-    },
-    {
-      "id": "244807",
-      "platform": "tiktok",
-      "title": "[Important] Ship Order API deprecation and GTIN related reminder",
-      "url": "https://developers.tiktok-shops.com/documents/document/244807"
-    },
-    {
-      "id": 578,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/578"
-    },
-    {
-      "id": 577,
-      "platform": "shopee",
-      "title": "[Action Required][TW] Important update for TW SPX air waybill",
-      "url": "https://open.shopee.com/announcements/577"
-    },
-    {
-      "id": 576,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/576"
-    },
-    {
-      "id": 575,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/575"
-    },
-    {
-      "id": "243063",
-      "platform": "tiktok",
-      "title": "ship_package API update & Open Platform Announcement Email",
-      "url": "https://developers.tiktok-shops.com/documents/document/243063"
-    },
-    {
-      "id": 938,
+      "id": 121756,
       "platform": "lazada",
-      "title": "New features are coming - some product APIs support custom variant-related features",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=938"
+      "title": "AI Recommended Image Sequences feature coming soon",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121756"
     },
     {
-      "id": 933,
+      "id": 2127,
       "platform": "lazada",
-      "title": "Product API QC Field Update",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=933"
+      "title": "GSP API-CreateGlobalProduct ,Input parameter update",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2127"
     },
     {
-      "id": 572,
-      "platform": "shopee",
-      "title": " Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/572"
-    },
-    {
-      "id": 931,
+      "id": 2117,
       "platform": "lazada",
-      "title": "Updates to Lazada Security Measures",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=931"
+      "title": "Notification - Mandatory Category Attributes",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2117"
     },
     {
-      "id": 569,
-      "platform": "shopee",
-      "title": "[Important]新增中国大陆开发者访问接口域名",
-      "url": "https://open.shopee.com/announcements/569"
-    },
-    {
-      "id": "240047",
-      "platform": "tiktok",
-      "title": "[For UK market] GTIN related API changes",
-      "url": "https://developers.tiktok-shops.com/documents/document/240047"
-    },
-    {
-      "id": 571,
-      "platform": "shopee",
-      "title": "[Final reminder] Complete the acknowledgment survey about V1.0 API Deprecation",
-      "url": "https://open.shopee.com/announcements/571"
-    },
-    {
-      "id": 570,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/570"
-    },
-    {
-      "id": "239284",
-      "platform": "tiktok",
-      "title": "Updates about the get_brands API and Order Split",
-      "url": "https://developers.tiktok-shops.com/documents/document/239284"
-    },
-    {
-      "id": 567,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/567"
-    },
-    {
-      "id": 568,
-      "platform": "shopee",
-      "title": "[MY] Important update for Open Platform Logistic Channel Related API",
-      "url": "https://open.shopee.com/announcements/568"
-    },
-    {
-      "id": "237258",
-      "platform": "tiktok",
-      "title": "API call specification-22.4.14",
-      "url": "https://developers.tiktok-shops.com/documents/document/237258"
-    },
-    {
-      "id": "237259",
-      "platform": "tiktok",
-      "title": "Help Center is Live",
-      "url": "https://developers.tiktok-shops.com/documents/document/237259"
-    },
-    {
-      "id": "237260",
-      "platform": "tiktok",
-      "title": "Significant Open API Updates",
-      "url": "https://developers.tiktok-shops.com/documents/document/237260"
-    },
-    {
-      "id": "237269",
-      "platform": "tiktok",
-      "title": "New API - Product API is launched",
-      "url": "https://developers.tiktok-shops.com/documents/document/237269"
-    },
-    {
-      "id": "237270",
-      "platform": "tiktok",
-      "title": "New API - Authorization API",
-      "url": "https://developers.tiktok-shops.com/documents/document/237270"
-    },
-    {
-      "id": "237261",
-      "platform": "tiktok",
-      "title": " Authorization logic changes",
-      "url": "https://developers.tiktok-shops.com/documents/document/237261"
-    },
-    {
-      "id": "237262",
-      "platform": "tiktok",
-      "title": "Order Sensitive Data Masking",
-      "url": "https://developers.tiktok-shops.com/documents/document/237262"
-    },
-    {
-      "id": "237271",
-      "platform": "tiktok",
-      "title": "New API - Finance API is Live!",
-      "url": "https://developers.tiktok-shops.com/documents/document/237271"
-    },
-    {
-      "id": "237272",
-      "platform": "tiktok",
-      "title": "New API - Reverse Order API",
-      "url": "https://developers.tiktok-shops.com/documents/document/237272"
-    },
-    {
-      "id": "237273",
-      "platform": "tiktok",
-      "title": "New APIs - Global Products & CancelOrder & Webhook Update",
-      "url": "https://developers.tiktok-shops.com/documents/document/237273"
-    },
-    {
-      "id": "237263",
-      "platform": "tiktok",
-      "title": "Shipping Process Changes",
-      "url": "https://developers.tiktok-shops.com/documents/document/237263"
-    },
-    {
-      "id": "237264",
-      "platform": "tiktok",
-      "title": "Changes in Product Categories",
-      "url": "https://developers.tiktok-shops.com/documents/document/237264"
-    },
-    {
-      "id": "237265",
-      "platform": "tiktok",
-      "title": "Traffic Limits for APIs",
-      "url": "https://developers.tiktok-shops.com/documents/document/237265"
-    },
-    {
-      "id": "237266",
-      "platform": "tiktok",
-      "title": "Risk-Order split/combine APIs",
-      "url": "https://developers.tiktok-shops.com/documents/document/237266"
-    },
-    {
-      "id": "237274",
-      "platform": "tiktok",
-      "title": "Order & Logistics API Update",
-      "url": "https://developers.tiktok-shops.com/documents/document/237274"
-    },
-    {
-      "id": "237275",
-      "platform": "tiktok",
-      "title": "Webhook & Shop API Update",
-      "url": "https://developers.tiktok-shops.com/documents/document/237275"
-    },
-    {
-      "id": "237276",
-      "platform": "tiktok",
-      "title": "Product API Update",
-      "url": "https://developers.tiktok-shops.com/documents/document/237276"
-    },
-    {
-      "id": "237277",
-      "platform": "tiktok",
-      "title": "Order API Update",
-      "url": "https://developers.tiktok-shops.com/documents/document/237277"
-    },
-    {
-      "id": "237278",
-      "platform": "tiktok",
-      "title": "Order API & Webhook Update",
-      "url": "https://developers.tiktok-shops.com/documents/document/237278"
-    },
-    {
-      "id": "237279",
-      "platform": "tiktok",
-      "title": "GetOrderDetail API update",
-      "url": "https://developers.tiktok-shops.com/documents/document/237279"
-    },
-    {
-      "id": "237267",
-      "platform": "tiktok",
-      "title": "Risk - Global Product API",
-      "url": "https://developers.tiktok-shops.com/documents/document/237267"
-    },
-    {
-      "id": "237268",
-      "platform": "tiktok",
-      "title": "Important - New Open API & Product Open API updates",
-      "url": "https://developers.tiktok-shops.com/documents/document/237268"
-    },
-    {
-      "id": "237245",
-      "platform": "tiktok",
-      "title": "APP go-live review process is launched",
-      "url": "https://developers.tiktok-shops.com/documents/document/237245"
-    },
-    {
-      "id": "234980",
-      "platform": "tiktok",
-      "title": "API call specification-22.4.14",
-      "url": "https://developers.tiktok-shops.com/documents/document/234980"
-    },
-    {
-      "id": "235313",
-      "platform": "tiktok",
-      "title": "Help Center is Live",
-      "url": "https://developers.tiktok-shops.com/documents/document/235313"
-    },
-    {
-      "id": "235306",
-      "platform": "tiktok",
-      "title": "Significant Open API Updates",
-      "url": "https://developers.tiktok-shops.com/documents/document/235306"
-    },
-    {
-      "id": "235314",
-      "platform": "tiktok",
-      "title": " Authorization logic changes",
-      "url": "https://developers.tiktok-shops.com/documents/document/235314"
-    },
-    {
-      "id": "235315",
-      "platform": "tiktok",
-      "title": "Order Sensitive Data Masking",
-      "url": "https://developers.tiktok-shops.com/documents/document/235315"
-    },
-    {
-      "id": "235307",
-      "platform": "tiktok",
-      "title": "Shipping Process Changes",
-      "url": "https://developers.tiktok-shops.com/documents/document/235307"
-    },
-    {
-      "id": "235312",
-      "platform": "tiktok",
-      "title": "Changes in Product Categories",
-      "url": "https://developers.tiktok-shops.com/documents/document/235312"
-    },
-    {
-      "id": "235299",
-      "platform": "tiktok",
-      "title": "Traffic Limits for APIs",
-      "url": "https://developers.tiktok-shops.com/documents/document/235299"
-    },
-    {
-      "id": "235243",
-      "platform": "tiktok",
-      "title": "Risk-Order split/combine APIs",
-      "url": "https://developers.tiktok-shops.com/documents/document/235243"
-    },
-    {
-      "id": "235679",
-      "platform": "tiktok",
-      "title": "Risk - Global Product API",
-      "url": "https://developers.tiktok-shops.com/documents/document/235679"
-    },
-    {
-      "id": "235937",
-      "platform": "tiktok",
-      "title": "Important - New Open API & Product Open API updates",
-      "url": "https://developers.tiktok-shops.com/documents/document/235937"
-    },
-    {
-      "id": "235300",
-      "platform": "tiktok",
-      "title": "New API - Product API is launched",
-      "url": "https://developers.tiktok-shops.com/documents/document/235300"
-    },
-    {
-      "id": "235302",
-      "platform": "tiktok",
-      "title": "New API - Authorization API",
-      "url": "https://developers.tiktok-shops.com/documents/document/235302"
-    },
-    {
-      "id": "235309",
-      "platform": "tiktok",
-      "title": "New API - Finance API is Live!",
-      "url": "https://developers.tiktok-shops.com/documents/document/235309"
-    },
-    {
-      "id": "235308",
-      "platform": "tiktok",
-      "title": "New API - Reverse Order API",
-      "url": "https://developers.tiktok-shops.com/documents/document/235308"
-    },
-    {
-      "id": "235310",
-      "platform": "tiktok",
-      "title": "New APIs - Global Products & CancelOrder & Webhook Update",
-      "url": "https://developers.tiktok-shops.com/documents/document/235310"
-    },
-    {
-      "id": "235316",
-      "platform": "tiktok",
-      "title": "Order & Logistics API Update",
-      "url": "https://developers.tiktok-shops.com/documents/document/235316"
-    },
-    {
-      "id": "235317",
-      "platform": "tiktok",
-      "title": "Webhook & Shop API Update",
-      "url": "https://developers.tiktok-shops.com/documents/document/235317"
-    },
-    {
-      "id": "235318",
-      "platform": "tiktok",
-      "title": "Product API Update",
-      "url": "https://developers.tiktok-shops.com/documents/document/235318"
-    },
-    {
-      "id": "235319",
-      "platform": "tiktok",
-      "title": "Order API Update",
-      "url": "https://developers.tiktok-shops.com/documents/document/235319"
-    },
-    {
-      "id": "235320",
-      "platform": "tiktok",
-      "title": "Order API & Webhook Update",
-      "url": "https://developers.tiktok-shops.com/documents/document/235320"
-    },
-    {
-      "id": "235675",
-      "platform": "tiktok",
-      "title": "GetOrderDetail API update",
-      "url": "https://developers.tiktok-shops.com/documents/document/235675"
-    },
-    {
-      "id": 565,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/565"
-    },
-    {
-      "id": 810,
+      "id": 2114,
       "platform": "lazada",
-      "title": "Get Platform Products API Replacement",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=810"
+      "title": "Old order cancellation API is going offline soon",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2114"
     },
     {
-      "id": 564,
-      "platform": "shopee",
-      "title": "[Important] Open API 1.0 Deprecation Plan",
-      "url": "https://open.shopee.com/announcements/564"
-    },
-    {
-      "id": 556,
-      "platform": "shopee",
-      "title": "[Important] Open API 1.0 Deprecation Plan",
-      "url": "https://open.shopee.com/announcements/556"
-    },
-    {
-      "id": 805,
+      "id": 2113,
       "platform": "lazada",
-      "title": "GSP ProductAPI-发布GSP商品成功率改善",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=805"
+      "title": "TLS 1.0 is offline",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2113"
     },
     {
-      "id": 563,
-      "platform": "shopee",
-      "title": "[Action Required] Fill in mandatory attributes before transition period ends",
-      "url": "https://open.shopee.com/announcements/563"
-    },
-    {
-      "id": 557,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/557"
-    },
-    {
-      "id": 562,
-      "platform": "shopee",
-      "title": "Chat API updates",
-      "url": "https://open.shopee.com/announcements/562"
-    },
-    {
-      "id": 554,
-      "platform": "shopee",
-      "title": "[MY] Important Update for Logistic Channel Name",
-      "url": "https://open.shopee.com/announcements/554"
-    },
-    {
-      "id": 553,
-      "platform": "shopee",
-      "title": "Support existing app upgrade and can get existing authorized shop's token",
-      "url": "https://open.shopee.com/announcements/553"
-    },
-    {
-      "id": 548,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/548"
-    },
-    {
-      "id": 790,
+      "id": 2104,
       "platform": "lazada",
-      "title": "Get Platform Products API replacement",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=790"
+      "title": "LAZADA D6 Campaign Downgrade Plan",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2104"
     },
     {
-      "id": 789,
+      "id": 2100,
       "platform": "lazada",
-      "title": "New features will be online - some product APIs support Json format",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=789"
+      "title": "Seller Notification Centre API is online",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2100"
     },
     {
-      "id": 550,
-      "platform": "shopee",
-      "title": "Launch of the Service Partner Program",
-      "url": "https://open.shopee.com/announcements/550"
-    },
-    {
-      "id": 549,
-      "platform": "shopee",
-      "title": "[Announcement] Item related push services temporarily shut down",
-      "url": "https://open.shopee.com/announcements/549"
-    },
-    {
-      "id": 780,
+      "id": 1989,
       "platform": "lazada",
-      "title": "GetTransactionDetails API is going offline soon",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=780"
+      "title": "【Important】Authorization Upgrade on Lazada Open Platform",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=1989"
     },
     {
-      "id": 547,
-      "platform": "shopee",
-      "title": "NEW Platform Partner Rules",
-      "url": "https://open.shopee.com/announcements/547"
+      "id": "66c5d9b6290e4202f857d5b7",
+      "platform": "tiktok",
+      "title": "US and UK Markets: New Properties Added to Finance API",
+      "url": "https://partner.tiktokshop.com/docv2/page/66c5d9b6290e4202f857d5b7"
     },
     {
-      "id": 546,
-      "platform": "shopee",
-      "title": "[Action Required] Declare your IT assets on Open Platform",
-      "url": "https://open.shopee.com/announcements/546"
+      "id": "66c5d9b4e863d902fac36b74",
+      "platform": "tiktok",
+      "title": "New Webhook: Product Creation",
+      "url": "https://partner.tiktokshop.com/docv2/page/66c5d9b4e863d902fac36b74"
     },
     {
-      "id": 544,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcements/544"
+      "id": "66b5c41e0d6ef902f1b49220",
+      "platform": "tiktok",
+      "title": "For the SEA market: Various categories will require the Mandatory attribute - \"Dangerous Goods\"",
+      "url": "https://partner.tiktokshop.com/docv2/page/66b5c41e0d6ef902f1b49220"
     },
     {
-      "id": 545,
-      "platform": "shopee",
-      "title": "[MY] Important Update for Logistic Channel Name",
-      "url": "https://open.shopee.com/announcements/545"
+      "id": "66b58ce40d6ef902f1b3bc27",
+      "platform": "tiktok",
+      "title": "For the PH market: Updates to Mandatory attributes on Fresh and Frozen related categories",
+      "url": "https://partner.tiktokshop.com/docv2/page/66b58ce40d6ef902f1b3bc27"
     },
     {
-      "id": 773,
-      "platform": "lazada",
-      "title": "Updates to Lazada Open Platform Terms of Use",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=773"
+      "id": "66ad61aab3950e02ff3c345a",
+      "platform": "tiktok",
+      "title": "US and UK Markets: Product Category Recommendation",
+      "url": "https://partner.tiktokshop.com/docv2/page/66ad61aab3950e02ff3c345a"
     },
     {
-      "id": 766,
-      "platform": "lazada",
-      "title": "Bday Open API Downgrade Plan",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=766"
+      "id": "66978e5099c26c02ff76472b",
+      "platform": "tiktok",
+      "title": "New APIs and Webhook for Affiliates (Beta)",
+      "url": "https://partner.tiktokshop.com/docv2/page/66978e5099c26c02ff76472b"
     },
     {
-      "id": 753,
-      "platform": "lazada",
-      "title": "LazOP Policy Update - low API success rate email notification and punishment",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=753"
+      "id": "66ab20d2d452bf02e7ef8f3b",
+      "platform": "tiktok",
+      "title": "Adding SKU and Product limit to Promotion API",
+      "url": "https://partner.tiktokshop.com/docv2/page/66ab20d2d452bf02e7ef8f3b"
     },
     {
-      "id": 542,
-      "platform": "shopee",
-      "title": "[MY] Important Update for Open Platform Logistic Channel Related API",
-      "url": "https://open.shopee.com/announcements/542"
+      "id": "66957bc499c26c02ff6c57a9",
+      "platform": "tiktok",
+      "title": "US Market: Mandatory hazmat attributes added",
+      "url": "https://partner.tiktokshop.com/docv2/page/66957bc499c26c02ff6c57a9"
     },
     {
-      "id": 541,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcement/541"
+      "id": "66957b8688c8b702f75ff09c",
+      "platform": "tiktok",
+      "title": "New Promotion APIs: Gift With Purchase and Free Sample",
+      "url": "https://partner.tiktokshop.com/docv2/page/66957b8688c8b702f75ff09c"
     },
     {
-      "id": 538,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcement/538"
+      "id": "6695695742784f0300c36d38",
+      "platform": "tiktok",
+      "title": "For the TH market: Updates to Mandatory Certifications for Certain Product Categories",
+      "url": "https://partner.tiktokshop.com/docv2/page/6695695742784f0300c36d38"
     },
     {
-      "id": 537,
-      "platform": "shopee",
-      "title": "Open platform supports Argentine (AR) market",
-      "url": "https://open.shopee.com/announcement/537"
+      "id": "668c6009737c3702ef0269df",
+      "platform": "tiktok",
+      "title": "New fields added to Product API for ShopAds",
+      "url": "https://partner.tiktokshop.com/docv2/page/668c6009737c3702ef0269df"
     },
     {
-      "id": 536,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcement/536"
+      "id": "666bb8aa9962ee02c1826afe",
+      "platform": "tiktok",
+      "title": "For the TH market: Updates to Mandatory Attributes and Product Certifications for Certain Product Categories",
+      "url": "https://partner.tiktokshop.com/docv2/page/666bb8aa9962ee02c1826afe"
     },
     {
-      "id": 535,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcement/535"
+      "id": "6658fcae39313f02dd4e1b47",
+      "platform": "tiktok",
+      "title": "US Market: Product Category Expansion",
+      "url": "https://partner.tiktokshop.com/docv2/page/6658fcae39313f02dd4e1b47"
     },
     {
-      "id": 533,
-      "platform": "shopee",
-      "title": "[Update] Category Tree Adjustment Deployed Successfully in BR",
-      "url": "https://open.shopee.com/announcement/533"
+      "id": "6658fdefa4dd6c02c335c538",
+      "platform": "tiktok",
+      "title": "US and UK Markets: Product Information Quality APIs",
+      "url": "https://partner.tiktokshop.com/docv2/page/6658fdefa4dd6c02c335c538"
     },
     {
-      "id": 532,
-      "platform": "shopee",
-      "title": "[MY] Important Update for Open Platform AWB API (SEA & Self Collection)",
-      "url": "https://open.shopee.com/announcement/532"
+      "id": "661f02b62e1a5d02e267d159",
+      "platform": "tiktok",
+      "title": "Authorization Page Updates",
+      "url": "https://partner.tiktokshop.com/docv2/page/661f02b62e1a5d02e267d159"
     },
     {
-      "id": 530,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcement/530"
+      "id": "66329335cb261f02e0b66da9",
+      "platform": "tiktok",
+      "title": "For the UK market: Updates to Mandatory Attributes and Product Certifications for Certain Product Categories",
+      "url": "https://partner.tiktokshop.com/docv2/page/66329335cb261f02e0b66da9"
     },
     {
-      "id": 711,
-      "platform": "lazada",
-      "title": "Product API Update",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=711"
+      "id": "6626f71ad3869d02da297554",
+      "platform": "tiktok",
+      "title": "ARD Updates",
+      "url": "https://partner.tiktokshop.com/docv2/page/6626f71ad3869d02da297554"
     },
     {
-      "id": 527,
-      "platform": "shopee",
-      "title": "Category Tree Adjustment in January 2022",
-      "url": "https://open.shopee.com/announcement/527"
+      "id": "662153a2bfca1402d27eb5f5",
+      "platform": "tiktok",
+      "title": "For SEA market: Upcoming changes on tracking number availability",
+      "url": "https://partner.tiktokshop.com/docv2/page/662153a2bfca1402d27eb5f5"
     },
     {
-      "id": 526,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcement/526"
+      "id": "661d36d77dcc9602c67ecd0a",
+      "platform": "tiktok",
+      "title": "Development Shops supports creating accounts for cross-border shops",
+      "url": "https://partner.tiktokshop.com/docv2/page/661d36d77dcc9602c67ecd0a"
     },
     {
-      "id": 525,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcement/525"
+      "id": "660e1827941bca02c0aaab6c",
+      "platform": "tiktok",
+      "title": "Virtual Bundles are now available in Order Details",
+      "url": "https://partner.tiktokshop.com/docv2/page/660e1827941bca02c0aaab6c"
     },
     {
-      "id": 524,
-      "platform": "shopee",
-      "title": "Policy Update on Listings Migration",
-      "url": "https://open.shopee.com/announcement/524"
+      "id": "660d8ff9a2d6d902c70a043f",
+      "platform": "tiktok",
+      "title": "For UK Market: Support Item Level Cancellation",
+      "url": "https://partner.tiktokshop.com/docv2/page/660d8ff9a2d6d902c70a043f"
     },
     {
-      "id": 523,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcement/523"
+      "id": "660d8bab589cba02c0ee3c28",
+      "platform": "tiktok",
+      "title": "For US Market: New property address_level field added to Orders API",
+      "url": "https://partner.tiktokshop.com/docv2/page/660d8bab589cba02c0ee3c28"
     },
     {
-      "id": 520,
-      "platform": "shopee",
-      "title": "Significant Open API Updates",
-      "url": "https://open.shopee.com/announcement/520"
+      "id": "65e97f2d27659802db37f0cf",
+      "platform": "tiktok",
+      "title": "For US Market: Replacement orders now available",
+      "url": "https://partner.tiktokshop.com/docv2/page/65e97f2d27659802db37f0cf"
     },
     {
-      "id": 519,
-      "platform": "shopee",
-      "title": "[Action Required - Shopee Open API] Sandbox Testing for Category Tree Adjustment",
-      "url": "https://open.shopee.com/announcement/519"
+      "id": "65bdc016ae1e2602d9a30922",
+      "platform": "tiktok",
+      "title": "New Webhook: Product Update",
+      "url": "https://partner.tiktokshop.com/docv2/page/65bdc016ae1e2602d9a30922"
     },
     {
-      "id": 673,
-      "platform": "lazada",
-      "title": "12.12 Open API Downgrade Plan",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=673"
+      "id": "65d3fea12184f602e3da78b1",
+      "platform": "tiktok",
+      "title": "UK Market Only: Size Chart is now mandatory for Product Listings",
+      "url": "https://partner.tiktokshop.com/docv2/page/65d3fea12184f602e3da78b1"
     },
     {
-      "id": 517,
-      "platform": "shopee",
-      "title": "[Reminder] Updated your IT asset information on Shopee Open Platform？",
-      "url": "https://open.shopee.com/announcement/517"
+      "id": "65bc5cf0e1a05b02db89d1a1",
+      "platform": "tiktok",
+      "title": "New Endpoint: Listing Schema",
+      "url": "https://partner.tiktokshop.com/docv2/page/65bc5cf0e1a05b02db89d1a1"
     },
     {
-      "id": 515,
-      "platform": "shopee",
-      "title": "Significant Open API Updates",
-      "url": "https://open.shopee.com/announcement/515"
+      "id": "65b8ca9afa59d87f8384eb4d",
+      "platform": "tiktok",
+      "title": "For SEA markets: Introducing Development Shops",
+      "url": "https://partner.tiktokshop.com/docv2/page/65b8ca9afa59d87f8384eb4d"
     },
     {
-      "id": 512,
-      "platform": "shopee",
-      "title": "Significant Open API Updates",
-      "url": "https://open.shopee.com/announcement/512"
+      "id": "65a8c3944f1c9102d961b181",
+      "platform": "tiktok",
+      "title": "For SEA market: Upcoming changes on tracking number availability in Orders API",
+      "url": "https://partner.tiktokshop.com/docv2/page/65a8c3944f1c9102d961b181"
     },
     {
-      "id": 513,
-      "platform": "shopee",
-      "title": "[Action Required] BR Category Tree Adjustment in Jan 2022",
-      "url": "https://open.shopee.com/announcement/513"
+      "id": "65a854399e905f02dfed7ab9",
+      "platform": "tiktok",
+      "title": "Return amount detail information available in Search Return API",
+      "url": "https://partner.tiktokshop.com/docv2/page/65a854399e905f02dfed7ab9"
     },
     {
-      "id": 644,
-      "platform": "lazada",
-      "title": "Product API - The API related to the saleable inventory modification has been launched",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=644"
+      "id": "65a851046032c702e0bdbee6",
+      "platform": "tiktok",
+      "title": "For US local sellers: Retail Delivery Fee is added to API",
+      "url": "https://partner.tiktokshop.com/docv2/page/65a851046032c702e0bdbee6"
     },
     {
-      "id": 640,
-      "platform": "lazada",
-      "title": "GetOrders throttling limit  on D11",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=640"
+      "id": "65a848f4ea874002e1f672d1",
+      "platform": "tiktok",
+      "title": "US Only: Order Cancellation Workflow Updates",
+      "url": "https://partner.tiktokshop.com/docv2/page/65a848f4ea874002e1f672d1"
     },
     {
-      "id": 637,
-      "platform": "lazada",
-      "title": "D11 Open API Downgrade Plan",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=637"
+      "id": "65a848b169663802db44999c",
+      "platform": "tiktok",
+      "title": "For US local sellers: item level tax rate added to Order resource",
+      "url": "https://partner.tiktokshop.com/docv2/page/65a848b169663802db44999c"
     },
     {
-      "id": 510,
-      "platform": "shopee",
-      "title": "Significant Open API Updates",
-      "url": "https://open.shopee.com/announcement/510"
+      "id": "65a835db4420b502df0a9db3",
+      "platform": "tiktok",
+      "title": "Delivery instructions now available in Order API",
+      "url": "https://partner.tiktokshop.com/docv2/page/65a835db4420b502df0a9db3"
     },
     {
-      "id": 626,
-      "platform": "lazada",
-      "title": "Product API -getProducts/getProductItem marketing images field is online",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=626"
+      "id": "65a0693b9e905f02dfa80acf",
+      "platform": "tiktok",
+      "title": "SLA information now available in Order API",
+      "url": "https://partner.tiktokshop.com/docv2/page/65a0693b9e905f02dfa80acf"
     },
     {
-      "id": 623,
-      "platform": "lazada",
-      "title": "Product API update \"special_from_date\" field not mandatory when setting up\"special_price\"",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=623"
+      "id": "65a052028350e302e20d21f1",
+      "platform": "tiktok",
+      "title": "Draft status available for Create Product API",
+      "url": "https://partner.tiktokshop.com/docv2/page/65a052028350e302e20d21f1"
     },
     {
-      "id": 507,
-      "platform": "shopee",
-      "title": "Important updates for Open Platform Chat API",
-      "url": "https://open.shopee.com/announcement/507"
+      "id": "65a0406cb8a10102da32c57d",
+      "platform": "tiktok",
+      "title": "Changes to Create Product and Edit Product APIs",
+      "url": "https://partner.tiktokshop.com/docv2/page/65a0406cb8a10102da32c57d"
     },
     {
-      "id": 504,
-      "platform": "shopee",
-      "title": "Significant Open API Updates",
-      "url": "https://open.shopee.com/announcement/504"
+      "id": "65a029e6a7406102df5e951e",
+      "platform": "tiktok",
+      "title": "Changes to Check Listing Prerequisite API in v202312",
+      "url": "https://partner.tiktokshop.com/docv2/page/65a029e6a7406102df5e951e"
     },
     {
-      "id": 506,
-      "platform": "shopee",
-      "title": "[Final reminder] Important updates to Shopee Open Platform seller accounts",
-      "url": "https://open.shopee.com/announcement/506"
+      "id": "659e0fff81b5ab02dfc154b7",
+      "platform": "tiktok",
+      "title": "New function: Pre-publish checklist",
+      "url": "https://partner.tiktokshop.com/docv2/page/659e0fff81b5ab02dfc154b7"
     },
     {
-      "id": 503,
-      "platform": "shopee",
-      "title": "Important reminder for Open Platform policies",
-      "url": "https://open.shopee.com/announcement/503"
+      "id": "658c988a92e82502df316c54",
+      "platform": "tiktok",
+      "title": "Seller Center Development Shops",
+      "url": "https://partner.tiktokshop.com/docv2/page/658c988a92e82502df316c54"
     },
     {
-      "id": 578,
-      "platform": "lazada",
-      "title": "Sandbox Test function has been officially launched",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=578"
+      "id": "65852b58bb426602df90ebba",
+      "platform": "tiktok",
+      "title": "Removal of \"unable to deliver to buyer address\" as a cancellation reason in ID, VN, TH, SG, PH Markets",
+      "url": "https://partner.tiktokshop.com/docv2/page/65852b58bb426602df90ebba"
     },
     {
-      "id": 499,
-      "platform": "shopee",
-      "title": "[Action Required] Fill in mandatory attributes before transition period ends",
-      "url": "https://open.shopee.com/announcement/499"
+      "id": "656d9d5fe87cdf02c1625d01",
+      "platform": "tiktok",
+      "title": "For US and UK markets: Introducing \"On Hold\" order status",
+      "url": "https://partner.tiktokshop.com/docv2/page/656d9d5fe87cdf02c1625d01"
     },
     {
-      "id": 498,
-      "platform": "shopee",
-      "title": "[MY] Label Air Waybill with COD tag correctly",
-      "url": "https://open.shopee.com/announcement/498"
+      "id": "656d70d9cca08202dbc037f8",
+      "platform": "tiktok",
+      "title": "New property added to Get Category Rules API to indicate whether the package dimension is mandatory",
+      "url": "https://partner.tiktokshop.com/docv2/page/656d70d9cca08202dbc037f8"
     },
     {
-      "id": 496,
-      "platform": "shopee",
-      "title": "Significant Open API Updates",
-      "url": "https://open.shopee.com/announcement/496"
+      "id": "6566dd463022b702d8841afb",
+      "platform": "tiktok",
+      "title": "Upcoming Updates to TikTok Shop Open API (Release: December 2023/Q1 2024)",
+      "url": "https://partner.tiktokshop.com/docv2/page/6566dd463022b702d8841afb"
     },
     {
-      "id": 494,
-      "platform": "shopee",
-      "title": "[Important] CO & CL Category Tree Adjustment on 22 Sep 2021",
-      "url": "https://open.shopee.com/announcement/494"
+      "id": "655d791328310802de8aa39d",
+      "platform": "tiktok",
+      "title": "TikTok Shop Open API Release Update - November 2023",
+      "url": "https://partner.tiktokshop.com/docv2/page/655d791328310802de8aa39d"
     },
     {
-      "id": 493,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcement/493"
+      "id": "655c6230f4488c02df97fb13",
+      "platform": "tiktok",
+      "title": "For local sellers in the UK market: introducing item level order split shipping",
+      "url": "https://partner.tiktokshop.com/docv2/page/655c6230f4488c02df97fb13"
     },
     {
-      "id": 492,
-      "platform": "shopee",
-      "title": "[Action Required] New Penalty System and Data Protection Policy updates",
-      "url": "https://open.shopee.com/announcement/492"
+      "id": "65532219ff8ea502bd3df6a2",
+      "platform": "tiktok",
+      "title": "For local and cross-border sellers in the US market: Shipping information update time window extended to 72 hours",
+      "url": "https://partner.tiktokshop.com/docv2/page/65532219ff8ea502bd3df6a2"
     },
     {
-      "id": 491,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcement/491"
+      "id": "654dc3fca1dde702c05579f8",
+      "platform": "tiktok",
+      "title": "New shipping label format launched in the ID, MY and VN markets",
+      "url": "https://partner.tiktokshop.com/docv2/page/654dc3fca1dde702c05579f8"
     },
     {
-      "id": 489,
-      "platform": "shopee",
-      "title": "[Important] CO and CL Category Tree Adjustment in Sep 2021",
-      "url": "https://open.shopee.com/announcement/489"
+      "id": "654b225e080aee02c31ac1f8",
+      "platform": "tiktok",
+      "title": "New property added to Recommend Category API to indicate whether sellers can use the recommended category",
+      "url": "https://partner.tiktokshop.com/docv2/page/654b225e080aee02c31ac1f8"
     },
     {
-      "id": 487,
-      "platform": "shopee",
-      "title": "Buyer Info masking ",
-      "url": "https://open.shopee.com/announcement/487"
+      "id": "6543158d6f932c02ba1b78a8",
+      "platform": "tiktok",
+      "title": "For local sellers in the US market: Warning information added to Mark Package As Shipped API",
+      "url": "https://partner.tiktokshop.com/docv2/page/6543158d6f932c02ba1b78a8"
     },
     {
-      "id": 486,
-      "platform": "shopee",
-      "title": "Significant OpenAPI Updates",
-      "url": "https://open.shopee.com/announcement/486"
+      "id": "6539de15a3d5b702be6167e4",
+      "platform": "tiktok",
+      "title": "Black Friday Cyber Monday Campaign Developer Update",
+      "url": "https://partner.tiktokshop.com/docv2/page/6539de15a3d5b702be6167e4"
     },
     {
-      "id": 485,
-      "platform": "shopee",
-      "title": "Important updates to Shopee Open Platform seller accounts",
-      "url": "https://open.shopee.com/announcement/485"
+      "id": "653779d99971b602ba81187d",
+      "platform": "tiktok",
+      "title": "Shortened string length for buyer_email in Get Order Detail API",
+      "url": "https://partner.tiktokshop.com/docv2/page/653779d99971b602ba81187d"
     },
     {
-      "id": 520,
-      "platform": "lazada",
-      "title": "LAZADA 9.9 Product Listing Downgrade Plan",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=520"
-    },
-    {
-      "id": 507,
-      "platform": "lazada",
-      "title": "LazOP 2.0 - Custom variant (sales) attribute",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=507"
-    },
-    {
-      "id": 449,
-      "platform": "lazada",
-      "title": "LazOP 2.0 Overview",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=449"
-    },
-    {
-      "id": 309,
-      "platform": "lazada",
-      "title": "Push： New push event online \"Product\"",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=309"
-    },
-    {
-      "id": 205,
-      "platform": "lazada",
-      "title": "New API-/order/repack live",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=205"
-    },
-    {
-      "id": 201,
-      "platform": "lazada",
-      "title": "Getproducts API Limit the total number of pagination queries（Effective 2021.08.01）",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=201"
-    },
-    {
-      "id": 200,
-      "platform": "lazada",
-      "title": "Order Status Update（June 29）",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=200"
-    },
-    {
-      "id": 135,
-      "platform": "lazada",
-      "title": "GetProducts offline the search field and online filter field（June 22）",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=135"
-    },
-    {
-      "id": 134,
-      "platform": "lazada",
-      "title": "GetProducts and GetProductItem can get the item level product image（June 22）",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=134"
-    },
-    {
-      "id": 133,
-      "platform": "lazada",
-      "title": "New API DeactivateProduct online （June 22）",
-      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=133"
+      "id": "6509b2aec16ffe02b8d7623c",
+      "platform": "tiktok",
+      "title": "Introducing API version 202309",
+      "url": "https://partner.tiktokshop.com/docv2/page/6509b2aec16ffe02b8d7623c"
     }
   ]
 }

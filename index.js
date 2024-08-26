@@ -13,7 +13,15 @@ const file = join(__dirname, "db", "db.json");
 const adapter = new JSONFile(file);
 const db = new Low(adapter);
 
-// const consumer = new WebhookConsumer(process.env.WEBHOOK_URL);
+const consumers = [];
+
+const notify = (message) => {
+  const promises = consumers.map((consumer) => {
+    return consumer.send(message);
+  })
+
+  return parallelPromise(promises);
+};
 
 const insertAnnouncement = (announcement) => {
   const _announcement = db.data.announcements.find(
@@ -29,11 +37,16 @@ const insertAnnouncement = (announcement) => {
 };
 
 const main = async () => {
+  // Inint comsumer
+  if (process.env.WEBHOOK_URL) {
+    consumer = new WebhookConsumer(process.env.WEBHOOK_URL);
+  }
+
   // Load database
   await db.read();
   db.data = db.data || { announcements: [] };
 
-  const scrapers = [lazada.scrape(), shopee.scrape(), tiktok.scrape()];
+  const scrapers = [tiktok.scrape(), lazada.scrape(), shopee.scrape()];
   parallelPromise(scrapers).then((results) => {
     const announcements = results.reduce((acc, value) => {
       acc.push(...value);
@@ -45,8 +58,7 @@ const main = async () => {
         const { isNew } = insertAnnouncement(announcement);
         if (isNew) {
           db.write();
-          return delay(1000);
-          // return consumer.send(announcement).then(() => delay(1000));
+          return notify(announcement).then(() => delay(1000));
         }
 
         return Promise.resolve();
