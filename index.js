@@ -51,7 +51,7 @@ const insertAnnouncement = (announcement) => {
 const main = async () => {
   // Inint comsumer
   if (process.env.WEBHOOK_URL) {
-    consumer = new WebhookConsumer(process.env.WEBHOOK_URL);
+    consumers.push(new WebhookConsumer(process.env.WEBHOOK_URL));
   }
 
   // Load database
