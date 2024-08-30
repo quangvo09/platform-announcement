@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 967,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Open Platform AWB API - 2-Day Delivery",
+      "url": "https://open.shopee.com/announcements/967",
+      "createdAt": 1725015853
+    },
+    {
       "id": "66cbf1e7597571030d9e5fdb",
       "platform": "tiktok",
       "title": "Sunsetting Listing Schemas Endpoint",
