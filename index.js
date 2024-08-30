@@ -3,10 +3,13 @@ import { JSONFile, Low } from "lowdb";
 import { dirname, join } from "path";
 import { fileURLToPath } from "url";
 
+import generateFeed from "./utils/feeder.js";
+
 import * as lazada from "./platforms/lazada.js";
 import * as shopee from "./platforms/shopee.js";
 import * as tiktok from "./platforms/tiktok.js";
-import generateFeed from "./utils/feeder.js";
+
+import { WebhookConsumer } from "./consumers/webhook_consumer.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
