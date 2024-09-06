@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 2024,
+      "platform": "lazada",
+      "title": "Lazada Marketplace Ease Mode Open API release",
+      "url": "https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2024",
+      "createdAt": 1706793995
+    },
+    {
       "id": 967,
       "platform": "shopee",
       "title": "[MY] Important Update for Open Platform AWB API - 2-Day Delivery",

@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 06 Sep 2024 01:28:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 09:02:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,9 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>lazada</category>
         <category>shopee</category>
         <category>tiktok</category>
-        <category>lazada</category>
         <item>
             <title><![CDATA[[SHOPEE] - [MY] Important Update for Open Platform AWB API - 2-Day Delivery]]></title>
             <link>https://open.shopee.com/announcements/967</link>
@@ -486,6 +486,16 @@
             <content:encoded><![CDATA[New Endpoint: Listing Schema]]></content:encoded>
             <category>tiktok</category>
             <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[LAZADA] - Lazada Marketplace Ease Mode Open API release]]></title>
+            <link>https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2024</link>
+            <guid>https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2024</guid>
+            <pubDate>Thu, 01 Feb 2024 13:26:35 GMT</pubDate>
+            <description><![CDATA[Lazada Marketplace Ease Mode Open API release]]></description>
+            <content:encoded><![CDATA[Lazada Marketplace Ease Mode Open API release]]></content:encoded>
+            <category>lazada</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - For SEA markets: Introducing Development Shops]]></title>
