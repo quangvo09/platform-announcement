@@ -58,7 +58,9 @@ const main = async () => {
   await db.read();
   db.data = db.data || { announcements: [] };
 
+  let hasNewAnnouncement = false;
   const scrapers = [tiktok.scrape(), lazada.scrape(), shopee.scrape()];
+
   await parallelPromise(scrapers).then((results) => {
     const announcements = results.reduce((acc, value) => {
       acc.push(...value);
@@ -68,6 +70,11 @@ const main = async () => {
     return announcements.reduce((promise, announcement) => {
       return promise.finally(() => {
         const { isNew } = insertAnnouncement(announcement);
+
+        if (isNew && !hasNewAnnouncement) {
+          hasNewAnnouncement = true;
+        }
+
         if (isNew) {
           db.write();
           return notify(announcement).then(() => delay(1000));
@@ -78,7 +85,10 @@ const main = async () => {
     }, Promise.resolve());
   });
 
-  await feedie(db.data.announcements)
+  if (hasNewAnnouncement) {
+    console.log("Generate new feed...");
+    await feedie(db.data.announcements)
+  }
 };
 
 const parallelPromise = (promises) => {
