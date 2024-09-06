@@ -12,8 +12,8 @@ export const scrape = async () => {
         id: d.id,
         platform: "lazada",
         title: d.enTitle,
-        url: `https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=${d.id}`,
-        createdAt: +d.gmtCreate / 1000
+        url: `https://open.lazada.com/apps/announcement/detail?docId=${d.id}`,
+        createdAt: +d.gmtModified / 1000
       }));
     return announcements;
   } catch (error) {

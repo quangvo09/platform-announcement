@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 06 Sep 2024 09:02:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 10:48:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,29 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>lazada</category>
         <category>shopee</category>
+        <category>lazada</category>
         <category>tiktok</category>
+        <item>
+            <title><![CDATA[[LAZADA] - Lazada Marketplace Ease Mode Open API release]]></title>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=2024</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=2024</guid>
+            <pubDate>Fri, 06 Sep 2024 08:55:11 GMT</pubDate>
+            <description><![CDATA[Lazada Marketplace Ease Mode Open API release]]></description>
+            <content:encoded><![CDATA[Lazada Marketplace Ease Mode Open API release]]></content:encoded>
+            <category>lazada</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[LAZADA] - LAZADA D9 Campaign Downgrade Plan]]></title>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=121760</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=121760</guid>
+            <pubDate>Thu, 05 Sep 2024 07:24:37 GMT</pubDate>
+            <description><![CDATA[LAZADA D9 Campaign Downgrade Plan]]></description>
+            <content:encoded><![CDATA[LAZADA D9 Campaign Downgrade Plan]]></content:encoded>
+            <category>lazada</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [MY] Important Update for Open Platform AWB API - 2-Day Delivery]]></title>
             <link>https://open.shopee.com/announcements/967</link>
@@ -49,8 +69,8 @@
         </item>
         <item>
             <title><![CDATA[[LAZADA] - IMPORTANT UPDATES ON CATEGORY ATTRIBUTES]]></title>
-            <link>https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121763</link>
-            <guid>https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121763</guid>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=121763</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=121763</guid>
             <pubDate>Fri, 23 Aug 2024 07:23:01 GMT</pubDate>
             <description><![CDATA[IMPORTANT UPDATES ON CATEGORY ATTRIBUTES]]></description>
             <content:encoded><![CDATA[IMPORTANT UPDATES ON CATEGORY ATTRIBUTES]]></content:encoded>
@@ -58,12 +78,12 @@
             <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[TIKTOK] - US and UK Markets: New Properties Added to Finance API]]></title>
+            <title><![CDATA[[TIKTOK] - US and UK markets: New properties added to Finance API]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/66c5d9b6290e4202f857d5b7</link>
             <guid>https://partner.tiktokshop.com/docv2/page/66c5d9b6290e4202f857d5b7</guid>
             <pubDate>Wed, 21 Aug 2024 12:18:18 GMT</pubDate>
-            <description><![CDATA[US and UK Markets: New Properties Added to Finance API]]></description>
-            <content:encoded><![CDATA[US and UK Markets: New Properties Added to Finance API]]></content:encoded>
+            <description><![CDATA[US and UK markets: New properties added to Finance API]]></description>
+            <content:encoded><![CDATA[US and UK markets: New properties added to Finance API]]></content:encoded>
             <category>tiktok</category>
             <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
@@ -98,22 +118,32 @@
             <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[LAZADA] - LAZADA D9 Campaign Downgrade Plan]]></title>
-            <link>https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121760</link>
-            <guid>https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121760</guid>
-            <pubDate>Mon, 19 Aug 2024 08:25:33 GMT</pubDate>
-            <description><![CDATA[LAZADA D9 Campaign Downgrade Plan]]></description>
-            <content:encoded><![CDATA[LAZADA D9 Campaign Downgrade Plan]]></content:encoded>
+            <title><![CDATA[[LAZADA] - Notification - Mandatory Category Attributes]]></title>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=2117</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=2117</guid>
+            <pubDate>Mon, 19 Aug 2024 08:30:14 GMT</pubDate>
+            <description><![CDATA[Notification - Mandatory Category Attributes]]></description>
+            <content:encoded><![CDATA[Notification - Mandatory Category Attributes]]></content:encoded>
             <category>lazada</category>
             <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[LAZADA] - AI Recommended Image Sequences feature coming soon]]></title>
-            <link>https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121756</link>
-            <guid>https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=121756</guid>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=121756</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=121756</guid>
             <pubDate>Mon, 19 Aug 2024 01:41:57 GMT</pubDate>
             <description><![CDATA[AI Recommended Image Sequences feature coming soon]]></description>
             <content:encoded><![CDATA[AI Recommended Image Sequences feature coming soon]]></content:encoded>
+            <category>lazada</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[LAZADA] - GSP API-CreateGlobalProduct ,Input parameter update]]></title>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=2127</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=2127</guid>
+            <pubDate>Mon, 12 Aug 2024 05:07:44 GMT</pubDate>
+            <description><![CDATA[GSP API-CreateGlobalProduct ,Input parameter update]]></description>
+            <content:encoded><![CDATA[GSP API-CreateGlobalProduct ,Input parameter update]]></content:encoded>
             <category>lazada</category>
             <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
         </item>
@@ -258,16 +288,6 @@
             <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[LAZADA] - GSP API-CreateGlobalProduct ,Input parameter update]]></title>
-            <link>https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2127</link>
-            <guid>https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2127</guid>
-            <pubDate>Fri, 05 Jul 2024 03:25:21 GMT</pubDate>
-            <description><![CDATA[GSP API-CreateGlobalProduct ,Input parameter update]]></description>
-            <content:encoded><![CDATA[GSP API-CreateGlobalProduct ,Input parameter update]]></content:encoded>
-            <category>lazada</category>
-            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[SHOPEE] - [SG] Sunday Pick-up Application Form (SPX Pick-up only)]]></title>
             <link>https://open.shopee.com/announcements/928</link>
             <guid>https://open.shopee.com/announcements/928</guid>
@@ -278,29 +298,9 @@
             <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates]]></title>
-            <link>https://open.shopee.com/announcements/925</link>
-            <guid>https://open.shopee.com/announcements/925</guid>
-            <pubDate>Fri, 28 Jun 2024 09:49:47 GMT</pubDate>
-            <description><![CDATA[Significant OpenAPI Updates]]></description>
-            <content:encoded><![CDATA[Significant OpenAPI Updates]]></content:encoded>
-            <category>shopee</category>
-            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[LAZADA] - Notification - Mandatory Category Attributes]]></title>
-            <link>https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2117</link>
-            <guid>https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2117</guid>
-            <pubDate>Tue, 25 Jun 2024 10:11:52 GMT</pubDate>
-            <description><![CDATA[Notification - Mandatory Category Attributes]]></description>
-            <content:encoded><![CDATA[Notification - Mandatory Category Attributes]]></content:encoded>
-            <category>lazada</category>
-            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[LAZADA] - Old order cancellation API is going offline soon]]></title>
-            <link>https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2114</link>
-            <guid>https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2114</guid>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=2114</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=2114</guid>
             <pubDate>Thu, 20 Jun 2024 03:08:46 GMT</pubDate>
             <description><![CDATA[Old order cancellation API is going offline soon]]></description>
             <content:encoded><![CDATA[Old order cancellation API is going offline soon]]></content:encoded>
@@ -309,8 +309,8 @@
         </item>
         <item>
             <title><![CDATA[[LAZADA] - TLS 1.0 is offline]]></title>
-            <link>https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2113</link>
-            <guid>https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2113</guid>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=2113</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=2113</guid>
             <pubDate>Fri, 14 Jun 2024 05:29:26 GMT</pubDate>
             <description><![CDATA[TLS 1.0 is offline]]></description>
             <content:encoded><![CDATA[TLS 1.0 is offline]]></content:encoded>
@@ -349,21 +349,21 @@
         </item>
         <item>
             <title><![CDATA[[LAZADA] - LAZADA D6 Campaign Downgrade Plan]]></title>
-            <link>https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2104</link>
-            <guid>https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2104</guid>
-            <pubDate>Thu, 23 May 2024 06:09:50 GMT</pubDate>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=2104</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=2104</guid>
+            <pubDate>Thu, 23 May 2024 06:10:18 GMT</pubDate>
             <description><![CDATA[LAZADA D6 Campaign Downgrade Plan]]></description>
             <content:encoded><![CDATA[LAZADA D6 Campaign Downgrade Plan]]></content:encoded>
             <category>lazada</category>
             <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[LAZADA] - Seller Notification Centre API is online]]></title>
-            <link>https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2100</link>
-            <guid>https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2100</guid>
-            <pubDate>Tue, 14 May 2024 01:31:17 GMT</pubDate>
-            <description><![CDATA[Seller Notification Centre API is online]]></description>
-            <content:encoded><![CDATA[Seller Notification Centre API is online]]></content:encoded>
+            <title><![CDATA[[LAZADA] - 【Important】Authorization Upgrade on Lazada Open Platform]]></title>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=1989</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=1989</guid>
+            <pubDate>Wed, 22 May 2024 07:29:14 GMT</pubDate>
+            <description><![CDATA[【Important】Authorization Upgrade on Lazada Open Platform]]></description>
+            <content:encoded><![CDATA[【Important】Authorization Upgrade on Lazada Open Platform]]></content:encoded>
             <category>lazada</category>
             <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
         </item>
@@ -486,16 +486,6 @@
             <content:encoded><![CDATA[New Endpoint: Listing Schema]]></content:encoded>
             <category>tiktok</category>
             <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[LAZADA] - Lazada Marketplace Ease Mode Open API release]]></title>
-            <link>https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2024</link>
-            <guid>https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=2024</guid>
-            <pubDate>Thu, 01 Feb 2024 13:26:35 GMT</pubDate>
-            <description><![CDATA[Lazada Marketplace Ease Mode Open API release]]></description>
-            <content:encoded><![CDATA[Lazada Marketplace Ease Mode Open API release]]></content:encoded>
-            <category>lazada</category>
-            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - For SEA markets: Introducing Development Shops]]></title>
@@ -646,16 +636,6 @@
             <content:encoded><![CDATA[For US and UK markets: Introducing "On Hold" order status]]></content:encoded>
             <category>tiktok</category>
             <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[LAZADA] - 【Important】Authorization Upgrade on Lazada Open Platform]]></title>
-            <link>https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=1989</link>
-            <guid>https://open.lazada.com/announcement/index.htm?#/announcement/detail?id=1989</guid>
-            <pubDate>Thu, 07 Dec 2023 07:10:43 GMT</pubDate>
-            <description><![CDATA[【Important】Authorization Upgrade on Lazada Open Platform]]></description>
-            <content:encoded><![CDATA[【Important】Authorization Upgrade on Lazada Open Platform]]></content:encoded>
-            <category>lazada</category>
-            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[TIKTOK] - New property added to Get Category Rules API to indicate whether the package dimension is mandatory]]></title>
