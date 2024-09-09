@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "66df5a6a6ad64c02fa1a9550",
+      "platform": "tiktok",
+      "title": "UK Market: Mandatory hazmat attributes added",
+      "url": "https://partner.tiktokshop.com/docv2/page/66df5a6a6ad64c02fa1a9550",
+      "createdAt": 1725913718
+    },
+    {
       "id": 967,
       "platform": "shopee",
       "title": "[MY] Important Update for Open Platform AWB API - 2-Day Delivery",

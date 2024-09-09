@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 06 Sep 2024 10:48:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 21:01:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>tiktok</category>
         <category>shopee</category>
         <category>lazada</category>
-        <category>tiktok</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - UK Market: Mandatory hazmat attributes added]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/66df5a6a6ad64c02fa1a9550</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/66df5a6a6ad64c02fa1a9550</guid>
+            <pubDate>Mon, 09 Sep 2024 20:28:38 GMT</pubDate>
+            <description><![CDATA[UK Market: Mandatory hazmat attributes added]]></description>
+            <content:encoded><![CDATA[UK Market: Mandatory hazmat attributes added]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[LAZADA] - Lazada Marketplace Ease Mode Open API release]]></title>
             <link>https://open.lazada.com/apps/announcement/detail?docId=2024</link>
