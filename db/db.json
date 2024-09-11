@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121768,
+      "platform": "lazada",
+      "title": "Temporary solution for Order api to query new orders",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121768",
+      "createdAt": 1726018987
+    },
+    {
       "id": "66e0e14b0d161503013ca73f",
       "platform": "tiktok",
       "title": "US Market: Adding shipping fee items to Finance API",
