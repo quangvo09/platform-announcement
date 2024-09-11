@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 09 Sep 2024 21:01:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Sep 2024 01:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>tiktok</category>
         <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - US Market: Adding shipping fee items to Finance API]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/66e0e14b0d161503013ca73f</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/66e0e14b0d161503013ca73f</guid>
+            <pubDate>Wed, 11 Sep 2024 00:16:30 GMT</pubDate>
+            <description><![CDATA[US Market: Adding shipping fee items to Finance API]]></description>
+            <content:encoded><![CDATA[US Market: Adding shipping fee items to Finance API]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - UK Market: Mandatory hazmat attributes added]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/66df5a6a6ad64c02fa1a9550</link>

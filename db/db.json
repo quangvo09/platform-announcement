@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "66e0e14b0d161503013ca73f",
+      "platform": "tiktok",
+      "title": "US Market: Adding shipping fee items to Finance API",
+      "url": "https://partner.tiktokshop.com/docv2/page/66e0e14b0d161503013ca73f",
+      "createdAt": 1726013790
+    },
+    {
       "id": "66df5a6a6ad64c02fa1a9550",
       "platform": "tiktok",
       "title": "UK Market: Mandatory hazmat attributes added",
