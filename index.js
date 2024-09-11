@@ -49,7 +49,7 @@ const insertAnnouncement = (announcement) => {
 };
 
 const main = async () => {
-  // Inint comsumer
+  // Init comsumer
   if (process.env.WEBHOOK_URL) {
     consumers.push(new WebhookConsumer(process.env.WEBHOOK_URL));
   }
