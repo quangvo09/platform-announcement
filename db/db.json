@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121769,
+      "platform": "lazada",
+      "title": "GetOrder/GetOrders API temporary fix coming soon",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121769",
+      "createdAt": 1726039638
+    },
+    {
       "id": 121768,
       "platform": "lazada",
       "title": "Temporary solution for Order api to query new orders",
