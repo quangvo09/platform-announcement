@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121771,
+      "platform": "lazada",
+      "title": "searchAdgroupList API adds date check",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121771",
+      "createdAt": 1726122013
+    },
+    {
       "id": 121769,
       "platform": "lazada",
       "title": "GetOrder/GetOrders API temporary fix coming soon",
