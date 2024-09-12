@@ -11,3 +11,7 @@ So that we can monitor new APIs, new changes to make decisions asap
 2. Collect announcement and save to `db/db.json`
 
 3. Send new announcement to `Telegram group`, `Discord` or `Microsoft Teams`
+
+# RSS
+
+Public RSS here [https://raw.githubusercontent.com/quangvo09/platform-announcement/master/db/rss2.xml](https://raw.githubusercontent.com/quangvo09/platform-announcement/master/db/rss2.xml)
