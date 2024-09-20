@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 12 Sep 2024 07:02:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 12:03:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>shopee</category>
         <category>lazada</category>
         <category>tiktok</category>
-        <category>shopee</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant Chat OpenAPI and Webchat Push Updates]]></title>
+            <link>https://open.shopee.com/announcements/970</link>
+            <guid>https://open.shopee.com/announcements/970</guid>
+            <pubDate>Fri, 20 Sep 2024 11:03:34 GMT</pubDate>
+            <description><![CDATA[Significant Chat OpenAPI and Webchat Push Updates]]></description>
+            <content:encoded><![CDATA[Significant Chat OpenAPI and Webchat Push Updates]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[LAZADA] - searchAdgroupList API adds date check]]></title>
             <link>https://open.lazada.com/apps/announcement/detail?docId=121771</link>
