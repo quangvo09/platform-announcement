@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "66f1364a332c7c02ff0459c7",
+      "platform": "tiktok",
+      "title": "For the SEA market partner&developer: The parameters \"handover_method\" in API Ship Package and Batch Ship Package will be useless",
+      "url": "https://partner.tiktokshop.com/docv2/page/66f1364a332c7c02ff0459c7",
+      "createdAt": 1727084117
+    },
+    {
       "id": 970,
       "platform": "shopee",
       "title": "Significant Chat OpenAPI and Webchat Push Updates",

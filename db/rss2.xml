@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 20 Sep 2024 12:03:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 10:02:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>tiktok</category>
         <category>shopee</category>
         <category>lazada</category>
-        <category>tiktok</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - For the SEA market partner&developer: The parameters "handover_method" in API Ship Package and Batch Ship Package will be useless]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/66f1364a332c7c02ff0459c7</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/66f1364a332c7c02ff0459c7</guid>
+            <pubDate>Mon, 23 Sep 2024 09:35:17 GMT</pubDate>
+            <description><![CDATA[For the SEA market partner&developer: The parameters "handover_method" in API Ship Package and Batch Ship Package will be useless]]></description>
+            <content:encoded><![CDATA[For the SEA market partner&developer: The parameters "handover_method" in API Ship Package and Batch Ship Package will be useless]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Significant Chat OpenAPI and Webchat Push Updates]]></title>
             <link>https://open.shopee.com/announcements/970</link>
