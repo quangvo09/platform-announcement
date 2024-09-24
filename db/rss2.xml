@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 23 Sep 2024 10:02:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 02:24:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>tiktok</category>
         <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - US market: Introducing Listing Quality Tiers (LQT) for products]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/66f219b072760c03029a8654</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/66f219b072760c03029a8654</guid>
+            <pubDate>Tue, 24 Sep 2024 01:45:36 GMT</pubDate>
+            <description><![CDATA[US market: Introducing Listing Quality Tiers (LQT) for products]]></description>
+            <content:encoded><![CDATA[US market: Introducing Listing Quality Tiers (LQT) for products]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - For the SEA market partner&developer: The parameters "handover_method" in API Ship Package and Batch Ship Package will be useless]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/66f1364a332c7c02ff0459c7</link>

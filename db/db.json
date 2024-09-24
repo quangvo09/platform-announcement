@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "66f219b072760c03029a8654",
+      "platform": "tiktok",
+      "title": "US market: Introducing Listing Quality Tiers (LQT) for products",
+      "url": "https://partner.tiktokshop.com/docv2/page/66f219b072760c03029a8654",
+      "createdAt": 1727142336
+    },
+    {
       "id": "66f1364a332c7c02ff0459c7",
       "platform": "tiktok",
       "title": "For the SEA market partner&developer: The parameters \"handover_method\" in API Ship Package and Batch Ship Package will be useless",
