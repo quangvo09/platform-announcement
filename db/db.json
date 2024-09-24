@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "66f304521006d602ec0d54a4",
+      "platform": "tiktok",
+      "title": "(REMINDER) Legacy API Sunsets on Dec 31, 2024",
+      "url": "https://partner.tiktokshop.com/docv2/page/66f304521006d602ec0d54a4",
+      "createdAt": 1727202402
+    },
+    {
       "id": "66f219b072760c03029a8654",
       "platform": "tiktok",
       "title": "US market: Introducing Listing Quality Tiers (LQT) for products",
