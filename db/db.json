@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "66f3810b177a6a033b363a84",
+      "platform": "tiktok",
+      "title": "US Market: Removing some reject reasons for returns",
+      "url": "https://partner.tiktokshop.com/docv2/page/66f3810b177a6a033b363a84",
+      "createdAt": 1727234357
+    },
+    {
       "id": "66f304521006d602ec0d54a4",
       "platform": "tiktok",
       "title": "(REMINDER) Legacy API Sunsets on Dec 31, 2024",
