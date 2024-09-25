@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "66f44ae6ff0b1d02f8ce09f2",
+      "platform": "tiktok",
+      "title": "UK market: Adding compliance required fields to Products API",
+      "url": "https://partner.tiktokshop.com/docv2/page/66f44ae6ff0b1d02f8ce09f2",
+      "createdAt": 1727286003
+    },
+    {
       "id": "66f3810b177a6a033b363a84",
       "platform": "tiktok",
       "title": "US Market: Removing some reject reasons for returns",

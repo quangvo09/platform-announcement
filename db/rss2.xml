@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 25 Sep 2024 04:02:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Sep 2024 18:02:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>tiktok</category>
         <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - UK market: Adding compliance required fields to Products API]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/66f44ae6ff0b1d02f8ce09f2</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/66f44ae6ff0b1d02f8ce09f2</guid>
+            <pubDate>Wed, 25 Sep 2024 17:40:03 GMT</pubDate>
+            <description><![CDATA[UK market: Adding compliance required fields to Products API]]></description>
+            <content:encoded><![CDATA[UK market: Adding compliance required fields to Products API]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - US Market: Removing some reject reasons for returns]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/66f3810b177a6a033b363a84</link>
