@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 977,
+      "platform": "shopee",
+      "title": "New API Updates for Managing Shop Flash Sales and Product API",
+      "url": "https://open.shopee.com/announcements/977",
+      "createdAt": 1727581807
+    },
+    {
       "id": "66f44ae6ff0b1d02f8ce09f2",
       "platform": "tiktok",
       "title": "UK market: Adding compliance required fields to Products API",
