@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "66fa4e34f70f7203045b9497",
+      "platform": "tiktok",
+      "title": "ID market: \"Shop | Tokopedia\" Open API Integration One Pager",
+      "url": "https://partner.tiktokshop.com/docv2/page/66fa4e34f70f7203045b9497",
+      "createdAt": 1727680116
+    },
+    {
       "id": 977,
       "platform": "shopee",
       "title": "New API Updates for Managing Shop Flash Sales and Product API",
