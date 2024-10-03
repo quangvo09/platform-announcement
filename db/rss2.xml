@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 03 Oct 2024 12:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Oct 2024 22:02:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - US market: Strike Through Pricing for allowlisted sellers]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/66ff107cf0dd0902fa4ab54c</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/66ff107cf0dd0902fa4ab54c</guid>
+            <pubDate>Thu, 03 Oct 2024 21:45:47 GMT</pubDate>
+            <description><![CDATA[US market: Strike Through Pricing for allowlisted sellers]]></description>
+            <content:encoded><![CDATA[US market: Strike Through Pricing for allowlisted sellers]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [MY] Important Update for New Logistics Channel (City-Link Express)]]></title>
             <link>https://open.shopee.com/announcements/981</link>

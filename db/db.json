@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "66ff107cf0dd0902fa4ab54c",
+      "platform": "tiktok",
+      "title": "US market: Strike Through Pricing for allowlisted sellers",
+      "url": "https://partner.tiktokshop.com/docv2/page/66ff107cf0dd0902fa4ab54c",
+      "createdAt": 1727991947
+    },
+    {
       "id": 981,
       "platform": "shopee",
       "title": "[MY] Important Update for New Logistics Channel (City-Link Express)",
