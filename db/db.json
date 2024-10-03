@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 981,
+      "platform": "shopee",
+      "title": "[MY] Important Update for New Logistics Channel (City-Link Express)",
+      "url": "https://open.shopee.com/announcements/981",
+      "createdAt": 1727955456
+    },
+    {
+      "id": 980,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Open Platform AWB API - Shopee Express (East Malaysia)",
+      "url": "https://open.shopee.com/announcements/980",
+      "createdAt": 1727953688
+    },
+    {
       "id": "66fa4e34f70f7203045b9497",
       "platform": "tiktok",
       "title": "ID market: \"Shop | Tokopedia\" Open API Integration One Pager",
