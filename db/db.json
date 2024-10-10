@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 988,
+      "platform": "shopee",
+      "title": "[Important] [Action Required] Token Storage Type Adjustment Progress Check",
+      "url": "https://open.shopee.com/announcements/988",
+      "createdAt": 1728554702
+    },
+    {
       "id": 121780,
       "platform": "lazada",
       "title": "Order API - GetOrders API Query Old Orders feature is restored",

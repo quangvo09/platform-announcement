@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 10 Oct 2024 03:06:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 11:02:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>shopee</category>
         <category>lazada</category>
         <category>tiktok</category>
-        <category>shopee</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [Important] [Action Required] Token Storage Type Adjustment Progress Check]]></title>
+            <link>https://open.shopee.com/announcements/988</link>
+            <guid>https://open.shopee.com/announcements/988</guid>
+            <pubDate>Thu, 10 Oct 2024 10:05:02 GMT</pubDate>
+            <description><![CDATA[[Important] [Action Required] Token Storage Type Adjustment Progress Check]]></description>
+            <content:encoded><![CDATA[[Important] [Action Required] Token Storage Type Adjustment Progress Check]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[LAZADA] - Order API - GetOrders API Query Old Orders feature is restored]]></title>
             <link>https://open.lazada.com/apps/announcement/detail?docId=121780</link>
