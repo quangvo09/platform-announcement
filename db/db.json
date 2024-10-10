@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121780,
+      "platform": "lazada",
+      "title": "Order API - GetOrders API Query Old Orders feature is restored",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121780",
+      "createdAt": 1728527521
+    },
+    {
       "id": "66ff107cf0dd0902fa4ab54c",
       "platform": "tiktok",
       "title": "US market: Strike Through Pricing for allowlisted sellers",
