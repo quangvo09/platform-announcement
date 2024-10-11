@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 989,
+      "platform": "shopee",
+      "title": "[Important][PH] Update for customized Air Waybills (AWB) for channel id: 40066 ",
+      "url": "https://open.shopee.com/announcements/989",
+      "createdAt": 1728618242
+    },
+    {
       "id": 988,
       "platform": "shopee",
       "title": "[Important] [Action Required] Token Storage Type Adjustment Progress Check",
