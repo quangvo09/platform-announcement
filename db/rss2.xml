@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 11 Oct 2024 04:02:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Oct 2024 08:02:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>lazada</category>
         <category>tiktok</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [CB] Important Update for Open Platform AWB API-18079-Shopee Collection Point]]></title>
+            <link>https://open.shopee.com/announcements/991</link>
+            <guid>https://open.shopee.com/announcements/991</guid>
+            <pubDate>Fri, 11 Oct 2024 07:24:28 GMT</pubDate>
+            <description><![CDATA[[CB] Important Update for Open Platform AWB API-18079-Shopee Collection Point]]></description>
+            <content:encoded><![CDATA[[CB] Important Update for Open Platform AWB API-18079-Shopee Collection Point]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [Important][PH] Update for customized Air Waybills (AWB) for channel id: 40066 ]]></title>
             <link>https://open.shopee.com/announcements/989</link>

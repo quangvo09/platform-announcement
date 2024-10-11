@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 991,
+      "platform": "shopee",
+      "title": "[CB] Important Update for Open Platform AWB API-18079-Shopee Collection Point",
+      "url": "https://open.shopee.com/announcements/991",
+      "createdAt": 1728631468
+    },
+    {
       "id": 989,
       "platform": "shopee",
       "title": "[Important][PH] Update for customized Air Waybills (AWB) for channel id: 40066 ",
