@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 11 Oct 2024 08:02:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Oct 2024 10:02:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>lazada</category>
+        <category>shopee</category>
         <category>tiktok</category>
+        <item>
+            <title><![CDATA[[LAZADA] - 【lazada Choice】PO fulfillment API adjustments]]></title>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=121781</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=121781</guid>
+            <pubDate>Fri, 11 Oct 2024 09:50:02 GMT</pubDate>
+            <description><![CDATA[【lazada Choice】PO fulfillment API adjustments]]></description>
+            <content:encoded><![CDATA[【lazada Choice】PO fulfillment API adjustments]]></content:encoded>
+            <category>lazada</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [CB] Important Update for Open Platform AWB API-18079-Shopee Collection Point]]></title>
             <link>https://open.shopee.com/announcements/991</link>

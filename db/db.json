@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121781,
+      "platform": "lazada",
+      "title": "【lazada Choice】PO fulfillment API adjustments",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121781",
+      "createdAt": 1728640202
+    },
+    {
       "id": 991,
       "platform": "shopee",
       "title": "[CB] Important Update for Open Platform AWB API-18079-Shopee Collection Point",
