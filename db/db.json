@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "670e2527889b3d031da5d253",
+      "platform": "tiktok",
+      "title": "EU market: Adding mandatory certificates to Products API",
+      "url": "https://partner.tiktokshop.com/docv2/page/670e2527889b3d031da5d253",
+      "createdAt": 1728980274
+    },
+    {
       "id": 121781,
       "platform": "lazada",
       "title": "【lazada Choice】PO fulfillment API adjustments",
