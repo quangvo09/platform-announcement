@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 15 Oct 2024 09:02:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 05:02:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
-        <category>shopee</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [MY] Important Update for Shipping Carrier Airway Bill (Poslaju)]]></title>
+            <link>https://open.shopee.com/announcements/1001</link>
+            <guid>https://open.shopee.com/announcements/1001</guid>
+            <pubDate>Fri, 18 Oct 2024 04:04:12 GMT</pubDate>
+            <description><![CDATA[[MY] Important Update for Shipping Carrier Airway Bill (Poslaju)]]></description>
+            <content:encoded><![CDATA[[MY] Important Update for Shipping Carrier Airway Bill (Poslaju)]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - EU market: Adding mandatory certificates to Products API]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/670e2527889b3d031da5d253</link>
