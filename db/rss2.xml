@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 18 Oct 2024 06:02:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 12:03:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates]]></title>
+            <link>https://open.shopee.com/announcements/1003</link>
+            <guid>https://open.shopee.com/announcements/1003</guid>
+            <pubDate>Fri, 18 Oct 2024 11:58:44 GMT</pubDate>
+            <description><![CDATA[Significant OpenAPI Updates]]></description>
+            <content:encoded><![CDATA[Significant OpenAPI Updates]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [MY] Important Update for MY-SG SIP and Direct Programme AWB API]]></title>
             <link>https://open.shopee.com/announcements/999</link>

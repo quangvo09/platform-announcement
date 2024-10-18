@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1003,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/1003",
+      "createdAt": 1729252724
+    },
+    {
       "id": 999,
       "platform": "shopee",
       "title": "[MY] Important Update for MY-SG SIP and Direct Programme AWB API",
