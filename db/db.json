@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121790,
+      "platform": "lazada",
+      "title": "LAZADA D11 Campaign Downgrade Plan",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121790",
+      "createdAt": 1729577318
+    },
+    {
       "id": 1003,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
