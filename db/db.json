@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1004,
+      "platform": "shopee",
+      "title": " Reminder to Complete Survey on \"error_auth\" Breakdown and Integration Time",
+      "url": "https://open.shopee.com/announcements/1004",
+      "createdAt": 1729594544
+    },
+    {
       "id": 121790,
       "platform": "lazada",
       "title": "LAZADA D11 Campaign Downgrade Plan",
