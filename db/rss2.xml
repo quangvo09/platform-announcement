@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 22 Oct 2024 11:01:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 08:02:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>lazada</category>
+        <category>shopee</category>
         <category>tiktok</category>
+        <item>
+            <title><![CDATA[[LAZADA] -  Woman Clothing category, size chart related are mandatory]]></title>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=121792</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=121792</guid>
+            <pubDate>Wed, 23 Oct 2024 07:17:43 GMT</pubDate>
+            <description><![CDATA[ Woman Clothing category, size chart related are mandatory]]></description>
+            <content:encoded><![CDATA[ Woman Clothing category, size chart related are mandatory]]></content:encoded>
+            <category>lazada</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] -  Reminder to Complete Survey on "error_auth" Breakdown and Integration Time]]></title>
             <link>https://open.shopee.com/announcements/1004</link>

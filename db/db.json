@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121792,
+      "platform": "lazada",
+      "title": " Woman Clothing category, size chart related are mandatory",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121792",
+      "createdAt": 1729667863
+    },
+    {
       "id": 1004,
       "platform": "shopee",
       "title": " Reminder to Complete Survey on \"error_auth\" Breakdown and Integration Time",
