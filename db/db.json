@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1010,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/1010",
+      "createdAt": 1729852038
+    },
+    {
+      "id": 1009,
+      "platform": "shopee",
+      "title": "[MY] Important Update for MY-SG SIP and Direct Programme AWB API",
+      "url": "https://open.shopee.com/announcements/1009",
+      "createdAt": 1729852123
+    },
+    {
       "id": 121792,
       "platform": "lazada",
       "title": " Woman Clothing category, size chart related are mandatory",

@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 23 Oct 2024 08:02:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Oct 2024 11:01:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,29 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>lazada</category>
         <category>shopee</category>
+        <category>lazada</category>
         <category>tiktok</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [MY] Important Update for MY-SG SIP and Direct Programme AWB API]]></title>
+            <link>https://open.shopee.com/announcements/1009</link>
+            <guid>https://open.shopee.com/announcements/1009</guid>
+            <pubDate>Fri, 25 Oct 2024 10:28:43 GMT</pubDate>
+            <description><![CDATA[[MY] Important Update for MY-SG SIP and Direct Programme AWB API]]></description>
+            <content:encoded><![CDATA[[MY] Important Update for MY-SG SIP and Direct Programme AWB API]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates]]></title>
+            <link>https://open.shopee.com/announcements/1010</link>
+            <guid>https://open.shopee.com/announcements/1010</guid>
+            <pubDate>Fri, 25 Oct 2024 10:27:18 GMT</pubDate>
+            <description><![CDATA[Significant OpenAPI Updates]]></description>
+            <content:encoded><![CDATA[Significant OpenAPI Updates]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[LAZADA] -  Woman Clothing category, size chart related are mandatory]]></title>
             <link>https://open.lazada.com/apps/announcement/detail?docId=121792</link>
