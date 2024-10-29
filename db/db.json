@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "67205233d99b7d02fd10cd24",
+      "platform": "tiktok",
+      "title": "US market: AAdding mandatory certificates for Bikes, Scooters and Appliances",
+      "url": "https://partner.tiktokshop.com/docv2/page/67205233d99b7d02fd10cd24",
+      "createdAt": 1730171460
+    },
+    {
       "id": 1010,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
