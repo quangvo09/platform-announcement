@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1016,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Open Platform AWB API -  Next Day Delivery & GDEX",
+      "url": "https://open.shopee.com/announcements/1016",
+      "createdAt": 1730287059
+    },
+    {
       "id": "67205233d99b7d02fd10cd24",
       "platform": "tiktok",
       "title": "US market: AAdding mandatory certificates for Bikes, Scooters and Appliances",
