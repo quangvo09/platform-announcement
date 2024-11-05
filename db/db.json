@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1017,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/1017",
+      "createdAt": 1730803987
+    },
+    {
       "id": 1016,
       "platform": "shopee",
       "title": "[MY] Important Update for Open Platform AWB API -  Next Day Delivery & GDEX",
