@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1023,
+      "platform": "shopee",
+      "title": "Penalties for Security Vulnerabilities Detected in OpenAPI Connection",
+      "url": "https://open.shopee.com/announcements/1023",
+      "createdAt": 1731382044
+    },
+    {
       "id": 1017,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
