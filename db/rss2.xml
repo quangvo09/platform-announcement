@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 12 Nov 2024 04:02:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Nov 2024 04:02:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [SG] Important Update for Shipping Carrier Airway Bill & Customized Airway Bill]]></title>
+            <link>https://open.shopee.com/announcements/1024</link>
+            <guid>https://open.shopee.com/announcements/1024</guid>
+            <pubDate>Wed, 13 Nov 2024 03:30:37 GMT</pubDate>
+            <description><![CDATA[[SG] Important Update for Shipping Carrier Airway Bill & Customized Airway Bill]]></description>
+            <content:encoded><![CDATA[[SG] Important Update for Shipping Carrier Airway Bill & Customized Airway Bill]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Penalties for Security Vulnerabilities Detected in OpenAPI Connection]]></title>
             <link>https://open.shopee.com/announcements/1023</link>
