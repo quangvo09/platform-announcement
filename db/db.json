@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6736aff0ecc4ab030e0be6fc",
+      "platform": "tiktok",
+      "title": "HTML Tags are supported in product descriptions",
+      "url": "https://partner.tiktokshop.com/docv2/page/6736aff0ecc4ab030e0be6fc",
+      "createdAt": 1731637260
+    },
+    {
       "id": 1024,
       "platform": "shopee",
       "title": "[SG] Important Update for Shipping Carrier Airway Bill & Customized Airway Bill",
