@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1026,
+      "platform": "shopee",
+      "title": "Update on Chat API Policy: Changes to New Application Submissions",
+      "url": "https://open.shopee.com/announcements/1026",
+      "createdAt": 1732019226
+    },
+    {
       "id": "6736aff0ecc4ab030e0be6fc",
       "platform": "tiktok",
       "title": "HTML Tags are supported in product descriptions",
