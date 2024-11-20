@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "673d539a58db2002f52a44a7",
+      "platform": "tiktok",
+      "title": "External Product Attribution for Reviews and Ads",
+      "url": "https://partner.tiktokshop.com/docv2/page/673d539a58db2002f52a44a7",
+      "createdAt": 1732072368
+    },
+    {
       "id": 1026,
       "platform": "shopee",
       "title": "Update on Chat API Policy: Changes to New Application Submissions",

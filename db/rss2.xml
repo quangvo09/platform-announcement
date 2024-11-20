@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 19 Nov 2024 13:08:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Nov 2024 04:02:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - External Product Attribution for Reviews and Ads]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/673d539a58db2002f52a44a7</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/673d539a58db2002f52a44a7</guid>
+            <pubDate>Wed, 20 Nov 2024 03:12:48 GMT</pubDate>
+            <description><![CDATA[External Product Attribution for Reviews and Ads]]></description>
+            <content:encoded><![CDATA[External Product Attribution for Reviews and Ads]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Update on Chat API Policy: Changes to New Application Submissions]]></title>
             <link>https://open.shopee.com/announcements/1026</link>
