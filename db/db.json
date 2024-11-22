@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1031,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Up[date",
+      "url": "https://open.shopee.com/announcements/1031",
+      "createdAt": 1732275565
+    },
+    {
       "id": "6740642f29926a030df796bd",
       "platform": "tiktok",
       "title": "(MAINTENANCE) Scheduled downtime for Promotion APIs",
