@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6740642f29926a030df796bd",
+      "platform": "tiktok",
+      "title": "(MAINTENANCE) Scheduled downtime for Promotion APIs",
+      "url": "https://partner.tiktokshop.com/docv2/page/6740642f29926a030df796bd",
+      "createdAt": 1732273225
+    },
+    {
       "id": "673d539a58db2002f52a44a7",
       "platform": "tiktok",
       "title": "External Product Attribution for Reviews and Ads",

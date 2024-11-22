@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 20 Nov 2024 04:02:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 11:02:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>tiktok</category>
         <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - (MAINTENANCE) Scheduled downtime for Promotion APIs]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6740642f29926a030df796bd</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6740642f29926a030df796bd</guid>
+            <pubDate>Fri, 22 Nov 2024 11:00:25 GMT</pubDate>
+            <description><![CDATA[(MAINTENANCE) Scheduled downtime for Promotion APIs]]></description>
+            <content:encoded><![CDATA[(MAINTENANCE) Scheduled downtime for Promotion APIs]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - External Product Attribution for Reviews and Ads]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/673d539a58db2002f52a44a7</link>
