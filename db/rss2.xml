@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 22 Nov 2024 12:03:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 02:28:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>lazada</category>
         <category>shopee</category>
         <category>tiktok</category>
-        <category>lazada</category>
+        <item>
+            <title><![CDATA[[LAZADA] - LAZADA D12 Campaign Downgrade Plan]]></title>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=121800</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=121800</guid>
+            <pubDate>Wed, 27 Nov 2024 02:16:53 GMT</pubDate>
+            <description><![CDATA[LAZADA D12 Campaign Downgrade Plan]]></description>
+            <content:encoded><![CDATA[LAZADA D12 Campaign Downgrade Plan]]></content:encoded>
+            <category>lazada</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Significant OpenAPI Up[date]]></title>
             <link>https://open.shopee.com/announcements/1031</link>
