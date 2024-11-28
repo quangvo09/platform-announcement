@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 27 Nov 2024 02:28:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 08:02:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>lazada</category>
         <category>shopee</category>
         <category>tiktok</category>
+        <item>
+            <title><![CDATA[[LAZADA] - Product API - Add MP3 Store Product business field]]></title>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=121801</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=121801</guid>
+            <pubDate>Thu, 28 Nov 2024 07:32:59 GMT</pubDate>
+            <description><![CDATA[Product API - Add MP3 Store Product business field]]></description>
+            <content:encoded><![CDATA[Product API - Add MP3 Store Product business field]]></content:encoded>
+            <category>lazada</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[LAZADA] - LAZADA D12 Campaign Downgrade Plan]]></title>
             <link>https://open.lazada.com/apps/announcement/detail?docId=121800</link>

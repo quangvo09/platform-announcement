@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121801,
+      "platform": "lazada",
+      "title": "Product API - Add MP3 Store Product business field",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121801",
+      "createdAt": 1732779179
+    },
+    {
       "id": 121800,
       "platform": "lazada",
       "title": "LAZADA D12 Campaign Downgrade Plan",
