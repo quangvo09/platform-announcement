@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 28 Nov 2024 08:02:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 08:03:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>lazada</category>
         <category>shopee</category>
         <category>tiktok</category>
+        <item>
+            <title><![CDATA[[LAZADA] - A/B tests API is going offline soon]]></title>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=121802</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=121802</guid>
+            <pubDate>Mon, 02 Dec 2024 08:01:06 GMT</pubDate>
+            <description><![CDATA[A/B tests API is going offline soon]]></description>
+            <content:encoded><![CDATA[A/B tests API is going offline soon]]></content:encoded>
+            <category>lazada</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[LAZADA] - Product API - Add MP3 Store Product business field]]></title>
             <link>https://open.lazada.com/apps/announcement/detail?docId=121801</link>
