@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6752715b28a1690305f1e7dd",
+      "platform": "tiktok",
+      "title": "Updates to Product API Mandatory Certifications",
+      "url": "https://partner.tiktokshop.com/docv2/page/6752715b28a1690305f1e7dd",
+      "createdAt": 1733456323
+    },
+    {
       "id": 121802,
       "platform": "lazada",
       "title": "A/B tests API is going offline soon",
