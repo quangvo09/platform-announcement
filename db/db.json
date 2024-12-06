@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1039,
+      "platform": "shopee",
+      "title": "[PH] Important Update for Customized Air Waybills (AWB)",
+      "url": "https://open.shopee.com/announcements/1039",
+      "createdAt": 1733474510
+    },
+    {
       "id": "6752715b28a1690305f1e7dd",
       "platform": "tiktok",
       "title": "Updates to Product API Mandatory Certifications",
