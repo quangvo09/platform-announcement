@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1041,
+      "platform": "shopee",
+      "title": "1-AWB Update For MY-SG Shopee International Platform (SIP) and Direct Programme",
+      "url": "https://open.shopee.com/announcements/1041",
+      "createdAt": 1733897766
+    },
+    {
       "id": "675910ccc6a443030d96b937",
       "platform": "tiktok",
       "title": "EU GSPR Commdoc - adding Responsible person, Manufacturer and Safety label information",
