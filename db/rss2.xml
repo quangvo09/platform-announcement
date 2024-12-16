@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 11 Dec 2024 07:02:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2024 03:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - When SEA POP sellers add, edit or publish global products by API, some specific categories will be prohibited and restricted directly]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/675f9886817e9b0311fbbdd4</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/675f9886817e9b0311fbbdd4</guid>
+            <pubDate>Mon, 16 Dec 2024 03:03:49 GMT</pubDate>
+            <description><![CDATA[When SEA POP sellers add, edit or publish global products by API, some specific categories will be prohibited and restricted directly]]></description>
+            <content:encoded><![CDATA[When SEA POP sellers add, edit or publish global products by API, some specific categories will be prohibited and restricted directly]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - 1-AWB Update For MY-SG Shopee International Platform (SIP) and Direct Programme]]></title>
             <link>https://open.shopee.com/announcements/1041</link>
