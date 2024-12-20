@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1048,
+      "platform": "shopee",
+      "title": "Significant Open API Updates",
+      "url": "https://open.shopee.com/announcements/1048",
+      "createdAt": 1734699573
+    },
+    {
       "id": 1051,
       "platform": "shopee",
       "title": "[MY] Important Update for SPX Express (Bulky) & Shopee Express (East Malaysia)",
