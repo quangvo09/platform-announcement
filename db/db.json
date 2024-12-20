@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121809,
+      "platform": "lazada",
+      "title": "Lazada Open Platform Partial Release API Downgrade Announcement",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121809",
+      "createdAt": 1734660146
+    },
+    {
       "id": "675f9886817e9b0311fbbdd4",
       "platform": "tiktok",
       "title": "When SEA POP sellers add, edit or publish global products by API, some specific categories will be prohibited and restricted directly",

@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 16 Dec 2024 03:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 02:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>lazada</category>
         <category>tiktok</category>
         <category>shopee</category>
-        <category>lazada</category>
+        <item>
+            <title><![CDATA[[LAZADA] - Lazada Open Platform Partial Release API Downgrade Announcement]]></title>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=121809</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=121809</guid>
+            <pubDate>Fri, 20 Dec 2024 02:02:26 GMT</pubDate>
+            <description><![CDATA[Lazada Open Platform Partial Release API Downgrade Announcement]]></description>
+            <content:encoded><![CDATA[Lazada Open Platform Partial Release API Downgrade Announcement]]></content:encoded>
+            <category>lazada</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - When SEA POP sellers add, edit or publish global products by API, some specific categories will be prohibited and restricted directly]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/675f9886817e9b0311fbbdd4</link>
