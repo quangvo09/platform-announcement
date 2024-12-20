@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1051,
+      "platform": "shopee",
+      "title": "[MY] Important Update for SPX Express (Bulky) & Shopee Express (East Malaysia)",
+      "url": "https://open.shopee.com/announcements/1051",
+      "createdAt": 1734694833
+    },
+    {
       "id": 121809,
       "platform": "lazada",
       "title": "Lazada Open Platform Partial Release API Downgrade Announcement",
