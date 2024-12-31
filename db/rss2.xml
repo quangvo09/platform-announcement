@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 23 Dec 2024 06:02:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 12:03:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>lazada</category>
         <category>tiktok</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates]]></title>
+            <link>https://open.shopee.com/announcements/1058</link>
+            <guid>https://open.shopee.com/announcements/1058</guid>
+            <pubDate>Tue, 31 Dec 2024 11:14:54 GMT</pubDate>
+            <description><![CDATA[Significant OpenAPI Updates]]></description>
+            <content:encoded><![CDATA[Significant OpenAPI Updates]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Important OpenAPI Updates for Payment, Chat and Ads API]]></title>
             <link>https://open.shopee.com/announcements/1052</link>
