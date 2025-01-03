@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "677791a439c067030ec3ac23",
+      "platform": "tiktok",
+      "title": "US&UK Markets: Hazmat Deadline Extention",
+      "url": "https://partner.tiktokshop.com/docv2/page/677791a439c067030ec3ac23",
+      "createdAt": 1735889335
+    },
+    {
       "id": 1058,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
