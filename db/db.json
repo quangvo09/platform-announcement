@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "677ccdc6e5dadc0306a56b59",
+      "platform": "tiktok",
+      "title": "New version (v202501) for Statement Transactions and Order Statement Transactions",
+      "url": "https://partner.tiktokshop.com/docv2/page/677ccdc6e5dadc0306a56b59",
+      "createdAt": 1736232421
+    },
+    {
       "id": "6778053bb482920307e10979",
       "platform": "tiktok",
       "title": "US&UK Markets: Hazmat Deadline Extention",
