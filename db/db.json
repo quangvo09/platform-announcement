@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1064,
+      "platform": "shopee",
+      "title": "[Important] Shopee launched the Advance Fulfillment Program",
+      "url": "https://open.shopee.com/announcements/1064",
+      "createdAt": 1736510128
+    },
+    {
       "id": "677ccdc6e5dadc0306a56b59",
       "platform": "tiktok",
       "title": "New version (v202501) for Statement Transactions and Order Statement Transactions",
