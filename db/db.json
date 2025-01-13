@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1065,
+      "platform": "shopee",
+      "title": "[Important] [PH] New J&T Cargo Logistic Channel",
+      "url": "https://open.shopee.com/announcements/1065",
+      "createdAt": 1736764230
+    },
+    {
       "id": "6782326ec399d90301e139df",
       "platform": "tiktok",
       "title": "Product Audit Status is Added to Products API",
