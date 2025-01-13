@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 13 Jan 2025 11:02:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 16:02:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates]]></title>
+            <link>https://open.shopee.com/announcements/1063</link>
+            <guid>https://open.shopee.com/announcements/1063</guid>
+            <pubDate>Mon, 13 Jan 2025 15:35:52 GMT</pubDate>
+            <description><![CDATA[Significant OpenAPI Updates]]></description>
+            <content:encoded><![CDATA[Significant OpenAPI Updates]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [Important] [PH] New J&T Cargo Logistic Channel]]></title>
             <link>https://open.shopee.com/announcements/1065</link>

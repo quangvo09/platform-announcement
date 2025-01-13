@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1063,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/1063",
+      "createdAt": 1736782552
+    },
+    {
       "id": 1065,
       "platform": "shopee",
       "title": "[Important] [PH] New J&T Cargo Logistic Channel",
