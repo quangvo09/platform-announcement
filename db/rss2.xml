@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 13 Jan 2025 16:02:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 09:02:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [MY] Important Update for Open Platform AWB API - Shopee Express (Sea Shipping)]]></title>
+            <link>https://open.shopee.com/announcements/1066</link>
+            <guid>https://open.shopee.com/announcements/1066</guid>
+            <pubDate>Wed, 15 Jan 2025 08:53:07 GMT</pubDate>
+            <description><![CDATA[[MY] Important Update for Open Platform AWB API - Shopee Express (Sea Shipping)]]></description>
+            <content:encoded><![CDATA[[MY] Important Update for Open Platform AWB API - Shopee Express (Sea Shipping)]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates]]></title>
             <link>https://open.shopee.com/announcements/1063</link>
