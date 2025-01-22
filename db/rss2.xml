@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 15 Jan 2025 09:02:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jan 2025 02:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,29 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - New Endpoint: Diagnose and Optimize Product]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6790551c38b3f103169c3ce8</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6790551c38b3f103169c3ce8</guid>
+            <pubDate>Wed, 22 Jan 2025 02:17:41 GMT</pubDate>
+            <description><![CDATA[New Endpoint: Diagnose and Optimize Product]]></description>
+            <content:encoded><![CDATA[New Endpoint: Diagnose and Optimize Product]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[TIKTOK] - Price and Inventory is optional when editing products]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6790551a84178a030d74ed37</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6790551a84178a030d74ed37</guid>
+            <pubDate>Wed, 22 Jan 2025 02:17:41 GMT</pubDate>
+            <description><![CDATA[Price and Inventory is optional when editing products]]></description>
+            <content:encoded><![CDATA[Price and Inventory is optional when editing products]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [MY] Important Update for Open Platform AWB API - Shopee Express (Sea Shipping)]]></title>
             <link>https://open.shopee.com/announcements/1066</link>
