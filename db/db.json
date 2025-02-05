@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "67a3b52892b0f40314387270",
+      "platform": "tiktok",
+      "title": "New affiliate messaging APIs",
+      "url": "https://partner.tiktokshop.com/docv2/page/67a3b52892b0f40314387270",
+      "createdAt": 1738782009
+    },
+    {
       "id": "6790551c38b3f103169c3ce8",
       "platform": "tiktok",
       "title": "New Endpoint: Diagnose and Optimize Product",
