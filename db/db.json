@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1073,
+      "platform": "shopee",
+      "title": "[ALL] Announcement on Shopee Service Issues",
+      "url": "https://open.shopee.com/announcements/1073",
+      "createdAt": 1739181352
+    },
+    {
       "id": "67a4205d9c908d0304dd8b22",
       "platform": "tiktok",
       "title": "New affiliate messaging APIs",
