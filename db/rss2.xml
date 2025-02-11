@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 10 Feb 2025 10:02:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 02:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Announcement on Shopee Service Restoration]]></title>
+            <link>https://open.shopee.com/announcements/1074</link>
+            <guid>https://open.shopee.com/announcements/1074</guid>
+            <pubDate>Tue, 11 Feb 2025 01:53:57 GMT</pubDate>
+            <description><![CDATA[Announcement on Shopee Service Restoration]]></description>
+            <content:encoded><![CDATA[Announcement on Shopee Service Restoration]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [ALL] Announcement on Shopee Service Issues]]></title>
             <link>https://open.shopee.com/announcements/1073</link>

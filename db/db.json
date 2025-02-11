@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1074,
+      "platform": "shopee",
+      "title": "Announcement on Shopee Service Restoration",
+      "url": "https://open.shopee.com/announcements/1074",
+      "createdAt": 1739238837
+    },
+    {
       "id": 1073,
       "platform": "shopee",
       "title": "[ALL] Announcement on Shopee Service Issues",
