@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 11 Feb 2025 02:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 10:02:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [MY] Important Update for Self Collection Point (SPX Express)]]></title>
+            <link>https://open.shopee.com/announcements/1079</link>
+            <guid>https://open.shopee.com/announcements/1079</guid>
+            <pubDate>Fri, 14 Feb 2025 09:15:26 GMT</pubDate>
+            <description><![CDATA[[MY] Important Update for Self Collection Point (SPX Express)]]></description>
+            <content:encoded><![CDATA[[MY] Important Update for Self Collection Point (SPX Express)]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Announcement on Shopee Service Restoration]]></title>
             <link>https://open.shopee.com/announcements/1074</link>

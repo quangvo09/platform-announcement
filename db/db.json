@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1079,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Self Collection Point (SPX Express)",
+      "url": "https://open.shopee.com/announcements/1079",
+      "createdAt": 1739524526
+    },
+    {
       "id": 1074,
       "platform": "shopee",
       "title": "Announcement on Shopee Service Restoration",
