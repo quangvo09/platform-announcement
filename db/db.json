@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "67afc3d1572c9f04b7a533ce",
+      "platform": "tiktok",
+      "title": "MX market: Minimum product price adjustment",
+      "url": "https://partner.tiktokshop.com/docv2/page/67afc3d1572c9f04b7a533ce",
+      "createdAt": 1739572202
+    },
+    {
       "id": 1079,
       "platform": "shopee",
       "title": "[MY] Important Update for Self Collection Point (SPX Express)",
