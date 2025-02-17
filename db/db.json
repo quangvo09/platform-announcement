@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1080,
+      "platform": "shopee",
+      "title": "OpenAPI Updates for Escrow API and FBS Model Edit",
+      "url": "https://open.shopee.com/announcements/1080",
+      "createdAt": 1739777500
+    },
+    {
       "id": "67b07846219ddf04aedffb33",
       "platform": "tiktok",
       "title": "MX market: Minimum product price adjustment",
