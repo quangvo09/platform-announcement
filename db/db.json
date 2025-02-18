@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "67b4f5e7c422a204a9fc85ea",
+      "platform": "tiktok",
+      "title": "Product API now supports two prices",
+      "url": "https://partner.tiktokshop.com/docv2/page/67b4f5e7c422a204a9fc85ea",
+      "createdAt": 1739912698
+    },
+    {
       "id": 1080,
       "platform": "shopee",
       "title": "OpenAPI Updates for Escrow API and FBS Model Edit",

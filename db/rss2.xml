@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 17 Feb 2025 08:03:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 22:02:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - Product API now supports two prices]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/67b4f5e7c422a204a9fc85ea</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/67b4f5e7c422a204a9fc85ea</guid>
+            <pubDate>Tue, 18 Feb 2025 21:04:58 GMT</pubDate>
+            <description><![CDATA[Product API now supports two prices]]></description>
+            <content:encoded><![CDATA[Product API now supports two prices]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - OpenAPI Updates for Escrow API and FBS Model Edit]]></title>
             <link>https://open.shopee.com/announcements/1080</link>
