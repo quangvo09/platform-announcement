@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1083,
+      "platform": "shopee",
+      "title": "[Importante] Atualização API de Cotação - Logística do Vendedor",
+      "url": "https://open.shopee.com/announcements/1083",
+      "createdAt": 1740049229
+    },
+    {
       "id": "67b540942cff3804b29aa359",
       "platform": "tiktok",
       "title": "Product API now supports two prices",
