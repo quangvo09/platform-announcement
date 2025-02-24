@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1086,
+      "platform": "shopee",
+      "title": "[Atualização API] Invoices de Exportação",
+      "url": "https://open.shopee.com/announcements/1086",
+      "createdAt": 1740433712
+    },
+    {
       "id": 1083,
       "platform": "shopee",
       "title": "[Importante] Atualização API de Cotação - Logística do Vendedor",

@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 20 Feb 2025 11:02:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 22:02:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [Atualização API] Invoices de Exportação]]></title>
+            <link>https://open.shopee.com/announcements/1086</link>
+            <guid>https://open.shopee.com/announcements/1086</guid>
+            <pubDate>Mon, 24 Feb 2025 21:48:32 GMT</pubDate>
+            <description><![CDATA[[Atualização API] Invoices de Exportação]]></description>
+            <content:encoded><![CDATA[[Atualização API] Invoices de Exportação]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [Importante] Atualização API de Cotação - Logística do Vendedor]]></title>
             <link>https://open.shopee.com/announcements/1083</link>
