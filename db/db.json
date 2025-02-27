@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "67bfff18ea14ae049dec966f",
+      "platform": "tiktok",
+      "title": "Create Product API now supports an idempotency key",
+      "url": "https://partner.tiktokshop.com/docv2/page/67bfff18ea14ae049dec966f",
+      "createdAt": 1740635943
+    },
+    {
       "id": 1086,
       "platform": "shopee",
       "title": "[Atualização API] Invoices de Exportação",
