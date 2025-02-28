@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121822,
+      "platform": "lazada",
+      "title": "Category Tree Changes",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121822",
+      "createdAt": 1740712903
+    },
+    {
       "id": "67c1198b99a7510498374eeb",
       "platform": "tiktok",
       "title": "Create Product API now supports an idempotency key",

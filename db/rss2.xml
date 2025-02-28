@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 28 Feb 2025 02:26:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 04:02:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>lazada</category>
         <category>tiktok</category>
         <category>shopee</category>
-        <category>lazada</category>
+        <item>
+            <title><![CDATA[[LAZADA] - Category Tree Changes]]></title>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=121822</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=121822</guid>
+            <pubDate>Fri, 28 Feb 2025 03:21:43 GMT</pubDate>
+            <description><![CDATA[Category Tree Changes]]></description>
+            <content:encoded><![CDATA[Category Tree Changes]]></content:encoded>
+            <category>lazada</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - Create Product API now supports an idempotency key]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/67c1198b99a7510498374eeb</link>
