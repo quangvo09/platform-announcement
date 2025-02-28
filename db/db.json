@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1090,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates for Mass Shipment and Shop Performance&Penalty",
+      "url": "https://open.shopee.com/announcements/1090",
+      "createdAt": 1740743788
+    },
+    {
+      "id": 1089,
+      "platform": "shopee",
+      "title": "Open Platform Support Push Mechanism Partner Key",
+      "url": "https://open.shopee.com/announcements/1089",
+      "createdAt": 1740743396
+    },
+    {
       "id": 121822,
       "platform": "lazada",
       "title": "Category Tree Changes",
