@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "67c1198b99a7510498374eeb",
+      "platform": "tiktok",
+      "title": "Create Product API now supports an idempotency key",
+      "url": "https://partner.tiktokshop.com/docv2/page/67c1198b99a7510498374eeb",
+      "createdAt": 1740708254
+    },
+    {
       "id": "67c10ad401a7ee04b4d35835",
       "platform": "tiktok",
       "title": "Create Product API now supports an idempotency key",
