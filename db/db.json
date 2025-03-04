@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121823,
+      "platform": "lazada",
+      "title": "Choice API - PO Query API and webhook adjustment",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121823",
+      "createdAt": 1741068118
+    },
+    {
       "id": 1090,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates for Mass Shipment and Shop Performance&Penalty",
