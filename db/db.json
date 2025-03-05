@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121824,
+      "platform": "lazada",
+      "title": "LAZADA Bday Campaign Downgrade Plan",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121824",
+      "createdAt": 1741141369
+    },
+    {
       "id": 121823,
       "platform": "lazada",
       "title": "Choice API - PO Query API and webhook adjustment",
