@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 05 Mar 2025 02:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 01:29:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,29 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>tiktok</category>
         <category>lazada</category>
         <category>shopee</category>
-        <category>tiktok</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - Hazmat Deadline Extended to April 15]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/67c8ed30d5d9d004a2f5cd73</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/67c8ed30d5d9d004a2f5cd73</guid>
+            <pubDate>Thu, 06 Mar 2025 00:33:18 GMT</pubDate>
+            <description><![CDATA[Hazmat Deadline Extended to April 15]]></description>
+            <content:encoded><![CDATA[Hazmat Deadline Extended to April 15]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[TIKTOK] - Auto Combine Order ID available in Order Details for LIVE sessions]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/67c8ed2e2b63a404b7ad64ce</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/67c8ed2e2b63a404b7ad64ce</guid>
+            <pubDate>Thu, 06 Mar 2025 00:33:15 GMT</pubDate>
+            <description><![CDATA[Auto Combine Order ID available in Order Details for LIVE sessions]]></description>
+            <content:encoded><![CDATA[Auto Combine Order ID available in Order Details for LIVE sessions]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[LAZADA] - LAZADA Bday Campaign Downgrade Plan]]></title>
             <link>https://open.lazada.com/apps/announcement/detail?docId=121824</link>
