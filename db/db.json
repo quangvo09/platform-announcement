@@ -1,6 +1,34 @@
 {
   "announcements": [
     {
+      "id": "67ca5b6c49162f049f2d1fa6",
+      "platform": "tiktok",
+      "title": "BR Market: Updated API workflow to support Order, Invoice and Warehouse",
+      "url": "https://partner.tiktokshop.com/docv2/page/67ca5b6c49162f049f2d1fa6",
+      "createdAt": 1741314967
+    },
+    {
+      "id": "67ca5b69c925e304ad101829",
+      "platform": "tiktok",
+      "title": "Upload Product Image and Upload Product File support more file formats",
+      "url": "https://partner.tiktokshop.com/docv2/page/67ca5b69c925e304ad101829",
+      "createdAt": 1741314965
+    },
+    {
+      "id": "67ca5b6649162f049f2d1f8f",
+      "platform": "tiktok",
+      "title": "Mandatory certifications for certain categories added",
+      "url": "https://partner.tiktokshop.com/docv2/page/67ca5b6649162f049f2d1f8f",
+      "createdAt": 1741314965
+    },
+    {
+      "id": "67ca5b63fc1c0704c4484a75",
+      "platform": "tiktok",
+      "title": "Adding co-founded shipping discount fields",
+      "url": "https://partner.tiktokshop.com/docv2/page/67ca5b63fc1c0704c4484a75",
+      "createdAt": 1741314961
+    },
+    {
       "id": "67c8ed30d5d9d004a2f5cd73",
       "platform": "tiktok",
       "title": "Hazmat Deadline Extended to April 15",

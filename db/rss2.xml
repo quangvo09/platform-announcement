@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 06 Mar 2025 01:29:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 03:10:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,46 @@
         <category>tiktok</category>
         <category>lazada</category>
         <category>shopee</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - BR Market: Updated API workflow to support Order, Invoice and Warehouse]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/67ca5b6c49162f049f2d1fa6</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/67ca5b6c49162f049f2d1fa6</guid>
+            <pubDate>Fri, 07 Mar 2025 02:36:07 GMT</pubDate>
+            <description><![CDATA[BR Market: Updated API workflow to support Order, Invoice and Warehouse]]></description>
+            <content:encoded><![CDATA[BR Market: Updated API workflow to support Order, Invoice and Warehouse]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[TIKTOK] - Upload Product Image and Upload Product File support more file formats]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/67ca5b69c925e304ad101829</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/67ca5b69c925e304ad101829</guid>
+            <pubDate>Fri, 07 Mar 2025 02:36:05 GMT</pubDate>
+            <description><![CDATA[Upload Product Image and Upload Product File support more file formats]]></description>
+            <content:encoded><![CDATA[Upload Product Image and Upload Product File support more file formats]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[TIKTOK] - Mandatory certifications for certain categories added]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/67ca5b6649162f049f2d1f8f</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/67ca5b6649162f049f2d1f8f</guid>
+            <pubDate>Fri, 07 Mar 2025 02:36:05 GMT</pubDate>
+            <description><![CDATA[Mandatory certifications for certain categories added]]></description>
+            <content:encoded><![CDATA[Mandatory certifications for certain categories added]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[TIKTOK] - Adding co-founded shipping discount fields]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/67ca5b63fc1c0704c4484a75</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/67ca5b63fc1c0704c4484a75</guid>
+            <pubDate>Fri, 07 Mar 2025 02:36:01 GMT</pubDate>
+            <description><![CDATA[Adding co-founded shipping discount fields]]></description>
+            <content:encoded><![CDATA[Adding co-founded shipping discount fields]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - Hazmat Deadline Extended to April 15]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/67c8ed30d5d9d004a2f5cd73</link>
