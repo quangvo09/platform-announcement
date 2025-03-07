@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1094,
+      "platform": "shopee",
+      "title": "[Importante] \"pre_order\" ativo para o canal 90021 (Logística Própria)",
+      "url": "https://open.shopee.com/announcements/1094",
+      "createdAt": 1741348291
+    },
+    {
       "id": "67ca5b6c49162f049f2d1fa6",
       "platform": "tiktok",
       "title": "BR Market: Updated API workflow to support Order, Invoice and Warehouse",

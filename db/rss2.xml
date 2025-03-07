@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 07 Mar 2025 03:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 12:03:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
-        <category>shopee</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [Importante] "pre_order" ativo para o canal 90021 (Logística Própria)]]></title>
+            <link>https://open.shopee.com/announcements/1094</link>
+            <guid>https://open.shopee.com/announcements/1094</guid>
+            <pubDate>Fri, 07 Mar 2025 11:51:31 GMT</pubDate>
+            <description><![CDATA[[Importante] "pre_order" ativo para o canal 90021 (Logística Própria)]]></description>
+            <content:encoded><![CDATA[[Importante] "pre_order" ativo para o canal 90021 (Logística Própria)]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - BR Market: Updated API workflow to support Order, Invoice and Warehouse]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/67ca5b6c49162f049f2d1fa6</link>
