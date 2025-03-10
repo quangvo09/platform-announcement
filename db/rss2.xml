@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 07 Mar 2025 12:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 14:02:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Falha no fluxo de envio de Nota Fiscal]]></title>
+            <link>https://open.shopee.com/announcements/1095</link>
+            <guid>https://open.shopee.com/announcements/1095</guid>
+            <pubDate>Mon, 10 Mar 2025 13:58:12 GMT</pubDate>
+            <description><![CDATA[Falha no fluxo de envio de Nota Fiscal]]></description>
+            <content:encoded><![CDATA[Falha no fluxo de envio de Nota Fiscal]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [Importante] "pre_order" ativo para o canal 90021 (Logística Própria)]]></title>
             <link>https://open.shopee.com/announcements/1094</link>

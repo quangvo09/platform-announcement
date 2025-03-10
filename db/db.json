@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1095,
+      "platform": "shopee",
+      "title": "Falha no fluxo de envio de Nota Fiscal",
+      "url": "https://open.shopee.com/announcements/1095",
+      "createdAt": 1741615092
+    },
+    {
       "id": 1094,
       "platform": "shopee",
       "title": "[Importante] \"pre_order\" ativo para o canal 90021 (Logística Própria)",
