@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1097,
+      "platform": "shopee",
+      "title": "[Important] Support 3PF Multi-warehouse Mode",
+      "url": "https://open.shopee.com/announcements/1097",
+      "createdAt": 1741946355
+    },
+    {
       "id": 1095,
       "platform": "shopee",
       "title": "Falha no fluxo de envio de Nota Fiscal",
