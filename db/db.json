@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1098,
+      "platform": "shopee",
+      "title": "Important OpenAPI Update",
+      "url": "https://open.shopee.com/announcements/1098",
+      "createdAt": 1741951766
+    },
+    {
       "id": 1097,
       "platform": "shopee",
       "title": "[Important] Support 3PF Multi-warehouse Mode",

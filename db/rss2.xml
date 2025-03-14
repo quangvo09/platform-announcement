@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 14 Mar 2025 10:02:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 12:03:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Important OpenAPI Update]]></title>
+            <link>https://open.shopee.com/announcements/1098</link>
+            <guid>https://open.shopee.com/announcements/1098</guid>
+            <pubDate>Fri, 14 Mar 2025 11:29:26 GMT</pubDate>
+            <description><![CDATA[Important OpenAPI Update]]></description>
+            <content:encoded><![CDATA[Important OpenAPI Update]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [Important] Support 3PF Multi-warehouse Mode]]></title>
             <link>https://open.shopee.com/announcements/1097</link>
