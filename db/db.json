@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1100,
+      "platform": "shopee",
+      "title": "[Atualização API] Obrigatoriedade de dimensões",
+      "url": "https://open.shopee.com/announcements/1100",
+      "createdAt": 1742216047
+    },
+    {
       "id": 1098,
       "platform": "shopee",
       "title": "Important OpenAPI Update",
