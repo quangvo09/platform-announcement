@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1102,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Open Platform AWB API - Shopee Express (East Malaysia)",
+      "url": "https://open.shopee.com/announcements/1102",
+      "createdAt": 1742364345
+    },
+    {
       "id": 1100,
       "platform": "shopee",
       "title": "[Atualização API] Obrigatoriedade de dimensões",
