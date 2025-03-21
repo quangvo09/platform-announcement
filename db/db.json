@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1109,
+      "platform": "shopee",
+      "title": "Important OpenAPI Update",
+      "url": "https://open.shopee.com/announcements/1109",
+      "createdAt": 1742529952
+    },
+    {
       "id": 1102,
       "platform": "shopee",
       "title": "[MY] Important Update for Open Platform AWB API - Shopee Express (East Malaysia)",
