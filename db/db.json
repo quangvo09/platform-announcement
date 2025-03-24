@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1111,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates for Pickup Service Improvement",
+      "url": "https://open.shopee.com/announcements/1111",
+      "createdAt": 1742804010
+    },
+    {
       "id": 1109,
       "platform": "shopee",
       "title": "Important OpenAPI Update",

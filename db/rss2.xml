@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 21 Mar 2025 05:02:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Mar 2025 09:02:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates for Pickup Service Improvement]]></title>
+            <link>https://open.shopee.com/announcements/1111</link>
+            <guid>https://open.shopee.com/announcements/1111</guid>
+            <pubDate>Mon, 24 Mar 2025 08:13:30 GMT</pubDate>
+            <description><![CDATA[Significant OpenAPI Updates for Pickup Service Improvement]]></description>
+            <content:encoded><![CDATA[Significant OpenAPI Updates for Pickup Service Improvement]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Important OpenAPI Update]]></title>
             <link>https://open.shopee.com/announcements/1109</link>
