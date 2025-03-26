@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121830,
+      "platform": "lazada",
+      "title": "Category Tree Changes",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121830",
+      "createdAt": 1742976292
+    },
+    {
       "id": 1111,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates for Pickup Service Improvement",
