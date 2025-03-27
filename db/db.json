@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1115,
+      "platform": "shopee",
+      "title": "[Important] Support Local Sellers’ Cross Border Direct Selling Mode",
+      "url": "https://open.shopee.com/announcements/1115",
+      "createdAt": 1743047683
+    },
+    {
       "id": 121830,
       "platform": "lazada",
       "title": "Category Tree Changes",
