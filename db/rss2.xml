@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 27 Mar 2025 04:02:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 08:03:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>lazada</category>
+        <category>shopee</category>
         <category>tiktok</category>
+        <item>
+            <title><![CDATA[[LAZADA] - Reverse API - Only refund order inquiries, actions and SLA field updates]]></title>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=121834</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=121834</guid>
+            <pubDate>Mon, 31 Mar 2025 07:52:22 GMT</pubDate>
+            <description><![CDATA[Reverse API - Only refund order inquiries, actions and SLA field updates]]></description>
+            <content:encoded><![CDATA[Reverse API - Only refund order inquiries, actions and SLA field updates]]></content:encoded>
+            <category>lazada</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [Important] Support Local Sellers’ Cross Border Direct Selling Mode]]></title>
             <link>https://open.shopee.com/announcements/1115</link>

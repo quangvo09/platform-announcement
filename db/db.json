@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121834,
+      "platform": "lazada",
+      "title": "Reverse API - Only refund order inquiries, actions and SLA field updates",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121834",
+      "createdAt": 1743407542
+    },
+    {
       "id": 1115,
       "platform": "shopee",
       "title": "[Important] Support Local Sellers’ Cross Border Direct Selling Mode",
