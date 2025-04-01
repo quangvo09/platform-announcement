@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "67eb5e81684be504c20ce560",
+      "platform": "tiktok",
+      "title": "JP market: Updated APIs for Products, Orders, Logistics, and Customer service",
+      "url": "https://partner.tiktokshop.com/docv2/page/67eb5e81684be504c20ce560",
+      "createdAt": 1743478424
+    },
+    {
       "id": 121834,
       "platform": "lazada",
       "title": "Reverse API - Only refund order inquiries, actions and SLA field updates",

@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 31 Mar 2025 08:03:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Apr 2025 04:03:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>tiktok</category>
         <category>lazada</category>
         <category>shopee</category>
-        <category>tiktok</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - JP market: Updated APIs for Products, Orders, Logistics, and Customer service]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/67eb5e81684be504c20ce560</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/67eb5e81684be504c20ce560</guid>
+            <pubDate>Tue, 01 Apr 2025 03:33:44 GMT</pubDate>
+            <description><![CDATA[JP market: Updated APIs for Products, Orders, Logistics, and Customer service]]></description>
+            <content:encoded><![CDATA[JP market: Updated APIs for Products, Orders, Logistics, and Customer service]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[LAZADA] - Reverse API - Only refund order inquiries, actions and SLA field updates]]></title>
             <link>https://open.lazada.com/apps/announcement/detail?docId=121834</link>
