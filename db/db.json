@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "67ecb3ce8ceb0d04a3723b82",
+      "platform": "tiktok",
+      "title": "Streamlining of invite-only product categories",
+      "url": "https://partner.tiktokshop.com/docv2/page/67ecb3ce8ceb0d04a3723b82",
+      "createdAt": 1743565789
+    },
+    {
       "id": "67eb5e81684be504c20ce560",
       "platform": "tiktok",
       "title": "JP market: Updated APIs for Products, Orders, Logistics, and Customer service",
