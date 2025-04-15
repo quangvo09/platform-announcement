@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1128,
+      "platform": "shopee",
+      "title": "[PH] Upcoming Mandatory Certifications for Philippines Shop",
+      "url": "https://open.shopee.com/announcements/1128",
+      "createdAt": 1744723587
+    },
+    {
       "id": 1121,
       "platform": "shopee",
       "title": "[Important] Update Local SIP Affiliate Shop Access Permission",
