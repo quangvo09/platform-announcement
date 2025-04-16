@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1129,
+      "platform": "shopee",
+      "title": "[MY] Important Update for AWB & Masked Channel Migration (City-Link Express)",
+      "url": "https://open.shopee.com/announcements/1129",
+      "createdAt": 1744776686
+    },
+    {
       "id": 1128,
       "platform": "shopee",
       "title": "[PH] Upcoming Mandatory Certifications for Philippines Shop",
