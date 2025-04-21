@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 16 Apr 2025 05:02:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Apr 2025 08:03:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>lazada</category>
         <category>shopee</category>
         <category>tiktok</category>
-        <category>lazada</category>
+        <item>
+            <title><![CDATA[[LAZADA] - 服务市场 - 服务市场打开中国大陆及香港地区服务商发品通道]]></title>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=121843</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=121843</guid>
+            <pubDate>Mon, 21 Apr 2025 07:06:29 GMT</pubDate>
+            <description><![CDATA[服务市场 - 服务市场打开中国大陆及香港地区服务商发品通道]]></description>
+            <content:encoded><![CDATA[服务市场 - 服务市场打开中国大陆及香港地区服务商发品通道]]></content:encoded>
+            <category>lazada</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [MY] Important Update for AWB & Masked Channel Migration (City-Link Express)]]></title>
             <link>https://open.shopee.com/announcements/1129</link>

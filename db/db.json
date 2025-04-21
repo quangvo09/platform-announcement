@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121843,
+      "platform": "lazada",
+      "title": "服务市场 - 服务市场打开中国大陆及香港地区服务商发品通道",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121843",
+      "createdAt": 1745219189
+    },
+    {
       "id": 1129,
       "platform": "shopee",
       "title": "[MY] Important Update for AWB & Masked Channel Migration (City-Link Express)",
