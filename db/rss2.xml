@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 21 Apr 2025 08:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Apr 2025 21:02:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>tiktok</category>
         <category>lazada</category>
         <category>shopee</category>
-        <category>tiktok</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - BR market: ZPL format support for shipping documents]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/680bec69106224049782f255</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/680bec69106224049782f255</guid>
+            <pubDate>Fri, 25 Apr 2025 20:11:30 GMT</pubDate>
+            <description><![CDATA[BR market: ZPL format support for shipping documents]]></description>
+            <content:encoded><![CDATA[BR market: ZPL format support for shipping documents]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[LAZADA] - 服务市场 - 服务市场打开中国大陆及香港地区服务商发品通道]]></title>
             <link>https://open.lazada.com/apps/announcement/detail?docId=121843</link>
