@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "680ffa16ad835c04a2d81b79",
+      "platform": "tiktok",
+      "title": "US market: Supplementary SKU images",
+      "url": "https://partner.tiktokshop.com/docv2/page/680ffa16ad835c04a2d81b79",
+      "createdAt": 1745877551
+    },
+    {
       "id": "680febac2f1c1704a81ffc7c",
       "platform": "tiktok",
       "title": "US market: Pre-order, made-to-order, and back-order functionality",
