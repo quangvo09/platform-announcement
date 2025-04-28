@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Sun, 27 Apr 2025 03:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Apr 2025 21:02:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,29 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>lazada</category>
         <category>tiktok</category>
+        <category>lazada</category>
         <category>shopee</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - US market: Pre-order, made-to-order, and back-order functionality]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/680febac2f1c1704a81ffc7c</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/680febac2f1c1704a81ffc7c</guid>
+            <pubDate>Mon, 28 Apr 2025 20:57:32 GMT</pubDate>
+            <description><![CDATA[US market: Pre-order, made-to-order, and back-order functionality]]></description>
+            <content:encoded><![CDATA[US market: Pre-order, made-to-order, and back-order functionality]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[TIKTOK] - US market: Pre-order, made-to-order, and back-order functionality]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/680febada6eb9c049050ea37</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/680febada6eb9c049050ea37</guid>
+            <pubDate>Mon, 28 Apr 2025 20:57:30 GMT</pubDate>
+            <description><![CDATA[US market: Pre-order, made-to-order, and back-order functionality]]></description>
+            <content:encoded><![CDATA[US market: Pre-order, made-to-order, and back-order functionality]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[LAZADA] - Category Tree Changes]]></title>
             <link>https://open.lazada.com/apps/announcement/detail?docId=121847</link>

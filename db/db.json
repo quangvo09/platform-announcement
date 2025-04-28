@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": "680febac2f1c1704a81ffc7c",
+      "platform": "tiktok",
+      "title": "US market: Pre-order, made-to-order, and back-order functionality",
+      "url": "https://partner.tiktokshop.com/docv2/page/680febac2f1c1704a81ffc7c",
+      "createdAt": 1745873852
+    },
+    {
+      "id": "680febada6eb9c049050ea37",
+      "platform": "tiktok",
+      "title": "US market: Pre-order, made-to-order, and back-order functionality",
+      "url": "https://partner.tiktokshop.com/docv2/page/680febada6eb9c049050ea37",
+      "createdAt": 1745873850
+    },
+    {
       "id": 121847,
       "platform": "lazada",
       "title": "Category Tree Changes",
