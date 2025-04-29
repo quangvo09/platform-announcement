@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "68113dc7d831b1049f307323",
+      "platform": "tiktok",
+      "title": "US and UK markets: Exchange orders",
+      "url": "https://partner.tiktokshop.com/docv2/page/68113dc7d831b1049f307323",
+      "createdAt": 1745960402
+    },
+    {
       "id": 121848,
       "platform": "lazada",
       "title": "Product API - Add an audit mechanism for creating products",

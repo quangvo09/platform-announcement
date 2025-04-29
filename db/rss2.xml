@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 29 Apr 2025 09:02:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Apr 2025 21:02:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>lazada</category>
         <category>tiktok</category>
+        <category>lazada</category>
         <category>shopee</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - US and UK markets: Exchange orders]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/68113dc7d831b1049f307323</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/68113dc7d831b1049f307323</guid>
+            <pubDate>Tue, 29 Apr 2025 21:00:02 GMT</pubDate>
+            <description><![CDATA[US and UK markets: Exchange orders]]></description>
+            <content:encoded><![CDATA[US and UK markets: Exchange orders]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[LAZADA] - Product API - Add an audit mechanism for creating products]]></title>
             <link>https://open.lazada.com/apps/announcement/detail?docId=121848</link>
