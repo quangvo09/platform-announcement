@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121848,
+      "platform": "lazada",
+      "title": "Product API - Add an audit mechanism for creating products",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121848",
+      "createdAt": 1745915264
+    },
+    {
       "id": "680ffa16ad835c04a2d81b79",
       "platform": "tiktok",
       "title": "US market: Supplementary SKU images",

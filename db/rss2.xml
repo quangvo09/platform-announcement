@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 28 Apr 2025 22:02:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Apr 2025 09:02:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>tiktok</category>
         <category>lazada</category>
+        <category>tiktok</category>
         <category>shopee</category>
+        <item>
+            <title><![CDATA[[LAZADA] - Product API - Add an audit mechanism for creating products]]></title>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=121848</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=121848</guid>
+            <pubDate>Tue, 29 Apr 2025 08:27:44 GMT</pubDate>
+            <description><![CDATA[Product API - Add an audit mechanism for creating products]]></description>
+            <content:encoded><![CDATA[Product API - Add an audit mechanism for creating products]]></content:encoded>
+            <category>lazada</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - US market: Supplementary SKU images]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/680ffa16ad835c04a2d81b79</link>
