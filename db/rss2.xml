@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 29 Apr 2025 21:02:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Apr 2025 22:02:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>tiktok</category>
         <category>lazada</category>
         <category>shopee</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - US, UK, and SEA markets: Pre-order and made-to-order product types]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/68114772d5057104a0411e8e</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/68114772d5057104a0411e8e</guid>
+            <pubDate>Tue, 29 Apr 2025 21:41:23 GMT</pubDate>
+            <description><![CDATA[US, UK, and SEA markets: Pre-order and made-to-order product types]]></description>
+            <content:encoded><![CDATA[US, UK, and SEA markets: Pre-order and made-to-order product types]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - US and UK markets: Exchange orders]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/68113dc7d831b1049f307323</link>
