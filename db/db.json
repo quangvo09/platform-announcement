@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1132,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Self Collection Point (SPX Express)",
+      "url": "https://open.shopee.com/announcements/1132",
+      "createdAt": 1746081242
+    },
+    {
       "id": "68114772d5057104a0411e8e",
       "platform": "tiktok",
       "title": "US, UK, and SEA markets: Pre-order and made-to-order product types",

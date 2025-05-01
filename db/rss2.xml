@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 29 Apr 2025 22:02:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 May 2025 07:02:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
-        <category>shopee</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [MY] Important Update for Self Collection Point (SPX Express)]]></title>
+            <link>https://open.shopee.com/announcements/1132</link>
+            <guid>https://open.shopee.com/announcements/1132</guid>
+            <pubDate>Thu, 01 May 2025 06:34:02 GMT</pubDate>
+            <description><![CDATA[[MY] Important Update for Self Collection Point (SPX Express)]]></description>
+            <content:encoded><![CDATA[[MY] Important Update for Self Collection Point (SPX Express)]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - US, UK, and SEA markets: Pre-order and made-to-order product types]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/68114772d5057104a0411e8e</link>
