@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1134,
+      "platform": "shopee",
+      "title": "[MY] Important Update for AWB (City-Link Express)",
+      "url": "https://open.shopee.com/announcements/1134",
+      "createdAt": 1746708127
+    },
+    {
       "id": "68198c221062240497df0541",
       "platform": "tiktok",
       "title": "For the SEA Market Partner & Developer: Add Expire Date on Product Certifications",
