@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "681d1e91d2dec604acd934cc",
+      "platform": "tiktok",
+      "title": "US market: Fast delivery program",
+      "url": "https://partner.tiktokshop.com/docv2/page/681d1e91d2dec604acd934cc",
+      "createdAt": 1746738863
+    },
+    {
       "id": 1134,
       "platform": "shopee",
       "title": "[MY] Important Update for AWB (City-Link Express)",
