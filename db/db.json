@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1138,
+      "platform": "shopee",
+      "title": "One AWB Update for Shopee VN, SG, TH Cross-border Order",
+      "url": "https://open.shopee.com/announcements/1138",
+      "createdAt": 1747310468
+    },
+    {
       "id": "681d1e91d2dec604acd934cc",
       "platform": "tiktok",
       "title": "US market: Fast delivery program",
