@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1136,
+      "platform": "shopee",
+      "title": "Shopee GMV max Ads and FBS Inventory API Now Available",
+      "url": "https://open.shopee.com/announcements/1136",
+      "createdAt": 1747362683
+    },
+    {
       "id": 1138,
       "platform": "shopee",
       "title": "One AWB Update for Shopee VN, SG, TH Cross-border Order",
