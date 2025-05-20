@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1141,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates for Shop Performance",
+      "url": "https://open.shopee.com/announcements/1141",
+      "createdAt": 1747723261
+    },
+    {
       "id": 1140,
       "platform": "shopee",
       "title": "One AWB Update for Direct Selling Programme",
