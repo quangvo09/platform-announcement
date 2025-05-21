@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "682e40f58d17bd04a10a1d96",
+      "platform": "tiktok",
+      "title": "US market: TikTok Shipping label allocation",
+      "url": "https://partner.tiktokshop.com/docv2/page/682e40f58d17bd04a10a1d96",
+      "createdAt": 1747861764
+    },
+    {
       "id": 1141,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates for Shop Performance",
