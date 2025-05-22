@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121853,
+      "platform": "lazada",
+      "title": "LAZADA D6 Campaign Downgrade Plan",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121853",
+      "createdAt": 1747879085
+    },
+    {
       "id": "682e40f58d17bd04a10a1d96",
       "platform": "tiktok",
       "title": "US market: TikTok Shipping label allocation",
