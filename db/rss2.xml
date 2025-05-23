@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 22 May 2025 09:02:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 May 2025 02:31:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>tiktok</category>
         <category>lazada</category>
         <category>shopee</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - US market: Changes to recipient_address masking]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/682fda578992fb0499d40ed3</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/682fda578992fb0499d40ed3</guid>
+            <pubDate>Fri, 23 May 2025 02:16:04 GMT</pubDate>
+            <description><![CDATA[US market: Changes to recipient_address masking]]></description>
+            <content:encoded><![CDATA[US market: Changes to recipient_address masking]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - US market: Updates to mandatory attributes]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/682ede19f8268a04839b6627</link>

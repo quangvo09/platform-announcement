@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "682fda578992fb0499d40ed3",
+      "platform": "tiktok",
+      "title": "US market: Changes to recipient_address masking",
+      "url": "https://partner.tiktokshop.com/docv2/page/682fda578992fb0499d40ed3",
+      "createdAt": 1747966564
+    },
+    {
       "id": "682ede19f8268a04839b6627",
       "platform": "tiktok",
       "title": "US market: Updates to mandatory attributes",
