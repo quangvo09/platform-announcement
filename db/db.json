@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1147,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Shipping Carrier AWB (GDEX)",
+      "url": "https://open.shopee.com/announcements/1147",
+      "createdAt": 1747994490
+    },
+    {
       "id": "682fda578992fb0499d40ed3",
       "platform": "tiktok",
       "title": "US market: Changes to recipient_address masking",
