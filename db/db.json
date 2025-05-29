@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6838d11c66af0d04a7c2a149",
+      "platform": "tiktok",
+      "title": "BR and MX markets: Changes to name logic",
+      "url": "https://partner.tiktokshop.com/docv2/page/6838d11c66af0d04a7c2a149",
+      "createdAt": 1748554033
+    },
+    {
       "id": 1147,
       "platform": "shopee",
       "title": "[MY] Important Update for Shipping Carrier AWB (GDEX)",
