@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1152,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Open Platform AWB API -  SPX Express (SDD)",
+      "url": "https://open.shopee.com/announcements/1152",
+      "createdAt": 1748598055
+    },
+    {
       "id": "6838d11c66af0d04a7c2a149",
       "platform": "tiktok",
       "title": "BR and MX markets: Changes to name logic",
