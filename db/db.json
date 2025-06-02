@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1149,
+      "platform": "shopee",
+      "title": "A API de Inventário para FBS está disponível",
+      "url": "https://open.shopee.com/announcements/1149",
+      "createdAt": 1748895420
+    },
+    {
       "id": 1152,
       "platform": "shopee",
       "title": "[MY] Important Update for Open Platform AWB API -  SPX Express (SDD)",
