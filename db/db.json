@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "68417994603891048c65f4c2",
+      "platform": "tiktok",
+      "title": "Deprecating TikTok Shop API V1",
+      "url": "https://partner.tiktokshop.com/docv2/page/68417994603891048c65f4c2",
+      "createdAt": 1749121704
+    },
+    {
       "id": 1158,
       "platform": "shopee",
       "title": "[Important] OpenAPI Sunset Announcement",
