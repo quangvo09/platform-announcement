@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1158,
+      "platform": "shopee",
+      "title": "[Important] OpenAPI Sunset Announcement",
+      "url": "https://open.shopee.com/announcements/1158",
+      "createdAt": 1749087002
+    },
+    {
       "id": 1149,
       "platform": "shopee",
       "title": "A API de Inventário para FBS está disponível",
