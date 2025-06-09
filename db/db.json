@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1160,
+      "platform": "shopee",
+      "title": "[OpenAPI Update] Support JIT at Model Level & Purchase Order Modification Rule C",
+      "url": "https://open.shopee.com/announcements/1160",
+      "createdAt": 1749466781
+    },
+    {
       "id": "68417994603891048c65f4c2",
       "platform": "tiktok",
       "title": "Deprecating TikTok Shop API V1",
