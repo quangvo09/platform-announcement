@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1161,
+      "platform": "shopee",
+      "title": "[Atualização API] Novidades fluxo de Fulfilled by Shopee (FBS)",
+      "url": "https://open.shopee.com/announcements/1161",
+      "createdAt": 1749558889
+    },
+    {
       "id": 1160,
       "platform": "shopee",
       "title": "[OpenAPI Update] Support JIT at Model Level & Purchase Order Modification Rule C",
