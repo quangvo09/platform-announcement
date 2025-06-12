@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1163,
+      "platform": "shopee",
+      "title": "[Importante] Etiquetas de Envio Personalizadas",
+      "url": "https://open.shopee.com/announcements/1163",
+      "createdAt": 1749734055
+    },
+    {
       "id": 1161,
       "platform": "shopee",
       "title": "[Atualização API] Novidades fluxo de Fulfilled by Shopee (FBS)",
