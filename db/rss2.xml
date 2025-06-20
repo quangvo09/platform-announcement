@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 20 Jun 2025 06:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jun 2025 11:02:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>lazada</category>
         <category>shopee</category>
+        <category>lazada</category>
         <category>tiktok</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Open API Send Message Limitation]]></title>
+            <link>https://open.shopee.com/announcements/1168</link>
+            <guid>https://open.shopee.com/announcements/1168</guid>
+            <pubDate>Fri, 20 Jun 2025 11:00:38 GMT</pubDate>
+            <description><![CDATA[Open API Send Message Limitation]]></description>
+            <content:encoded><![CDATA[Open API Send Message Limitation]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[LAZADA] - Category tree and attribute changes]]></title>
             <link>https://open.lazada.com/apps/announcement/detail?docId=121861</link>

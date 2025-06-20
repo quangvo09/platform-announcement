@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1168,
+      "platform": "shopee",
+      "title": "Open API Send Message Limitation",
+      "url": "https://open.shopee.com/announcements/1168",
+      "createdAt": 1750417238
+    },
+    {
       "id": 121861,
       "platform": "lazada",
       "title": "Category tree and attribute changes",
