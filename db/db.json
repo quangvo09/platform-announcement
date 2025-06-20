@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121861,
+      "platform": "lazada",
+      "title": "Category tree and attribute changes",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121861",
+      "createdAt": 1750397744
+    },
+    {
       "id": 1163,
       "platform": "shopee",
       "title": "[Importante] Etiquetas de Envio Personalizadas",
