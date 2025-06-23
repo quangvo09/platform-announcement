@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1169,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of New Package Detail API & Fulfillment Status Push",
+      "url": "https://open.shopee.com/announcements/1169",
+      "createdAt": 1750660742
+    },
+    {
       "id": 1168,
       "platform": "shopee",
       "title": "Open API Send Message Limitation",
