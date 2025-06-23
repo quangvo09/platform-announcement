@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 23 Jun 2025 07:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jun 2025 10:02:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>tiktok</category>
         <category>shopee</category>
         <category>lazada</category>
-        <category>tiktok</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - Supplementary Notice on API Deprecation: Finance APIs]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/68591ecdbaf007048f512484</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/68591ecdbaf007048f512484</guid>
+            <pubDate>Mon, 23 Jun 2025 09:31:25 GMT</pubDate>
+            <description><![CDATA[Supplementary Notice on API Deprecation: Finance APIs]]></description>
+            <content:encoded><![CDATA[Supplementary Notice on API Deprecation: Finance APIs]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of New Package Detail API & Fulfillment Status Push]]></title>
             <link>https://open.shopee.com/announcements/1169</link>

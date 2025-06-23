@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "68591ecdbaf007048f512484",
+      "platform": "tiktok",
+      "title": "Supplementary Notice on API Deprecation: Finance APIs",
+      "url": "https://partner.tiktokshop.com/docv2/page/68591ecdbaf007048f512484",
+      "createdAt": 1750671085
+    },
+    {
       "id": 1169,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of New Package Detail API & Fulfillment Status Push",
