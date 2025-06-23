@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1171,
+      "platform": "shopee",
+      "title": "[TH] Important Update for Open Platform AWB API - Instant Delivery - ส่งทันที",
+      "url": "https://open.shopee.com/announcements/1171",
+      "createdAt": 1750677971
+    },
+    {
+      "id": 1170,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Open Platform AWB API - Flash Bulky",
+      "url": "https://open.shopee.com/announcements/1170",
+      "createdAt": 1750676538
+    },
+    {
       "id": "68591ecdbaf007048f512484",
       "platform": "tiktok",
       "title": "Supplementary Notice on API Deprecation: Finance APIs",
