@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1172,
+      "platform": "shopee",
+      "title": "[Importante] ERRATA - Aviso de Restrição da sua conta",
+      "url": "https://open.shopee.com/announcements/1172",
+      "createdAt": 1750786655
+    },
+    {
       "id": 1171,
       "platform": "shopee",
       "title": "[TH] Important Update for Open Platform AWB API - Instant Delivery - ส่งทันที",
