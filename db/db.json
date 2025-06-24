@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1174,
+      "platform": "shopee",
+      "title": "[Penalização de Conta Removida] ERRATA 2 - Aviso de Restrição da sua conta",
+      "url": "https://open.shopee.com/announcements/1174",
+      "createdAt": 1750791428
+    },
+    {
       "id": 1172,
       "platform": "shopee",
       "title": "[Importante] ERRATA - Aviso de Restrição da sua conta",

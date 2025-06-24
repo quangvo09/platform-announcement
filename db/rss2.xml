@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 24 Jun 2025 18:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jun 2025 19:02:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [Penalização de Conta Removida] ERRATA 2 - Aviso de Restrição da sua conta]]></title>
+            <link>https://open.shopee.com/announcements/1174</link>
+            <guid>https://open.shopee.com/announcements/1174</guid>
+            <pubDate>Tue, 24 Jun 2025 18:57:08 GMT</pubDate>
+            <description><![CDATA[[Penalização de Conta Removida] ERRATA 2 - Aviso de Restrição da sua conta]]></description>
+            <content:encoded><![CDATA[[Penalização de Conta Removida] ERRATA 2 - Aviso de Restrição da sua conta]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [Importante] ERRATA - Aviso de Restrição da sua conta]]></title>
             <link>https://open.shopee.com/announcements/1172</link>
