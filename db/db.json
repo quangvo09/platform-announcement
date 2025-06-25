@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1178,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Shipping Carrier AWB (Self Collection Point)",
+      "url": "https://open.shopee.com/announcements/1178",
+      "createdAt": 1750843242
+    },
+    {
       "id": 1174,
       "platform": "shopee",
       "title": "[Penalização de Conta Removida] ERRATA 2 - Aviso de Restrição da sua conta",

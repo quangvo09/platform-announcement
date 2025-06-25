@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 24 Jun 2025 19:02:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jun 2025 10:02:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [MY] Important Update for Shipping Carrier AWB (Self Collection Point)]]></title>
+            <link>https://open.shopee.com/announcements/1178</link>
+            <guid>https://open.shopee.com/announcements/1178</guid>
+            <pubDate>Wed, 25 Jun 2025 09:20:42 GMT</pubDate>
+            <description><![CDATA[[MY] Important Update for Shipping Carrier AWB (Self Collection Point)]]></description>
+            <content:encoded><![CDATA[[MY] Important Update for Shipping Carrier AWB (Self Collection Point)]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [Penalização de Conta Removida] ERRATA 2 - Aviso de Restrição da sua conta]]></title>
             <link>https://open.shopee.com/announcements/1174</link>
