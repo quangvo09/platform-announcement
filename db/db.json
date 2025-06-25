@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1179,
+      "platform": "shopee",
+      "title": "APIs e Parâmetros descontinuados",
+      "url": "https://open.shopee.com/announcements/1179",
+      "createdAt": 1750880022
+    },
+    {
       "id": 1178,
       "platform": "shopee",
       "title": "[MY] Important Update for Shipping Carrier AWB (Self Collection Point)",
