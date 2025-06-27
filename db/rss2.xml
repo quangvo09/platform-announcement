@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 25 Jun 2025 20:02:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jun 2025 09:02:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [Important] Open API Partner Key Reset Improvement]]></title>
+            <link>https://open.shopee.com/announcements/1180</link>
+            <guid>https://open.shopee.com/announcements/1180</guid>
+            <pubDate>Fri, 27 Jun 2025 08:36:57 GMT</pubDate>
+            <description><![CDATA[[Important] Open API Partner Key Reset Improvement]]></description>
+            <content:encoded><![CDATA[[Important] Open API Partner Key Reset Improvement]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - APIs e Parâmetros descontinuados]]></title>
             <link>https://open.shopee.com/announcements/1179</link>
