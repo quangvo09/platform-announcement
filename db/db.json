@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1183,
+      "platform": "shopee",
+      "title": "[TH] Important Update for Open Platform - New Instant Delivery Channels",
+      "url": "https://open.shopee.com/announcements/1183",
+      "createdAt": 1751280201
+    },
+    {
       "id": 1180,
       "platform": "shopee",
       "title": "[Important] Open API Partner Key Reset Improvement",
