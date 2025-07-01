@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "68645e5acfcfd30493c5ca6c",
+      "platform": "tiktok",
+      "title": "MX market: GS POP API Updates",
+      "url": "https://partner.tiktokshop.com/docv2/page/68645e5acfcfd30493c5ca6c",
+      "createdAt": 1751408250
+    },
+    {
       "id": 1183,
       "platform": "shopee",
       "title": "[TH] Important Update for Open Platform - New Instant Delivery Channels",

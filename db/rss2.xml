@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 30 Jun 2025 11:02:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Jul 2025 23:02:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - MX market: GS POP API Updates]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/68645e5acfcfd30493c5ca6c</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/68645e5acfcfd30493c5ca6c</guid>
+            <pubDate>Tue, 01 Jul 2025 22:17:30 GMT</pubDate>
+            <description><![CDATA[MX market: GS POP API Updates]]></description>
+            <content:encoded><![CDATA[MX market: GS POP API Updates]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [TH] Important Update for Open Platform - New Instant Delivery Channels]]></title>
             <link>https://open.shopee.com/announcements/1183</link>
