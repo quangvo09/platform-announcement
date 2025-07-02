@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121889,
+      "platform": "lazada",
+      "title": "Choice API - PO status and biz group adjustments",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121889",
+      "createdAt": 1751432651
+    },
+    {
       "id": "68645e5acfcfd30493c5ca6c",
       "platform": "tiktok",
       "title": "MX market: GS POP API Updates",
