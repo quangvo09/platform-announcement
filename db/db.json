@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1185,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Shipping Carrier AWB (Self Collection Point)",
+      "url": "https://open.shopee.com/announcements/1185",
+      "createdAt": 1751450147
+    },
+    {
+      "id": "6864f928f4938304ab047f2b",
+      "platform": "tiktok",
+      "title": "MX market: GS POP API Updates",
+      "url": "https://partner.tiktokshop.com/docv2/page/6864f928f4938304ab047f2b",
+      "createdAt": 1751448273
+    },
+    {
       "id": 121889,
       "platform": "lazada",
       "title": "Choice API - PO status and biz group adjustments",
