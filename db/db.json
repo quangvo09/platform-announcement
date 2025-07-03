@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6865c890d066680493e36258",
+      "platform": "tiktok",
+      "title": "Post town added for UK recipient addresses in the Get Order Detail API",
+      "url": "https://partner.tiktokshop.com/docv2/page/6865c890d066680493e36258",
+      "createdAt": 1751501012
+    },
+    {
       "id": 1185,
       "platform": "shopee",
       "title": "[MY] Important Update for Shipping Carrier AWB (Self Collection Point)",
