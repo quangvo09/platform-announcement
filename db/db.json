@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1186,
+      "platform": "shopee",
+      "title": "[Nova API Download de documentos] Novidades fluxo de Fulfilled by Shopee",
+      "url": "https://open.shopee.com/announcements/1186",
+      "createdAt": 1751878837
+    },
+    {
       "id": "6865c890d066680493e36258",
       "platform": "tiktok",
       "title": "Post town added for UK recipient addresses in the Get Order Detail API",
