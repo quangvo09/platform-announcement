@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "686c667683ee46049a44aecc",
+      "platform": "tiktok",
+      "title": "Introducing new product image text translation APIs and webhook",
+      "url": "https://partner.tiktokshop.com/docv2/page/686c667683ee46049a44aecc",
+      "createdAt": 1751934713
+    },
+    {
       "id": 1186,
       "platform": "shopee",
       "title": "[Nova API Download de documentos] Novidades fluxo de Fulfilled by Shopee",
