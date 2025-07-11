@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 11 Jul 2025 00:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jul 2025 12:03:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>tiktok</category>
         <category>shopee</category>
+        <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates for Livestream Management]]></title>
+            <link>https://open.shopee.com/announcements/1190</link>
+            <guid>https://open.shopee.com/announcements/1190</guid>
+            <pubDate>Fri, 11 Jul 2025 11:04:00 GMT</pubDate>
+            <description><![CDATA[Significant OpenAPI Updates for Livestream Management]]></description>
+            <content:encoded><![CDATA[Significant OpenAPI Updates for Livestream Management]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - Post town added for UK recipient addresses in the Get Order Detail API]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/68704c5d6e6e7404973b5cea</link>

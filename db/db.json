@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1190,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates for Livestream Management",
+      "url": "https://open.shopee.com/announcements/1190",
+      "createdAt": 1752231840
+    },
+    {
       "id": "68704c5d6e6e7404973b5cea",
       "platform": "tiktok",
       "title": "Post town added for UK recipient addresses in the Get Order Detail API",
