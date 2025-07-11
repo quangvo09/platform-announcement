@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 08 Jul 2025 01:30:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jul 2025 00:09:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>tiktok</category>
         <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - Post town added for UK recipient addresses in the Get Order Detail API]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/68704c5d6e6e7404973b5cea</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/68704c5d6e6e7404973b5cea</guid>
+            <pubDate>Thu, 10 Jul 2025 23:28:15 GMT</pubDate>
+            <description><![CDATA[Post town added for UK recipient addresses in the Get Order Detail API]]></description>
+            <content:encoded><![CDATA[Post town added for UK recipient addresses in the Get Order Detail API]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - Introducing new product image text translation APIs and webhook]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/686c667683ee46049a44aecc</link>

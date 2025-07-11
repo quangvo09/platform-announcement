@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "68704c5d6e6e7404973b5cea",
+      "platform": "tiktok",
+      "title": "Post town added for UK recipient addresses in the Get Order Detail API",
+      "url": "https://partner.tiktokshop.com/docv2/page/68704c5d6e6e7404973b5cea",
+      "createdAt": 1752190095
+    },
+    {
       "id": "686c667683ee46049a44aecc",
       "platform": "tiktok",
       "title": "Introducing new product image text translation APIs and webhook",
