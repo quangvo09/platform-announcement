@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1191,
+      "platform": "shopee",
+      "title": "[ID] Shopee Xpress AWB standardization",
+      "url": "https://open.shopee.com/announcements/1191",
+      "createdAt": 1752485042
+    },
+    {
       "id": 1190,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates for Livestream Management",

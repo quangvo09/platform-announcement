@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 11 Jul 2025 12:03:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Jul 2025 10:02:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [ID] Shopee Xpress AWB standardization]]></title>
+            <link>https://open.shopee.com/announcements/1191</link>
+            <guid>https://open.shopee.com/announcements/1191</guid>
+            <pubDate>Mon, 14 Jul 2025 09:24:02 GMT</pubDate>
+            <description><![CDATA[[ID] Shopee Xpress AWB standardization]]></description>
+            <content:encoded><![CDATA[[ID] Shopee Xpress AWB standardization]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates for Livestream Management]]></title>
             <link>https://open.shopee.com/announcements/1190</link>
