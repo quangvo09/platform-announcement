@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 14 Jul 2025 10:02:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Jul 2025 07:04:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - SEA market only:Three Seller Initiates Cancel Reasons will be changed]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6875f39c5c6c9604a9e53580</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6875f39c5c6c9604a9e53580</guid>
+            <pubDate>Tue, 15 Jul 2025 06:22:31 GMT</pubDate>
+            <description><![CDATA[SEA market only:Three Seller Initiates Cancel Reasons will be changed]]></description>
+            <content:encoded><![CDATA[SEA market only:Three Seller Initiates Cancel Reasons will be changed]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [ID] Shopee Xpress AWB standardization]]></title>
             <link>https://open.shopee.com/announcements/1191</link>
