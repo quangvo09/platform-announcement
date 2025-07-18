@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1195,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] APIs e Parâmetros descontinuados - Nova data 10/08/2025",
+      "url": "https://open.shopee.com/announcements/1195",
+      "createdAt": 1752851912
+    },
+    {
       "id": "6879c09e150e8c0490284099",
       "platform": "tiktok",
       "title": "Updates to product errors",
