@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6879c09e150e8c0490284099",
+      "platform": "tiktok",
+      "title": "Updates to product errors",
+      "url": "https://partner.tiktokshop.com/docv2/page/6879c09e150e8c0490284099",
+      "createdAt": 1752809750
+    },
+    {
       "id": 1192,
       "platform": "shopee",
       "title": "[Importante] Melhorias no reset da Open API Partner Key",
