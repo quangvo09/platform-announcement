@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1196,
+      "platform": "shopee",
+      "title": "[Atenção] Instabilidade API upload_invoice_doc - System error. Please try ",
+      "url": "https://open.shopee.com/announcements/1196",
+      "createdAt": 1753117907
+    },
+    {
       "id": 1195,
       "platform": "shopee",
       "title": "[IMPORTANTE] APIs e Parâmetros descontinuados - Nova data 10/08/2025",
