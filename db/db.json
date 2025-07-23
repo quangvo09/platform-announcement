@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1205,
+      "platform": "shopee",
+      "title": "Service Partner Program Updates",
+      "url": "https://open.shopee.com/announcements/1205",
+      "createdAt": 1753265394
+    },
+    {
       "id": 1197,
       "platform": "shopee",
       "title": "Open API Send Message Limitation – New Effective Date: July 30, 2025",
