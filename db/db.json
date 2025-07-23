@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1220,
+      "platform": "shopee",
+      "title": "Nova Obrigatoriedade atributo \"Nºde Registro INMETRO\" - a partir de 12/09/2025",
+      "url": "https://open.shopee.com/announcements/1220",
+      "createdAt": 1753282958
+    },
+    {
       "id": 1205,
       "platform": "shopee",
       "title": "Service Partner Program Updates",
