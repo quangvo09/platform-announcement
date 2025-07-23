@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1197,
+      "platform": "shopee",
+      "title": "Open API Send Message Limitation – New Effective Date: July 30, 2025",
+      "url": "https://open.shopee.com/announcements/1197",
+      "createdAt": 1753243329
+    },
+    {
       "id": 1196,
       "platform": "shopee",
       "title": "[Atenção] Instabilidade API upload_invoice_doc - System error. Please try ",

@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 21 Jul 2025 18:03:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jul 2025 04:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Open API Send Message Limitation – New Effective Date: July 30, 2025]]></title>
+            <link>https://open.shopee.com/announcements/1197</link>
+            <guid>https://open.shopee.com/announcements/1197</guid>
+            <pubDate>Wed, 23 Jul 2025 04:02:09 GMT</pubDate>
+            <description><![CDATA[Open API Send Message Limitation – New Effective Date: July 30, 2025]]></description>
+            <content:encoded><![CDATA[Open API Send Message Limitation – New Effective Date: July 30, 2025]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [Atenção] Instabilidade API upload_invoice_doc - System error. Please try ]]></title>
             <link>https://open.shopee.com/announcements/1196</link>
