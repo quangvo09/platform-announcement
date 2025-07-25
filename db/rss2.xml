@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 23 Jul 2025 15:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Jul 2025 09:04:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [MY] Important Update for Open Platform AWB API - SPX Express (SDD)]]></title>
+            <link>https://open.shopee.com/announcements/1221</link>
+            <guid>https://open.shopee.com/announcements/1221</guid>
+            <pubDate>Fri, 25 Jul 2025 08:21:41 GMT</pubDate>
+            <description><![CDATA[[MY] Important Update for Open Platform AWB API - SPX Express (SDD)]]></description>
+            <content:encoded><![CDATA[[MY] Important Update for Open Platform AWB API - SPX Express (SDD)]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Nova Obrigatoriedade atributo "Nºde Registro INMETRO" - a partir de 12/09/2025]]></title>
             <link>https://open.shopee.com/announcements/1220</link>

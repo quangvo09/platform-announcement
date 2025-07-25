@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1221,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Open Platform AWB API - SPX Express (SDD)",
+      "url": "https://open.shopee.com/announcements/1221",
+      "createdAt": 1753431701
+    },
+    {
       "id": 1220,
       "platform": "shopee",
       "title": "Nova Obrigatoriedade atributo \"Nºde Registro INMETRO\" - a partir de 12/09/2025",
