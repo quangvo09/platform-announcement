@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "68878ecf1564fc04a945662d",
+      "platform": "tiktok",
+      "title": "Draft editing support for published listings",
+      "url": "https://partner.tiktokshop.com/docv2/page/68878ecf1564fc04a945662d",
+      "createdAt": 1753715758
+    },
+    {
       "id": 1221,
       "platform": "shopee",
       "title": "[MY] Important Update for Open Platform AWB API - SPX Express (SDD)",
