@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1222,
+      "platform": "shopee",
+      "title": "Chegou o Programa de Parceiros Premium da Shopee!",
+      "url": "https://open.shopee.com/announcements/1222",
+      "createdAt": 1753801410
+    },
+    {
       "id": "68878ecf1564fc04a945662d",
       "platform": "tiktok",
       "title": "Draft editing support for published listings",
