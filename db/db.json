@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121933,
+      "platform": "lazada",
+      "title": "Promotion API - Free Shipping Promotion API adjustment",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121933",
+      "createdAt": 1753855198
+    },
+    {
       "id": 1222,
       "platform": "shopee",
       "title": "Chegou o Programa de Parceiros Premium da Shopee!",
