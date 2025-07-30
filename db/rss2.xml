@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 30 Jul 2025 06:03:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Jul 2025 09:05:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>tiktok</category>
         <category>lazada</category>
         <category>shopee</category>
-        <category>tiktok</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - For ID market: One Change for Privacy Improvement of Image Message]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6889d8440e2f630494b09e9c</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6889d8440e2f630494b09e9c</guid>
+            <pubDate>Wed, 30 Jul 2025 08:33:11 GMT</pubDate>
+            <description><![CDATA[For ID market: One Change for Privacy Improvement of Image Message]]></description>
+            <content:encoded><![CDATA[For ID market: One Change for Privacy Improvement of Image Message]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[LAZADA] - Promotion API - Free Shipping Promotion API adjustment]]></title>
             <link>https://open.lazada.com/apps/announcement/detail?docId=121933</link>
