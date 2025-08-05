@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 30 Jul 2025 09:05:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Aug 2025 04:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>tiktok</category>
         <category>lazada</category>
         <category>shopee</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - For SEA Market: Recommended Default Order Sorting Logic to Support Fast Delivery Service]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/68917f7c4d7a56049a5a0ef1</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/68917f7c4d7a56049a5a0ef1</guid>
+            <pubDate>Tue, 05 Aug 2025 03:52:36 GMT</pubDate>
+            <description><![CDATA[For SEA Market: Recommended Default Order Sorting Logic to Support Fast Delivery Service]]></description>
+            <content:encoded><![CDATA[For SEA Market: Recommended Default Order Sorting Logic to Support Fast Delivery Service]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - For ID market: One Change for Privacy Improvement of Image Message]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6889d8440e2f630494b09e9c</link>
