@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1224,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] Extensão do prazo para descontinuidade de APIs e Parâmetros",
+      "url": "https://open.shopee.com/announcements/1224",
+      "createdAt": 1754676806
+    },
+    {
       "id": "68917f7c4d7a56049a5a0ef1",
       "platform": "tiktok",
       "title": "For SEA Market: Recommended Default Order Sorting Logic to Support Fast Delivery Service",
