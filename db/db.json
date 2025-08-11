@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121945,
+      "platform": "lazada",
+      "title": "Reverse API - Auto Pass Feature Relesed",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121945",
+      "createdAt": 1754879538
+    },
+    {
       "id": 1224,
       "platform": "shopee",
       "title": "[IMPORTANTE] Extensão do prazo para descontinuidade de APIs e Parâmetros",

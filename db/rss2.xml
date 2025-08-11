@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 08 Aug 2025 19:02:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Aug 2025 02:42:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>lazada</category>
         <category>shopee</category>
         <category>tiktok</category>
-        <category>lazada</category>
+        <item>
+            <title><![CDATA[[LAZADA] - Reverse API - Auto Pass Feature Relesed]]></title>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=121945</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=121945</guid>
+            <pubDate>Mon, 11 Aug 2025 02:32:18 GMT</pubDate>
+            <description><![CDATA[Reverse API - Auto Pass Feature Relesed]]></description>
+            <content:encoded><![CDATA[Reverse API - Auto Pass Feature Relesed]]></content:encoded>
+            <category>lazada</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [IMPORTANTE] Extensão do prazo para descontinuidade de APIs e Parâmetros]]></title>
             <link>https://open.shopee.com/announcements/1224</link>
