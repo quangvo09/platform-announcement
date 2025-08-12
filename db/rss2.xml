@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 11 Aug 2025 02:42:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Aug 2025 22:02:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>tiktok</category>
         <category>lazada</category>
         <category>shopee</category>
-        <category>tiktok</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - GS POP product listing workflow revamp]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/689ba401dc20310498f3140d</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/689ba401dc20310498f3140d</guid>
+            <pubDate>Tue, 12 Aug 2025 21:01:22 GMT</pubDate>
+            <description><![CDATA[GS POP product listing workflow revamp]]></description>
+            <content:encoded><![CDATA[GS POP product listing workflow revamp]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[LAZADA] - Reverse API - Auto Pass Feature Relesed]]></title>
             <link>https://open.lazada.com/apps/announcement/detail?docId=121945</link>

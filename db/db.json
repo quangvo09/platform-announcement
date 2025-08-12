@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "689ba401dc20310498f3140d",
+      "platform": "tiktok",
+      "title": "GS POP product listing workflow revamp",
+      "url": "https://partner.tiktokshop.com/docv2/page/689ba401dc20310498f3140d",
+      "createdAt": 1755032482
+    },
+    {
       "id": 121945,
       "platform": "lazada",
       "title": "Reverse API - Auto Pass Feature Relesed",
