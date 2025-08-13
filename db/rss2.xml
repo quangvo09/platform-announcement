@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 13 Aug 2025 04:08:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Aug 2025 19:02:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [IMPORTANTE] Obrigatoriedade desenvolvimento - 31/08/2025]]></title>
+            <link>https://open.shopee.com/announcements/1227</link>
+            <guid>https://open.shopee.com/announcements/1227</guid>
+            <pubDate>Wed, 13 Aug 2025 18:41:13 GMT</pubDate>
+            <description><![CDATA[[IMPORTANTE] Obrigatoriedade desenvolvimento - 31/08/2025]]></description>
+            <content:encoded><![CDATA[[IMPORTANTE] Obrigatoriedade desenvolvimento - 31/08/2025]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - One AWB Update for Shopee PH and MY Cross-border Order]]></title>
             <link>https://open.shopee.com/announcements/1225</link>

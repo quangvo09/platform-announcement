@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1227,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] Obrigatoriedade desenvolvimento - 31/08/2025",
+      "url": "https://open.shopee.com/announcements/1227",
+      "createdAt": 1755110473
+    },
+    {
       "id": 1225,
       "platform": "shopee",
       "title": "One AWB Update for Shopee PH and MY Cross-border Order",
