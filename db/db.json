@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1225,
+      "platform": "shopee",
+      "title": "One AWB Update for Shopee PH and MY Cross-border Order",
+      "url": "https://open.shopee.com/announcements/1225",
+      "createdAt": 1755055585
+    },
+    {
       "id": 1226,
       "platform": "shopee",
       "title": "[MY] Important Update for Open Platform AWB API - Instant Delivery",
