@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 15 Aug 2025 08:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Aug 2025 11:02:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,29 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>lazada</category>
         <category>shopee</category>
+        <category>lazada</category>
         <category>tiktok</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [TW] Significant OpenAPI Updates for Logistics Channel 30029 (蝦皮店到店 - 環保無包裝)]]></title>
+            <link>https://open.shopee.com/announcements/1230</link>
+            <guid>https://open.shopee.com/announcements/1230</guid>
+            <pubDate>Fri, 15 Aug 2025 10:49:48 GMT</pubDate>
+            <description><![CDATA[[TW] Significant OpenAPI Updates for Logistics Channel 30029 (蝦皮店到店 - 環保無包裝)]]></description>
+            <content:encoded><![CDATA[[TW] Significant OpenAPI Updates for Logistics Channel 30029 (蝦皮店到店 - 環保無包裝)]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Logistics, Returns and Product]]></title>
+            <link>https://open.shopee.com/announcements/1229</link>
+            <guid>https://open.shopee.com/announcements/1229</guid>
+            <pubDate>Fri, 15 Aug 2025 10:32:35 GMT</pubDate>
+            <description><![CDATA[Significant OpenAPI Updates of Logistics, Returns and Product]]></description>
+            <content:encoded><![CDATA[Significant OpenAPI Updates of Logistics, Returns and Product]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[LAZADA] - Order API - Query and update function for orders pending cancellation by sellers now available]]></title>
             <link>https://open.lazada.com/apps/announcement/detail?docId=121950</link>

@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1230,
+      "platform": "shopee",
+      "title": "[TW] Significant OpenAPI Updates for Logistics Channel 30029 (蝦皮店到店 - 環保無包裝)",
+      "url": "https://open.shopee.com/announcements/1230",
+      "createdAt": 1755254988
+    },
+    {
+      "id": 1229,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Logistics, Returns and Product",
+      "url": "https://open.shopee.com/announcements/1229",
+      "createdAt": 1755253955
+    },
+    {
       "id": 121950,
       "platform": "lazada",
       "title": "Order API - Query and update function for orders pending cancellation by sellers now available",
