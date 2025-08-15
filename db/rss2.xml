@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 15 Aug 2025 07:02:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Aug 2025 08:03:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>lazada</category>
         <category>shopee</category>
         <category>tiktok</category>
+        <item>
+            <title><![CDATA[[LAZADA] - Order API - Query and update function for orders pending cancellation by sellers now available]]></title>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=121950</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=121950</guid>
+            <pubDate>Fri, 15 Aug 2025 07:16:28 GMT</pubDate>
+            <description><![CDATA[Order API - Query and update function for orders pending cancellation by sellers now available]]></description>
+            <content:encoded><![CDATA[Order API - Query and update function for orders pending cancellation by sellers now available]]></content:encoded>
+            <category>lazada</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[LAZADA] - Category Tree Changes]]></title>
             <link>https://open.lazada.com/apps/announcement/detail?docId=121949</link>

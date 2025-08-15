@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121950,
+      "platform": "lazada",
+      "title": "Order API - Query and update function for orders pending cancellation by sellers now available",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121950",
+      "createdAt": 1755242188
+    },
+    {
       "id": 121949,
       "platform": "lazada",
       "title": "Category Tree Changes",
