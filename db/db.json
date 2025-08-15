@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121949,
+      "platform": "lazada",
+      "title": "Category Tree Changes",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121949",
+      "createdAt": 1755240713
+    },
+    {
       "id": 1227,
       "platform": "shopee",
       "title": "[IMPORTANTE] Obrigatoriedade desenvolvimento - 31/08/2025",
