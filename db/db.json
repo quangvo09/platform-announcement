@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1231,
+      "platform": "shopee",
+      "title": "[MY] Important Update for New Logistics Channel (Flash Economy)",
+      "url": "https://open.shopee.com/announcements/1231",
+      "createdAt": 1755514741
+    },
+    {
       "id": 1230,
       "platform": "shopee",
       "title": "[TW] Significant OpenAPI Updates for Logistics Channel 30029 (蝦皮店到店 - 環保無包裝)",

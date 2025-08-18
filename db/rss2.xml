@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 15 Aug 2025 11:02:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Aug 2025 11:02:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>lazada</category>
         <category>tiktok</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [MY] Important Update for New Logistics Channel (Flash Economy)]]></title>
+            <link>https://open.shopee.com/announcements/1231</link>
+            <guid>https://open.shopee.com/announcements/1231</guid>
+            <pubDate>Mon, 18 Aug 2025 10:59:01 GMT</pubDate>
+            <description><![CDATA[[MY] Important Update for New Logistics Channel (Flash Economy)]]></description>
+            <content:encoded><![CDATA[[MY] Important Update for New Logistics Channel (Flash Economy)]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [TW] Significant OpenAPI Updates for Logistics Channel 30029 (蝦皮店到店 - 環保無包裝)]]></title>
             <link>https://open.shopee.com/announcements/1230</link>
