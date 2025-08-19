@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1233,
+      "platform": "shopee",
+      "title": "Significant Open Platform",
+      "url": "https://open.shopee.com/announcements/1233",
+      "createdAt": 1755594697
+    },
+    {
       "id": 1231,
       "platform": "shopee",
       "title": "[MY] Important Update for New Logistics Channel (Flash Economy)",
