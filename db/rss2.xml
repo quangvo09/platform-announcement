@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 19 Aug 2025 10:02:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Aug 2025 21:01:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>tiktok</category>
         <category>shopee</category>
         <category>lazada</category>
-        <category>tiktok</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - SEA & EU markets: Product category expansion]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/68a63092c4b96f0496bade48</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/68a63092c4b96f0496bade48</guid>
+            <pubDate>Wed, 20 Aug 2025 20:58:48 GMT</pubDate>
+            <description><![CDATA[SEA & EU markets: Product category expansion]]></description>
+            <content:encoded><![CDATA[SEA & EU markets: Product category expansion]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Significant Open Platform]]></title>
             <link>https://open.shopee.com/announcements/1233</link>
