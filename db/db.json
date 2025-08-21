@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1236,
+      "platform": "shopee",
+      "title": "Shopee Open API New Feature Announcement (BR FBS Support)",
+      "url": "https://open.shopee.com/announcements/1236",
+      "createdAt": 1755747665
+    },
+    {
       "id": "68a63092c4b96f0496bade48",
       "platform": "tiktok",
       "title": "SEA & EU markets: Product category expansion",
