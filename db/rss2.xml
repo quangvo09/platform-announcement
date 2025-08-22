@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 22 Aug 2025 08:02:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Aug 2025 10:02:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>lazada</category>
         <category>shopee</category>
+        <category>lazada</category>
         <category>tiktok</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant Open Platform Update]]></title>
+            <link>https://open.shopee.com/announcements/1237</link>
+            <guid>https://open.shopee.com/announcements/1237</guid>
+            <pubDate>Fri, 22 Aug 2025 09:57:49 GMT</pubDate>
+            <description><![CDATA[Significant Open Platform Update]]></description>
+            <content:encoded><![CDATA[Significant Open Platform Update]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[LAZADA] - LAZADA D9 Campaign Downgrade Plan]]></title>
             <link>https://open.lazada.com/apps/announcement/detail?docId=121954</link>

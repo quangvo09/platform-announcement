@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1237,
+      "platform": "shopee",
+      "title": "Significant Open Platform Update",
+      "url": "https://open.shopee.com/announcements/1237",
+      "createdAt": 1755856669
+    },
+    {
       "id": 121954,
       "platform": "lazada",
       "title": "LAZADA D9 Campaign Downgrade Plan",
