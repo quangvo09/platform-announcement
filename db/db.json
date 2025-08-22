@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121954,
+      "platform": "lazada",
+      "title": "LAZADA D9 Campaign Downgrade Plan",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121954",
+      "createdAt": 1755847637
+    },
+    {
       "id": 1236,
       "platform": "shopee",
       "title": "Shopee Open API New Feature Announcement (BR FBS Support)",
