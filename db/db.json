@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1238,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] Novos parâmetros exigidos pela SEFAZ na NT 2025.001 no XML",
+      "url": "https://open.shopee.com/announcements/1238",
+      "createdAt": 1755891896
+    },
+    {
       "id": 1237,
       "platform": "shopee",
       "title": "Significant Open Platform Update",
