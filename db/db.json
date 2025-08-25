@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121963,
+      "platform": "lazada",
+      "title": "LAZADA D9 Campaign Downgrade Plan",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121963",
+      "createdAt": 1756103441
+    },
+    {
       "id": 1238,
       "platform": "shopee",
       "title": "[IMPORTANTE] Novos parâmetros exigidos pela SEFAZ na NT 2025.001 no XML",

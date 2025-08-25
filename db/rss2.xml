@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 22 Aug 2025 20:02:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Aug 2025 07:02:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>lazada</category>
+        <category>shopee</category>
         <category>tiktok</category>
+        <item>
+            <title><![CDATA[[LAZADA] - LAZADA D9 Campaign Downgrade Plan]]></title>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=121963</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=121963</guid>
+            <pubDate>Mon, 25 Aug 2025 06:30:41 GMT</pubDate>
+            <description><![CDATA[LAZADA D9 Campaign Downgrade Plan]]></description>
+            <content:encoded><![CDATA[LAZADA D9 Campaign Downgrade Plan]]></content:encoded>
+            <category>lazada</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [IMPORTANTE] Novos parâmetros exigidos pela SEFAZ na NT 2025.001 no XML]]></title>
             <link>https://open.shopee.com/announcements/1238</link>
