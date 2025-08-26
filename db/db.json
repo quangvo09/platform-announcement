@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1239,
+      "platform": "shopee",
+      "title": "Shop GMV Max Ads Now Available Through Open API",
+      "url": "https://open.shopee.com/announcements/1239",
+      "createdAt": 1756204163
+    },
+    {
+      "id": "68ad7aa69e6e2a049311af0f",
+      "platform": "tiktok",
+      "title": "ID market: Tokopedia Open API Termination - Migrate to TikTok Shop Partner Center by September 30, 2025",
+      "url": "https://partner.tiktokshop.com/docv2/page/68ad7aa69e6e2a049311af0f",
+      "createdAt": 1756199797
+    },
+    {
       "id": 121963,
       "platform": "lazada",
       "title": "LAZADA D9 Campaign Downgrade Plan",
