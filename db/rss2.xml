@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 27 Aug 2025 10:02:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Aug 2025 21:02:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - New APIs for TikTok LIVE ]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/68af6771eb3a300486d0e157</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/68af6771eb3a300486d0e157</guid>
+            <pubDate>Wed, 27 Aug 2025 20:29:17 GMT</pubDate>
+            <description><![CDATA[New APIs for TikTok LIVE ]]></description>
+            <content:encoded><![CDATA[New APIs for TikTok LIVE ]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [IMPORTANT] New SEFAZ NT 2025.001 Payment Parameters Required in XML]]></title>
             <link>https://open.shopee.com/announcements/1240</link>

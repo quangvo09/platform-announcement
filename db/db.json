@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "68af6771eb3a300486d0e157",
+      "platform": "tiktok",
+      "title": "New APIs for TikTok LIVE ",
+      "url": "https://partner.tiktokshop.com/docv2/page/68af6771eb3a300486d0e157",
+      "createdAt": 1756326557
+    },
+    {
       "id": 1240,
       "platform": "shopee",
       "title": "[IMPORTANT] New SEFAZ NT 2025.001 Payment Parameters Required in XML",
