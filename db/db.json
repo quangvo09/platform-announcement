@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1240,
+      "platform": "shopee",
+      "title": "[IMPORTANT] New SEFAZ NT 2025.001 Payment Parameters Required in XML",
+      "url": "https://open.shopee.com/announcements/1240",
+      "createdAt": 1756288841
+    },
+    {
       "id": 1239,
       "platform": "shopee",
       "title": "Shop GMV Max Ads Now Available Through Open API",
