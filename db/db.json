@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1243,
+      "platform": "shopee",
+      "title": "Mudança de nome do Canal \"Estoque na Shopee\" para \"Full\" a partir de 15/09/2025",
+      "url": "https://open.shopee.com/announcements/1243",
+      "createdAt": 1756900838
+    },
+    {
       "id": 121971,
       "platform": "lazada",
       "title": "Open api-API Endpoint Update",
