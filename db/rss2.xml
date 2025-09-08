@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 08 Sep 2025 17:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Sep 2025 23:02:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>tiktok</category>
         <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - Creator Open ID for Affiliate APIs]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/68bf0bdd9370fc0490f8bc07</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/68bf0bdd9370fc0490f8bc07</guid>
+            <pubDate>Mon, 08 Sep 2025 22:17:57 GMT</pubDate>
+            <description><![CDATA[Creator Open ID for Affiliate APIs]]></description>
+            <content:encoded><![CDATA[Creator Open ID for Affiliate APIs]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - EU market: New compliance data required - CLP/Biocides ]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/68bf07d6d40cf204a1b01fcc</link>

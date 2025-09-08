@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "68bf0bdd9370fc0490f8bc07",
+      "platform": "tiktok",
+      "title": "Creator Open ID for Affiliate APIs",
+      "url": "https://partner.tiktokshop.com/docv2/page/68bf0bdd9370fc0490f8bc07",
+      "createdAt": 1757369877
+    },
+    {
       "id": "68bf07d6d40cf204a1b01fcc",
       "platform": "tiktok",
       "title": "EU market: New compliance data required - CLP/Biocides ",
