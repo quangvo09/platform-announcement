@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1247,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/1247",
+      "createdAt": 1757472479
+    },
+    {
       "id": "68bf0bdd9370fc0490f8bc07",
       "platform": "tiktok",
       "title": "Creator Open ID for Affiliate APIs",
