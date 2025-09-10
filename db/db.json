@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1248,
+      "platform": "shopee",
+      "title": "[TH] Shopee OpenAPI updates for Express delivery orders",
+      "url": "https://open.shopee.com/announcements/1248",
+      "createdAt": 1757501351
+    },
+    {
       "id": 1249,
       "platform": "shopee",
       "title": "[Important] About Ending Maintenance for Sandbox and Upgrading to Sandbox V2",
