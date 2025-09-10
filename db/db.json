@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1249,
+      "platform": "shopee",
+      "title": "[Important] About Ending Maintenance for Sandbox and Upgrading to Sandbox V2",
+      "url": "https://open.shopee.com/announcements/1249",
+      "createdAt": 1757495653
+    },
+    {
       "id": 1247,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",

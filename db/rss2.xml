@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 10 Sep 2025 03:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Sep 2025 10:02:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [Important] About Ending Maintenance for Sandbox and Upgrading to Sandbox V2]]></title>
+            <link>https://open.shopee.com/announcements/1249</link>
+            <guid>https://open.shopee.com/announcements/1249</guid>
+            <pubDate>Wed, 10 Sep 2025 09:14:13 GMT</pubDate>
+            <description><![CDATA[[Important] About Ending Maintenance for Sandbox and Upgrading to Sandbox V2]]></description>
+            <content:encoded><![CDATA[[Important] About Ending Maintenance for Sandbox and Upgrading to Sandbox V2]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates]]></title>
             <link>https://open.shopee.com/announcements/1247</link>
