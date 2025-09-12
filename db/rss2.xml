@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 10 Sep 2025 11:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Sep 2025 08:02:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - For SEA market: Get Rejection Reasons before Cancellation or Return Rejection]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/68c3c9a9b084cc049407fce8</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/68c3c9a9b084cc049407fce8</guid>
+            <pubDate>Fri, 12 Sep 2025 07:23:08 GMT</pubDate>
+            <description><![CDATA[For SEA market: Get Rejection Reasons before Cancellation or Return Rejection]]></description>
+            <content:encoded><![CDATA[For SEA market: Get Rejection Reasons before Cancellation or Return Rejection]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [TH] Shopee OpenAPI updates for Express delivery orders]]></title>
             <link>https://open.shopee.com/announcements/1248</link>

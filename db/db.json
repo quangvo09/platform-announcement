@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "68c3c9a9b084cc049407fce8",
+      "platform": "tiktok",
+      "title": "For SEA market: Get Rejection Reasons before Cancellation or Return Rejection",
+      "url": "https://partner.tiktokshop.com/docv2/page/68c3c9a9b084cc049407fce8",
+      "createdAt": 1757661788
+    },
+    {
       "id": 1248,
       "platform": "shopee",
       "title": "[TH] Shopee OpenAPI updates for Express delivery orders",
