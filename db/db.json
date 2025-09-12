@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1251,
+      "platform": "shopee",
+      "title": "Significant OpenAPI updates for logistic ",
+      "url": "https://open.shopee.com/announcements/1251",
+      "createdAt": 1757665862
+    },
+    {
       "id": "68c3c9a9b084cc049407fce8",
       "platform": "tiktok",
       "title": "For SEA market: Get Rejection Reasons before Cancellation or Return Rejection",
