@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1254,
+      "platform": "shopee",
+      "title": "[Important][PH] New Express Air Local Logistic Channel",
+      "url": "https://open.shopee.com/announcements/1254",
+      "createdAt": 1758109741
+    },
+    {
+      "id": 1253,
+      "platform": "shopee",
+      "title": "[Important][PH] New SPX Same Day Delivery Channel",
+      "url": "https://open.shopee.com/announcements/1253",
+      "createdAt": 1758109715
+    },
+    {
       "id": 1251,
       "platform": "shopee",
       "title": "Significant OpenAPI updates for logistic ",
