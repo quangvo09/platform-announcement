@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1258,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/1258",
+      "createdAt": 1758514655
+    },
+    {
       "id": 1257,
       "platform": "shopee",
       "title": "[CNCB] First-Mile Upgrade — New “Courier Delivery” Mode",
