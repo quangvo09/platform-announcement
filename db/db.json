@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1260,
+      "platform": "shopee",
+      "title": "Mudanças no Parâmetro measure_unit nas chamadas add_item e update_item",
+      "url": "https://open.shopee.com/announcements/1260",
+      "createdAt": 1758549568
+    },
+    {
       "id": 1258,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
