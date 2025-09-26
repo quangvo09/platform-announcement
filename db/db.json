@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "68d6ce2d8e2c770495cced8c",
+      "platform": "tiktok",
+      "title": "Analytics APIs now available globally",
+      "url": "https://partner.tiktokshop.com/docv2/page/68d6ce2d8e2c770495cced8c",
+      "createdAt": 1758908681
+    },
+    {
       "id": 1244,
       "platform": "shopee",
       "title": "[MY] Important Update for Shipping Carrier AWB (POS Malaysia)",
