@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1262,
+      "platform": "shopee",
+      "title": "09.29 Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/1262",
+      "createdAt": 1759141622
+    },
+    {
       "id": "68d6ce2d8e2c770495cced8c",
       "platform": "tiktok",
       "title": "Analytics APIs now available globally",
