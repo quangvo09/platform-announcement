@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1263,
+      "platform": "shopee",
+      "title": "[Important][PH] Updated AWB Requirements for SPX Channels",
+      "url": "https://open.shopee.com/announcements/1263",
+      "createdAt": 1759311217
+    },
+    {
       "id": 1262,
       "platform": "shopee",
       "title": "09.29 Significant OpenAPI Updates",
