@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1264,
+      "platform": "shopee",
+      "title": "[Ação Obrigatória] Obrigatoriedade em utilizar update_tracking_status",
+      "url": "https://open.shopee.com/announcements/1264",
+      "createdAt": 1759412953
+    },
+    {
       "id": 1263,
       "platform": "shopee",
       "title": "[Important][PH] Updated AWB Requirements for SPX Channels",

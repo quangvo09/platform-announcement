@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 01 Oct 2025 10:02:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Oct 2025 14:02:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [Ação Obrigatória] Obrigatoriedade em utilizar update_tracking_status]]></title>
+            <link>https://open.shopee.com/announcements/1264</link>
+            <guid>https://open.shopee.com/announcements/1264</guid>
+            <pubDate>Thu, 02 Oct 2025 13:49:13 GMT</pubDate>
+            <description><![CDATA[[Ação Obrigatória] Obrigatoriedade em utilizar update_tracking_status]]></description>
+            <content:encoded><![CDATA[[Ação Obrigatória] Obrigatoriedade em utilizar update_tracking_status]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [Important][PH] Updated AWB Requirements for SPX Channels]]></title>
             <link>https://open.shopee.com/announcements/1263</link>
