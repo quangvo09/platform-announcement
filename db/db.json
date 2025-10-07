@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1265,
+      "platform": "shopee",
+      "title": "Novo método de pagamento \"Pagamento combinado\"",
+      "url": "https://open.shopee.com/announcements/1265",
+      "createdAt": 1759849438
+    },
+    {
       "id": 1264,
       "platform": "shopee",
       "title": "[Ação Obrigatória] Obrigatoriedade em utilizar update_tracking_status",

@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 02 Oct 2025 14:02:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Oct 2025 16:02:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Novo método de pagamento "Pagamento combinado"]]></title>
+            <link>https://open.shopee.com/announcements/1265</link>
+            <guid>https://open.shopee.com/announcements/1265</guid>
+            <pubDate>Tue, 07 Oct 2025 15:03:58 GMT</pubDate>
+            <description><![CDATA[Novo método de pagamento "Pagamento combinado"]]></description>
+            <content:encoded><![CDATA[Novo método de pagamento "Pagamento combinado"]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [Ação Obrigatória] Obrigatoriedade em utilizar update_tracking_status]]></title>
             <link>https://open.shopee.com/announcements/1264</link>
