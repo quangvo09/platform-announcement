@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 07 Oct 2025 16:02:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Oct 2025 18:03:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - US market: Item protection/insurance]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/68e6a1118e2c77049551eb08</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/68e6a1118e2c77049551eb08</guid>
+            <pubDate>Wed, 08 Oct 2025 17:45:47 GMT</pubDate>
+            <description><![CDATA[US market: Item protection/insurance]]></description>
+            <content:encoded><![CDATA[US market: Item protection/insurance]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Novo método de pagamento "Pagamento combinado"]]></title>
             <link>https://open.shopee.com/announcements/1265</link>
