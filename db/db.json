@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1266,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Order, Returns, and Chat",
+      "url": "https://open.shopee.com/announcements/1266",
+      "createdAt": 1760354605
+    },
+    {
       "id": "68e6a1118e2c77049551eb08",
       "platform": "tiktok",
       "title": "US market: Item protection/insurance",
