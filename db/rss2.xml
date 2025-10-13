@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 13 Oct 2025 12:03:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Oct 2025 18:03:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - EU market: Pfand Fees and Packaging Type Data]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/68ed3b33c97e6a049ad8c696</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/68ed3b33c97e6a049ad8c696</guid>
+            <pubDate>Mon, 13 Oct 2025 17:52:34 GMT</pubDate>
+            <description><![CDATA[EU market: Pfand Fees and Packaging Type Data]]></description>
+            <content:encoded><![CDATA[EU market: Pfand Fees and Packaging Type Data]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Order, Returns, and Chat]]></title>
             <link>https://open.shopee.com/announcements/1266</link>

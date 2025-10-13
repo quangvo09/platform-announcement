@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "68ed3b33c97e6a049ad8c696",
+      "platform": "tiktok",
+      "title": "EU market: Pfand Fees and Packaging Type Data",
+      "url": "https://partner.tiktokshop.com/docv2/page/68ed3b33c97e6a049ad8c696",
+      "createdAt": 1760377954
+    },
+    {
       "id": 1266,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Order, Returns, and Chat",
