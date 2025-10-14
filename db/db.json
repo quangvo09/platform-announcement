@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "68edc38c6f0c12048cfdafb1",
+      "platform": "tiktok",
+      "title": "For SEA market: Configure \"Cancellation status change\" webhook to receive cancellation message",
+      "url": "https://partner.tiktokshop.com/docv2/page/68edc38c6f0c12048cfdafb1",
+      "createdAt": 1760412719
+    },
+    {
       "id": "68ed3f3f651aa60499443526",
       "platform": "tiktok",
       "title": "UKEU & JP markets: Product category expansion",

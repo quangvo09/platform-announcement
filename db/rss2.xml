@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 13 Oct 2025 19:02:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Oct 2025 04:02:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>tiktok</category>
         <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - For SEA market: Configure "Cancellation status change" webhook to receive cancellation message]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/68edc38c6f0c12048cfdafb1</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/68edc38c6f0c12048cfdafb1</guid>
+            <pubDate>Tue, 14 Oct 2025 03:31:59 GMT</pubDate>
+            <description><![CDATA[For SEA market: Configure "Cancellation status change" webhook to receive cancellation message]]></description>
+            <content:encoded><![CDATA[For SEA market: Configure "Cancellation status change" webhook to receive cancellation message]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - UKEU & JP markets: Product category expansion]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/68ed3f3f651aa60499443526</link>
