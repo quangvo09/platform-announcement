@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1268,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Order, Returns, and Chat",
+      "url": "https://open.shopee.com/announcements/1268",
+      "createdAt": 1760497885
+    },
+    {
       "id": "68edc38c6f0c12048cfdafb1",
       "platform": "tiktok",
       "title": "For SEA market: Configure \"Cancellation status change\" webhook to receive cancellation message",
