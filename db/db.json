@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1269,
+      "platform": "shopee",
+      "title": "Problemas na comunicação com a SEFAZ",
+      "url": "https://open.shopee.com/announcements/1269",
+      "createdAt": 1760565691
+    },
+    {
       "id": 1268,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Order, Returns, and Chat",

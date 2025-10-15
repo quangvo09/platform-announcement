@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 15 Oct 2025 03:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Oct 2025 22:02:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Problemas na comunicação com a SEFAZ]]></title>
+            <link>https://open.shopee.com/announcements/1269</link>
+            <guid>https://open.shopee.com/announcements/1269</guid>
+            <pubDate>Wed, 15 Oct 2025 22:01:31 GMT</pubDate>
+            <description><![CDATA[Problemas na comunicação com a SEFAZ]]></description>
+            <content:encoded><![CDATA[Problemas na comunicação com a SEFAZ]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Order, Returns, and Chat]]></title>
             <link>https://open.shopee.com/announcements/1268</link>
