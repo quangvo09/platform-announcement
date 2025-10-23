@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121988,
+      "platform": "lazada",
+      "title": "LAZADA D11 Campaign Downgrade Plan",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121988",
+      "createdAt": 1761198562
+    },
+    {
       "id": 1269,
       "platform": "shopee",
       "title": "Problemas na comunicação com a SEFAZ",
