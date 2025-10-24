@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1273,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Payment and Order",
+      "url": "https://open.shopee.com/announcements/1273",
+      "createdAt": 1761303844
+    },
+    {
       "id": 121988,
       "platform": "lazada",
       "title": "LAZADA D11 Campaign Downgrade Plan",
