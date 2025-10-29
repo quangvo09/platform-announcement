@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "69015eaf5b602804822560ba",
+      "platform": "tiktok",
+      "title": "US market: POP USPS label restriction",
+      "url": "https://partner.tiktokshop.com/docv2/page/69015eaf5b602804822560ba",
+      "createdAt": 1761698256
+    },
+    {
       "id": 1273,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Payment and Order",
