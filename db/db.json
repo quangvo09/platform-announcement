@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 121990,
+      "platform": "lazada",
+      "title": "Order API - Order Query API Rate Limiting Strategy Optimization",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=121990",
+      "createdAt": 1761803470
+    },
+    {
       "id": "69015eaf5b602804822560ba",
       "platform": "tiktok",
       "title": "US market: POP USPS label restriction",
