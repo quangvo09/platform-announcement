@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1276,
+      "platform": "shopee",
+      "title": "[Important][PH] New SPX Express Economy Channel",
+      "url": "https://open.shopee.com/announcements/1276",
+      "createdAt": 1762249181
+    },
+    {
       "id": 121990,
       "platform": "lazada",
       "title": "Order API - Order Query API Rate Limiting Strategy Optimization",
