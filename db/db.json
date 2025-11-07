@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "690e4911c6ef97049d5beb1b",
+      "platform": "tiktok",
+      "title": "US market: Existing SKU standardization",
+      "url": "https://partner.tiktokshop.com/docv2/page/690e4911c6ef97049d5beb1b",
+      "createdAt": 1762544725
+    },
+    {
       "id": 1280,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
