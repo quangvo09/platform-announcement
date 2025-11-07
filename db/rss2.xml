@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 04 Nov 2025 10:02:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Nov 2025 12:03:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,26 @@
         <category>shopee</category>
         <category>lazada</category>
         <category>tiktok</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates]]></title>
+            <link>https://open.shopee.com/announcements/1280</link>
+            <guid>https://open.shopee.com/announcements/1280</guid>
+            <pubDate>Fri, 07 Nov 2025 11:43:19 GMT</pubDate>
+            <description><![CDATA[Significant OpenAPI Updates]]></description>
+            <content:encoded><![CDATA[Significant OpenAPI Updates]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - [Important][TW] Significant AWB Updated for logistic channel 30006 & 30011 (C2C）]]></title>
+            <link>https://open.shopee.com/announcements/1278</link>
+            <guid>https://open.shopee.com/announcements/1278</guid>
+            <pubDate>Fri, 07 Nov 2025 11:05:04 GMT</pubDate>
+            <description><![CDATA[[Important][TW] Significant AWB Updated for logistic channel 30006 & 30011 (C2C）]]></description>
+            <content:encoded><![CDATA[[Important][TW] Significant AWB Updated for logistic channel 30006 & 30011 (C2C）]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [Important][PH] New SPX Express Economy Channel]]></title>
             <link>https://open.shopee.com/announcements/1276</link>

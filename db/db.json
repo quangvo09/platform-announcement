@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1280,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/1280",
+      "createdAt": 1762515799
+    },
+    {
+      "id": 1278,
+      "platform": "shopee",
+      "title": "[Important][TW] Significant AWB Updated for logistic channel 30006 & 30011 (C2C）",
+      "url": "https://open.shopee.com/announcements/1278",
+      "createdAt": 1762513504
+    },
+    {
       "id": 1276,
       "platform": "shopee",
       "title": "[Important][PH] New SPX Express Economy Channel",
