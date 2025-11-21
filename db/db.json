@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1283,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates for AMS (Affiliate Marketing Solution) Management",
+      "url": "https://open.shopee.com/announcements/1283",
+      "createdAt": 1763721377
+    },
+    {
       "id": "690e4911c6ef97049d5beb1b",
       "platform": "tiktok",
       "title": "US market: Existing SKU standardization",
