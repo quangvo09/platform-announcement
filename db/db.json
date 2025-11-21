@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1285,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Promotion, Account Health and Payment",
+      "url": "https://open.shopee.com/announcements/1285",
+      "createdAt": 1763724363
+    },
+    {
+      "id": 1284,
+      "platform": "shopee",
+      "title": "[TW] JIT SCS Model Support — OpenAPI Update",
+      "url": "https://open.shopee.com/announcements/1284",
+      "createdAt": 1763724127
+    },
+    {
       "id": 1283,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates for AMS (Affiliate Marketing Solution) Management",
