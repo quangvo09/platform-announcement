@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1287,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Promotion, Account Health and Payment",
+      "url": "https://open.shopee.com/announcements/1287",
+      "createdAt": 1763974161
+    },
+    {
       "id": 1285,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Promotion, Account Health and Payment",
