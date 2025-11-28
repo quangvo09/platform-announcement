@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1290,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Return",
+      "url": "https://open.shopee.com/announcements/1290",
+      "createdAt": 1764327118
+    },
+    {
       "id": 1288,
       "platform": "shopee",
       "title": "[MY] Important Update for Shipping Carrier AWB - BEST Cargo",
