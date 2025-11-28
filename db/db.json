@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1289,
+      "platform": "shopee",
+      "title": "[TW][Significant]Logistics Channel 30014(OK Mart) will be terminated on 2026/1/1",
+      "url": "https://open.shopee.com/announcements/1289",
+      "createdAt": 1764328151
+    },
+    {
       "id": 1290,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Return",
