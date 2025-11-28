@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1288,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Shipping Carrier AWB - BEST Cargo",
+      "url": "https://open.shopee.com/announcements/1288",
+      "createdAt": 1764300634
+    },
+    {
       "id": 121996,
       "platform": "lazada",
       "title": "LAZADA D12 Campaign Downgrade Plan",
