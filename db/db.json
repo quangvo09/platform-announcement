@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1291,
+      "platform": "shopee",
+      "title": "[Important][PH] New Instant Delivery Channel",
+      "url": "https://open.shopee.com/announcements/1291",
+      "createdAt": 1764677817
+    },
+    {
       "id": 1289,
       "platform": "shopee",
       "title": "[TW][Significant]Logistics Channel 30014(OK Mart) will be terminated on 2026/1/1",

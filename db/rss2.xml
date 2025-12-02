@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 28 Nov 2025 12:03:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Dec 2025 13:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>lazada</category>
         <category>tiktok</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [Important][PH] New Instant Delivery Channel]]></title>
+            <link>https://open.shopee.com/announcements/1291</link>
+            <guid>https://open.shopee.com/announcements/1291</guid>
+            <pubDate>Tue, 02 Dec 2025 12:16:57 GMT</pubDate>
+            <description><![CDATA[[Important][PH] New Instant Delivery Channel]]></description>
+            <content:encoded><![CDATA[[Important][PH] New Instant Delivery Channel]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [TW][Significant]Logistics Channel 30014(OK Mart) will be terminated on 2026/1/1]]></title>
             <link>https://open.shopee.com/announcements/1289</link>
