@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1292,
+      "platform": "shopee",
+      "title": "Launch Instant Mart for Shopee Brazil Market",
+      "url": "https://open.shopee.com/announcements/1292",
+      "createdAt": 1764819432
+    },
+    {
       "id": 1291,
       "platform": "shopee",
       "title": "[Important][PH] New Instant Delivery Channel",
