@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1294,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Order, Return, and AMS",
+      "url": "https://open.shopee.com/announcements/1294",
+      "createdAt": 1764932802
+    },
+    {
       "id": 1293,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates for Shopee Video ",
