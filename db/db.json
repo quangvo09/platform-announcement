@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1293,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates for Shopee Video ",
+      "url": "https://open.shopee.com/announcements/1293",
+      "createdAt": 1764930631
+    },
+    {
       "id": 1292,
       "platform": "shopee",
       "title": "Launch Instant Mart for Shopee Brazil Market",

@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 04 Dec 2025 04:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Dec 2025 11:02:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>lazada</category>
         <category>tiktok</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates for Shopee Video ]]></title>
+            <link>https://open.shopee.com/announcements/1293</link>
+            <guid>https://open.shopee.com/announcements/1293</guid>
+            <pubDate>Fri, 05 Dec 2025 10:30:31 GMT</pubDate>
+            <description><![CDATA[Significant OpenAPI Updates for Shopee Video ]]></description>
+            <content:encoded><![CDATA[Significant OpenAPI Updates for Shopee Video ]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Launch Instant Mart for Shopee Brazil Market]]></title>
             <link>https://open.shopee.com/announcements/1292</link>
