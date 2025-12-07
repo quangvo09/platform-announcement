@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6935e049797c6b0504a6ddbc",
+      "platform": "tiktok",
+      "title": "US market: Backorder Product Functionality",
+      "url": "https://partner.tiktokshop.com/docv2/page/6935e049797c6b0504a6ddbc",
+      "createdAt": 1765144250
+    },
+    {
       "id": 1294,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Order, Return, and AMS",
