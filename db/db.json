@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1297,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Order",
+      "url": "https://open.shopee.com/announcements/1297",
+      "createdAt": 1765537485
+    },
+    {
       "id": "6935e049797c6b0504a6ddbc",
       "platform": "tiktok",
       "title": "US market: Backorder Product Functionality",
