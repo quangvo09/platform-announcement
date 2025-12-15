@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 12 Dec 2025 12:03:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Dec 2025 13:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [Policy Launch] Mandatory Penetration Test Report Submission]]></title>
+            <link>https://open.shopee.com/announcements/1299</link>
+            <guid>https://open.shopee.com/announcements/1299</guid>
+            <pubDate>Mon, 15 Dec 2025 12:18:40 GMT</pubDate>
+            <description><![CDATA[[Policy Launch] Mandatory Penetration Test Report Submission]]></description>
+            <content:encoded><![CDATA[[Policy Launch] Mandatory Penetration Test Report Submission]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Order]]></title>
             <link>https://open.shopee.com/announcements/1297</link>

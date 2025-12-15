@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1299,
+      "platform": "shopee",
+      "title": "[Policy Launch] Mandatory Penetration Test Report Submission",
+      "url": "https://open.shopee.com/announcements/1299",
+      "createdAt": 1765801120
+    },
+    {
       "id": 1297,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Order",
