@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 17 Dec 2025 04:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Dec 2025 07:04:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - [Important] Legacy Global Product Management Flow Decommission Notice ]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/694247ec448a12074c0189ed</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/694247ec448a12074c0189ed</guid>
+            <pubDate>Wed, 17 Dec 2025 06:12:17 GMT</pubDate>
+            <description><![CDATA[[Important] Legacy Global Product Management Flow Decommission Notice ]]></description>
+            <content:encoded><![CDATA[[Important] Legacy Global Product Management Flow Decommission Notice ]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Important Notice: Upgrade of Open Platform's Minimum Supported Browser Versions]]></title>
             <link>https://open.shopee.com/announcements/1300</link>
