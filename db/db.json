@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1300,
+      "platform": "shopee",
+      "title": "Important Notice: Upgrade of Open Platform's Minimum Supported Browser Versions",
+      "url": "https://open.shopee.com/announcements/1300",
+      "createdAt": 1765943785
+    },
+    {
       "id": 1299,
       "platform": "shopee",
       "title": "[Policy Launch] Mandatory Penetration Test Report Submission",
