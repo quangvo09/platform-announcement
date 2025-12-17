@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 17 Dec 2025 07:04:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Dec 2025 09:05:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>tiktok</category>
         <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - For SEA market: Product category expansion cutoff date is January 12, 2026]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/694261f89c2edf068501a9b2</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/694261f89c2edf068501a9b2</guid>
+            <pubDate>Wed, 17 Dec 2025 08:13:17 GMT</pubDate>
+            <description><![CDATA[For SEA market: Product category expansion cutoff date is January 12, 2026]]></description>
+            <content:encoded><![CDATA[For SEA market: Product category expansion cutoff date is January 12, 2026]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - [Important] Legacy Global Product Management Flow Decommission Notice ]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/694247ec448a12074c0189ed</link>
