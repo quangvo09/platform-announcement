@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1301,
+      "platform": "shopee",
+      "title": "Important Notice: Two-Factor Authentication for Open Platform Accounts",
+      "url": "https://open.shopee.com/announcements/1301",
+      "createdAt": 1766050075
+    },
+    {
       "id": "694261f89c2edf068501a9b2",
       "platform": "tiktok",
       "title": "For SEA market: Product category expansion cutoff date is January 12, 2026",
