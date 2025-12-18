@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 18 Dec 2025 10:02:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Dec 2025 17:04:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [Important] Lembretes sobre reset da Open API Partner Key]]></title>
+            <link>https://open.shopee.com/announcements/1302</link>
+            <guid>https://open.shopee.com/announcements/1302</guid>
+            <pubDate>Thu, 18 Dec 2025 16:51:13 GMT</pubDate>
+            <description><![CDATA[[Important] Lembretes sobre reset da Open API Partner Key]]></description>
+            <content:encoded><![CDATA[[Important] Lembretes sobre reset da Open API Partner Key]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Important Notice: Two-Factor Authentication for Open Platform Accounts]]></title>
             <link>https://open.shopee.com/announcements/1301</link>

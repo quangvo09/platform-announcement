@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1302,
+      "platform": "shopee",
+      "title": "[Important] Lembretes sobre reset da Open API Partner Key",
+      "url": "https://open.shopee.com/announcements/1302",
+      "createdAt": 1766076673
+    },
+    {
       "id": 1301,
       "platform": "shopee",
       "title": "Important Notice: Two-Factor Authentication for Open Platform Accounts",
