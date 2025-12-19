@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1305,
+      "platform": "shopee",
+      "title": "[Announcement] Good Practices for Penetration Test Report Submission",
+      "url": "https://open.shopee.com/announcements/1305",
+      "createdAt": 1766140614
+    },
+    {
       "id": 1304,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Return, Video",
