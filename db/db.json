@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1304,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Return, Video",
+      "url": "https://open.shopee.com/announcements/1304",
+      "createdAt": 1766134905
+    },
+    {
+      "id": 1303,
+      "platform": "shopee",
+      "title": "[Important] Rectification Requirements for Get Shipping Parameter API Calls",
+      "url": "https://open.shopee.com/announcements/1303",
+      "createdAt": 1766132972
+    },
+    {
       "id": 1302,
       "platform": "shopee",
       "title": "[Important] Lembretes sobre reset da Open API Partner Key",

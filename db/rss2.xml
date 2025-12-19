@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 18 Dec 2025 17:04:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Dec 2025 09:04:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,26 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Return, Video]]></title>
+            <link>https://open.shopee.com/announcements/1304</link>
+            <guid>https://open.shopee.com/announcements/1304</guid>
+            <pubDate>Fri, 19 Dec 2025 09:01:45 GMT</pubDate>
+            <description><![CDATA[Significant OpenAPI Updates of Return, Video]]></description>
+            <content:encoded><![CDATA[Significant OpenAPI Updates of Return, Video]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - [Important] Rectification Requirements for Get Shipping Parameter API Calls]]></title>
+            <link>https://open.shopee.com/announcements/1303</link>
+            <guid>https://open.shopee.com/announcements/1303</guid>
+            <pubDate>Fri, 19 Dec 2025 08:29:32 GMT</pubDate>
+            <description><![CDATA[[Important] Rectification Requirements for Get Shipping Parameter API Calls]]></description>
+            <content:encoded><![CDATA[[Important] Rectification Requirements for Get Shipping Parameter API Calls]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [Important] Lembretes sobre reset da Open API Partner Key]]></title>
             <link>https://open.shopee.com/announcements/1302</link>
