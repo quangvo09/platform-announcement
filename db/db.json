@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1307,
+      "platform": "shopee",
+      "title": "[Errata] Lembretes sobre reset da Open API Partner Key ",
+      "url": "https://open.shopee.com/announcements/1307",
+      "createdAt": 1766446028
+    },
+    {
       "id": 1305,
       "platform": "shopee",
       "title": "[Announcement] Good Practices for Penetration Test Report Submission",

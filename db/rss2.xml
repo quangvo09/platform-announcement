@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 19 Dec 2025 11:02:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Dec 2025 00:09:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [Errata] Lembretes sobre reset da Open API Partner Key ]]></title>
+            <link>https://open.shopee.com/announcements/1307</link>
+            <guid>https://open.shopee.com/announcements/1307</guid>
+            <pubDate>Mon, 22 Dec 2025 23:27:08 GMT</pubDate>
+            <description><![CDATA[[Errata] Lembretes sobre reset da Open API Partner Key ]]></description>
+            <content:encoded><![CDATA[[Errata] Lembretes sobre reset da Open API Partner Key ]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [Announcement] Good Practices for Penetration Test Report Submission]]></title>
             <link>https://open.shopee.com/announcements/1305</link>
