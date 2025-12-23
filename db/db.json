@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "694a789b100d45049710a9d7",
+      "platform": "tiktok",
+      "title": "For SEA market: The parameter \"handover_method\" in API Ship Package and Batch Ship Package will be useless for cross-border overseas sellers",
+      "url": "https://partner.tiktokshop.com/docv2/page/694a789b100d45049710a9d7",
+      "createdAt": 1766488326
+    },
+    {
       "id": 1307,
       "platform": "shopee",
       "title": "[Errata] Lembretes sobre reset da Open API Partner Key ",
