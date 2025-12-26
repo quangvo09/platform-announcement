@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1309,
+      "platform": "shopee",
+      "title": "[Important] Enhance package-level API capabilities to improve shipping efficienc",
+      "url": "https://open.shopee.com/announcements/1309",
+      "createdAt": 1766748834
+    },
+    {
       "id": "694a789b100d45049710a9d7",
       "platform": "tiktok",
       "title": "For SEA market: The parameter \"handover_method\" in API Ship Package and Batch Ship Package will be useless for cross-border overseas sellers",
