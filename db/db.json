@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1310,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Product, Payment, Logistics",
+      "url": "https://open.shopee.com/announcements/1310",
+      "createdAt": 1766839804
+    },
+    {
       "id": 1309,
       "platform": "shopee",
       "title": "[Important] Enhance package-level API capabilities to improve shipping efficienc",
