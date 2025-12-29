@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1308,
+      "platform": "shopee",
+      "title": "[Policy Update] Migration of Penetration Test Report Submission to Open Platform",
+      "url": "https://open.shopee.com/announcements/1308",
+      "createdAt": 1766977565
+    },
+    {
       "id": 1310,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Product, Payment, Logistics",
