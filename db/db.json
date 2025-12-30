@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1312,
+      "platform": "shopee",
+      "title": "[Important] Launch of My Task in Shopee Open Platform",
+      "url": "https://open.shopee.com/announcements/1312",
+      "createdAt": 1767087476
+    },
+    {
       "id": "69536605c58cc40499510958",
       "platform": "tiktok",
       "title": "New Capability  for Affiliate Sample Applications ",
