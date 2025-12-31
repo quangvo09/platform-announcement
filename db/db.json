@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1313,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Account Health",
+      "url": "https://open.shopee.com/announcements/1313",
+      "createdAt": 1767149924
+    },
+    {
       "id": 1312,
       "platform": "shopee",
       "title": "[Important] Launch of My Task in Shopee Open Platform",
