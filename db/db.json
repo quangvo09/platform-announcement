@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1314,
+      "platform": "shopee",
+      "title": "JIT Direct Shipment Open APIs Now Available",
+      "url": "https://open.shopee.com/announcements/1314",
+      "createdAt": 1767585021
+    },
+    {
       "id": "695a2d45100d4504979a63ee",
       "platform": "tiktok",
       "title": "For Indonesian market: Changes in Order and Finance APIs for Distant Fee",
