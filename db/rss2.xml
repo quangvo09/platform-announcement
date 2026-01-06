@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 05 Jan 2026 04:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jan 2026 11:02:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [MY] Important Update for New Logistics Channel Brunei Direct Shipment (SPX) ]]></title>
+            <link>https://open.shopee.com/announcements/1316</link>
+            <guid>https://open.shopee.com/announcements/1316</guid>
+            <pubDate>Tue, 06 Jan 2026 10:08:59 GMT</pubDate>
+            <description><![CDATA[[MY] Important Update for New Logistics Channel Brunei Direct Shipment (SPX) ]]></description>
+            <content:encoded><![CDATA[[MY] Important Update for New Logistics Channel Brunei Direct Shipment (SPX) ]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - JIT Direct Shipment Open APIs Now Available]]></title>
             <link>https://open.shopee.com/announcements/1314</link>

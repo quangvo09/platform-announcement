@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1316,
+      "platform": "shopee",
+      "title": "[MY] Important Update for New Logistics Channel Brunei Direct Shipment (SPX) ",
+      "url": "https://open.shopee.com/announcements/1316",
+      "createdAt": 1767694139
+    },
+    {
       "id": 1314,
       "platform": "shopee",
       "title": "JIT Direct Shipment Open APIs Now Available",
