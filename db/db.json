@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1317,
+      "platform": "shopee",
+      "title": "[Important] Shopee will launch the Seller Advance Shipping in Thailand",
+      "url": "https://open.shopee.com/announcements/1317",
+      "createdAt": 1767777814
+    },
+    {
       "id": 1316,
       "platform": "shopee",
       "title": "[MY] Important Update for New Logistics Channel Brunei Direct Shipment (SPX) ",
