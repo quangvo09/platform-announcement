@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1320,
+      "platform": "shopee",
+      "title": "[Final Reminder]Two-Factor Authentication for Open Platform Accounts",
+      "url": "https://open.shopee.com/announcements/1320",
+      "createdAt": 1767949040
+    },
+    {
+      "id": 1319,
+      "platform": "shopee",
+      "title": "[Important] Livestream OpenAPI Now Available in PH/MY/SG/VN",
+      "url": "https://open.shopee.com/announcements/1319",
+      "createdAt": 1767947767
+    },
+    {
       "id": 1317,
       "platform": "shopee",
       "title": "[Important] Shopee will launch the Seller Advance Shipping in Thailand",
