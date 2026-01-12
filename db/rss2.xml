@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 09 Jan 2026 09:05:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jan 2026 15:04:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [Important] [PH] Update for customized Air Waybills (AWB) of Instant Delivery]]></title>
+            <link>https://open.shopee.com/announcements/1321</link>
+            <guid>https://open.shopee.com/announcements/1321</guid>
+            <pubDate>Mon, 12 Jan 2026 14:33:00 GMT</pubDate>
+            <description><![CDATA[[Important] [PH] Update for customized Air Waybills (AWB) of Instant Delivery]]></description>
+            <content:encoded><![CDATA[[Important] [PH] Update for customized Air Waybills (AWB) of Instant Delivery]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [Final Reminder]Two-Factor Authentication for Open Platform Accounts]]></title>
             <link>https://open.shopee.com/announcements/1320</link>

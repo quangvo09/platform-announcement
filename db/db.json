@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1321,
+      "platform": "shopee",
+      "title": "[Important] [PH] Update for customized Air Waybills (AWB) of Instant Delivery",
+      "url": "https://open.shopee.com/announcements/1321",
+      "createdAt": 1768228380
+    },
+    {
       "id": 1320,
       "platform": "shopee",
       "title": "[Final Reminder]Two-Factor Authentication for Open Platform Accounts",
