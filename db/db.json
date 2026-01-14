@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1323,
+      "platform": "shopee",
+      "title": "Mudanças importantes nos relatórios de Faturamento",
+      "url": "https://open.shopee.com/announcements/1323",
+      "createdAt": 1768404088
+    },
+    {
       "id": 1321,
       "platform": "shopee",
       "title": "[Important] [PH] Update for customized Air Waybills (AWB) of Instant Delivery",
