@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6969b89b40cf18049cb6eb42",
+      "platform": "tiktok",
+      "title": "【Important Notice】Enable Support for the New “On Hold” Order Status",
+      "url": "https://partner.tiktokshop.com/docv2/page/6969b89b40cf18049cb6eb42",
+      "createdAt": 1768537535
+    },
+    {
       "id": 1323,
       "platform": "shopee",
       "title": "Mudanças importantes nos relatórios de Faturamento",
