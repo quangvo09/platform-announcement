@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1324,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Chat",
+      "url": "https://open.shopee.com/announcements/1324",
+      "createdAt": 1768562750
+    },
+    {
       "id": "6969b89b40cf18049cb6eb42",
       "platform": "tiktok",
       "title": "【Important Notice】Enable Support for the New “On Hold” Order Status",
