@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1327,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] Validação do Endereço de Coleta",
+      "url": "https://open.shopee.com/announcements/1327",
+      "createdAt": 1768838032
+    },
+    {
       "id": 1324,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Chat",
