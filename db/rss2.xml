@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 23 Jan 2026 11:03:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jan 2026 12:04:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - SPI Service Enables Independent Partner Key]]></title>
+            <link>https://open.shopee.com/announcements/1333</link>
+            <guid>https://open.shopee.com/announcements/1333</guid>
+            <pubDate>Fri, 23 Jan 2026 11:11:13 GMT</pubDate>
+            <description><![CDATA[SPI Service Enables Independent Partner Key]]></description>
+            <content:encoded><![CDATA[SPI Service Enables Independent Partner Key]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Product]]></title>
             <link>https://open.shopee.com/announcements/1332</link>

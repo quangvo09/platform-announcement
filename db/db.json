@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1333,
+      "platform": "shopee",
+      "title": "SPI Service Enables Independent Partner Key",
+      "url": "https://open.shopee.com/announcements/1333",
+      "createdAt": 1769166673
+    },
+    {
       "id": 1332,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Product",
