@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 19 Jan 2026 16:03:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jan 2026 11:03:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,26 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Product]]></title>
+            <link>https://open.shopee.com/announcements/1332</link>
+            <guid>https://open.shopee.com/announcements/1332</guid>
+            <pubDate>Fri, 23 Jan 2026 10:27:46 GMT</pubDate>
+            <description><![CDATA[Significant OpenAPI Updates of Product]]></description>
+            <content:encoded><![CDATA[Significant OpenAPI Updates of Product]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - [MY] Important Update for Same Day Delivery Discontinuation]]></title>
+            <link>https://open.shopee.com/announcements/1331</link>
+            <guid>https://open.shopee.com/announcements/1331</guid>
+            <pubDate>Fri, 23 Jan 2026 10:06:51 GMT</pubDate>
+            <description><![CDATA[[MY] Important Update for Same Day Delivery Discontinuation]]></description>
+            <content:encoded><![CDATA[[MY] Important Update for Same Day Delivery Discontinuation]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [IMPORTANTE] Validação do Endereço de Coleta]]></title>
             <link>https://open.shopee.com/announcements/1327</link>

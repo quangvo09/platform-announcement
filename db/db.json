@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1332,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Product",
+      "url": "https://open.shopee.com/announcements/1332",
+      "createdAt": 1769164066
+    },
+    {
+      "id": 1331,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Same Day Delivery Discontinuation",
+      "url": "https://open.shopee.com/announcements/1331",
+      "createdAt": 1769162811
+    },
+    {
       "id": 1327,
       "platform": "shopee",
       "title": "[IMPORTANTE] Validação do Endereço de Coleta",
