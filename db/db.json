@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "697687c19d942f0499ad7c28",
+      "platform": "tiktok",
+      "title": "[Important] New Analytics API Supports Data Drill Down & Deprecation of Old Versions",
+      "url": "https://partner.tiktokshop.com/docv2/page/697687c19d942f0499ad7c28",
+      "createdAt": 1769376080
+    },
+    {
       "id": 1333,
       "platform": "shopee",
       "title": "SPI Service Enables Independent Partner Key",

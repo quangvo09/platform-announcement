@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 23 Jan 2026 12:04:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jan 2026 22:02:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - [Important] New Analytics API Supports Data Drill Down & Deprecation of Old Versions]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/697687c19d942f0499ad7c28</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/697687c19d942f0499ad7c28</guid>
+            <pubDate>Sun, 25 Jan 2026 21:21:20 GMT</pubDate>
+            <description><![CDATA[[Important] New Analytics API Supports Data Drill Down & Deprecation of Old Versions]]></description>
+            <content:encoded><![CDATA[[Important] New Analytics API Supports Data Drill Down & Deprecation of Old Versions]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - SPI Service Enables Independent Partner Key]]></title>
             <link>https://open.shopee.com/announcements/1333</link>
