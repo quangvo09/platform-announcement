@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 27 Jan 2026 04:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jan 2026 03:44:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>tiktok</category>
         <category>shopee</category>
+        <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [IMPORTANT] System Requirements for Vietnam Administrative Boundary Changes]]></title>
+            <link>https://open.shopee.com/announcements/1336</link>
+            <guid>https://open.shopee.com/announcements/1336</guid>
+            <pubDate>Fri, 30 Jan 2026 03:43:30 GMT</pubDate>
+            <description><![CDATA[[IMPORTANT] System Requirements for Vietnam Administrative Boundary Changes]]></description>
+            <content:encoded><![CDATA[[IMPORTANT] System Requirements for Vietnam Administrative Boundary Changes]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - For SEA Market: Recommended Improvement to Support Fast Delivery Service]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/694af90a7b0f6f049ae109cc</link>

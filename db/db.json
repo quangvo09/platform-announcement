@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1336,
+      "platform": "shopee",
+      "title": "[IMPORTANT] System Requirements for Vietnam Administrative Boundary Changes",
+      "url": "https://open.shopee.com/announcements/1336",
+      "createdAt": 1769744610
+    },
+    {
       "id": "694af90a7b0f6f049ae109cc",
       "platform": "tiktok",
       "title": "For SEA Market: Recommended Improvement to Support Fast Delivery Service",
