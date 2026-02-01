@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1337,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Product",
+      "url": "https://open.shopee.com/announcements/1337",
+      "createdAt": 1769958349
+    },
+    {
       "id": 1336,
       "platform": "shopee",
       "title": "[IMPORTANT] System Requirements for Vietnam Administrative Boundary Changes",
