@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1338,
+      "platform": "shopee",
+      "title": "Erro no canal Seller Logistic 90021 – atualização de status delivery_done",
+      "url": "https://open.shopee.com/announcements/1338",
+      "createdAt": 1770405873
+    },
+    {
       "id": 1337,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Product",
