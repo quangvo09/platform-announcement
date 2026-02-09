@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 06 Feb 2026 20:05:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Feb 2026 03:58:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Account Health, Payment]]></title>
+            <link>https://open.shopee.com/announcements/1339</link>
+            <guid>https://open.shopee.com/announcements/1339</guid>
+            <pubDate>Mon, 09 Feb 2026 03:54:05 GMT</pubDate>
+            <description><![CDATA[Significant OpenAPI Updates of Account Health, Payment]]></description>
+            <content:encoded><![CDATA[Significant OpenAPI Updates of Account Health, Payment]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Erro no canal Seller Logistic 90021 – atualização de status delivery_done]]></title>
             <link>https://open.shopee.com/announcements/1338</link>
