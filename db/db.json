@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1341,
+      "platform": "shopee",
+      "title": "[VN] Support New Instant  Priority Channel Hỏa Tốc - Ưu Tiên",
+      "url": "https://open.shopee.com/announcements/1341",
+      "createdAt": 1770806687
+    },
+    {
+      "id": 1335,
+      "platform": "shopee",
+      "title": "SPI Service Enables Independent Partner Key",
+      "url": "https://open.shopee.com/announcements/1335",
+      "createdAt": 1770805498
+    },
+    {
       "id": 1340,
       "platform": "shopee",
       "title": "[Important] Penalties for Poor API Performance",

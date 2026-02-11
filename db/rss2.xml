@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 11 Feb 2026 04:42:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Feb 2026 11:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,26 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [VN] Support New Instant  Priority Channel Hỏa Tốc - Ưu Tiên]]></title>
+            <link>https://open.shopee.com/announcements/1341</link>
+            <guid>https://open.shopee.com/announcements/1341</guid>
+            <pubDate>Wed, 11 Feb 2026 10:44:47 GMT</pubDate>
+            <description><![CDATA[[VN] Support New Instant  Priority Channel Hỏa Tốc - Ưu Tiên]]></description>
+            <content:encoded><![CDATA[[VN] Support New Instant  Priority Channel Hỏa Tốc - Ưu Tiên]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - SPI Service Enables Independent Partner Key]]></title>
+            <link>https://open.shopee.com/announcements/1335</link>
+            <guid>https://open.shopee.com/announcements/1335</guid>
+            <pubDate>Wed, 11 Feb 2026 10:24:58 GMT</pubDate>
+            <description><![CDATA[SPI Service Enables Independent Partner Key]]></description>
+            <content:encoded><![CDATA[SPI Service Enables Independent Partner Key]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [Important] Penalties for Poor API Performance]]></title>
             <link>https://open.shopee.com/announcements/1340</link>
