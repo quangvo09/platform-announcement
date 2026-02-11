@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1340,
+      "platform": "shopee",
+      "title": "[Important] Penalties for Poor API Performance",
+      "url": "https://open.shopee.com/announcements/1340",
+      "createdAt": 1770783685
+    },
+    {
+      "id": "698bf5f4d5932e049fad408c",
+      "platform": "tiktok",
+      "title": "EU Markets: Category Rules Update – Responsible Person Attribute Now Mandatory ",
+      "url": "https://partner.tiktokshop.com/docv2/page/698bf5f4d5932e049fad408c",
+      "createdAt": 1770780805
+    },
+    {
       "id": 1339,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Account Health, Payment",

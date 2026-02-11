@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 09 Feb 2026 03:58:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Feb 2026 04:42:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,26 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [Important] Penalties for Poor API Performance]]></title>
+            <link>https://open.shopee.com/announcements/1340</link>
+            <guid>https://open.shopee.com/announcements/1340</guid>
+            <pubDate>Wed, 11 Feb 2026 04:21:25 GMT</pubDate>
+            <description><![CDATA[[Important] Penalties for Poor API Performance]]></description>
+            <content:encoded><![CDATA[[Important] Penalties for Poor API Performance]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[TIKTOK] - EU Markets: Category Rules Update – Responsible Person Attribute Now Mandatory ]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/698bf5f4d5932e049fad408c</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/698bf5f4d5932e049fad408c</guid>
+            <pubDate>Wed, 11 Feb 2026 03:33:25 GMT</pubDate>
+            <description><![CDATA[EU Markets: Category Rules Update – Responsible Person Attribute Now Mandatory ]]></description>
+            <content:encoded><![CDATA[EU Markets: Category Rules Update – Responsible Person Attribute Now Mandatory ]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Account Health, Payment]]></title>
             <link>https://open.shopee.com/announcements/1339</link>
