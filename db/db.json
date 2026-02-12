@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1342,
+      "platform": "shopee",
+      "title": "[Importante] Atualizações na Open API ",
+      "url": "https://open.shopee.com/announcements/1342",
+      "createdAt": 1770922549
+    },
+    {
       "id": "698d74de3a0ca3049812e044",
       "platform": "tiktok",
       "title": "Analytics Open API Metric Consistency Adjustment Announcement",
