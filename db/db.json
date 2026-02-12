@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "698d74de3a0ca3049812e044",
+      "platform": "tiktok",
+      "title": "Analytics Open API Metric Consistency Adjustment Announcement",
+      "url": "https://partner.tiktokshop.com/docv2/page/698d74de3a0ca3049812e044",
+      "createdAt": 1770878288
+    },
+    {
       "id": 1341,
       "platform": "shopee",
       "title": "[VN] Support New Instant  Priority Channel Hỏa Tốc - Ưu Tiên",
