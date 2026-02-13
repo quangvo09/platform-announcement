@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 13 Feb 2026 08:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Feb 2026 20:07:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Title Correção do erro no canal Seller Logistic 90021 – status delivery_done]]></title>
+            <link>https://open.shopee.com/announcements/1345</link>
+            <guid>https://open.shopee.com/announcements/1345</guid>
+            <pubDate>Fri, 13 Feb 2026 19:46:12 GMT</pubDate>
+            <description><![CDATA[Title Correção do erro no canal Seller Logistic 90021 – status delivery_done]]></description>
+            <content:encoded><![CDATA[Title Correção do erro no canal Seller Logistic 90021 – status delivery_done]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] -  [MY] Important Update for New Logistics Channel Trade-In delivery (Remobie)]]></title>
             <link>https://open.shopee.com/announcements/1343</link>

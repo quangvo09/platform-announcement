@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1345,
+      "platform": "shopee",
+      "title": "Title Correção do erro no canal Seller Logistic 90021 – status delivery_done",
+      "url": "https://open.shopee.com/announcements/1345",
+      "createdAt": 1771011972
+    },
+    {
       "id": 1343,
       "platform": "shopee",
       "title": " [MY] Important Update for New Logistics Channel Trade-In delivery (Remobie)",
