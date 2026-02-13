@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1343,
+      "platform": "shopee",
+      "title": " [MY] Important Update for New Logistics Channel Trade-In delivery (Remobie)",
+      "url": "https://open.shopee.com/announcements/1343",
+      "createdAt": 1770969832
+    },
+    {
       "id": 1342,
       "platform": "shopee",
       "title": "[Importante] Atualizações na Open API ",
