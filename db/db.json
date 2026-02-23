@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1346,
+      "platform": "shopee",
+      "title": "[MY] Shopee Shipping Policy Update",
+      "url": "https://open.shopee.com/announcements/1346",
+      "createdAt": 1771830042
+    },
+    {
       "id": 1345,
       "platform": "shopee",
       "title": "Title Correção do erro no canal Seller Logistic 90021 – status delivery_done",
