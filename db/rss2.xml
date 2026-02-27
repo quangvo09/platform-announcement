@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 23 Feb 2026 07:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 12:07:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,26 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [TW] Update Channel Name for Logistic Channel 30029]]></title>
+            <link>https://open.shopee.com/announcements/1348</link>
+            <guid>https://open.shopee.com/announcements/1348</guid>
+            <pubDate>Fri, 27 Feb 2026 11:28:39 GMT</pubDate>
+            <description><![CDATA[[TW] Update Channel Name for Logistic Channel 30029]]></description>
+            <content:encoded><![CDATA[[TW] Update Channel Name for Logistic Channel 30029]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - [VN] Support New Điểm Nhận Hàng Collection Point Channel ]]></title>
+            <link>https://open.shopee.com/announcements/1349</link>
+            <guid>https://open.shopee.com/announcements/1349</guid>
+            <pubDate>Fri, 27 Feb 2026 11:28:05 GMT</pubDate>
+            <description><![CDATA[[VN] Support New Điểm Nhận Hàng Collection Point Channel ]]></description>
+            <content:encoded><![CDATA[[VN] Support New Điểm Nhận Hàng Collection Point Channel ]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [MY] Shopee Shipping Policy Update]]></title>
             <link>https://open.shopee.com/announcements/1346</link>

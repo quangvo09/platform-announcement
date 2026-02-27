@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1349,
+      "platform": "shopee",
+      "title": "[VN] Support New Điểm Nhận Hàng Collection Point Channel ",
+      "url": "https://open.shopee.com/announcements/1349",
+      "createdAt": 1772191685
+    },
+    {
+      "id": 1348,
+      "platform": "shopee",
+      "title": "[TW] Update Channel Name for Logistic Channel 30029",
+      "url": "https://open.shopee.com/announcements/1348",
+      "createdAt": 1772191719
+    },
+    {
       "id": 1346,
       "platform": "shopee",
       "title": "[MY] Shopee Shipping Policy Update",
