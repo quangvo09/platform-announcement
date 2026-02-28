@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 27 Feb 2026 12:07:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 10:02:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Order and Logistics]]></title>
+            <link>https://open.shopee.com/announcements/1350</link>
+            <guid>https://open.shopee.com/announcements/1350</guid>
+            <pubDate>Sat, 28 Feb 2026 09:31:28 GMT</pubDate>
+            <description><![CDATA[Significant OpenAPI Updates of Order and Logistics]]></description>
+            <content:encoded><![CDATA[Significant OpenAPI Updates of Order and Logistics]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [TW] Update Channel Name for Logistic Channel 30029]]></title>
             <link>https://open.shopee.com/announcements/1348</link>

@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1350,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Order and Logistics",
+      "url": "https://open.shopee.com/announcements/1350",
+      "createdAt": 1772271088
+    },
+    {
       "id": 1349,
       "platform": "shopee",
       "title": "[VN] Support New Điểm Nhận Hàng Collection Point Channel ",
