@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "69a6adf196796b049fe30fc0",
+      "platform": "tiktok",
+      "title": "For all EU markets (EU5) Get Shipping Providers API ",
+      "url": "https://partner.tiktokshop.com/docv2/page/69a6adf196796b049fe30fc0",
+      "createdAt": 1772619039
+    },
+    {
       "id": 1350,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Order and Logistics",
