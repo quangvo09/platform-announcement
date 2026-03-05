@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 123259,
+      "platform": "lazada",
+      "title": "LAZADA BDAY Campaign Downgrade Plan",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=123259",
+      "createdAt": 1772691664
+    },
+    {
       "id": "69a6adf196796b049fe30fc0",
       "platform": "tiktok",
       "title": "For all EU markets (EU5) Get Shipping Providers API ",
