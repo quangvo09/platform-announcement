@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1352,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] Novo campo de faturamento pix_discount",
+      "url": "https://open.shopee.com/announcements/1352",
+      "createdAt": 1772829252
+    },
+    {
       "id": 1351,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",

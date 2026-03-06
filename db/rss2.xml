@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 06 Mar 2026 11:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 21:05:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [IMPORTANTE] Novo campo de faturamento pix_discount]]></title>
+            <link>https://open.shopee.com/announcements/1352</link>
+            <guid>https://open.shopee.com/announcements/1352</guid>
+            <pubDate>Fri, 06 Mar 2026 20:34:12 GMT</pubDate>
+            <description><![CDATA[[IMPORTANTE] Novo campo de faturamento pix_discount]]></description>
+            <content:encoded><![CDATA[[IMPORTANTE] Novo campo de faturamento pix_discount]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates]]></title>
             <link>https://open.shopee.com/announcements/1351</link>
