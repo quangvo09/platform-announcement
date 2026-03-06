@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1351,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/1351",
+      "createdAt": 1772792187
+    },
+    {
       "id": "69aa42cbb326d704fa58f297",
       "platform": "tiktok",
       "title": "US market: Updates to mandatory attributes ",

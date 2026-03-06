@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 06 Mar 2026 03:45:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 11:07:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
-        <category>shopee</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates]]></title>
+            <link>https://open.shopee.com/announcements/1351</link>
+            <guid>https://open.shopee.com/announcements/1351</guid>
+            <pubDate>Fri, 06 Mar 2026 10:16:27 GMT</pubDate>
+            <description><![CDATA[Significant OpenAPI Updates]]></description>
+            <content:encoded><![CDATA[Significant OpenAPI Updates]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - US market: Updates to mandatory attributes ]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/69aa42cbb326d704fa58f297</link>
