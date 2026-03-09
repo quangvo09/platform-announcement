@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1354,
+      "platform": "shopee",
+      "title": "[PH] AWB Format Update for Instant Delivery ",
+      "url": "https://open.shopee.com/announcements/1354",
+      "createdAt": 1773054713
+    },
+    {
       "id": 1352,
       "platform": "shopee",
       "title": "[IMPORTANTE] Novo campo de faturamento pix_discount",
