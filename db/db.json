@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1357,
+      "platform": "shopee",
+      "title": "[SG] New Logistics Channel Introduction – SPX Express Next Day Doorstep Delivery",
+      "url": "https://open.shopee.com/announcements/1357",
+      "createdAt": 1773151694
+    },
+    {
       "id": 1353,
       "platform": "shopee",
       "title": "[VN] [IMPORTANT] Detailed Milestones for Vietnam Administrative Boundary Update",

@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 10 Mar 2026 09:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 14:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [SG] New Logistics Channel Introduction – SPX Express Next Day Doorstep Delivery]]></title>
+            <link>https://open.shopee.com/announcements/1357</link>
+            <guid>https://open.shopee.com/announcements/1357</guid>
+            <pubDate>Tue, 10 Mar 2026 14:08:14 GMT</pubDate>
+            <description><![CDATA[[SG] New Logistics Channel Introduction – SPX Express Next Day Doorstep Delivery]]></description>
+            <content:encoded><![CDATA[[SG] New Logistics Channel Introduction – SPX Express Next Day Doorstep Delivery]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [VN] [IMPORTANT] Detailed Milestones for Vietnam Administrative Boundary Update]]></title>
             <link>https://open.shopee.com/announcements/1353</link>
