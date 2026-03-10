@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1353,
+      "platform": "shopee",
+      "title": "[VN] [IMPORTANT] Detailed Milestones for Vietnam Administrative Boundary Update",
+      "url": "https://open.shopee.com/announcements/1353",
+      "createdAt": 1773130675
+    },
+    {
       "id": 1354,
       "platform": "shopee",
       "title": "[PH] AWB Format Update for Instant Delivery ",
