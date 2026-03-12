@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1358,
+      "platform": "shopee",
+      "title": "[Importante] Novas regras para vendedores CPNJ e Correios",
+      "url": "https://open.shopee.com/announcements/1358",
+      "createdAt": 1773278987
+    },
+    {
       "id": 1357,
       "platform": "shopee",
       "title": "[SG] New Logistics Channel Introduction – SPX Express Next Day Doorstep Delivery",

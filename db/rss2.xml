@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 10 Mar 2026 14:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 01:31:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [Importante] Novas regras para vendedores CPNJ e Correios]]></title>
+            <link>https://open.shopee.com/announcements/1358</link>
+            <guid>https://open.shopee.com/announcements/1358</guid>
+            <pubDate>Thu, 12 Mar 2026 01:29:47 GMT</pubDate>
+            <description><![CDATA[[Importante] Novas regras para vendedores CPNJ e Correios]]></description>
+            <content:encoded><![CDATA[[Importante] Novas regras para vendedores CPNJ e Correios]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [SG] New Logistics Channel Introduction – SPX Express Next Day Doorstep Delivery]]></title>
             <link>https://open.shopee.com/announcements/1357</link>
