@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1362,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates",
+      "url": "https://open.shopee.com/announcements/1362",
+      "createdAt": 1773402809
+    },
+    {
       "id": 1361,
       "platform": "shopee",
       "title": " [TW] Consolidation of logistic channel 30017(店到家宅配 - 標準包裹) & 30030(店到家宅配 - 大型包裹",
