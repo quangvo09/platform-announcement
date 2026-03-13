@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1361,
+      "platform": "shopee",
+      "title": " [TW] Consolidation of logistic channel 30017(店到家宅配 - 標準包裹) & 30030(店到家宅配 - 大型包裹",
+      "url": "https://open.shopee.com/announcements/1361",
+      "createdAt": 1773399530
+    },
+    {
+      "id": 1360,
+      "platform": "shopee",
+      "title": " [TW] Significant updates on \"sender_real_name\" field usage for order shipments",
+      "url": "https://open.shopee.com/announcements/1360",
+      "createdAt": 1773399614
+    },
+    {
       "id": 1358,
       "platform": "shopee",
       "title": "[Importante] Novas regras para vendedores CPNJ e Correios",

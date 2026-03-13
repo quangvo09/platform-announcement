@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 12 Mar 2026 01:31:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 11:09:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,26 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] -  [TW] Significant updates on "sender_real_name" field usage for order shipments]]></title>
+            <link>https://open.shopee.com/announcements/1360</link>
+            <guid>https://open.shopee.com/announcements/1360</guid>
+            <pubDate>Fri, 13 Mar 2026 11:00:14 GMT</pubDate>
+            <description><![CDATA[ [TW] Significant updates on "sender_real_name" field usage for order shipments]]></description>
+            <content:encoded><![CDATA[ [TW] Significant updates on "sender_real_name" field usage for order shipments]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] -  [TW] Consolidation of logistic channel 30017(店到家宅配 - 標準包裹) & 30030(店到家宅配 - 大型包裹]]></title>
+            <link>https://open.shopee.com/announcements/1361</link>
+            <guid>https://open.shopee.com/announcements/1361</guid>
+            <pubDate>Fri, 13 Mar 2026 10:58:50 GMT</pubDate>
+            <description><![CDATA[ [TW] Consolidation of logistic channel 30017(店到家宅配 - 標準包裹) & 30030(店到家宅配 - 大型包裹]]></description>
+            <content:encoded><![CDATA[ [TW] Consolidation of logistic channel 30017(店到家宅配 - 標準包裹) & 30030(店到家宅配 - 大型包裹]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [Importante] Novas regras para vendedores CPNJ e Correios]]></title>
             <link>https://open.shopee.com/announcements/1358</link>
