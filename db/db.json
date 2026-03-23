@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1368,
+      "platform": "shopee",
+      "title": "[CB Only] Significant OpenAPI Updates of First-Mile",
+      "url": "https://open.shopee.com/announcements/1368",
+      "createdAt": 1774260106
+    },
+    {
       "id": 127634,
       "platform": "lazada",
       "title": "Product API - Changes and Deprecation of the Category Suggestion APIs",
