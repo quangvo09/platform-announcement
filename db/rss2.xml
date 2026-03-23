@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 13 Mar 2026 12:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 07:27:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>lazada</category>
         <category>shopee</category>
         <category>tiktok</category>
-        <category>lazada</category>
+        <item>
+            <title><![CDATA[[LAZADA] - Product API - Changes and Deprecation of the Category Suggestion APIs]]></title>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=127634</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=127634</guid>
+            <pubDate>Mon, 23 Mar 2026 06:31:23 GMT</pubDate>
+            <description><![CDATA[Product API - Changes and Deprecation of the Category Suggestion APIs]]></description>
+            <content:encoded><![CDATA[Product API - Changes and Deprecation of the Category Suggestion APIs]]></content:encoded>
+            <category>lazada</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates]]></title>
             <link>https://open.shopee.com/announcements/1362</link>

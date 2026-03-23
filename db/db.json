@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 127634,
+      "platform": "lazada",
+      "title": "Product API - Changes and Deprecation of the Category Suggestion APIs",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=127634",
+      "createdAt": 1774247483
+    },
+    {
       "id": 1362,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates",
