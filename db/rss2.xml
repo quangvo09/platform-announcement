@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 23 Mar 2026 10:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 20:09:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>lazada</category>
         <category>tiktok</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Instabilidade no processamento de emissão de etiquetas e NF-e]]></title>
+            <link>https://open.shopee.com/announcements/1370</link>
+            <guid>https://open.shopee.com/announcements/1370</guid>
+            <pubDate>Wed, 25 Mar 2026 19:56:28 GMT</pubDate>
+            <description><![CDATA[Instabilidade no processamento de emissão de etiquetas e NF-e]]></description>
+            <content:encoded><![CDATA[Instabilidade no processamento de emissão de etiquetas e NF-e]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [CB Only] Significant OpenAPI Updates of First-Mile]]></title>
             <link>https://open.shopee.com/announcements/1368</link>

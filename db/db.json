@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1370,
+      "platform": "shopee",
+      "title": "Instabilidade no processamento de emissão de etiquetas e NF-e",
+      "url": "https://open.shopee.com/announcements/1370",
+      "createdAt": 1774468588
+    },
+    {
       "id": 1368,
       "platform": "shopee",
       "title": "[CB Only] Significant OpenAPI Updates of First-Mile",
