@@ -1,6 +1,27 @@
 {
   "announcements": [
     {
+      "id": 1371,
+      "platform": "shopee",
+      "title": "[BR] Como Iniciar - Criação de Aplicativos",
+      "url": "https://open.shopee.com/announcements/1371",
+      "createdAt": 1774546950
+    },
+    {
+      "id": 1365,
+      "platform": "shopee",
+      "title": "[BR] Lembrete sobre Ambiente Sandbox (Sandbox Testing V2)",
+      "url": "https://open.shopee.com/announcements/1365",
+      "createdAt": 1774546136
+    },
+    {
+      "id": 1364,
+      "platform": "shopee",
+      "title": "[BR] Lembrete: Acesso a Dados Sensíveis (Sensitive Data Access)",
+      "url": "https://open.shopee.com/announcements/1364",
+      "createdAt": 1774546327
+    },
+    {
       "id": 1363,
       "platform": "shopee",
       "title": "[BR] Lembrete: Política de Acesso à Chat API (Chat API)",

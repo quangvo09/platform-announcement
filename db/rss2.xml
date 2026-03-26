@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 26 Mar 2026 17:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 18:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,36 @@
         <category>shopee</category>
         <category>lazada</category>
         <category>tiktok</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [BR] Como Iniciar - Criação de Aplicativos]]></title>
+            <link>https://open.shopee.com/announcements/1371</link>
+            <guid>https://open.shopee.com/announcements/1371</guid>
+            <pubDate>Thu, 26 Mar 2026 17:42:30 GMT</pubDate>
+            <description><![CDATA[[BR] Como Iniciar - Criação de Aplicativos]]></description>
+            <content:encoded><![CDATA[[BR] Como Iniciar - Criação de Aplicativos]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - [BR] Lembrete: Acesso a Dados Sensíveis (Sensitive Data Access)]]></title>
+            <link>https://open.shopee.com/announcements/1364</link>
+            <guid>https://open.shopee.com/announcements/1364</guid>
+            <pubDate>Thu, 26 Mar 2026 17:32:07 GMT</pubDate>
+            <description><![CDATA[[BR] Lembrete: Acesso a Dados Sensíveis (Sensitive Data Access)]]></description>
+            <content:encoded><![CDATA[[BR] Lembrete: Acesso a Dados Sensíveis (Sensitive Data Access)]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - [BR] Lembrete sobre Ambiente Sandbox (Sandbox Testing V2)]]></title>
+            <link>https://open.shopee.com/announcements/1365</link>
+            <guid>https://open.shopee.com/announcements/1365</guid>
+            <pubDate>Thu, 26 Mar 2026 17:28:56 GMT</pubDate>
+            <description><![CDATA[[BR] Lembrete sobre Ambiente Sandbox (Sandbox Testing V2)]]></description>
+            <content:encoded><![CDATA[[BR] Lembrete sobre Ambiente Sandbox (Sandbox Testing V2)]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [BR] Lembrete: Política de Acesso à Chat API (Chat API)]]></title>
             <link>https://open.shopee.com/announcements/1363</link>
