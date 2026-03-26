@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1363,
+      "platform": "shopee",
+      "title": "[BR] Lembrete: Política de Acesso à Chat API (Chat API)",
+      "url": "https://open.shopee.com/announcements/1363",
+      "createdAt": 1774545617
+    },
+    {
       "id": 1370,
       "platform": "shopee",
       "title": "Instabilidade no processamento de emissão de etiquetas e NF-e",
