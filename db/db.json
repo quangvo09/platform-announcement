@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1373,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Logistics, Order, and Payment",
+      "url": "https://open.shopee.com/announcements/1373",
+      "createdAt": 1774608314
+    },
+    {
       "id": 1372,
       "platform": "shopee",
       "title": "[TW] Self-design AWB policy update for logistic channel 30017 (店到家宅配)",
