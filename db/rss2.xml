@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 26 Mar 2026 18:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 10:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,26 @@
         <category>shopee</category>
         <category>lazada</category>
         <category>tiktok</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [TW] Self-design AWB policy update for logistic channel 30017 (店到家宅配)]]></title>
+            <link>https://open.shopee.com/announcements/1372</link>
+            <guid>https://open.shopee.com/announcements/1372</guid>
+            <pubDate>Fri, 27 Mar 2026 09:56:43 GMT</pubDate>
+            <description><![CDATA[[TW] Self-design AWB policy update for logistic channel 30017 (店到家宅配)]]></description>
+            <content:encoded><![CDATA[[TW] Self-design AWB policy update for logistic channel 30017 (店到家宅配)]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - [TH] SPX Express - Buyer Self-Collection Channel Name Update]]></title>
+            <link>https://open.shopee.com/announcements/1367</link>
+            <guid>https://open.shopee.com/announcements/1367</guid>
+            <pubDate>Fri, 27 Mar 2026 09:55:37 GMT</pubDate>
+            <description><![CDATA[[TH] SPX Express - Buyer Self-Collection Channel Name Update]]></description>
+            <content:encoded><![CDATA[[TH] SPX Express - Buyer Self-Collection Channel Name Update]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [BR] Como Iniciar - Criação de Aplicativos]]></title>
             <link>https://open.shopee.com/announcements/1371</link>

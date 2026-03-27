@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1372,
+      "platform": "shopee",
+      "title": "[TW] Self-design AWB policy update for logistic channel 30017 (店到家宅配)",
+      "url": "https://open.shopee.com/announcements/1372",
+      "createdAt": 1774605403
+    },
+    {
+      "id": 1367,
+      "platform": "shopee",
+      "title": "[TH] SPX Express - Buyer Self-Collection Channel Name Update",
+      "url": "https://open.shopee.com/announcements/1367",
+      "createdAt": 1774605337
+    },
+    {
       "id": 1371,
       "platform": "shopee",
       "title": "[BR] Como Iniciar - Criação de Aplicativos",
