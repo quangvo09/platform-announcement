@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "69cf908570d83304e25ea66e",
+      "platform": "tiktok",
+      "title": "US market: Mandatory compliance attributes added for Paper Money and Coins Categories",
+      "url": "https://partner.tiktokshop.com/docv2/page/69cf908570d83304e25ea66e",
+      "createdAt": 1775210851
+    },
+    {
       "id": 1373,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Logistics, Order, and Payment",
