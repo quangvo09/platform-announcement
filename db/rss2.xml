@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 03 Apr 2026 10:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 10:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>tiktok</category>
         <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - New Capability  for Affiliate  Data Compass Offline Data Export]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/69d8c2294ce9a804deec62c3</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/69d8c2294ce9a804deec62c3</guid>
+            <pubDate>Fri, 10 Apr 2026 09:43:21 GMT</pubDate>
+            <description><![CDATA[New Capability  for Affiliate  Data Compass Offline Data Export]]></description>
+            <content:encoded><![CDATA[New Capability  for Affiliate  Data Compass Offline Data Export]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - US market: Mandatory compliance attributes added for Paper Money and Coins Categories]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/69cf908570d83304e25ea66e</link>
