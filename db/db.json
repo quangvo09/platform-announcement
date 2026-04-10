@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1379,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Self Collection Point (SPX Express)",
+      "url": "https://open.shopee.com/announcements/1379",
+      "createdAt": 1775819561
+    },
+    {
+      "id": 1378,
+      "platform": "shopee",
+      "title": "[MY]Important Update for New Logistics Channel-Self Collection Locker",
+      "url": "https://open.shopee.com/announcements/1378",
+      "createdAt": 1775819398
+    },
+    {
       "id": "69d8c2294ce9a804deec62c3",
       "platform": "tiktok",
       "title": "New Capability  for Affiliate  Data Compass Offline Data Export",
