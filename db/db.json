@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1377,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Logistics, Order, Payment, Product",
+      "url": "https://open.shopee.com/announcements/1377",
+      "createdAt": 1776049875
+    },
+    {
       "id": 1379,
       "platform": "shopee",
       "title": "[MY] Important Update for Self Collection Point (SPX Express)",

@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 10 Apr 2026 11:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 05:01:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Logistics, Order, Payment, Product]]></title>
+            <link>https://open.shopee.com/announcements/1377</link>
+            <guid>https://open.shopee.com/announcements/1377</guid>
+            <pubDate>Mon, 13 Apr 2026 03:11:15 GMT</pubDate>
+            <description><![CDATA[Significant OpenAPI Updates of Logistics, Order, Payment, Product]]></description>
+            <content:encoded><![CDATA[Significant OpenAPI Updates of Logistics, Order, Payment, Product]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [MY] Important Update for Self Collection Point (SPX Express)]]></title>
             <link>https://open.shopee.com/announcements/1379</link>
