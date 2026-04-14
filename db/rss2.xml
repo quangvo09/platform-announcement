@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 13 Apr 2026 05:01:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 09:30:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - Bestsellers Analytics Open API Launch]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/69de0329404e8ddd87800ea6</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/69de0329404e8ddd87800ea6</guid>
+            <pubDate>Tue, 14 Apr 2026 09:09:56 GMT</pubDate>
+            <description><![CDATA[Bestsellers Analytics Open API Launch]]></description>
+            <content:encoded><![CDATA[Bestsellers Analytics Open API Launch]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Logistics, Order, Payment, Product]]></title>
             <link>https://open.shopee.com/announcements/1377</link>
