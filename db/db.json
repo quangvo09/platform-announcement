@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "69e12a0e70d83304e28a63bc",
+      "platform": "tiktok",
+      "title": "US market: New GTM for OTC Mandatory Attributes",
+      "url": "https://partner.tiktokshop.com/docv2/page/69e12a0e70d83304e28a63bc",
+      "createdAt": 1776364152
+    },
+    {
       "id": "69de0329404e8ddd87800ea6",
       "platform": "tiktok",
       "title": "Bestsellers Analytics Open API Launch",

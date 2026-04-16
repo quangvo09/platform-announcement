@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 14 Apr 2026 09:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 19:28:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>tiktok</category>
         <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - US market: New GTM for OTC Mandatory Attributes]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/69e12a0e70d83304e28a63bc</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/69e12a0e70d83304e28a63bc</guid>
+            <pubDate>Thu, 16 Apr 2026 18:29:12 GMT</pubDate>
+            <description><![CDATA[US market: New GTM for OTC Mandatory Attributes]]></description>
+            <content:encoded><![CDATA[US market: New GTM for OTC Mandatory Attributes]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - Bestsellers Analytics Open API Launch]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/69de0329404e8ddd87800ea6</link>
