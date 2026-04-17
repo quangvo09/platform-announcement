@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 16 Apr 2026 19:28:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 10:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>tiktok</category>
         <category>shopee</category>
+        <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Account Health, OpenPlatform]]></title>
+            <link>https://open.shopee.com/announcements/1381</link>
+            <guid>https://open.shopee.com/announcements/1381</guid>
+            <pubDate>Fri, 17 Apr 2026 10:13:21 GMT</pubDate>
+            <description><![CDATA[Significant OpenAPI Updates of Account Health, OpenPlatform]]></description>
+            <content:encoded><![CDATA[Significant OpenAPI Updates of Account Health, OpenPlatform]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - US market: New GTM for OTC Mandatory Attributes]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/69e12a0e70d83304e28a63bc</link>

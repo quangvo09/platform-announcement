@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1381,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Account Health, OpenPlatform",
+      "url": "https://open.shopee.com/announcements/1381",
+      "createdAt": 1776420801
+    },
+    {
       "id": "69e12a0e70d83304e28a63bc",
       "platform": "tiktok",
       "title": "US market: New GTM for OTC Mandatory Attributes",
