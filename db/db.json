@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "69e71689404e8ddd8794d1ea",
+      "platform": "tiktok",
+      "title": "For US Market: Add subscription order tag to Order APIs",
+      "url": "https://partner.tiktokshop.com/docv2/page/69e71689404e8ddd8794d1ea",
+      "createdAt": 1776752432
+    },
+    {
       "id": 1381,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Account Health, OpenPlatform",
