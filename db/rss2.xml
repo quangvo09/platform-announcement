@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 21 Apr 2026 06:34:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 08:33:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>tiktok</category>
         <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - New Feature: Inventory Update Webhook]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/69e9cc34186bcf04b431d1f2</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/69e9cc34186bcf04b431d1f2</guid>
+            <pubDate>Thu, 23 Apr 2026 07:39:17 GMT</pubDate>
+            <description><![CDATA[New Feature: Inventory Update Webhook]]></description>
+            <content:encoded><![CDATA[New Feature: Inventory Update Webhook]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - For US Market: Add subscription order tag to Order APIs]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/69e71689404e8ddd8794d1ea</link>

@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "69e9cc34186bcf04b431d1f2",
+      "platform": "tiktok",
+      "title": "New Feature: Inventory Update Webhook",
+      "url": "https://partner.tiktokshop.com/docv2/page/69e9cc34186bcf04b431d1f2",
+      "createdAt": 1776929957
+    },
+    {
       "id": "69e71689404e8ddd8794d1ea",
       "platform": "tiktok",
       "title": "For US Market: Add subscription order tag to Order APIs",
