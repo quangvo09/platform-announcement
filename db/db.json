@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1383,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Logistics",
+      "url": "https://open.shopee.com/announcements/1383",
+      "createdAt": 1777025143
+    },
+    {
       "id": "69e9cc34186bcf04b431d1f2",
       "platform": "tiktok",
       "title": "New Feature: Inventory Update Webhook",
