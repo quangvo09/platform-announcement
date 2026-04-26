@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "69ee028240280804f5be9cdf",
+      "platform": "tiktok",
+      "title": "For Vietnam market: Updates to Mandatory attributes on Beauty & Personal Care, Health, Baby & Maternity, and Food & Beverages related categories",
+      "url": "https://partner.tiktokshop.com/docv2/page/69ee028240280804f5be9cdf",
+      "createdAt": 1777205980
+    },
+    {
       "id": 1383,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Logistics",
