@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 06 May 2026 03:02:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 23:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>tiktok</category>
         <category>shopee</category>
+        <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [IMPORTANTE] Fluxo de API para Atributos com seleção de opções]]></title>
+            <link>https://open.shopee.com/announcements/1387</link>
+            <guid>https://open.shopee.com/announcements/1387</guid>
+            <pubDate>Wed, 06 May 2026 23:00:42 GMT</pubDate>
+            <description><![CDATA[[IMPORTANTE] Fluxo de API para Atributos com seleção de opções]]></description>
+            <content:encoded><![CDATA[[IMPORTANTE] Fluxo de API para Atributos com seleção de opções]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - 未命名文档]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/69faa43440280804f5c83e42</link>
