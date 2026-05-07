@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "69fc0c4a186bcf04b4429734",
+      "platform": "tiktok",
+      "title": "For US market: Mandatory Size Chart Quality Validation",
+      "url": "https://partner.tiktokshop.com/docv2/page/69fc0c4a186bcf04b4429734",
+      "createdAt": 1778134386
+    },
+    {
       "id": 1387,
       "platform": "shopee",
       "title": "[IMPORTANTE] Fluxo de API para Atributos com seleção de opções",
