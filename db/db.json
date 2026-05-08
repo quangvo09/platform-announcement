@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "69fd9f331b7d0404ef375605",
+      "platform": "tiktok",
+      "title": "EU Markets: Introducing VAT Calculation Service (VCS) — New Product and Order API Fields",
+      "url": "https://partner.tiktokshop.com/docv2/page/69fd9f331b7d0404ef375605",
+      "createdAt": 1778231687
+    },
+    {
       "id": "69fc0c4a186bcf04b4429734",
       "platform": "tiktok",
       "title": "For US market: Mandatory Size Chart Quality Validation",
