@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1389,
+      "platform": "shopee",
+      "title": "[MY] Channel Name Update for Instant Delivery",
+      "url": "https://open.shopee.com/announcements/1389",
+      "createdAt": 1778236151
+    },
+    {
       "id": "69fd9f331b7d0404ef375605",
       "platform": "tiktok",
       "title": "EU Markets: Introducing VAT Calculation Service (VCS) — New Product and Order API Fields",
