@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1391,
+      "platform": "shopee",
+      "title": "[MY] Channel Name Update for Instant Delivery",
+      "url": "https://open.shopee.com/announcements/1391",
+      "createdAt": 1778237947
+    },
+    {
       "id": 1389,
       "platform": "shopee",
       "title": "[MY] Channel Name Update for Instant Delivery",
