@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 11 May 2026 05:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 06:58:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>tiktok</category>
         <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - Enhanced Get Tracking API for CBT First-Mile Pickup Visibility]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6a041512404e8ddd87b5d72b</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6a041512404e8ddd87b5d72b</guid>
+            <pubDate>Wed, 13 May 2026 06:08:50 GMT</pubDate>
+            <description><![CDATA[Enhanced Get Tracking API for CBT First-Mile Pickup Visibility]]></description>
+            <content:encoded><![CDATA[Enhanced Get Tracking API for CBT First-Mile Pickup Visibility]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - For US market: Mandatory Size Chart Quality Validation - 副本]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/69fc2d35124e9404bbf89bbb</link>
