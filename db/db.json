@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1392,
+      "platform": "shopee",
+      "title": "【CNCB Only】Shopee Thailand Platform System Upgrade Notification",
+      "url": "https://open.shopee.com/announcements/1392",
+      "createdAt": 1778841759
+    },
+    {
       "id": "6a041512404e8ddd87b5d72b",
       "platform": "tiktok",
       "title": "Enhanced Get Tracking API for CBT First-Mile Pickup Visibility",
