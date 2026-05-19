@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 141980,
+      "platform": "lazada",
+      "title": "LAZADA D6 Campaign Downgrade Plan",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=141980",
+      "createdAt": 1779161219
+    },
+    {
       "id": 1392,
       "platform": "shopee",
       "title": "【CNCB Only】Shopee Thailand Platform System Upgrade Notification",
