@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 19 May 2026 05:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 May 2026 07:08:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>tiktok</category>
         <category>lazada</category>
         <category>shopee</category>
-        <category>tiktok</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - US/SEA（POP）Market：Support product weight and dimensions at the SKU level]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6a0b1ee80a0aa9e23a94b492</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6a0b1ee80a0aa9e23a94b492</guid>
+            <pubDate>Tue, 19 May 2026 06:15:53 GMT</pubDate>
+            <description><![CDATA[US/SEA（POP）Market：Support product weight and dimensions at the SKU level]]></description>
+            <content:encoded><![CDATA[US/SEA（POP）Market：Support product weight and dimensions at the SKU level]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[LAZADA] - LAZADA D6 Campaign Downgrade Plan]]></title>
             <link>https://open.lazada.com/apps/announcement/detail?docId=141980</link>
