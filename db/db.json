@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6a0ecd701c4e66e01e6e0d96",
+      "platform": "tiktok",
+      "title": "Analytics API Response Data Optimization",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a0ecd701c4e66e01e6e0d96",
+      "createdAt": 1779356906
+    },
+    {
       "id": "6a0b1ee80a0aa9e23a94b492",
       "platform": "tiktok",
       "title": "US/SEA（POP）Market：Support product weight and dimensions at the SKU level",
