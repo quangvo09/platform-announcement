@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6a0ffdce1c4e66e01e6f2362",
+      "platform": "tiktok",
+      "title": "Seller Access & Sandbox Rate Limit Updates",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a0ffdce1c4e66e01e6f2362",
+      "createdAt": 1779433884
+    },
+    {
       "id": "6a0ecd701c4e66e01e6e0d96",
       "platform": "tiktok",
       "title": "Analytics API Response Data Optimization",
