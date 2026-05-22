@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1395,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Payment, OpenPlatform, Product, Order",
+      "url": "https://open.shopee.com/announcements/1395",
+      "createdAt": 1779454324
+    },
+    {
+      "id": 1394,
+      "platform": "shopee",
+      "title": "[TW] Significant updates for Logistics Channel Setting Validation Logic",
+      "url": "https://open.shopee.com/announcements/1394",
+      "createdAt": 1779451954
+    },
+    {
       "id": "6a0ffdce1c4e66e01e6f2362",
       "platform": "tiktok",
       "title": "Seller Access & Sandbox Rate Limit Updates",
