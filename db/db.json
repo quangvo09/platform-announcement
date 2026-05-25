@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1397,
+      "platform": "shopee",
+      "title": "[PH] New Instant Delivery Priority Channel",
+      "url": "https://open.shopee.com/announcements/1397",
+      "createdAt": 1779708009
+    },
+    {
+      "id": 1396,
+      "platform": "shopee",
+      "title": "[VN] Support New Channel Tủ nhận hàng - SPX",
+      "url": "https://open.shopee.com/announcements/1396",
+      "createdAt": 1779707960
+    },
+    {
       "id": 1395,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Payment, OpenPlatform, Product, Order",
