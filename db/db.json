@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 145548,
+      "platform": "lazada",
+      "title": "Important - Encryption of Buyer Information for Orders",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=145548",
+      "createdAt": 1779953070
+    },
+    {
       "id": 1397,
       "platform": "shopee",
       "title": "[PH] New Instant Delivery Priority Channel",

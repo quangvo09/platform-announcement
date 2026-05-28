@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 25 May 2026 11:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 May 2026 09:09:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>lazada</category>
         <category>shopee</category>
         <category>tiktok</category>
-        <category>lazada</category>
+        <item>
+            <title><![CDATA[[LAZADA] - Important - Encryption of Buyer Information for Orders]]></title>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=145548</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=145548</guid>
+            <pubDate>Thu, 28 May 2026 07:24:30 GMT</pubDate>
+            <description><![CDATA[Important - Encryption of Buyer Information for Orders]]></description>
+            <content:encoded><![CDATA[Important - Encryption of Buyer Information for Orders]]></content:encoded>
+            <category>lazada</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [PH] New Instant Delivery Priority Channel]]></title>
             <link>https://open.shopee.com/announcements/1397</link>
