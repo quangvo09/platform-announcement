@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 28 May 2026 09:09:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2026 03:03:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>lazada</category>
         <category>shopee</category>
+        <category>lazada</category>
         <category>tiktok</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [TW] Schedule Update: "sender_real_name" field usage for order shipments]]></title>
+            <link>https://open.shopee.com/announcements/1398</link>
+            <guid>https://open.shopee.com/announcements/1398</guid>
+            <pubDate>Fri, 29 May 2026 02:45:03 GMT</pubDate>
+            <description><![CDATA[[TW] Schedule Update: "sender_real_name" field usage for order shipments]]></description>
+            <content:encoded><![CDATA[[TW] Schedule Update: "sender_real_name" field usage for order shipments]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[LAZADA] - Important - Encryption of Buyer Information for Orders]]></title>
             <link>https://open.lazada.com/apps/announcement/detail?docId=145548</link>

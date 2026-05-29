@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1398,
+      "platform": "shopee",
+      "title": "[TW] Schedule Update: \"sender_real_name\" field usage for order shipments",
+      "url": "https://open.shopee.com/announcements/1398",
+      "createdAt": 1780022703
+    },
+    {
       "id": 145548,
       "platform": "lazada",
       "title": "Important - Encryption of Buyer Information for Orders",
