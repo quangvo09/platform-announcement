@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 29 May 2026 03:03:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2026 11:03:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>lazada</category>
         <category>tiktok</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Return, Logistics, Payment]]></title>
+            <link>https://open.shopee.com/announcements/1399</link>
+            <guid>https://open.shopee.com/announcements/1399</guid>
+            <pubDate>Fri, 29 May 2026 09:55:18 GMT</pubDate>
+            <description><![CDATA[Significant OpenAPI Updates of Return, Logistics, Payment]]></description>
+            <content:encoded><![CDATA[Significant OpenAPI Updates of Return, Logistics, Payment]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [TW] Schedule Update: "sender_real_name" field usage for order shipments]]></title>
             <link>https://open.shopee.com/announcements/1398</link>
