@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1400,
+      "platform": "shopee",
+      "title": "[BR] Criação de App: permissões e APIs são definidas pela categoria selecionada",
+      "url": "https://open.shopee.com/announcements/1400",
+      "createdAt": 1780168608
+    },
+    {
       "id": 1399,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Return, Logistics, Payment",

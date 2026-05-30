@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 29 May 2026 11:03:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2026 19:29:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>lazada</category>
         <category>tiktok</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [BR] Criação de App: permissões e APIs são definidas pela categoria selecionada]]></title>
+            <link>https://open.shopee.com/announcements/1400</link>
+            <guid>https://open.shopee.com/announcements/1400</guid>
+            <pubDate>Sat, 30 May 2026 19:16:48 GMT</pubDate>
+            <description><![CDATA[[BR] Criação de App: permissões e APIs são definidas pela categoria selecionada]]></description>
+            <content:encoded><![CDATA[[BR] Criação de App: permissões e APIs são definidas pela categoria selecionada]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Return, Logistics, Payment]]></title>
             <link>https://open.shopee.com/announcements/1399</link>
