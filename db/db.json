@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1402,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] Novo campo remaining_voucher, API v2.payment.get_escrow_detail:",
+      "url": "https://open.shopee.com/announcements/1402",
+      "createdAt": 1780401611
+    },
+    {
       "id": "6a1e7de012f6bd04ef18f49e",
       "platform": "tiktok",
       "title": "Full Account Development Shop supports manual order status updates",
