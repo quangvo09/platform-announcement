@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6a1e7de012f6bd04ef18f49e",
+      "platform": "tiktok",
+      "title": "Full Account Development Shop supports manual order status updates",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a1e7de012f6bd04ef18f49e",
+      "createdAt": 1780383485
+    },
+    {
       "id": 1400,
       "platform": "shopee",
       "title": "[BR] Criação de App: permissões e APIs são definidas pela categoria selecionada",
