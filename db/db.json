@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1403,
+      "platform": "shopee",
+      "title": "[TH] Timeslot Update for Express Delivery Channel",
+      "url": "https://open.shopee.com/announcements/1403",
+      "createdAt": 1780459832
+    },
+    {
       "id": 1402,
       "platform": "shopee",
       "title": "[IMPORTANTE] Novo campo remaining_voucher, API v2.payment.get_escrow_detail:",

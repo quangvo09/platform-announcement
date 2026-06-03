@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 02 Jun 2026 13:10:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jun 2026 05:36:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [TH] Timeslot Update for Express Delivery Channel]]></title>
+            <link>https://open.shopee.com/announcements/1403</link>
+            <guid>https://open.shopee.com/announcements/1403</guid>
+            <pubDate>Wed, 03 Jun 2026 04:10:32 GMT</pubDate>
+            <description><![CDATA[[TH] Timeslot Update for Express Delivery Channel]]></description>
+            <content:encoded><![CDATA[[TH] Timeslot Update for Express Delivery Channel]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [IMPORTANTE] Novo campo remaining_voucher, API v2.payment.get_escrow_detail:]]></title>
             <link>https://open.shopee.com/announcements/1402</link>
