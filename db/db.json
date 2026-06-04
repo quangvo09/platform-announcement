@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6a1fda024dcf9be6fd7ab6e3",
+      "platform": "tiktok",
+      "title": "Product APIs support regular Auction Product CRUD",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a1fda024dcf9be6fd7ab6e3",
+      "createdAt": 1780543018
+    },
+    {
       "id": 1403,
       "platform": "shopee",
       "title": "[TH] Timeslot Update for Express Delivery Channel",
