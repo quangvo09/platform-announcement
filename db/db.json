@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1404,
+      "platform": "shopee",
+      "title": "[TW][Important] Mandatory Size Chart Requirement for Specific Item Categories",
+      "url": "https://open.shopee.com/announcements/1404",
+      "createdAt": 1780646380
+    },
+    {
       "id": "6a1fda024dcf9be6fd7ab6e3",
       "platform": "tiktok",
       "title": "Product APIs support regular Auction Product CRUD",

@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 04 Jun 2026 05:33:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 09:05:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>tiktok</category>
         <category>shopee</category>
+        <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [TW][Important] Mandatory Size Chart Requirement for Specific Item Categories]]></title>
+            <link>https://open.shopee.com/announcements/1404</link>
+            <guid>https://open.shopee.com/announcements/1404</guid>
+            <pubDate>Fri, 05 Jun 2026 07:59:40 GMT</pubDate>
+            <description><![CDATA[[TW][Important] Mandatory Size Chart Requirement for Specific Item Categories]]></description>
+            <content:encoded><![CDATA[[TW][Important] Mandatory Size Chart Requirement for Specific Item Categories]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - Product APIs support regular Auction Product CRUD]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6a1fda024dcf9be6fd7ab6e3</link>
