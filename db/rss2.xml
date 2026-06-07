@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Sun, 07 Jun 2026 13:31:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jun 2026 14:34:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>tiktok</category>
         <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - For Philippine market: Updates to Mandatory Attributes on Chair Categories]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6a257b5370d83304e2ddc3d6</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6a257b5370d83304e2ddc3d6</guid>
+            <pubDate>Sun, 07 Jun 2026 14:09:49 GMT</pubDate>
+            <description><![CDATA[For Philippine market: Updates to Mandatory Attributes on Chair Categories]]></description>
+            <content:encoded><![CDATA[For Philippine market: Updates to Mandatory Attributes on Chair Categories]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - For Malaysia market: Updates to Mandatory Attributes on Beauty & Wellness Supplement Related Categories]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6a25708f40280804f5f973e1</link>
