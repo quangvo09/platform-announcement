@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6a266c6e124e9404bb283b29",
+      "platform": "tiktok",
+      "title": "Gateway HTTP Access to Be Discontinued",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a266c6e124e9404bb283b29",
+      "createdAt": 1780903225
+    },
+    {
       "id": "6a257b5370d83304e2ddc3d6",
       "platform": "tiktok",
       "title": "For Philippine market: Updates to Mandatory Attributes on Chair Categories",
