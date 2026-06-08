@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 08 Jun 2026 07:36:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jun 2026 11:34:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>tiktok</category>
         <category>shopee</category>
+        <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [TW] AWB size update for logistics channel 30020 (新竹物流)]]></title>
+            <link>https://open.shopee.com/announcements/1405</link>
+            <guid>https://open.shopee.com/announcements/1405</guid>
+            <pubDate>Mon, 08 Jun 2026 11:15:22 GMT</pubDate>
+            <description><![CDATA[[TW] AWB size update for logistics channel 30020 (新竹物流)]]></description>
+            <content:encoded><![CDATA[[TW] AWB size update for logistics channel 30020 (新竹物流)]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - Gateway HTTP Access to Be Discontinued]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6a266c6e124e9404bb283b29</link>

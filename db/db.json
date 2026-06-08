@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1405,
+      "platform": "shopee",
+      "title": "[TW] AWB size update for logistics channel 30020 (新竹物流)",
+      "url": "https://open.shopee.com/announcements/1405",
+      "createdAt": 1780917322
+    },
+    {
       "id": "6a266c6e124e9404bb283b29",
       "platform": "tiktok",
       "title": "Gateway HTTP Access to Be Discontinued",
