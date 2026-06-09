@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1407,
+      "platform": "shopee",
+      "title": "[BR] Normalização dos serviços",
+      "url": "https://open.shopee.com/announcements/1407",
+      "createdAt": 1781005826
+    },
+    {
       "id": "6a27e827186bcf04b474534e",
       "platform": "tiktok",
       "title": "All Market：Adjust product dimensions and weight to two decimal places",

@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 09 Jun 2026 11:01:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2026 12:55:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>tiktok</category>
         <category>shopee</category>
+        <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [BR] Normalização dos serviços]]></title>
+            <link>https://open.shopee.com/announcements/1407</link>
+            <guid>https://open.shopee.com/announcements/1407</guid>
+            <pubDate>Tue, 09 Jun 2026 11:50:26 GMT</pubDate>
+            <description><![CDATA[[BR] Normalização dos serviços]]></description>
+            <content:encoded><![CDATA[[BR] Normalização dos serviços]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - All Market：Adjust product dimensions and weight to two decimal places]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6a27e827186bcf04b474534e</link>
