@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 09 Jun 2026 12:55:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2026 16:51:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [BR] Atualizações sobre cenário impactando NF/Pedidos [09/06/2026]]]></title>
+            <link>https://open.shopee.com/announcements/1409</link>
+            <guid>https://open.shopee.com/announcements/1409</guid>
+            <pubDate>Tue, 09 Jun 2026 14:35:25 GMT</pubDate>
+            <description><![CDATA[[BR] Atualizações sobre cenário impactando NF/Pedidos [09/06/2026]]]></description>
+            <content:encoded><![CDATA[[BR] Atualizações sobre cenário impactando NF/Pedidos [09/06/2026]]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [BR] Normalização dos serviços]]></title>
             <link>https://open.shopee.com/announcements/1407</link>

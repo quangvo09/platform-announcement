@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1409,
+      "platform": "shopee",
+      "title": "[BR] Atualizações sobre cenário impactando NF/Pedidos [09/06/2026]",
+      "url": "https://open.shopee.com/announcements/1409",
+      "createdAt": 1781015725
+    },
+    {
       "id": 1407,
       "platform": "shopee",
       "title": "[BR] Normalização dos serviços",
