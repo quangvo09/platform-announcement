@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6a27e827186bcf04b474534e",
+      "platform": "tiktok",
+      "title": "All Market：Adjust product dimensions and weight to two decimal places",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a27e827186bcf04b474534e",
+      "createdAt": 1781000461
+    },
+    {
       "id": 1406,
       "platform": "shopee",
       "title": "[BR] Instabilidade na Central do Vendedor e serviços",
