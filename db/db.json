@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1406,
+      "platform": "shopee",
+      "title": "[BR] Instabilidade na Central do Vendedor e serviços",
+      "url": "https://open.shopee.com/announcements/1406",
+      "createdAt": 1780965059
+    },
+    {
       "id": 1405,
       "platform": "shopee",
       "title": "[TW] AWB size update for logistics channel 30020 (新竹物流)",

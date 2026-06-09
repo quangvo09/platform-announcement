@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 08 Jun 2026 11:34:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2026 01:35:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [BR] Instabilidade na Central do Vendedor e serviços]]></title>
+            <link>https://open.shopee.com/announcements/1406</link>
+            <guid>https://open.shopee.com/announcements/1406</guid>
+            <pubDate>Tue, 09 Jun 2026 00:30:59 GMT</pubDate>
+            <description><![CDATA[[BR] Instabilidade na Central do Vendedor e serviços]]></description>
+            <content:encoded><![CDATA[[BR] Instabilidade na Central do Vendedor e serviços]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [TW] AWB size update for logistics channel 30020 (新竹物流)]]></title>
             <link>https://open.shopee.com/announcements/1405</link>
