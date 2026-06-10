@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 09 Jun 2026 16:51:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 11:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - Meet Partner Assistant — Your AI Q&A Copilot in Partner Center]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6a2932e91c4e66e01e8f57c7</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6a2932e91c4e66e01e8f57c7</guid>
+            <pubDate>Wed, 10 Jun 2026 09:49:28 GMT</pubDate>
+            <description><![CDATA[Meet Partner Assistant — Your AI Q&A Copilot in Partner Center]]></description>
+            <content:encoded><![CDATA[Meet Partner Assistant — Your AI Q&A Copilot in Partner Center]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [BR] Atualizações sobre cenário impactando NF/Pedidos [09/06/2026]]]></title>
             <link>https://open.shopee.com/announcements/1409</link>
