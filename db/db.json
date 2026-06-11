@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1420,
+      "platform": "shopee",
+      "title": "[BR] Atualização de Validação de IE para Endereço de Coleta ",
+      "url": "https://open.shopee.com/announcements/1420",
+      "createdAt": 1781189480
+    },
+    {
       "id": "6a2a7f021c4e66e01e9068e8",
       "platform": "tiktok",
       "title": "For All Markets : Deprecating the Creator Search Affiliate Trace Orders API",
