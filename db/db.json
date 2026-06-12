@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1429,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Product",
+      "url": "https://open.shopee.com/announcements/1429",
+      "createdAt": 1781261964
+    },
+    {
+      "id": 1424,
+      "platform": "shopee",
+      "title": "[MY] Important Update for J&T Cargo Discontinuation",
+      "url": "https://open.shopee.com/announcements/1424",
+      "createdAt": 1781259804
+    },
+    {
       "id": 1420,
       "platform": "shopee",
       "title": "[BR] Atualização de Validação de IE para Endereço de Coleta ",

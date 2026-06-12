@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 11 Jun 2026 15:08:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jun 2026 11:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,26 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Product]]></title>
+            <link>https://open.shopee.com/announcements/1429</link>
+            <guid>https://open.shopee.com/announcements/1429</guid>
+            <pubDate>Fri, 12 Jun 2026 10:59:24 GMT</pubDate>
+            <description><![CDATA[Significant OpenAPI Updates of Product]]></description>
+            <content:encoded><![CDATA[Significant OpenAPI Updates of Product]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - [MY] Important Update for J&T Cargo Discontinuation]]></title>
+            <link>https://open.shopee.com/announcements/1424</link>
+            <guid>https://open.shopee.com/announcements/1424</guid>
+            <pubDate>Fri, 12 Jun 2026 10:23:24 GMT</pubDate>
+            <description><![CDATA[[MY] Important Update for J&T Cargo Discontinuation]]></description>
+            <content:encoded><![CDATA[[MY] Important Update for J&T Cargo Discontinuation]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [BR] Atualização de Validação de IE para Endereço de Coleta ]]></title>
             <link>https://open.shopee.com/announcements/1420</link>
