@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6a2fcefe4dcf9be6fd930820",
+      "platform": "tiktok",
+      "title": "For All Markets: Sandbox Shops Rate Limiting & Inactive Seller Access Control",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a2fcefe4dcf9be6fd930820",
+      "createdAt": 1781518555
+    },
+    {
       "id": "6a2f9b0f40280804f5022d54",
       "platform": "tiktok",
       "title": "For All Markets :  Target Collaboration Conflict Pre-Check & Resolution Feature",
