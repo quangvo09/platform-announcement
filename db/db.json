@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": "6a2f9b0f40280804f5022d54",
+      "platform": "tiktok",
+      "title": "For All Markets :  Target Collaboration Conflict Pre-Check & Resolution Feature",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a2f9b0f40280804f5022d54",
+      "createdAt": 1781505041
+    },
+    {
+      "id": "6a2f939b0a0aa9e23abe5a94",
+      "platform": "tiktok",
+      "title": "For All Markets : Get Payments API — Migrate from 202309 to 202605",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a2f939b0a0aa9e23abe5a94",
+      "createdAt": 1781503323
+    },
+    {
       "id": 1429,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Product",

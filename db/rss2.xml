@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 12 Jun 2026 11:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jun 2026 07:52:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,29 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - For All Markets :  Target Collaboration Conflict Pre-Check & Resolution Feature]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6a2f9b0f40280804f5022d54</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6a2f9b0f40280804f5022d54</guid>
+            <pubDate>Mon, 15 Jun 2026 06:30:41 GMT</pubDate>
+            <description><![CDATA[For All Markets :  Target Collaboration Conflict Pre-Check & Resolution Feature]]></description>
+            <content:encoded><![CDATA[For All Markets :  Target Collaboration Conflict Pre-Check & Resolution Feature]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[TIKTOK] - For All Markets : Get Payments API — Migrate from 202309 to 202605]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6a2f939b0a0aa9e23abe5a94</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6a2f939b0a0aa9e23abe5a94</guid>
+            <pubDate>Mon, 15 Jun 2026 06:02:03 GMT</pubDate>
+            <description><![CDATA[For All Markets : Get Payments API — Migrate from 202309 to 202605]]></description>
+            <content:encoded><![CDATA[For All Markets : Get Payments API — Migrate from 202309 to 202605]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Product]]></title>
             <link>https://open.shopee.com/announcements/1429</link>
