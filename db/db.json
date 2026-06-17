@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1431,
+      "platform": "shopee",
+      "title": "[BR] Atualizações sobre cenário impactando NF/Pedidos",
+      "url": "https://open.shopee.com/announcements/1431",
+      "createdAt": 1781696537
+    },
+    {
       "id": 1430,
       "platform": "shopee",
       "title": " [BR] Lembrete: Política de Acesso à Chat API (Chat API)",

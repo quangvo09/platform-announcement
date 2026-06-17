@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 17 Jun 2026 11:32:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jun 2026 13:10:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [BR] Atualizações sobre cenário impactando NF/Pedidos]]></title>
+            <link>https://open.shopee.com/announcements/1431</link>
+            <guid>https://open.shopee.com/announcements/1431</guid>
+            <pubDate>Wed, 17 Jun 2026 11:42:17 GMT</pubDate>
+            <description><![CDATA[[BR] Atualizações sobre cenário impactando NF/Pedidos]]></description>
+            <content:encoded><![CDATA[[BR] Atualizações sobre cenário impactando NF/Pedidos]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] -  [BR] Lembrete: Política de Acesso à Chat API (Chat API)]]></title>
             <link>https://open.shopee.com/announcements/1430</link>
