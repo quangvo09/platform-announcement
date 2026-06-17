@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1430,
+      "platform": "shopee",
+      "title": " [BR] Lembrete: Política de Acesso à Chat API (Chat API)",
+      "url": "https://open.shopee.com/announcements/1430",
+      "createdAt": 1781695661
+    },
+    {
       "id": "6a2fcefe4dcf9be6fd930820",
       "platform": "tiktok",
       "title": "For All Markets: Sandbox Shops Rate Limiting & Inactive Seller Access Control",
