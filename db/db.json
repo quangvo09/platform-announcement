@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1438,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Product, Order, Payment",
+      "url": "https://open.shopee.com/announcements/1438",
+      "createdAt": 1782198852
+    },
+    {
       "id": 1431,
       "platform": "shopee",
       "title": "[BR] Atualizações sobre cenário impactando NF/Pedidos",
