@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1442,
+      "platform": "shopee",
+      "title": "[VN] COD Payment Method Update for Tủ nhận hàng - SPX",
+      "url": "https://open.shopee.com/announcements/1442",
+      "createdAt": 1782480798
+    },
+    {
       "id": 1443,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Account Health, Order",

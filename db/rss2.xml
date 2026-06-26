@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 26 Jun 2026 10:59:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 13:38:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [VN] COD Payment Method Update for Tủ nhận hàng - SPX]]></title>
+            <link>https://open.shopee.com/announcements/1442</link>
+            <guid>https://open.shopee.com/announcements/1442</guid>
+            <pubDate>Fri, 26 Jun 2026 13:33:18 GMT</pubDate>
+            <description><![CDATA[[VN] COD Payment Method Update for Tủ nhận hàng - SPX]]></description>
+            <content:encoded><![CDATA[[VN] COD Payment Method Update for Tủ nhận hàng - SPX]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Account Health, Order]]></title>
             <link>https://open.shopee.com/announcements/1443</link>
