@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1443,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Account Health, Order",
+      "url": "https://open.shopee.com/announcements/1443",
+      "createdAt": 1782470070
+    },
+    {
+      "id": 1439,
+      "platform": "shopee",
+      "title": "[TW][Important] Pre-Order DTS Maximum Update for Local Mall Sellers",
+      "url": "https://open.shopee.com/announcements/1439",
+      "createdAt": 1782468332
+    },
+    {
       "id": 1438,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Product, Order, Payment",
