@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1444,
+      "platform": "shopee",
+      "title": "[BR] Lembrete: Relembre os principais processos para novos desenvolvedores",
+      "url": "https://open.shopee.com/announcements/1444",
+      "createdAt": 1782839844
+    },
+    {
       "id": "6a412b536fc1a104e5600f5c",
       "platform": "tiktok",
       "title": "For Thailand market: Set Fda Food Registration Number On Product Label as a Mandatory Qualification for Rice Category",

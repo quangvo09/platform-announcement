@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Sun, 28 Jun 2026 14:32:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 17:33:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>tiktok</category>
         <category>shopee</category>
+        <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [BR] Lembrete: Relembre os principais processos para novos desenvolvedores]]></title>
+            <link>https://open.shopee.com/announcements/1444</link>
+            <guid>https://open.shopee.com/announcements/1444</guid>
+            <pubDate>Tue, 30 Jun 2026 17:17:24 GMT</pubDate>
+            <description><![CDATA[[BR] Lembrete: Relembre os principais processos para novos desenvolvedores]]></description>
+            <content:encoded><![CDATA[[BR] Lembrete: Relembre os principais processos para novos desenvolvedores]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - For Thailand market: Set Fda Food Registration Number On Product Label as a Mandatory Qualification for Rice Category]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6a412b536fc1a104e5600f5c</link>
