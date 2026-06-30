@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1445,
+      "platform": "shopee",
+      "title": "[BR] Lembrete sobre estoque zerado e cancelamento de venda anterior",
+      "url": "https://open.shopee.com/announcements/1445",
+      "createdAt": 1782845543
+    },
+    {
       "id": 1444,
       "platform": "shopee",
       "title": "[BR] Lembrete: Relembre os principais processos para novos desenvolvedores",
