@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 30 Jun 2026 19:32:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 22:25:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [BR] Ausência do service_code em shipping_carrier - Atualizações de como seguir]]></title>
+            <link>https://open.shopee.com/announcements/1446</link>
+            <guid>https://open.shopee.com/announcements/1446</guid>
+            <pubDate>Tue, 30 Jun 2026 22:00:13 GMT</pubDate>
+            <description><![CDATA[[BR] Ausência do service_code em shipping_carrier - Atualizações de como seguir]]></description>
+            <content:encoded><![CDATA[[BR] Ausência do service_code em shipping_carrier - Atualizações de como seguir]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [BR] Lembrete sobre estoque zerado e cancelamento de venda anterior]]></title>
             <link>https://open.shopee.com/announcements/1445</link>

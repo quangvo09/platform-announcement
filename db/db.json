@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1446,
+      "platform": "shopee",
+      "title": "[BR] Ausência do service_code em shipping_carrier - Atualizações de como seguir",
+      "url": "https://open.shopee.com/announcements/1446",
+      "createdAt": 1782856813
+    },
+    {
       "id": 1445,
       "platform": "shopee",
       "title": "[BR] Lembrete sobre estoque zerado e cancelamento de venda anterior",
