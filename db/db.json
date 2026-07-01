@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1449,
+      "platform": "shopee",
+      "title": "Welcome! Guia para novos desenvolvedores: apps, mascaramento, sandbox, etc.",
+      "url": "https://open.shopee.com/announcements/1449",
+      "createdAt": 1782913987
+    },
+    {
       "id": 1448,
       "platform": "shopee",
       "title": "NOVIDADE: Central de Notificações no Console do Desenvolvedor & Assistente IA! ⭐",
