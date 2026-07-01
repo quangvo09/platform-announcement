@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1448,
+      "platform": "shopee",
+      "title": "NOVIDADE: Central de Notificações no Console do Desenvolvedor & Assistente IA! ⭐",
+      "url": "https://open.shopee.com/announcements/1448",
+      "createdAt": 1782902771
+    },
+    {
       "id": 1446,
       "platform": "shopee",
       "title": "[BR] Ausência do service_code em shipping_carrier - Atualizações de como seguir",
