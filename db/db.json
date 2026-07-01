@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1450,
+      "platform": "shopee",
+      "title": "[IMPORTANTE!] Adição do campo de Ads Smart Voucher em APIs de Pagamentos",
+      "url": "https://open.shopee.com/announcements/1450",
+      "createdAt": 1782919464
+    },
+    {
       "id": 1449,
       "platform": "shopee",
       "title": "Welcome! Guia para novos desenvolvedores: apps, mascaramento, sandbox, etc.",
