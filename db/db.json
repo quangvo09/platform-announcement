@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6a467bb5b6498104e9a2155f",
+      "platform": "tiktok",
+      "title": "For Thailand Market: Add TIS Mandatory Attributes to Several Categories",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a467bb5b6498104e9a2155f",
+      "createdAt": 1783004323
+    },
+    {
       "id": "6a45e257d61e3104b63c1981",
       "platform": "tiktok",
       "title": "For the US Market: Masking Recipient Phone Number and Address for 4PL Orders",
