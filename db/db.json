@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6a45e257d61e3104b63c1981",
+      "platform": "tiktok",
+      "title": "For the US Market: Masking Recipient Phone Number and Address for 4PL Orders",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a45e257d61e3104b63c1981",
+      "createdAt": 1782964980
+    },
+    {
       "id": 1450,
       "platform": "shopee",
       "title": "[IMPORTANTE!] Adição do campo de Ads Smart Voucher em APIs de Pagamentos",

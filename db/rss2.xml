@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 01 Jul 2026 15:53:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2026 05:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - For the US Market: Masking Recipient Phone Number and Address for 4PL Orders]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6a45e257d61e3104b63c1981</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6a45e257d61e3104b63c1981</guid>
+            <pubDate>Thu, 02 Jul 2026 04:03:00 GMT</pubDate>
+            <description><![CDATA[For the US Market: Masking Recipient Phone Number and Address for 4PL Orders]]></description>
+            <content:encoded><![CDATA[For the US Market: Masking Recipient Phone Number and Address for 4PL Orders]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [IMPORTANTE!] Adição do campo de Ads Smart Voucher em APIs de Pagamentos]]></title>
             <link>https://open.shopee.com/announcements/1450</link>
