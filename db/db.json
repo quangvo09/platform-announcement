@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1455,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Order and AMS",
+      "url": "https://open.shopee.com/announcements/1455",
+      "createdAt": 1783075528
+    },
+    {
+      "id": 1454,
+      "platform": "shopee",
+      "title": "[Important] Open Platform Notification Center Launch Announcement",
+      "url": "https://open.shopee.com/announcements/1454",
+      "createdAt": 1783069442
+    },
+    {
       "id": "6a467bb5b6498104e9a2155f",
       "platform": "tiktok",
       "title": "For Thailand Market: Add TIS Mandatory Attributes to Several Categories",
