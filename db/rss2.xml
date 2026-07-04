@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 03 Jul 2026 10:52:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jul 2026 16:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - For Thailand Market: Add TIS Certificate Mark on the Product Label as a Mandatory Qualification for 13 Categories]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6a4928e98c54fa052a10c028</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6a4928e98c54fa052a10c028</guid>
+            <pubDate>Sat, 04 Jul 2026 15:42:35 GMT</pubDate>
+            <description><![CDATA[For Thailand Market: Add TIS Certificate Mark on the Product Label as a Mandatory Qualification for 13 Categories]]></description>
+            <content:encoded><![CDATA[For Thailand Market: Add TIS Certificate Mark on the Product Label as a Mandatory Qualification for 13 Categories]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Order and AMS]]></title>
             <link>https://open.shopee.com/announcements/1455</link>
