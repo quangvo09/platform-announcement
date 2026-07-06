@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1458,
+      "platform": "shopee",
+      "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
+      "url": "https://open.shopee.com/announcements/1458",
+      "createdAt": 1783340470
+    },
+    {
       "id": 1452,
       "platform": "shopee",
       "title": "[TH] Timeslot Update for Express Delivery Channel effective 20 July",

@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 06 Jul 2026 11:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 13:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.]]></title>
+            <link>https://open.shopee.com/announcements/1458</link>
+            <guid>https://open.shopee.com/announcements/1458</guid>
+            <pubDate>Mon, 06 Jul 2026 12:21:10 GMT</pubDate>
+            <description><![CDATA[[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.]]></description>
+            <content:encoded><![CDATA[[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [TH] Timeslot Update for Express Delivery Channel effective 20 July]]></title>
             <link>https://open.shopee.com/announcements/1452</link>
