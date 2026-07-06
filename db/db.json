@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1452,
+      "platform": "shopee",
+      "title": "[TH] Timeslot Update for Express Delivery Channel effective 20 July",
+      "url": "https://open.shopee.com/announcements/1452",
+      "createdAt": 1783332663
+    },
+    {
       "id": "6a4928e98c54fa052a10c028",
       "platform": "tiktok",
       "title": "For Thailand Market: Add TIS Certificate Mark on the Product Label as a Mandatory Qualification for 13 Categories",
