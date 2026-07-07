@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6a4d1317194d4e04bd05296c",
+      "platform": "tiktok",
+      "title": "For SEA Market: Add  Mandatory Attributes to Baby & Maternity and Automotive & Motorcycle Categories",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a4d1317194d4e04bd05296c",
+      "createdAt": 1783436132
+    },
+    {
       "id": "6a4c5eaad61e3104b64485ad",
       "platform": "tiktok",
       "title": "For US Markets: Introducing room_id in Order APIs",
