@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 07 Jul 2026 14:58:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 15:55:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>tiktok</category>
         <category>shopee</category>
+        <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [BR] Atualização de Categorias – Automóveis e Motocicletas (Mapeamento DE/PARA)]]></title>
+            <link>https://open.shopee.com/announcements/1459</link>
+            <guid>https://open.shopee.com/announcements/1459</guid>
+            <pubDate>Tue, 07 Jul 2026 15:08:27 GMT</pubDate>
+            <description><![CDATA[[BR] Atualização de Categorias – Automóveis e Motocicletas (Mapeamento DE/PARA)]]></description>
+            <content:encoded><![CDATA[[BR] Atualização de Categorias – Automóveis e Motocicletas (Mapeamento DE/PARA)]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - For SEA Market: Add  Mandatory Attributes to Baby & Maternity and Automotive & Motorcycle Categories]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6a4d1317194d4e04bd05296c</link>
