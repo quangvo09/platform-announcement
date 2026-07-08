@@ -1,6 +1,27 @@
 {
   "announcements": [
     {
+      "id": "6a4dcc81b6498104e9a8f563",
+      "platform": "tiktok",
+      "title": "US & EMEA Markets: Replacement Orders",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a4dcc81b6498104e9a8f563",
+      "createdAt": 1783483927
+    },
+    {
+      "id": "6a4dca65331fb304ed3a0e01",
+      "platform": "tiktok",
+      "title": "US & EMEA Markets: Exchange Orders",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a4dca65331fb304ed3a0e01",
+      "createdAt": 1783483420
+    },
+    {
+      "id": "6a4dc8bdeb705304fd3174f4",
+      "platform": "tiktok",
+      "title": "For Malaysia Market: Add Mandatory Attributes to Household Appliances Category",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a4dc8bdeb705304fd3174f4",
+      "createdAt": 1783482701
+    },
+    {
       "id": 1459,
       "platform": "shopee",
       "title": "[BR] Atualização de Categorias – Automóveis e Motocicletas (Mapeamento DE/PARA)",

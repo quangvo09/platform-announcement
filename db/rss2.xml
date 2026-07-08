@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 07 Jul 2026 15:55:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 05:01:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,39 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - US & EMEA Markets: Replacement Orders]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6a4dcc81b6498104e9a8f563</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6a4dcc81b6498104e9a8f563</guid>
+            <pubDate>Wed, 08 Jul 2026 04:12:07 GMT</pubDate>
+            <description><![CDATA[US & EMEA Markets: Replacement Orders]]></description>
+            <content:encoded><![CDATA[US & EMEA Markets: Replacement Orders]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[TIKTOK] - US & EMEA Markets: Exchange Orders]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6a4dca65331fb304ed3a0e01</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6a4dca65331fb304ed3a0e01</guid>
+            <pubDate>Wed, 08 Jul 2026 04:03:40 GMT</pubDate>
+            <description><![CDATA[US & EMEA Markets: Exchange Orders]]></description>
+            <content:encoded><![CDATA[US & EMEA Markets: Exchange Orders]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[TIKTOK] - For Malaysia Market: Add Mandatory Attributes to Household Appliances Category]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6a4dc8bdeb705304fd3174f4</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6a4dc8bdeb705304fd3174f4</guid>
+            <pubDate>Wed, 08 Jul 2026 03:51:41 GMT</pubDate>
+            <description><![CDATA[For Malaysia Market: Add Mandatory Attributes to Household Appliances Category]]></description>
+            <content:encoded><![CDATA[For Malaysia Market: Add Mandatory Attributes to Household Appliances Category]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [BR] Atualização de Categorias – Automóveis e Motocicletas (Mapeamento DE/PARA)]]></title>
             <link>https://open.shopee.com/announcements/1459</link>
