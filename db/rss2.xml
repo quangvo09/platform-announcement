@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 08 Jul 2026 08:50:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 09:46:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,26 @@
         <category>tiktok</category>
         <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - For All Markets: Create FBT MCF Order Request Parameter district_or_county now optional]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6a4e13d18930d50523c711d2</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6a4e13d18930d50523c711d2</guid>
+            <pubDate>Wed, 08 Jul 2026 09:12:11 GMT</pubDate>
+            <description><![CDATA[For All Markets: Create FBT MCF Order Request Parameter district_or_county now optional]]></description>
+            <content:encoded><![CDATA[For All Markets: Create FBT MCF Order Request Parameter district_or_county now optional]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[TIKTOK] - For Indonesia Market:  Get Toko Product Mappers API Release ]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6a4e102f8c54fa052a158ea0</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6a4e102f8c54fa052a158ea0</guid>
+            <pubDate>Wed, 08 Jul 2026 08:55:46 GMT</pubDate>
+            <description><![CDATA[For Indonesia Market:  Get Toko Product Mappers API Release ]]></description>
+            <content:encoded><![CDATA[For Indonesia Market:  Get Toko Product Mappers API Release ]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - For All Markets : New properties added to Finance transaction APIs]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6a4e074e6fc1a104e581d64e</link>

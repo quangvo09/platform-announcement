@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": "6a4e13d18930d50523c711d2",
+      "platform": "tiktok",
+      "title": "For All Markets: Create FBT MCF Order Request Parameter district_or_county now optional",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a4e13d18930d50523c711d2",
+      "createdAt": 1783501931
+    },
+    {
+      "id": "6a4e102f8c54fa052a158ea0",
+      "platform": "tiktok",
+      "title": "For Indonesia Market:  Get Toko Product Mappers API Release ",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a4e102f8c54fa052a158ea0",
+      "createdAt": 1783500946
+    },
+    {
       "id": "6a4e074e6fc1a104e581d64e",
       "platform": "tiktok",
       "title": "For All Markets : New properties added to Finance transaction APIs",
