@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1460,
+      "platform": "shopee",
+      "title": "[BR] Atualização importante referente à API add_item",
+      "url": "https://open.shopee.com/announcements/1460",
+      "createdAt": 1783528736
+    },
+    {
       "id": "6a4e13d18930d50523c711d2",
       "platform": "tiktok",
       "title": "For All Markets: Create FBT MCF Order Request Parameter district_or_county now optional",
