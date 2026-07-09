@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6a4f9660ec170f04e2aafefc",
+      "platform": "tiktok",
+      "title": "Product APIs Support Customer Purchase Limits Configuration",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a4f9660ec170f04e2aafefc",
+      "createdAt": 1783601545
+    },
+    {
       "id": 1460,
       "platform": "shopee",
       "title": "[BR] Atualização importante referente à API add_item",
