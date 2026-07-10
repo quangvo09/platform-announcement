@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 09 Jul 2026 13:53:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 10:59:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,29 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>tiktok</category>
         <category>shopee</category>
+        <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [Important] Brand Portal Service OpenAPI Now Available]]></title>
+            <link>https://open.shopee.com/announcements/1462</link>
+            <guid>https://open.shopee.com/announcements/1462</guid>
+            <pubDate>Fri, 10 Jul 2026 10:01:32 GMT</pubDate>
+            <description><![CDATA[[Important] Brand Portal Service OpenAPI Now Available]]></description>
+            <content:encoded><![CDATA[[Important] Brand Portal Service OpenAPI Now Available]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Payment and Order]]></title>
+            <link>https://open.shopee.com/announcements/1461</link>
+            <guid>https://open.shopee.com/announcements/1461</guid>
+            <pubDate>Fri, 10 Jul 2026 09:12:16 GMT</pubDate>
+            <description><![CDATA[Significant OpenAPI Updates of Payment and Order]]></description>
+            <content:encoded><![CDATA[Significant OpenAPI Updates of Payment and Order]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - Product APIs Support Customer Purchase Limits Configuration]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6a4f9660ec170f04e2aafefc</link>

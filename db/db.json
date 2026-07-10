@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1462,
+      "platform": "shopee",
+      "title": "[Important] Brand Portal Service OpenAPI Now Available",
+      "url": "https://open.shopee.com/announcements/1462",
+      "createdAt": 1783677692
+    },
+    {
+      "id": 1461,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Payment and Order",
+      "url": "https://open.shopee.com/announcements/1461",
+      "createdAt": 1783674736
+    },
+    {
       "id": "6a4f9660ec170f04e2aafefc",
       "platform": "tiktok",
       "title": "Product APIs Support Customer Purchase Limits Configuration",
