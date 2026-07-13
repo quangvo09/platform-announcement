@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1464,
+      "platform": "shopee",
+      "title": "买家 PII（个人身份信息）访问权限——渗透测试报告提交要求 ",
+      "url": "https://open.shopee.com/announcements/1464",
+      "createdAt": 1783940785
+    },
+    {
       "id": 1463,
       "platform": "shopee",
       "title": "Mandatory Penetration Test Report Submission for Buyer PII Access ",
