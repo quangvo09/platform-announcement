@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1463,
+      "platform": "shopee",
+      "title": "Mandatory Penetration Test Report Submission for Buyer PII Access ",
+      "url": "https://open.shopee.com/announcements/1463",
+      "createdAt": 1783940153
+    },
+    {
       "id": 1462,
       "platform": "shopee",
       "title": "[Important] Brand Portal Service OpenAPI Now Available",
