@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1465,
+      "platform": "shopee",
+      "title": "[BR] Alteração de nome do canal \"Entrega Turbo\" para \"Turbo\"",
+      "url": "https://open.shopee.com/announcements/1465",
+      "createdAt": 1784045309
+    },
+    {
       "id": 1464,
       "platform": "shopee",
       "title": "买家 PII（个人身份信息）访问权限——渗透测试报告提交要求 ",

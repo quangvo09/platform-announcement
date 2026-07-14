@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 13 Jul 2026 12:06:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 16:25:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [BR] Alteração de nome do canal "Entrega Turbo" para "Turbo"]]></title>
+            <link>https://open.shopee.com/announcements/1465</link>
+            <guid>https://open.shopee.com/announcements/1465</guid>
+            <pubDate>Tue, 14 Jul 2026 16:08:29 GMT</pubDate>
+            <description><![CDATA[[BR] Alteração de nome do canal "Entrega Turbo" para "Turbo"]]></description>
+            <content:encoded><![CDATA[[BR] Alteração de nome do canal "Entrega Turbo" para "Turbo"]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - 买家 PII（个人身份信息）访问权限——渗透测试报告提交要求 ]]></title>
             <link>https://open.shopee.com/announcements/1464</link>
