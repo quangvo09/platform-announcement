@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6a584a5945b25704e93aaa58",
+      "platform": "tiktok",
+      "title": "Post Shoppable Video and Photos APIs v202607: New Fields Added",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a584a5945b25704e93aaa58",
+      "createdAt": 1784171472
+    },
+    {
       "id": "6a56f681ec170f04e2c1a21f",
       "platform": "tiktok",
       "title": "TTS Open Toolkit: make your AI assistant fluent in TTS integration ",
