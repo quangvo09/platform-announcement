@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1470,
+      "platform": "shopee",
+      "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
+      "url": "https://open.shopee.com/announcements/1470",
+      "createdAt": 1784297404
+    },
+    {
       "id": 1466,
       "platform": "shopee",
       "title": "[BR] Desmascaramento de dados dos compradores: API get_order_detail",
