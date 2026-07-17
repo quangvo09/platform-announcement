@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1469,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Payment, Order, Return, Logistics, and Product",
+      "url": "https://open.shopee.com/announcements/1469",
+      "createdAt": 1784286452
+    },
+    {
       "id": "6a584a5945b25704e93aaa58",
       "platform": "tiktok",
       "title": "Post Shoppable Video and Photos APIs v202607: New Fields Added",
