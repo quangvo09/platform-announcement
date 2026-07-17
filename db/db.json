@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1466,
+      "platform": "shopee",
+      "title": "[BR] Desmascaramento de dados dos compradores: API get_order_detail",
+      "url": "https://open.shopee.com/announcements/1466",
+      "createdAt": 1784292167
+    },
+    {
       "id": 1469,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Payment, Order, Return, Logistics, and Product",

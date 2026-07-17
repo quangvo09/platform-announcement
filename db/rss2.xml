@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 17 Jul 2026 11:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 13:30:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [BR] Desmascaramento de dados dos compradores: API get_order_detail]]></title>
+            <link>https://open.shopee.com/announcements/1466</link>
+            <guid>https://open.shopee.com/announcements/1466</guid>
+            <pubDate>Fri, 17 Jul 2026 12:42:47 GMT</pubDate>
+            <description><![CDATA[[BR] Desmascaramento de dados dos compradores: API get_order_detail]]></description>
+            <content:encoded><![CDATA[[BR] Desmascaramento de dados dos compradores: API get_order_detail]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Payment, Order, Return, Logistics, and Product]]></title>
             <link>https://open.shopee.com/announcements/1469</link>
