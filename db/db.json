@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6a5e2af456bf6f04b00f23a2",
+      "platform": "tiktok",
+      "title": "New Function：POD Customization Config APIs",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a5e2af456bf6f04b00f23a2",
+      "createdAt": 1784556569
+    },
+    {
       "id": 1474,
       "platform": "shopee",
       "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
