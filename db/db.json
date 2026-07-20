@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1474,
+      "platform": "shopee",
+      "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
+      "url": "https://open.shopee.com/announcements/1474",
+      "createdAt": 1784549481
+    },
+    {
       "id": 1472,
       "platform": "shopee",
       "title": "Service Recovery Notice for OpenAPI Developers - 18 July 2026",
