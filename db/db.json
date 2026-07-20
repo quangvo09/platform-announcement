@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1476,
+      "platform": "shopee",
+      "title": "Pesquisa rápida - Onboarding e Documentação da Shopee Open Platform",
+      "url": "https://open.shopee.com/announcements/1476",
+      "createdAt": 1784578555
+    },
+    {
+      "id": 1475,
+      "platform": "shopee",
+      "title": "Pesquisa rápida - Onboarding e Documentação da Shopee Open Platform",
+      "url": "https://open.shopee.com/announcements/1475",
+      "createdAt": 1784578187
+    },
+    {
       "id": "6a5e2af456bf6f04b00f23a2",
       "platform": "tiktok",
       "title": "New Function：POD Customization Config APIs",
