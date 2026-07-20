@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Sun, 19 Jul 2026 09:33:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 03:01:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>tiktok</category>
         <category>shopee</category>
+        <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Service Recovery Notice for OpenAPI Developers - 18 July 2026]]></title>
+            <link>https://open.shopee.com/announcements/1472</link>
+            <guid>https://open.shopee.com/announcements/1472</guid>
+            <pubDate>Mon, 20 Jul 2026 02:08:16 GMT</pubDate>
+            <description><![CDATA[Service Recovery Notice for OpenAPI Developers - 18 July 2026]]></description>
+            <content:encoded><![CDATA[Service Recovery Notice for OpenAPI Developers - 18 July 2026]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - For All markets：New Republish Activity API ]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6a5c8f2dd8f53d04f1087305</link>

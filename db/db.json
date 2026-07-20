@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1472,
+      "platform": "shopee",
+      "title": "Service Recovery Notice for OpenAPI Developers - 18 July 2026",
+      "url": "https://open.shopee.com/announcements/1472",
+      "createdAt": 1784513296
+    },
+    {
       "id": "6a5c8f2dd8f53d04f1087305",
       "platform": "tiktok",
       "title": "For All markets：New Republish Activity API ",
