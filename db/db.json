@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1481,
+      "platform": "shopee",
+      "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
+      "url": "https://open.shopee.com/announcements/1481",
+      "createdAt": 1784642411
+    },
+    {
+      "id": 1451,
+      "platform": "shopee",
+      "title": "[BR] RECAP DE PAYMENTS! Relembre as últimas atualizações nas APIs de Pagamentos",
+      "url": "https://open.shopee.com/announcements/1451",
+      "createdAt": 1784641102
+    },
+    {
       "id": "6a5f41af331fb304ed5babdd",
       "platform": "tiktok",
       "title": "Shop Performance Score (SPS) APIs v202606 for US Shops: Five New APIs Added",

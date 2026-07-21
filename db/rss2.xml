@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 21 Jul 2026 10:41:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 14:39:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,29 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>tiktok</category>
         <category>shopee</category>
+        <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.]]></title>
+            <link>https://open.shopee.com/announcements/1481</link>
+            <guid>https://open.shopee.com/announcements/1481</guid>
+            <pubDate>Tue, 21 Jul 2026 14:00:11 GMT</pubDate>
+            <description><![CDATA[[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.]]></description>
+            <content:encoded><![CDATA[[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - [BR] RECAP DE PAYMENTS! Relembre as últimas atualizações nas APIs de Pagamentos]]></title>
+            <link>https://open.shopee.com/announcements/1451</link>
+            <guid>https://open.shopee.com/announcements/1451</guid>
+            <pubDate>Tue, 21 Jul 2026 13:38:22 GMT</pubDate>
+            <description><![CDATA[[BR] RECAP DE PAYMENTS! Relembre as últimas atualizações nas APIs de Pagamentos]]></description>
+            <content:encoded><![CDATA[[BR] RECAP DE PAYMENTS! Relembre as últimas atualizações nas APIs de Pagamentos]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - Shop Performance Score (SPS) APIs v202606 for US Shops: Five New APIs Added]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6a5f41af331fb304ed5babdd</link>
