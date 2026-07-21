@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1482,
+      "platform": "shopee",
+      "title": "[BR] 📢 Novidade na documentação: Jornada do Desenvolvedor",
+      "url": "https://open.shopee.com/announcements/1482",
+      "createdAt": 1784662073
+    },
+    {
       "id": 1481,
       "platform": "shopee",
       "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
