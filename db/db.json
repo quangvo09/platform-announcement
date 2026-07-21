@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6a5f41af331fb304ed5babdd",
+      "platform": "tiktok",
+      "title": "Shop Performance Score (SPS) APIs v202606 for US Shops: Five New APIs Added",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a5f41af331fb304ed5babdd",
+      "createdAt": 1784628207
+    },
+    {
       "id": 1476,
       "platform": "shopee",
       "title": "Pesquisa rápida - Onboarding e Documentação da Shopee Open Platform",
