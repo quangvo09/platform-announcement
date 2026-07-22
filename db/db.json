@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1485,
+      "platform": "shopee",
+      "title": "[BR] Melhoria no Fluxo de Abertura de Tickets com o Assistente IA",
+      "url": "https://open.shopee.com/announcements/1485",
+      "createdAt": 1784721861
+    },
+    {
       "id": 1484,
       "platform": "shopee",
       "title": "Open Platform Al Assistant Update",

@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 22 Jul 2026 08:50:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 12:30:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [BR] Melhoria no Fluxo de Abertura de Tickets com o Assistente IA]]></title>
+            <link>https://open.shopee.com/announcements/1485</link>
+            <guid>https://open.shopee.com/announcements/1485</guid>
+            <pubDate>Wed, 22 Jul 2026 12:04:21 GMT</pubDate>
+            <description><![CDATA[[BR] Melhoria no Fluxo de Abertura de Tickets com o Assistente IA]]></description>
+            <content:encoded><![CDATA[[BR] Melhoria no Fluxo de Abertura de Tickets com o Assistente IA]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Open Platform Al Assistant Update]]></title>
             <link>https://open.shopee.com/announcements/1484</link>
