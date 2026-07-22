@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1483,
+      "platform": "shopee",
+      "title": "Open Platform Al Assistant Update",
+      "url": "https://open.shopee.com/announcements/1483",
+      "createdAt": 1784706166
+    },
+    {
       "id": 1482,
       "platform": "shopee",
       "title": "[BR] 📢 Novidade na documentação: Jornada do Desenvolvedor",

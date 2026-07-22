@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 21 Jul 2026 19:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 07:46:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Open Platform Al Assistant Update]]></title>
+            <link>https://open.shopee.com/announcements/1483</link>
+            <guid>https://open.shopee.com/announcements/1483</guid>
+            <pubDate>Wed, 22 Jul 2026 07:42:46 GMT</pubDate>
+            <description><![CDATA[Open Platform Al Assistant Update]]></description>
+            <content:encoded><![CDATA[Open Platform Al Assistant Update]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [BR] 📢 Novidade na documentação: Jornada do Desenvolvedor]]></title>
             <link>https://open.shopee.com/announcements/1482</link>
