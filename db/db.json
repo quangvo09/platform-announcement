@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1484,
+      "platform": "shopee",
+      "title": "Open Platform Al Assistant Update",
+      "url": "https://open.shopee.com/announcements/1484",
+      "createdAt": 1784707925
+    },
+    {
       "id": 1483,
       "platform": "shopee",
       "title": "Open Platform Al Assistant Update",
