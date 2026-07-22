@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1487,
+      "platform": "shopee",
+      "title": "Inclusão do novo canal logístico para a modalidade Turbo",
+      "url": "https://open.shopee.com/announcements/1487",
+      "createdAt": 1784752309
+    },
+    {
       "id": 1485,
       "platform": "shopee",
       "title": "[BR] Melhoria no Fluxo de Abertura de Tickets com o Assistente IA",
