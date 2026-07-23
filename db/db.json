@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1486,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] Order Throttling: Como identificar pedido temporariamente pendente",
+      "url": "https://open.shopee.com/announcements/1486",
+      "createdAt": 1784832191
+    },
+    {
       "id": 1488,
       "platform": "shopee",
       "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
