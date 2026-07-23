@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 22 Jul 2026 21:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 15:37:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.]]></title>
+            <link>https://open.shopee.com/announcements/1488</link>
+            <guid>https://open.shopee.com/announcements/1488</guid>
+            <pubDate>Thu, 23 Jul 2026 15:20:53 GMT</pubDate>
+            <description><![CDATA[[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.]]></description>
+            <content:encoded><![CDATA[[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Inclusão do novo canal logístico para a modalidade Turbo]]></title>
             <link>https://open.shopee.com/announcements/1487</link>

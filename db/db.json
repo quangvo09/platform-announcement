@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1488,
+      "platform": "shopee",
+      "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
+      "url": "https://open.shopee.com/announcements/1488",
+      "createdAt": 1784820053
+    },
+    {
       "id": 1487,
       "platform": "shopee",
       "title": "Inclusão do novo canal logístico para a modalidade Turbo",
