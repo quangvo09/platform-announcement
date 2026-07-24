@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 23 Jul 2026 19:28:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 08:49:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - For All Markets :  Marketplace Creator API add an optional parameter]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6a6321abeb705304fd582ec1</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6a6321abeb705304fd582ec1</guid>
+            <pubDate>Fri, 24 Jul 2026 08:28:26 GMT</pubDate>
+            <description><![CDATA[For All Markets :  Marketplace Creator API add an optional parameter]]></description>
+            <content:encoded><![CDATA[For All Markets :  Marketplace Creator API add an optional parameter]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [IMPORTANTE] Order Throttling: Como identificar pedido temporariamente pendente]]></title>
             <link>https://open.shopee.com/announcements/1486</link>
