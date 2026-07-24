@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6a633110e645e904b7840f7b",
+      "platform": "tiktok",
+      "title": "For US Market: POD Customization Details Are Now Available",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a633110e645e904b7840f7b",
+      "createdAt": 1784885553
+    },
+    {
       "id": "6a6321abeb705304fd582ec1",
       "platform": "tiktok",
       "title": "For All Markets :  Marketplace Creator API add an optional parameter",
