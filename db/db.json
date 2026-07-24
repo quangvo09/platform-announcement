@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1493,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates for Payment and Product",
+      "url": "https://open.shopee.com/announcements/1493",
+      "createdAt": 1784888050
+    },
+    {
       "id": "6a633110e645e904b7840f7b",
       "platform": "tiktok",
       "title": "For US Market: POD Customization Details Are Now Available",
