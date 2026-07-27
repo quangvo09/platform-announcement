@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1497,
+      "platform": "shopee",
+      "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
+      "url": "https://open.shopee.com/announcements/1497",
+      "createdAt": 1785165070
+    },
+    {
       "id": 1495,
       "platform": "shopee",
       "title": "[IMPORTANTE] Novo Canal Logístico – Expresso Aéreo (Logistics Channel ID 91006)",
