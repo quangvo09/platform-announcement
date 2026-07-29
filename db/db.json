@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1498,
+      "platform": "shopee",
+      "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
+      "url": "https://open.shopee.com/announcements/1498",
+      "createdAt": 1785333343
+    },
+    {
       "id": "6a69c3e7194d4e04bd3496ef",
       "platform": "tiktok",
       "title": "For All Markets : Affiliate API — Legacy Versions and Endpoints Sunset",
