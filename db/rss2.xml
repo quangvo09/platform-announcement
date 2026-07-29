@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 29 Jul 2026 05:01:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 09:52:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>tiktok</category>
         <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - For All Markets : Affiliate API — Legacy Versions and Endpoints Sunset]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6a69c3e7194d4e04bd3496ef</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6a69c3e7194d4e04bd3496ef</guid>
+            <pubDate>Wed, 29 Jul 2026 09:13:57 GMT</pubDate>
+            <description><![CDATA[For All Markets : Affiliate API — Legacy Versions and Endpoints Sunset]]></description>
+            <content:encoded><![CDATA[For All Markets : Affiliate API — Legacy Versions and Endpoints Sunset]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - For Philippines Market: Product Certification for Pest Control Category will to be changed from FPA to FDA]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6a69709cc2de2804e62f47d3</link>
