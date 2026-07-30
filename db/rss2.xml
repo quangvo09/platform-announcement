@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 29 Jul 2026 14:44:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 08:53:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [TW][Important] Product Attribute Adjustments for Selected Categories]]></title>
+            <link>https://open.shopee.com/announcements/1509</link>
+            <guid>https://open.shopee.com/announcements/1509</guid>
+            <pubDate>Thu, 30 Jul 2026 08:24:31 GMT</pubDate>
+            <description><![CDATA[[TW][Important] Product Attribute Adjustments for Selected Categories]]></description>
+            <content:encoded><![CDATA[[TW][Important] Product Attribute Adjustments for Selected Categories]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.]]></title>
             <link>https://open.shopee.com/announcements/1498</link>

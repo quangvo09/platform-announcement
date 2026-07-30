@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1509,
+      "platform": "shopee",
+      "title": "[TW][Important] Product Attribute Adjustments for Selected Categories",
+      "url": "https://open.shopee.com/announcements/1509",
+      "createdAt": 1785399871
+    },
+    {
       "id": 1498,
       "platform": "shopee",
       "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
