@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6a6c5d8bf4f24b04f62fff73",
+      "platform": "tiktok",
+      "title": "For All Markets: FBT Goods Create / Update API Request Field Changes ",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a6c5d8bf4f24b04f62fff73",
+      "createdAt": 1785486796
+    },
+    {
       "id": 1509,
       "platform": "shopee",
       "title": "[TW][Important] Product Attribute Adjustments for Selected Categories",
