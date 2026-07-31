@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1511,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Product, Return, Payment, and Order",
+      "url": "https://open.shopee.com/announcements/1511",
+      "createdAt": 1785492906
+    },
+    {
       "id": "6a6c5d8bf4f24b04f62fff73",
       "platform": "tiktok",
       "title": "For All Markets: FBT Goods Create / Update API Request Field Changes ",
