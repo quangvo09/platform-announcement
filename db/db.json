@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1516,
+      "platform": "shopee",
+      "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
+      "url": "https://open.shopee.com/announcements/1516",
+      "createdAt": 1785777844
+    },
+    {
       "id": 1511,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Product, Return, Payment, and Order",
