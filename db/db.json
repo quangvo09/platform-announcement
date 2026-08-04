@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6a71a7c06fc1a104e5b8a908",
+      "platform": "tiktok",
+      "title": "2026 July TikTok Shop API Updates Summary",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a71a7c06fc1a104e5b8a908",
+      "createdAt": 1785833573
+    },
+    {
       "id": 1516,
       "platform": "shopee",
       "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
