@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1517,
+      "platform": "shopee",
+      "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
+      "url": "https://open.shopee.com/announcements/1517",
+      "createdAt": 1785868602
+    },
+    {
       "id": "6a71a7c06fc1a104e5b8a908",
       "platform": "tiktok",
       "title": "2026 July TikTok Shop API Updates Summary",
