@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6a72d7e58c54fa052a4e153e",
+      "platform": "tiktok",
+      "title": "For Japan: New Customs Information APIs for Fulfillment",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a72d7e58c54fa052a4e153e",
+      "createdAt": 1785911287
+    },
+    {
       "id": 1519,
       "platform": "shopee",
       "title": "[Important] Key Project Update: Instant Delivery",
