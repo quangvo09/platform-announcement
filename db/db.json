@@ -1,6 +1,27 @@
 {
   "announcements": [
     {
+      "id": 1519,
+      "platform": "shopee",
+      "title": "[Important] Key Project Update: Instant Delivery",
+      "url": "https://open.shopee.com/announcements/1519",
+      "createdAt": 1785905327
+    },
+    {
+      "id": "6a72a290b9e53b04ead33ec5",
+      "platform": "tiktok",
+      "title": "For US Market: Warehouse ID in Get Package Detail API",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a72a290b9e53b04ead33ec5",
+      "createdAt": 1785897689
+    },
+    {
+      "id": "6a729e19eb705304fd69759f",
+      "platform": "tiktok",
+      "title": "For All Markets: Identify Temporary Listings in Order APIs",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a729e19eb705304fd69759f",
+      "createdAt": 1785896504
+    },
+    {
       "id": 1517,
       "platform": "shopee",
       "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",

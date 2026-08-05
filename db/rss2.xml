@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 04 Aug 2026 19:30:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 04:57:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,36 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [Important] Key Project Update: Instant Delivery]]></title>
+            <link>https://open.shopee.com/announcements/1519</link>
+            <guid>https://open.shopee.com/announcements/1519</guid>
+            <pubDate>Wed, 05 Aug 2026 04:48:47 GMT</pubDate>
+            <description><![CDATA[[Important] Key Project Update: Instant Delivery]]></description>
+            <content:encoded><![CDATA[[Important] Key Project Update: Instant Delivery]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[TIKTOK] - For US Market: Warehouse ID in Get Package Detail API]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6a72a290b9e53b04ead33ec5</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6a72a290b9e53b04ead33ec5</guid>
+            <pubDate>Wed, 05 Aug 2026 02:41:29 GMT</pubDate>
+            <description><![CDATA[For US Market: Warehouse ID in Get Package Detail API]]></description>
+            <content:encoded><![CDATA[For US Market: Warehouse ID in Get Package Detail API]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[TIKTOK] - For All Markets: Identify Temporary Listings in Order APIs]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6a729e19eb705304fd69759f</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6a729e19eb705304fd69759f</guid>
+            <pubDate>Wed, 05 Aug 2026 02:21:44 GMT</pubDate>
+            <description><![CDATA[For All Markets: Identify Temporary Listings in Order APIs]]></description>
+            <content:encoded><![CDATA[For All Markets: Identify Temporary Listings in Order APIs]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.]]></title>
             <link>https://open.shopee.com/announcements/1517</link>
