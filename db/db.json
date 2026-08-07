@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 211464,
+      "platform": "lazada",
+      "title": "Sponsored Solutions API - Deprecation of Sponsored Discovery Creation Endpoints",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=211464",
+      "createdAt": 1786086917
+    },
+    {
       "id": "6a72d7e58c54fa052a4e153e",
       "platform": "tiktok",
       "title": "For Japan: New Customs Information APIs for Fulfillment",
