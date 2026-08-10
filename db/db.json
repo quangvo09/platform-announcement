@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6a79a518b6498104e9eb3ee2",
+      "platform": "tiktok",
+      "title": "For the US Market: Introducing 4PL Express Shipping",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a79a518b6498104e9eb3ee2",
+      "createdAt": 1786357077
+    },
+    {
       "id": 212751,
       "platform": "lazada",
       "title": "Product API Update — Qualification (License) in Product Query & SKU-level Pre-Order Setting",

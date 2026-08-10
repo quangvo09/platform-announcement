@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 10 Aug 2026 03:44:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 10:59:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>tiktok</category>
         <category>lazada</category>
         <category>shopee</category>
-        <category>tiktok</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - For the US Market: Introducing 4PL Express Shipping]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6a79a518b6498104e9eb3ee2</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6a79a518b6498104e9eb3ee2</guid>
+            <pubDate>Mon, 10 Aug 2026 10:17:57 GMT</pubDate>
+            <description><![CDATA[For the US Market: Introducing 4PL Express Shipping]]></description>
+            <content:encoded><![CDATA[For the US Market: Introducing 4PL Express Shipping]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[LAZADA] - Product API Update — Qualification (License) in Product Query & SKU-level Pre-Order Setting]]></title>
             <link>https://open.lazada.com/apps/announcement/detail?docId=212751</link>
