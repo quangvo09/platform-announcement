@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1523,
+      "platform": "shopee",
+      "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
+      "url": "https://open.shopee.com/announcements/1523",
+      "createdAt": 1786376604
+    },
+    {
       "id": "6a79a518b6498104e9eb3ee2",
       "platform": "tiktok",
       "title": "For the US Market: Introducing 4PL Express Shipping",
