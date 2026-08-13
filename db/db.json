@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1525,
+      "platform": "shopee",
+      "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
+      "url": "https://open.shopee.com/announcements/1525",
+      "createdAt": 1786642896
+    },
+    {
       "id": 1524,
       "platform": "shopee",
       "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
