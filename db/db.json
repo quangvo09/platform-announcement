@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1528,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Returns, SBS and Product",
+      "url": "https://open.shopee.com/announcements/1528",
+      "createdAt": 1786699559
+    },
+    {
+      "id": 1526,
+      "platform": "shopee",
+      "title": "[TW] Mandatory and Updated Product Attributes for Specific Categories",
+      "url": "https://open.shopee.com/announcements/1526",
+      "createdAt": 1786698170
+    },
+    {
       "id": 1525,
       "platform": "shopee",
       "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
