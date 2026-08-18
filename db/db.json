@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1533,
+      "platform": "shopee",
+      "title": "Task Center Update: New Completion Rule for API Quality Tasks",
+      "url": "https://open.shopee.com/announcements/1533",
+      "createdAt": 1787019100
+    },
+    {
       "id": 1534,
       "platform": "shopee",
       "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
