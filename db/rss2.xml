@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 18 Aug 2026 04:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 15:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,29 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>tiktok</category>
         <category>shopee</category>
+        <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - Optional source-platform product context added to Recommend Category API]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6a85bbe3d8f53d04f13b082b</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6a85bbe3d8f53d04f13b082b</guid>
+            <pubDate>Wed, 19 Aug 2026 14:25:21 GMT</pubDate>
+            <description><![CDATA[Optional source-platform product context added to Recommend Category API]]></description>
+            <content:encoded><![CDATA[Optional source-platform product context added to Recommend Category API]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - [BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.]]></title>
+            <link>https://open.shopee.com/announcements/1537</link>
+            <guid>https://open.shopee.com/announcements/1537</guid>
+            <pubDate>Wed, 19 Aug 2026 14:07:38 GMT</pubDate>
+            <description><![CDATA[[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.]]></description>
+            <content:encoded><![CDATA[[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - For Thailand Market: TIS Related Changes for Slime & Squishy Toys and Stress Relief Toys Categories]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6a83d8768930d50523141bad</link>
