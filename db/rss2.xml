@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 19 Aug 2026 15:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 16:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Operation Task Management: Atualização nos Critérios de Contagem de Dias]]></title>
+            <link>https://open.shopee.com/announcements/1536</link>
+            <guid>https://open.shopee.com/announcements/1536</guid>
+            <pubDate>Wed, 19 Aug 2026 16:19:10 GMT</pubDate>
+            <description><![CDATA[Operation Task Management: Atualização nos Critérios de Contagem de Dias]]></description>
+            <content:encoded><![CDATA[Operation Task Management: Atualização nos Critérios de Contagem de Dias]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - Optional source-platform product context added to Recommend Category API]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6a85bbe3d8f53d04f13b082b</link>

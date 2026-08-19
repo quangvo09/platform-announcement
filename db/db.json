@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1536,
+      "platform": "shopee",
+      "title": "Operation Task Management: Atualização nos Critérios de Contagem de Dias",
+      "url": "https://open.shopee.com/announcements/1536",
+      "createdAt": 1787156350
+    },
+    {
       "id": 1537,
       "platform": "shopee",
       "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
