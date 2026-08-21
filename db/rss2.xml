@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 19 Aug 2026 16:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 12:28:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - For All Market  New Affiliate Seller APIs: Creator Outreach Quota, Creator Promotion Performance, and Affiliate IM Inbox Management]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6a883cd25fe90804e5662c12</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6a883cd25fe90804e5662c12</guid>
+            <pubDate>Fri, 21 Aug 2026 12:19:52 GMT</pubDate>
+            <description><![CDATA[For All Market  New Affiliate Seller APIs: Creator Outreach Quota, Creator Promotion Performance, and Affiliate IM Inbox Management]]></description>
+            <content:encoded><![CDATA[For All Market  New Affiliate Seller APIs: Creator Outreach Quota, Creator Promotion Performance, and Affiliate IM Inbox Management]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Operation Task Management: Atualização nos Critérios de Contagem de Dias]]></title>
             <link>https://open.shopee.com/announcements/1536</link>
