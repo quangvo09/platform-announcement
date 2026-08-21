@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 21 Aug 2026 12:28:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 20:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>tiktok</category>
         <category>shopee</category>
+        <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Ativação do Atributo de Anvisa como obrigatório — a partir de 21/09/2026]]></title>
+            <link>https://open.shopee.com/announcements/1539</link>
+            <guid>https://open.shopee.com/announcements/1539</guid>
+            <pubDate>Fri, 21 Aug 2026 19:53:25 GMT</pubDate>
+            <description><![CDATA[Ativação do Atributo de Anvisa como obrigatório — a partir de 21/09/2026]]></description>
+            <content:encoded><![CDATA[Ativação do Atributo de Anvisa como obrigatório — a partir de 21/09/2026]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - For All Market  New Affiliate Seller APIs: Creator Outreach Quota, Creator Promotion Performance, and Affiliate IM Inbox Management]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6a883cd25fe90804e5662c12</link>

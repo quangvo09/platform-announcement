@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1539,
+      "platform": "shopee",
+      "title": "Ativação do Atributo de Anvisa como obrigatório — a partir de 21/09/2026",
+      "url": "https://open.shopee.com/announcements/1539",
+      "createdAt": 1787342005
+    },
+    {
       "id": "6a883cd25fe90804e5662c12",
       "platform": "tiktok",
       "title": "For All Market  New Affiliate Seller APIs: Creator Outreach Quota, Creator Promotion Performance, and Affiliate IM Inbox Management",
