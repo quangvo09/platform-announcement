@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 21 Aug 2026 20:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 13:42:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Levantamento de Segurança – PenTest | Parceiros Integradores]]></title>
+            <link>https://open.shopee.com/announcements/1540</link>
+            <guid>https://open.shopee.com/announcements/1540</guid>
+            <pubDate>Mon, 24 Aug 2026 12:53:32 GMT</pubDate>
+            <description><![CDATA[Levantamento de Segurança – PenTest | Parceiros Integradores]]></description>
+            <content:encoded><![CDATA[Levantamento de Segurança – PenTest | Parceiros Integradores]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Ativação do Atributo de Anvisa como obrigatório — a partir de 21/09/2026]]></title>
             <link>https://open.shopee.com/announcements/1539</link>

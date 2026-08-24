@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1540,
+      "platform": "shopee",
+      "title": "Levantamento de Segurança – PenTest | Parceiros Integradores",
+      "url": "https://open.shopee.com/announcements/1540",
+      "createdAt": 1787576012
+    },
+    {
       "id": 1539,
       "platform": "shopee",
       "title": "Ativação do Atributo de Anvisa como obrigatório — a partir de 21/09/2026",
