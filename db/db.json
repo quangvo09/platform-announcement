@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6a8d002aa799a804c343dd8e",
+      "platform": "tiktok",
+      "title": "US & EMEA Markets: Get Review Decisions API (NEW)",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a8d002aa799a804c343dd8e",
+      "createdAt": 1787627124
+    },
+    {
       "id": 1540,
       "platform": "shopee",
       "title": "Levantamento de Segurança – PenTest | Parceiros Integradores",
