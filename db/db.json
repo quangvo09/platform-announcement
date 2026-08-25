@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1541,
+      "platform": "shopee",
+      "title": "[TH] Restricted Time Update for Instant Delivery Channel",
+      "url": "https://open.shopee.com/announcements/1541",
+      "createdAt": 1787661240
+    },
+    {
       "id": "6a8d002aa799a804c343dd8e",
       "platform": "tiktok",
       "title": "US & EMEA Markets: Get Review Decisions API (NEW)",
