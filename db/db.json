@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 223850,
+      "platform": "lazada",
+      "title": "LAZADA D9 Campaign Downgrade Plan",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=223850",
+      "createdAt": 1787708152
+    },
+    {
       "id": 1541,
       "platform": "shopee",
       "title": "[TH] Restricted Time Update for Instant Delivery Channel",

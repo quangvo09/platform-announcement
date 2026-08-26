@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 25 Aug 2026 13:40:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 02:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>lazada</category>
         <category>shopee</category>
         <category>tiktok</category>
-        <category>lazada</category>
+        <item>
+            <title><![CDATA[[LAZADA] - LAZADA D9 Campaign Downgrade Plan]]></title>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=223850</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=223850</guid>
+            <pubDate>Wed, 26 Aug 2026 01:35:52 GMT</pubDate>
+            <description><![CDATA[LAZADA D9 Campaign Downgrade Plan]]></description>
+            <content:encoded><![CDATA[LAZADA D9 Campaign Downgrade Plan]]></content:encoded>
+            <category>lazada</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [TH] Restricted Time Update for Instant Delivery Channel]]></title>
             <link>https://open.shopee.com/announcements/1541</link>
