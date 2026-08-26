@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 26 Aug 2026 10:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 13:45:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
-        <category>shopee</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Ativação do Atributo de Anvisa como obrigatório — a partir de 21/09/2026]]></title>
+            <link>https://open.shopee.com/announcements/1542</link>
+            <guid>https://open.shopee.com/announcements/1542</guid>
+            <pubDate>Wed, 26 Aug 2026 13:01:28 GMT</pubDate>
+            <description><![CDATA[Ativação do Atributo de Anvisa como obrigatório — a partir de 21/09/2026]]></description>
+            <content:encoded><![CDATA[Ativação do Atributo de Anvisa como obrigatório — a partir de 21/09/2026]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - Upcoming OpenAPI Update: Structured Size Chart Capabilities]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6a8ebc81c7ea6c04a2538f1f</link>
