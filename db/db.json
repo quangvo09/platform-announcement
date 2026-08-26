@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6a8ebc81c7ea6c04a2538f1f",
+      "platform": "tiktok",
+      "title": "Upcoming OpenAPI Update: Structured Size Chart Capabilities",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a8ebc81c7ea6c04a2538f1f",
+      "createdAt": 1787739434
+    },
+    {
       "id": "6a8eaefebaeab604e164ac3a",
       "platform": "tiktok",
       "title": "For Indonesia Market: Add Mandatory Attribute \"Imported Goods\" to All Categories except Digital Category",
