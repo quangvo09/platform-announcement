@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 26 Aug 2026 08:32:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 09:31:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>tiktok</category>
         <category>lazada</category>
         <category>shopee</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - For Indonesia Market: Add Mandatory Attribute "Imported Goods" to All Categories except Digital Category]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6a8eaefebaeab604e164ac3a</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6a8eaefebaeab604e164ac3a</guid>
+            <pubDate>Wed, 26 Aug 2026 09:18:01 GMT</pubDate>
+            <description><![CDATA[For Indonesia Market: Add Mandatory Attribute "Imported Goods" to All Categories except Digital Category]]></description>
+            <content:encoded><![CDATA[For Indonesia Market: Add Mandatory Attribute "Imported Goods" to All Categories except Digital Category]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - For EU Markets: Sell Across EU - Global Product APIs (GPA) to Local Replication Architecture]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6a8e9a23e2cbce04e4a6138f</link>
