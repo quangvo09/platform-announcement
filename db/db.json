@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1543,
+      "platform": "shopee",
+      "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
+      "url": "https://open.shopee.com/announcements/1543",
+      "createdAt": 1787870090
+    },
+    {
       "id": "6a90094168dd4704b4785595",
       "platform": "tiktok",
       "title": "For SEA market: Order and Fulfillment API will be changed for In-Store Pickup Business",
