@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6a90094168dd4704b4785595",
+      "platform": "tiktok",
+      "title": "For SEA market: Order and Fulfillment API will be changed for In-Store Pickup Business",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a90094168dd4704b4785595",
+      "createdAt": 1787824508
+    },
+    {
       "id": 1542,
       "platform": "shopee",
       "title": "Ativação do Atributo de Anvisa como obrigatório — a partir de 21/09/2026",
