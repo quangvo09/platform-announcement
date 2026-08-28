@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 28 Aug 2026 08:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 20:31:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,39 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>tiktok</category>
         <category>shopee</category>
+        <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [IMPORTANTE] Atualização do Fluxo de App - API de Cotação Logística do Vendedor]]></title>
+            <link>https://open.shopee.com/announcements/1522</link>
+            <guid>https://open.shopee.com/announcements/1522</guid>
+            <pubDate>Fri, 28 Aug 2026 16:15:36 GMT</pubDate>
+            <description><![CDATA[[IMPORTANTE] Atualização do Fluxo de App - API de Cotação Logística do Vendedor]]></description>
+            <content:encoded><![CDATA[[IMPORTANTE] Atualização do Fluxo de App - API de Cotação Logística do Vendedor]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - [BR] Seller Logistics SPI App Type Now Available]]></title>
+            <link>https://open.shopee.com/announcements/1546</link>
+            <guid>https://open.shopee.com/announcements/1546</guid>
+            <pubDate>Fri, 28 Aug 2026 11:10:28 GMT</pubDate>
+            <description><![CDATA[[BR] Seller Logistics SPI App Type Now Available]]></description>
+            <content:encoded><![CDATA[[BR] Seller Logistics SPI App Type Now Available]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Payment]]></title>
+            <link>https://open.shopee.com/announcements/1544</link>
+            <guid>https://open.shopee.com/announcements/1544</guid>
+            <pubDate>Fri, 28 Aug 2026 09:14:43 GMT</pubDate>
+            <description><![CDATA[Significant OpenAPI Updates of Payment]]></description>
+            <content:encoded><![CDATA[Significant OpenAPI Updates of Payment]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - For EU Markets: Product Attribute Changes and New Category Openings Notice]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6a91350f52f16104bc1c052a</link>

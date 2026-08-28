@@ -1,6 +1,27 @@
 {
   "announcements": [
     {
+      "id": 1546,
+      "platform": "shopee",
+      "title": "[BR] Seller Logistics SPI App Type Now Available",
+      "url": "https://open.shopee.com/announcements/1546",
+      "createdAt": 1787915428
+    },
+    {
+      "id": 1544,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Payment",
+      "url": "https://open.shopee.com/announcements/1544",
+      "createdAt": 1787908483
+    },
+    {
+      "id": 1522,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] Atualização do Fluxo de App - API de Cotação Logística do Vendedor",
+      "url": "https://open.shopee.com/announcements/1522",
+      "createdAt": 1787933736
+    },
+    {
       "id": "6a91350f52f16104bc1c052a",
       "platform": "tiktok",
       "title": "For EU Markets: Product Attribute Changes and New Category Openings Notice",
