@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 27 Aug 2026 23:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 08:10:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - For EU Markets: Product Attribute Changes and New Category Openings Notice]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6a91350f52f16104bc1c052a</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6a91350f52f16104bc1c052a</guid>
+            <pubDate>Fri, 28 Aug 2026 07:50:53 GMT</pubDate>
+            <description><![CDATA[For EU Markets: Product Attribute Changes and New Category Openings Notice]]></description>
+            <content:encoded><![CDATA[For EU Markets: Product Attribute Changes and New Category Openings Notice]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.]]></title>
             <link>https://open.shopee.com/announcements/1543</link>
