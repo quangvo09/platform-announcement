@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1548,
+      "platform": "shopee",
+      "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
+      "url": "https://open.shopee.com/announcements/1548",
+      "createdAt": 1787961720
+    },
+    {
       "id": 1546,
       "platform": "shopee",
       "title": "[BR] Seller Logistics SPI App Type Now Available",
