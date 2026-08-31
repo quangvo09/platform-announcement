@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Sat, 29 Aug 2026 02:57:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2026 14:39:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - Get Product API v202309: New not_submitted_reasons Response Field Added]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6a9532569ae49b04ddf21d98</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6a9532569ae49b04ddf21d98</guid>
+            <pubDate>Mon, 31 Aug 2026 08:02:09 GMT</pubDate>
+            <description><![CDATA[Get Product API v202309: New not_submitted_reasons Response Field Added]]></description>
+            <content:encoded><![CDATA[Get Product API v202309: New not_submitted_reasons Response Field Added]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.]]></title>
             <link>https://open.shopee.com/announcements/1548</link>
