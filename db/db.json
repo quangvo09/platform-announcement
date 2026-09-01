@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1547,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] Nova Funcionalidade de Cancelamento Parcial de Pedidos via Open API",
+      "url": "https://open.shopee.com/announcements/1547",
+      "createdAt": 1788270852
+    },
+    {
+      "id": "6a96b7e3368c9504df271456",
+      "platform": "tiktok",
+      "title": "For GS POP Sellers Shipping to EU Markets: Product Identifier (PID) Attribute Requirement Update",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a96b7e3368c9504df271456",
+      "createdAt": 1788262648
+    },
+    {
       "id": "6a9532569ae49b04ddf21d98",
       "platform": "tiktok",
       "title": "Get Product API v202309: New not_submitted_reasons Response Field Added",
