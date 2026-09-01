@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1549,
+      "platform": "shopee",
+      "title": "Ativação do Atributo de Anvisa como obrigatório — a partir de 21/09/2026",
+      "url": "https://open.shopee.com/announcements/1549",
+      "createdAt": 1788286323
+    },
+    {
       "id": 1547,
       "platform": "shopee",
       "title": "[IMPORTANTE] Nova Funcionalidade de Cancelamento Parcial de Pedidos via Open API",
