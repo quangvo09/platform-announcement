@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 02 Sep 2026 14:49:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 16:46:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - For UK & EU markets: Dangerous Goods (DG) Compliance Requirements ]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6a98119cd7ff2a050230aebf</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6a98119cd7ff2a050230aebf</guid>
+            <pubDate>Thu, 03 Sep 2026 14:10:48 GMT</pubDate>
+            <description><![CDATA[For UK & EU markets: Dangerous Goods (DG) Compliance Requirements ]]></description>
+            <content:encoded><![CDATA[For UK & EU markets: Dangerous Goods (DG) Compliance Requirements ]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [IMPORTANTE] Novas Regras nas APIs de Documentos Fiscais FBS]]></title>
             <link>https://open.shopee.com/announcements/1550</link>
