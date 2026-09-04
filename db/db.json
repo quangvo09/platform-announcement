@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1554,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates for Video",
+      "url": "https://open.shopee.com/announcements/1554",
+      "createdAt": 1788509835
+    },
+    {
+      "id": 1552,
+      "platform": "shopee",
+      "title": "[TW][Important] Mandatory and Updated Product Attributes for Specific Categories",
+      "url": "https://open.shopee.com/announcements/1552",
+      "createdAt": 1788509223
+    },
+    {
       "id": "6a98119cd7ff2a050230aebf",
       "platform": "tiktok",
       "title": "For UK & EU markets: Dangerous Goods (DG) Compliance Requirements ",
