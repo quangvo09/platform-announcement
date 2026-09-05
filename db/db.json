@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": "6a9bd47ec7ea6c04a260c9dd",
+      "platform": "tiktok",
+      "title": "For All markets：New auction_support_type Field to Control Auction Product Support",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a9bd47ec7ea6c04a260c9dd",
+      "createdAt": 1788597509
+    },
+    {
+      "id": "6a9bbfabc7ea6c04a260b436",
+      "platform": "tiktok",
+      "title": "2026 August TikTok Shop API Updates Summary",
+      "url": "https://partner.tiktokshop.com/docv2/page/6a9bbfabc7ea6c04a260b436",
+      "createdAt": 1788592212
+    },
+    {
       "id": 1554,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates for Video",

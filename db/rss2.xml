@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 04 Sep 2026 10:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Sep 2026 09:42:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,29 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - For All markets：New auction_support_type Field to Control Auction Product Support]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6a9bd47ec7ea6c04a260c9dd</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6a9bd47ec7ea6c04a260c9dd</guid>
+            <pubDate>Sat, 05 Sep 2026 08:38:29 GMT</pubDate>
+            <description><![CDATA[For All markets：New auction_support_type Field to Control Auction Product Support]]></description>
+            <content:encoded><![CDATA[For All markets：New auction_support_type Field to Control Auction Product Support]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[TIKTOK] - 2026 August TikTok Shop API Updates Summary]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6a9bbfabc7ea6c04a260b436</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6a9bbfabc7ea6c04a260b436</guid>
+            <pubDate>Sat, 05 Sep 2026 07:10:12 GMT</pubDate>
+            <description><![CDATA[2026 August TikTok Shop API Updates Summary]]></description>
+            <content:encoded><![CDATA[2026 August TikTok Shop API Updates Summary]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates for Video]]></title>
             <link>https://open.shopee.com/announcements/1554</link>
