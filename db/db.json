@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1988,
+      "platform": "lazada",
+      "title": "ISVs Can Release Cross-border Services Now!",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=1988",
+      "createdAt": 1788752879
+    },
+    {
       "id": "6a9bd47ec7ea6c04a260c9dd",
       "platform": "tiktok",
       "title": "For All markets：New auction_support_type Field to Control Auction Product Support",
