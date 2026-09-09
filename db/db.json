@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6aa1880ea1d62b04bcb7f950",
+      "platform": "tiktok",
+      "title": "Combined Listing: Merge into Variants and API Integration Updates",
+      "url": "https://partner.tiktokshop.com/docv2/page/6aa1880ea1d62b04bcb7f950",
+      "createdAt": 1788971082
+    },
+    {
       "id": 1988,
       "platform": "lazada",
       "title": "ISVs Can Release Cross-border Services Now!",
