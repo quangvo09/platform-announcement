@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 09 Sep 2026 18:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 07:40:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>tiktok</category>
         <category>lazada</category>
         <category>shopee</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - Webhook Egress IP Update]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6aa2597f31655c04e811cb4e</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6aa2597f31655c04e811cb4e</guid>
+            <pubDate>Thu, 10 Sep 2026 07:21:57 GMT</pubDate>
+            <description><![CDATA[Webhook Egress IP Update]]></description>
+            <content:encoded><![CDATA[Webhook Egress IP Update]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - Combined Listing: Merge into Variants and API Integration Updates]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6aa1880ea1d62b04bcb7f950</link>

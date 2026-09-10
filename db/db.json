@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6aa2597f31655c04e811cb4e",
+      "platform": "tiktok",
+      "title": "Webhook Egress IP Update",
+      "url": "https://partner.tiktokshop.com/docv2/page/6aa2597f31655c04e811cb4e",
+      "createdAt": 1789024917
+    },
+    {
       "id": "6aa1880ea1d62b04bcb7f950",
       "platform": "tiktok",
       "title": "Combined Listing: Merge into Variants and API Integration Updates",
