@@ -1,6 +1,27 @@
 {
   "announcements": [
     {
+      "id": "6aa2b6d39ae49b04dd002c0a",
+      "platform": "tiktok",
+      "title": "Post Shoppable Photos and Post Shoppable Video APIs: Auction-Only Product Restriction Added",
+      "url": "https://partner.tiktokshop.com/docv2/page/6aa2b6d39ae49b04dd002c0a",
+      "createdAt": 1789048635
+    },
+    {
+      "id": "6aa2b3e39ae49b04dd0029c4",
+      "platform": "tiktok",
+      "title": "Get Opportunity Detail and List Opportunity APIs: New Fields Added",
+      "url": "https://partner.tiktokshop.com/docv2/page/6aa2b3e39ae49b04dd0029c4",
+      "createdAt": 1789047827
+    },
+    {
+      "id": "6aa2ae1058389604b5b34d25",
+      "platform": "tiktok",
+      "title": "For UK and EU Markets: Shipped by Platform - Edit Parcel Dimensions and Weight for Shipping Label Creation",
+      "url": "https://partner.tiktokshop.com/docv2/page/6aa2ae1058389604b5b34d25",
+      "createdAt": 1789046625
+    },
+    {
       "id": "6aa2597f31655c04e811cb4e",
       "platform": "tiktok",
       "title": "Webhook Egress IP Update",
