@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1557,
+      "platform": "shopee",
+      "title": "[PH] AWB Format Update for Instant Delivery Channels",
+      "url": "https://open.shopee.com/announcements/1557",
+      "createdAt": 1789120704
+    },
+    {
+      "id": 1556,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Returns",
+      "url": "https://open.shopee.com/announcements/1556",
+      "createdAt": 1789119094
+    },
+    {
       "id": "6aa2b6d39ae49b04dd002c0a",
       "platform": "tiktok",
       "title": "Post Shoppable Photos and Post Shoppable Video APIs: Auction-Only Product Restriction Added",

@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 10 Sep 2026 16:46:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 10:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,29 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
-        <category>shopee</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [PH] AWB Format Update for Instant Delivery Channels]]></title>
+            <link>https://open.shopee.com/announcements/1557</link>
+            <guid>https://open.shopee.com/announcements/1557</guid>
+            <pubDate>Fri, 11 Sep 2026 09:58:24 GMT</pubDate>
+            <description><![CDATA[[PH] AWB Format Update for Instant Delivery Channels]]></description>
+            <content:encoded><![CDATA[[PH] AWB Format Update for Instant Delivery Channels]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Returns]]></title>
+            <link>https://open.shopee.com/announcements/1556</link>
+            <guid>https://open.shopee.com/announcements/1556</guid>
+            <pubDate>Fri, 11 Sep 2026 09:31:34 GMT</pubDate>
+            <description><![CDATA[Significant OpenAPI Updates of Returns]]></description>
+            <content:encoded><![CDATA[Significant OpenAPI Updates of Returns]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - Post Shoppable Photos and Post Shoppable Video APIs: Auction-Only Product Restriction Added]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6aa2b6d39ae49b04dd002c0a</link>
