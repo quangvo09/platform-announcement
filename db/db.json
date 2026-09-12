@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1558,
+      "platform": "shopee",
+      "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
+      "url": "https://open.shopee.com/announcements/1558",
+      "createdAt": 1789229194
+    },
+    {
       "id": 1557,
       "platform": "shopee",
       "title": "[PH] AWB Format Update for Instant Delivery Channels",
