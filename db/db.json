@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1560,
+      "platform": "shopee",
+      "title": "Ativação do Atributo de Anvisa como obrigatório — a partir de 21/09/2026",
+      "url": "https://open.shopee.com/announcements/1560",
+      "createdAt": 1789397977
+    },
+    {
       "id": 1558,
       "platform": "shopee",
       "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
