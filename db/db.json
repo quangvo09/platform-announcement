@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1551,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] Novas Regras nas APIs de Documentos Fiscais FBS - 30/10/2026",
+      "url": "https://open.shopee.com/announcements/1551",
+      "createdAt": 1789511396
+    },
+    {
       "id": 1560,
       "platform": "shopee",
       "title": "Ativação do Atributo de Anvisa como obrigatório — a partir de 21/09/2026",
