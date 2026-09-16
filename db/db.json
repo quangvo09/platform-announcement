@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6aaa463fc6d2a604f1c118a7",
+      "platform": "tiktok",
+      "title": "Cancel Order API: Two Buyer-Fault Cancellation Reasons Will Be Removed",
+      "url": "https://partner.tiktokshop.com/docv2/page/6aaa463fc6d2a604f1c118a7",
+      "createdAt": 1789544163
+    },
+    {
       "id": 1551,
       "platform": "shopee",
       "title": "[IMPORTANTE] Novas Regras nas APIs de Documentos Fiscais FBS - 30/10/2026",

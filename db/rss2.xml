@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 15 Sep 2026 23:51:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 08:06:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - Cancel Order API: Two Buyer-Fault Cancellation Reasons Will Be Removed]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6aaa463fc6d2a604f1c118a7</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6aaa463fc6d2a604f1c118a7</guid>
+            <pubDate>Wed, 16 Sep 2026 07:36:03 GMT</pubDate>
+            <description><![CDATA[Cancel Order API: Two Buyer-Fault Cancellation Reasons Will Be Removed]]></description>
+            <content:encoded><![CDATA[Cancel Order API: Two Buyer-Fault Cancellation Reasons Will Be Removed]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [IMPORTANTE] Novas Regras nas APIs de Documentos Fiscais FBS - 30/10/2026]]></title>
             <link>https://open.shopee.com/announcements/1551</link>
