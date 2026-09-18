@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 16 Sep 2026 13:55:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 07:47:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>tiktok</category>
         <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - Product APIs: Mandatory Wig Material and Conditional Certification Requirements (US)]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6aacded7e2cbce04e4c4b0cb</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6aacded7e2cbce04e4c4b0cb</guid>
+            <pubDate>Fri, 18 Sep 2026 06:55:28 GMT</pubDate>
+            <description><![CDATA[Product APIs: Mandatory Wig Material and Conditional Certification Requirements (US)]]></description>
+            <content:encoded><![CDATA[Product APIs: Mandatory Wig Material and Conditional Certification Requirements (US)]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - Inventory Changed by Shop: New Webhook for SKU Inventory Updates]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6aaa72d6c7ea6c04a26f05c9</link>
