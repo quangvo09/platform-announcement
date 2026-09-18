@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1562,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates to Return",
+      "url": "https://open.shopee.com/announcements/1562",
+      "createdAt": 1789720432
+    },
+    {
       "id": "6aacded7e2cbce04e4c4b0cb",
       "platform": "tiktok",
       "title": "Product APIs: Mandatory Wig Material and Conditional Certification Requirements (US)",
