@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1564,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] Nova Funcionalidade de Cancelamento Parcial de Pedidos via Open API",
+      "url": "https://open.shopee.com/announcements/1564",
+      "createdAt": 1790077338
+    },
+    {
       "id": "6ab232336900f904ec0e9305",
       "platform": "tiktok",
       "title": "Finance Transaction APIs: New Fee & Tax Properties for Growth Package and Auto-Post Shoppable Video",
