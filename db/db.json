@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6ab232336900f904ec0e9305",
+      "platform": "tiktok",
+      "title": "Finance Transaction APIs: New Fee & Tax Properties for Growth Package and Auto-Post Shoppable Video",
+      "url": "https://partner.tiktokshop.com/docv2/page/6ab232336900f904ec0e9305",
+      "createdAt": 1790063609
+    },
+    {
       "id": 1563,
       "platform": "shopee",
       "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
