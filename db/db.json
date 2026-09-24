@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1566,
+      "platform": "shopee",
+      "title": "Shopee Service Market Is Now Open for Onboarding",
+      "url": "https://open.shopee.com/announcements/1566",
+      "createdAt": 1790218418
+    },
+    {
+      "id": "6ab49358793c00050c7ccb2c",
+      "platform": "tiktok",
+      "title": "Shipping Template Widget Sunset",
+      "url": "https://partner.tiktokshop.com/docv2/page/6ab49358793c00050c7ccb2c",
+      "createdAt": 1790219259
+    },
+    {
       "id": 1564,
       "platform": "shopee",
       "title": "[IMPORTANTE] Nova Funcionalidade de Cancelamento Parcial de Pedidos via Open API",
