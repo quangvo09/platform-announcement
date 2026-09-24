@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1572,
+      "platform": "shopee",
+      "title": "[BR] Novas APIs de Buybox (Hot Listing) sobre participação e desempenho ",
+      "url": "https://open.shopee.com/announcements/1572",
+      "createdAt": 1790278201
+    },
+    {
       "id": 1570,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates for Product, Buybox and Business Insights",
