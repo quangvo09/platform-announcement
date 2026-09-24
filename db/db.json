@@ -1,6 +1,34 @@
 {
   "announcements": [
     {
+      "id": 1570,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates for Product, Buybox and Business Insights",
+      "url": "https://open.shopee.com/announcements/1570",
+      "createdAt": 1790244792
+    },
+    {
+      "id": 1568,
+      "platform": "shopee",
+      "title": "[TW][Significant] Permanent Deletion of Long-Term Inactive Unlisted Items",
+      "url": "https://open.shopee.com/announcements/1568",
+      "createdAt": 1790240054
+    },
+    {
+      "id": "6ab4ce4054895d04ee564925",
+      "platform": "tiktok",
+      "title": "US SPS Update: Impact on Existing APIs",
+      "url": "https://partner.tiktokshop.com/docv2/page/6ab4ce4054895d04ee564925",
+      "createdAt": 1790234272
+    },
+    {
+      "id": "6ab4c7a3dafd4c04b415811b",
+      "platform": "tiktok",
+      "title": "[US] Product Listing API: Category Attribute Updates for Auto Parts, Tires, Motorcycles, and Engine Oils",
+      "url": "https://partner.tiktokshop.com/docv2/page/6ab4c7a3dafd4c04b415811b",
+      "createdAt": 1790234114
+    },
+    {
       "id": 1566,
       "platform": "shopee",
       "title": "Shopee Service Market Is Now Open for Onboarding",

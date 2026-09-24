@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 24 Sep 2026 05:40:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2026 10:48:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,46 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates for Product, Buybox and Business Insights]]></title>
+            <link>https://open.shopee.com/announcements/1570</link>
+            <guid>https://open.shopee.com/announcements/1570</guid>
+            <pubDate>Thu, 24 Sep 2026 10:13:12 GMT</pubDate>
+            <description><![CDATA[Significant OpenAPI Updates for Product, Buybox and Business Insights]]></description>
+            <content:encoded><![CDATA[Significant OpenAPI Updates for Product, Buybox and Business Insights]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - [TW][Significant] Permanent Deletion of Long-Term Inactive Unlisted Items]]></title>
+            <link>https://open.shopee.com/announcements/1568</link>
+            <guid>https://open.shopee.com/announcements/1568</guid>
+            <pubDate>Thu, 24 Sep 2026 08:54:14 GMT</pubDate>
+            <description><![CDATA[[TW][Significant] Permanent Deletion of Long-Term Inactive Unlisted Items]]></description>
+            <content:encoded><![CDATA[[TW][Significant] Permanent Deletion of Long-Term Inactive Unlisted Items]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[TIKTOK] - US SPS Update: Impact on Existing APIs]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6ab4ce4054895d04ee564925</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6ab4ce4054895d04ee564925</guid>
+            <pubDate>Thu, 24 Sep 2026 07:17:52 GMT</pubDate>
+            <description><![CDATA[US SPS Update: Impact on Existing APIs]]></description>
+            <content:encoded><![CDATA[US SPS Update: Impact on Existing APIs]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[TIKTOK] - [US] Product Listing API: Category Attribute Updates for Auto Parts, Tires, Motorcycles, and Engine Oils]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6ab4c7a3dafd4c04b415811b</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6ab4c7a3dafd4c04b415811b</guid>
+            <pubDate>Thu, 24 Sep 2026 07:15:14 GMT</pubDate>
+            <description><![CDATA[[US] Product Listing API: Category Attribute Updates for Auto Parts, Tires, Motorcycles, and Engine Oils]]></description>
+            <content:encoded><![CDATA[[US] Product Listing API: Category Attribute Updates for Auto Parts, Tires, Motorcycles, and Engine Oils]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - Shipping Template Widget Sunset]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6ab49358793c00050c7ccb2c</link>
