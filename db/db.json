@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6aba2d4f3adbea051387e346",
+      "platform": "tiktok",
+      "title": "Analytics API Changelog: Enhanced Shop, Video, and LIVE Analytics",
+      "url": "https://partner.tiktokshop.com/docv2/page/6aba2d4f3adbea051387e346",
+      "createdAt": 1790586321
+    },
+    {
       "id": "6ab62fd9793c00050c7e6af0",
       "platform": "tiktok",
       "title": "For MY Market: Key Attributes Become Mandatory for Selected Hi-Po Categories",
