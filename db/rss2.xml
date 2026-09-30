@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 30 Sep 2026 10:06:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 16:33:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [CANAIS TURBO] - Ação obrigatória: automação do despacho (ship_order / Alertas)]]></title>
+            <link>https://open.shopee.com/announcements/1573</link>
+            <guid>https://open.shopee.com/announcements/1573</guid>
+            <pubDate>Wed, 30 Sep 2026 11:18:23 GMT</pubDate>
+            <description><![CDATA[[CANAIS TURBO] - Ação obrigatória: automação do despacho (ship_order / Alertas)]]></description>
+            <content:encoded><![CDATA[[CANAIS TURBO] - Ação obrigatória: automação do despacho (ship_order / Alertas)]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Payment]]></title>
             <link>https://open.shopee.com/announcements/1569</link>

@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1573,
+      "platform": "shopee",
+      "title": "[CANAIS TURBO] - Ação obrigatória: automação do despacho (ship_order / Alertas)",
+      "url": "https://open.shopee.com/announcements/1573",
+      "createdAt": 1790767103
+    },
+    {
       "id": 1569,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Payment",
