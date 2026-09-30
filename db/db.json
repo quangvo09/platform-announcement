@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1569,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Payment",
+      "url": "https://open.shopee.com/announcements/1569",
+      "createdAt": 1790751228
+    },
+    {
       "id": "6aba2d4f3adbea051387e346",
       "platform": "tiktok",
       "title": "Analytics API Changelog: Enhanced Shop, Video, and LIVE Analytics",
