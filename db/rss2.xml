@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 01 Oct 2026 00:55:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Oct 2026 19:59:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,26 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [IMPORTANTE] Atualização API de Pagamentos ]]></title>
+            <link>https://open.shopee.com/announcements/1575</link>
+            <guid>https://open.shopee.com/announcements/1575</guid>
+            <pubDate>Thu, 01 Oct 2026 19:47:19 GMT</pubDate>
+            <description><![CDATA[[IMPORTANTE] Atualização API de Pagamentos ]]></description>
+            <content:encoded><![CDATA[[IMPORTANTE] Atualização API de Pagamentos ]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - [Mudança] Mascaramento de Dados CPF para Sellers CPF - Logística Integrada]]></title>
+            <link>https://open.shopee.com/announcements/1565</link>
+            <guid>https://open.shopee.com/announcements/1565</guid>
+            <pubDate>Thu, 01 Oct 2026 19:10:52 GMT</pubDate>
+            <description><![CDATA[[Mudança] Mascaramento de Dados CPF para Sellers CPF - Logística Integrada]]></description>
+            <content:encoded><![CDATA[[Mudança] Mascaramento de Dados CPF para Sellers CPF - Logística Integrada]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.]]></title>
             <link>https://open.shopee.com/announcements/1574</link>

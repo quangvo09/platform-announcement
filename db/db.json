@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1575,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] Atualização API de Pagamentos ",
+      "url": "https://open.shopee.com/announcements/1575",
+      "createdAt": 1790884039
+    },
+    {
+      "id": 1565,
+      "platform": "shopee",
+      "title": "[Mudança] Mascaramento de Dados CPF para Sellers CPF - Logística Integrada",
+      "url": "https://open.shopee.com/announcements/1565",
+      "createdAt": 1790881852
+    },
+    {
       "id": 1574,
       "platform": "shopee",
       "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
