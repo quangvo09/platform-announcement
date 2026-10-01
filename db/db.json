@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1574,
+      "platform": "shopee",
+      "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
+      "url": "https://open.shopee.com/announcements/1574",
+      "createdAt": 1790804505
+    },
+    {
       "id": 1573,
       "platform": "shopee",
       "title": "[CANAIS TURBO] - Ação obrigatória: automação do despacho (ship_order / Alertas)",
