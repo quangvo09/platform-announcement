@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 01 Oct 2026 19:59:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Oct 2026 20:09:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [IMPORTANTE] Nova Funcionalidade de Cancelamento Parcial de Pedidos via Open API]]></title>
+            <link>https://open.shopee.com/announcements/1576</link>
+            <guid>https://open.shopee.com/announcements/1576</guid>
+            <pubDate>Mon, 05 Oct 2026 12:36:59 GMT</pubDate>
+            <description><![CDATA[[IMPORTANTE] Nova Funcionalidade de Cancelamento Parcial de Pedidos via Open API]]></description>
+            <content:encoded><![CDATA[[IMPORTANTE] Nova Funcionalidade de Cancelamento Parcial de Pedidos via Open API]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [IMPORTANTE] Atualização API de Pagamentos ]]></title>
             <link>https://open.shopee.com/announcements/1575</link>
