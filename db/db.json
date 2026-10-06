@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1578,
+      "platform": "shopee",
+      "title": "[BR] Atualização dos limites de dimensões para entrega TURBO",
+      "url": "https://open.shopee.com/announcements/1578",
+      "createdAt": 1791310715
+    },
+    {
       "id": 1576,
       "platform": "shopee",
       "title": "[IMPORTANTE] Nova Funcionalidade de Cancelamento Parcial de Pedidos via Open API",
