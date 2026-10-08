@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 06 Oct 2026 20:41:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 14:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,26 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [MY] Important Update for New Logistics Channel - Instant]]></title>
+            <link>https://open.shopee.com/announcements/1583</link>
+            <guid>https://open.shopee.com/announcements/1583</guid>
+            <pubDate>Thu, 08 Oct 2026 10:09:24 GMT</pubDate>
+            <description><![CDATA[[MY] Important Update for New Logistics Channel - Instant]]></description>
+            <content:encoded><![CDATA[[MY] Important Update for New Logistics Channel - Instant]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - [MY] Important Update for Open Platform AWB API - Brunei Direct Shipment (SPX)]]></title>
+            <link>https://open.shopee.com/announcements/1584</link>
+            <guid>https://open.shopee.com/announcements/1584</guid>
+            <pubDate>Thu, 08 Oct 2026 10:06:04 GMT</pubDate>
+            <description><![CDATA[[MY] Important Update for Open Platform AWB API - Brunei Direct Shipment (SPX)]]></description>
+            <content:encoded><![CDATA[[MY] Important Update for Open Platform AWB API - Brunei Direct Shipment (SPX)]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [BR] Atualização dos limites de dimensões para entrega TURBO]]></title>
             <link>https://open.shopee.com/announcements/1578</link>

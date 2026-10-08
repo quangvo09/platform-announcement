@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1584,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Open Platform AWB API - Brunei Direct Shipment (SPX)",
+      "url": "https://open.shopee.com/announcements/1584",
+      "createdAt": 1791453964
+    },
+    {
+      "id": 1583,
+      "platform": "shopee",
+      "title": "[MY] Important Update for New Logistics Channel - Instant",
+      "url": "https://open.shopee.com/announcements/1583",
+      "createdAt": 1791454164
+    },
+    {
       "id": 1578,
       "platform": "shopee",
       "title": "[BR] Atualização dos limites de dimensões para entrega TURBO",
