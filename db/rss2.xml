@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 08 Oct 2026 14:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 20:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - For EU Markets: Removal of approved couriers for Shipped by Seller (3PL) domestic orders]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6ac7ab91828c6704b7f6ec76</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6ac7ab91828c6704b7f6ec76</guid>
+            <pubDate>Thu, 08 Oct 2026 14:47:58 GMT</pubDate>
+            <description><![CDATA[For EU Markets: Removal of approved couriers for Shipped by Seller (3PL) domestic orders]]></description>
+            <content:encoded><![CDATA[For EU Markets: Removal of approved couriers for Shipped by Seller (3PL) domestic orders]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [MY] Important Update for New Logistics Channel - Instant]]></title>
             <link>https://open.shopee.com/announcements/1583</link>
