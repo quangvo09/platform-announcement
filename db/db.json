@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1585,
+      "platform": "shopee",
+      "title": "[TH] BSC (Buyer Self Collection) Channel ID Split Update",
+      "url": "https://open.shopee.com/announcements/1585",
+      "createdAt": 1791543808
+    },
+    {
       "id": "6ac87baadafd4c04b4283d18",
       "platform": "tiktok",
       "title": "For All Market：Creator Outreach Quota Rule Adjustment",
