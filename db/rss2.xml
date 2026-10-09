@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 08 Oct 2026 20:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 07:00:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>tiktok</category>
         <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - For All Market：Creator Outreach Quota Rule Adjustment]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6ac87baadafd4c04b4283d18</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6ac87baadafd4c04b4283d18</guid>
+            <pubDate>Fri, 09 Oct 2026 05:45:46 GMT</pubDate>
+            <description><![CDATA[For All Market：Creator Outreach Quota Rule Adjustment]]></description>
+            <content:encoded><![CDATA[For All Market：Creator Outreach Quota Rule Adjustment]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - For EU Markets: Removal of approved couriers for Shipped by Seller (3PL) domestic orders]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6ac7ab91828c6704b7f6ec76</link>
