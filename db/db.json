@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1586,
+      "platform": "shopee",
+      "title": "Criação do Atributo de Registro Anatel — Obrigatório a partir de 20/10/2026",
+      "url": "https://open.shopee.com/announcements/1586",
+      "createdAt": 1791849020
+    },
+    {
       "id": 1585,
       "platform": "shopee",
       "title": "[TH] BSC (Buyer Self Collection) Channel ID Split Update",

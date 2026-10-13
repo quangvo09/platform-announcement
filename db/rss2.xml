@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 09 Oct 2026 14:48:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 01:01:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Criação do Atributo de Registro Anatel — Obrigatório a partir de 20/10/2026]]></title>
+            <link>https://open.shopee.com/announcements/1586</link>
+            <guid>https://open.shopee.com/announcements/1586</guid>
+            <pubDate>Mon, 12 Oct 2026 23:50:20 GMT</pubDate>
+            <description><![CDATA[Criação do Atributo de Registro Anatel — Obrigatório a partir de 20/10/2026]]></description>
+            <content:encoded><![CDATA[Criação do Atributo de Registro Anatel — Obrigatório a partir de 20/10/2026]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [TH] BSC (Buyer Self Collection) Channel ID Split Update]]></title>
             <link>https://open.shopee.com/announcements/1585</link>
