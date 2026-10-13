@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6ac85d16793c00050c8f552d",
+      "platform": "tiktok",
+      "title": "Buyer Personal Information Masking",
+      "url": "https://partner.tiktokshop.com/docv2/page/6ac85d16793c00050c8f552d",
+      "createdAt": 1791515951
+    },
+    {
       "id": 1586,
       "platform": "shopee",
       "title": "Criação do Atributo de Registro Anatel — Obrigatório a partir de 20/10/2026",
