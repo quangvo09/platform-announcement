@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 13 Oct 2026 08:44:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 02:26:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>tiktok</category>
         <category>shopee</category>
+        <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.]]></title>
+            <link>https://open.shopee.com/announcements/1588</link>
+            <guid>https://open.shopee.com/announcements/1588</guid>
+            <pubDate>Thu, 15 Oct 2026 23:42:15 GMT</pubDate>
+            <description><![CDATA[[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.]]></description>
+            <content:encoded><![CDATA[[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - Criação do Atributo de Registro Anatel — Obrigatório a partir de 20/10/2026]]></title>
             <link>https://open.shopee.com/announcements/1586</link>

@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1588,
+      "platform": "shopee",
+      "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
+      "url": "https://open.shopee.com/announcements/1588",
+      "createdAt": 1792107735
+    },
+    {
       "id": "6ac85d16793c00050c8f552d",
       "platform": "tiktok",
       "title": "Buyer Personal Information Masking",
