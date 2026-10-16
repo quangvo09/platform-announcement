@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 16 Oct 2026 02:26:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 12:53:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -15,8 +15,58 @@
         </image>
         <copyright>@2024</copyright>
         <category>shopee</category>
-        <category>tiktok</category>
         <category>lazada</category>
+        <category>tiktok</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [IMPORTANTE] Novo Fluxo de Download de Shipping Document via Open API]]></title>
+            <link>https://open.shopee.com/announcements/1587</link>
+            <guid>https://open.shopee.com/announcements/1587</guid>
+            <pubDate>Fri, 16 Oct 2026 12:32:32 GMT</pubDate>
+            <description><![CDATA[[IMPORTANTE] Novo Fluxo de Download de Shipping Document via Open API]]></description>
+            <content:encoded><![CDATA[[IMPORTANTE] Novo Fluxo de Download de Shipping Document via Open API]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - [Action Required] IP Address Whitelist Replaced by PII Necessity Declaration]]></title>
+            <link>https://open.shopee.com/announcements/1594</link>
+            <guid>https://open.shopee.com/announcements/1594</guid>
+            <pubDate>Fri, 16 Oct 2026 10:33:56 GMT</pubDate>
+            <description><![CDATA[[Action Required] IP Address Whitelist Replaced by PII Necessity Declaration]]></description>
+            <content:encoded><![CDATA[[Action Required] IP Address Whitelist Replaced by PII Necessity Declaration]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Order]]></title>
+            <link>https://open.shopee.com/announcements/1593</link>
+            <guid>https://open.shopee.com/announcements/1593</guid>
+            <pubDate>Fri, 16 Oct 2026 10:28:22 GMT</pubDate>
+            <description><![CDATA[Significant OpenAPI Updates of Order]]></description>
+            <content:encoded><![CDATA[Significant OpenAPI Updates of Order]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - Support for IP Subnet Input in CIDR Format]]></title>
+            <link>https://open.shopee.com/announcements/1591</link>
+            <guid>https://open.shopee.com/announcements/1591</guid>
+            <pubDate>Fri, 16 Oct 2026 09:38:24 GMT</pubDate>
+            <description><![CDATA[Support for IP Subnet Input in CIDR Format]]></description>
+            <content:encoded><![CDATA[Support for IP Subnet Input in CIDR Format]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[LAZADA] - SMax AA Open API Launch Announcement]]></title>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=264467</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=264467</guid>
+            <pubDate>Fri, 16 Oct 2026 09:11:40 GMT</pubDate>
+            <description><![CDATA[SMax AA Open API Launch Announcement]]></description>
+            <content:encoded><![CDATA[SMax AA Open API Launch Announcement]]></content:encoded>
+            <category>lazada</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.]]></title>
             <link>https://open.shopee.com/announcements/1588</link>

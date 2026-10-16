@@ -1,6 +1,41 @@
 {
   "announcements": [
     {
+      "id": 1594,
+      "platform": "shopee",
+      "title": "[Action Required] IP Address Whitelist Replaced by PII Necessity Declaration",
+      "url": "https://open.shopee.com/announcements/1594",
+      "createdAt": 1792146836
+    },
+    {
+      "id": 1593,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Order",
+      "url": "https://open.shopee.com/announcements/1593",
+      "createdAt": 1792146502
+    },
+    {
+      "id": 1591,
+      "platform": "shopee",
+      "title": "Support for IP Subnet Input in CIDR Format",
+      "url": "https://open.shopee.com/announcements/1591",
+      "createdAt": 1792143504
+    },
+    {
+      "id": 1587,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] Novo Fluxo de Download de Shipping Document via Open API",
+      "url": "https://open.shopee.com/announcements/1587",
+      "createdAt": 1792153952
+    },
+    {
+      "id": 264467,
+      "platform": "lazada",
+      "title": "SMax AA Open API Launch Announcement",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=264467",
+      "createdAt": 1792141900
+    },
+    {
       "id": 1588,
       "platform": "shopee",
       "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
