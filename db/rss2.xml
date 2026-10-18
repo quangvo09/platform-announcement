@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 16 Oct 2026 12:53:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 07:35:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
+        <category>tiktok</category>
         <category>shopee</category>
         <category>lazada</category>
-        <category>tiktok</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - 2026 September TikTok Shop API Updates Summary ]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6ad452cf93887204bb300ce8</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6ad452cf93887204bb300ce8</guid>
+            <pubDate>Sun, 18 Oct 2026 05:03:16 GMT</pubDate>
+            <description><![CDATA[2026 September TikTok Shop API Updates Summary ]]></description>
+            <content:encoded><![CDATA[2026 September TikTok Shop API Updates Summary ]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [IMPORTANTE] Novo Fluxo de Download de Shipping Document via Open API]]></title>
             <link>https://open.shopee.com/announcements/1587</link>

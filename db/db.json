@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6ad452cf93887204bb300ce8",
+      "platform": "tiktok",
+      "title": "2026 September TikTok Shop API Updates Summary ",
+      "url": "https://partner.tiktokshop.com/docv2/page/6ad452cf93887204bb300ce8",
+      "createdAt": 1792299796
+    },
+    {
       "id": 1594,
       "platform": "shopee",
       "title": "[Action Required] IP Address Whitelist Replaced by PII Necessity Declaration",
