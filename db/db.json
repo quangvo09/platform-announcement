@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6ad5e780481ac804e7f7ed2c",
+      "platform": "tiktok",
+      "title": "For SEA L2L Market: Update on SLA fields for Order Fulfillment in Open API",
+      "url": "https://partner.tiktokshop.com/docv2/page/6ad5e780481ac804e7f7ed2c",
+      "createdAt": 1792403771
+    },
+    {
       "id": "6ad452cf93887204bb300ce8",
       "platform": "tiktok",
       "title": "2026 September TikTok Shop API Updates Summary ",
