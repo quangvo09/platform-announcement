@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1602,
+      "platform": "shopee",
+      "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
+      "url": "https://open.shopee.com/announcements/1602",
+      "createdAt": 1792447357
+    },
+    {
       "id": 1601,
       "platform": "shopee",
       "title": "[LEMBRETE] Criação do Atributo de Registro Anatel- Obrigatório a partir de 20/10",
