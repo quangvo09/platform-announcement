@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 19 Oct 2026 11:39:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 18:00:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,39 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>tiktok</category>
         <category>shopee</category>
+        <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [LEMBRETE] Criação do Atributo de Registro Anatel- Obrigatório a partir de 20/10]]></title>
+            <link>https://open.shopee.com/announcements/1601</link>
+            <guid>https://open.shopee.com/announcements/1601</guid>
+            <pubDate>Mon, 19 Oct 2026 17:23:30 GMT</pubDate>
+            <description><![CDATA[[LEMBRETE] Criação do Atributo de Registro Anatel- Obrigatório a partir de 20/10]]></description>
+            <content:encoded><![CDATA[[LEMBRETE] Criação do Atributo de Registro Anatel- Obrigatório a partir de 20/10]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - [Ação Necessária] IP Address Whitelist Substituído por PII Necessity Declaration]]></title>
+            <link>https://open.shopee.com/announcements/1596</link>
+            <guid>https://open.shopee.com/announcements/1596</guid>
+            <pubDate>Mon, 19 Oct 2026 13:41:56 GMT</pubDate>
+            <description><![CDATA[[Ação Necessária] IP Address Whitelist Substituído por PII Necessity Declaration]]></description>
+            <content:encoded><![CDATA[[Ação Necessária] IP Address Whitelist Substituído por PII Necessity Declaration]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - [MY] Important Update for Open Platform SPX AWB API]]></title>
+            <link>https://open.shopee.com/announcements/1600</link>
+            <guid>https://open.shopee.com/announcements/1600</guid>
+            <pubDate>Mon, 19 Oct 2026 12:24:42 GMT</pubDate>
+            <description><![CDATA[[MY] Important Update for Open Platform SPX AWB API]]></description>
+            <content:encoded><![CDATA[[MY] Important Update for Open Platform SPX AWB API]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - For SEA L2L Market: Update on SLA fields for Order Fulfillment in Open API]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6ad5e780481ac804e7f7ed2c</link>

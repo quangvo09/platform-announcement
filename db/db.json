@@ -1,6 +1,27 @@
 {
   "announcements": [
     {
+      "id": 1601,
+      "platform": "shopee",
+      "title": "[LEMBRETE] Criação do Atributo de Registro Anatel- Obrigatório a partir de 20/10",
+      "url": "https://open.shopee.com/announcements/1601",
+      "createdAt": 1792430610
+    },
+    {
+      "id": 1600,
+      "platform": "shopee",
+      "title": "[MY] Important Update for Open Platform SPX AWB API",
+      "url": "https://open.shopee.com/announcements/1600",
+      "createdAt": 1792412682
+    },
+    {
+      "id": 1596,
+      "platform": "shopee",
+      "title": "[Ação Necessária] IP Address Whitelist Substituído por PII Necessity Declaration",
+      "url": "https://open.shopee.com/announcements/1596",
+      "createdAt": 1792417316
+    },
+    {
       "id": "6ad5e780481ac804e7f7ed2c",
       "platform": "tiktok",
       "title": "For SEA L2L Market: Update on SLA fields for Order Fulfillment in Open API",
