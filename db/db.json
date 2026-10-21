@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": "6ad8da21c3e0a102b5e2e31a",
+      "platform": "tiktok",
+      "title": "【Important】Analytics API Changelog: Endpoint Retirements and Query Window Changes",
+      "url": "https://partner.tiktokshop.com/docv2/page/6ad8da21c3e0a102b5e2e31a",
+      "createdAt": 1792596736
+    },
+    {
+      "id": "6ad8d682489b3a02be5c2ed5",
+      "platform": "tiktok",
+      "title": "New API: Suggest Brands (202609) Is Now Available",
+      "url": "https://partner.tiktokshop.com/docv2/page/6ad8d682489b3a02be5c2ed5",
+      "createdAt": 1792595638
+    },
+    {
       "id": 1602,
       "platform": "shopee",
       "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
