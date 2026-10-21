@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 21 Oct 2026 15:45:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 22:55:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>tiktok</category>
         <category>shopee</category>
+        <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [IMPORTANTE] Nova Funcionalidade de Cancelamento Parcial de Pedidos via Open API]]></title>
+            <link>https://open.shopee.com/announcements/1603</link>
+            <guid>https://open.shopee.com/announcements/1603</guid>
+            <pubDate>Wed, 21 Oct 2026 22:23:10 GMT</pubDate>
+            <description><![CDATA[[IMPORTANTE] Nova Funcionalidade de Cancelamento Parcial de Pedidos via Open API]]></description>
+            <content:encoded><![CDATA[[IMPORTANTE] Nova Funcionalidade de Cancelamento Parcial de Pedidos via Open API]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - 【Important】Analytics API Changelog: Endpoint Retirements and Query Window Changes]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6ad8da21c3e0a102b5e2e31a</link>
