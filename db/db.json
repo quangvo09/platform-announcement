@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": "6ad9e3bf489b3a02be5d8a7c",
+      "platform": "tiktok",
+      "title": "All Markets: Order APIs Add LIVE Session ID and Buyer Nickname Fields",
+      "url": "https://partner.tiktokshop.com/docv2/page/6ad9e3bf489b3a02be5d8a7c",
+      "createdAt": 1792664965
+    },
+    {
+      "id": "6ad9e1656d07c302db7de682",
+      "platform": "tiktok",
+      "title": "For US, EU, UK, JP markets: New Order Tags in Order APIs",
+      "url": "https://partner.tiktokshop.com/docv2/page/6ad9e1656d07c302db7de682",
+      "createdAt": 1792664505
+    },
+    {
       "id": 1603,
       "platform": "shopee",
       "title": "[IMPORTANTE] Nova Funcionalidade de Cancelamento Parcial de Pedidos via Open API",

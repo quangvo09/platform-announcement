@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 21 Oct 2026 22:55:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 12:39:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,29 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - All Markets: Order APIs Add LIVE Session ID and Buyer Nickname Fields]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6ad9e3bf489b3a02be5d8a7c</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6ad9e3bf489b3a02be5d8a7c</guid>
+            <pubDate>Thu, 22 Oct 2026 10:29:25 GMT</pubDate>
+            <description><![CDATA[All Markets: Order APIs Add LIVE Session ID and Buyer Nickname Fields]]></description>
+            <content:encoded><![CDATA[All Markets: Order APIs Add LIVE Session ID and Buyer Nickname Fields]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[TIKTOK] - For US, EU, UK, JP markets: New Order Tags in Order APIs]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6ad9e1656d07c302db7de682</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6ad9e1656d07c302db7de682</guid>
+            <pubDate>Thu, 22 Oct 2026 10:21:45 GMT</pubDate>
+            <description><![CDATA[For US, EU, UK, JP markets: New Order Tags in Order APIs]]></description>
+            <content:encoded><![CDATA[For US, EU, UK, JP markets: New Order Tags in Order APIs]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [IMPORTANTE] Nova Funcionalidade de Cancelamento Parcial de Pedidos via Open API]]></title>
             <link>https://open.shopee.com/announcements/1603</link>
