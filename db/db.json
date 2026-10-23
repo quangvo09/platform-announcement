@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1604,
+      "platform": "shopee",
+      "title": "[PH] Perishable label in AWB for Instant Delivery Channels",
+      "url": "https://open.shopee.com/announcements/1604",
+      "createdAt": 1792751601
+    },
+    {
+      "id": "6adb1f61dbb2a902acd9eeb6",
+      "platform": "tiktok",
+      "title": "Finance  API Updates: New Fee, Tax, Trade-In, and SKU Data",
+      "url": "https://partner.tiktokshop.com/docv2/page/6adb1f61dbb2a902acd9eeb6",
+      "createdAt": 1792745784
+    },
+    {
       "id": "6ad9e3bf489b3a02be5d8a7c",
       "platform": "tiktok",
       "title": "All Markets: Order APIs Add LIVE Session ID and Buyer Nickname Fields",
