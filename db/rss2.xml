@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 26 Oct 2026 18:08:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 13:48:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - Development Shops: Virtual credit cards for mobile test orders]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6ae05757655ae002aa0b854a</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6ae05757655ae002aa0b854a</guid>
+            <pubDate>Tue, 27 Oct 2026 07:52:40 GMT</pubDate>
+            <description><![CDATA[Development Shops: Virtual credit cards for mobile test orders]]></description>
+            <content:encoded><![CDATA[Development Shops: Virtual credit cards for mobile test orders]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [Atualização] Sobreposição de áreas de cobertura para outlets Turbo 90026]]></title>
             <link>https://open.shopee.com/announcements/1605</link>
