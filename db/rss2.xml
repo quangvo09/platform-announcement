@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 30 Oct 2026 10:37:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 16:53:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,36 @@
         <category>shopee</category>
         <category>lazada</category>
         <category>tiktok</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [IMPORTANTE]Validação do Certificado INMETRO na criação e atualização de anúncio]]></title>
+            <link>https://open.shopee.com/announcements/1616</link>
+            <guid>https://open.shopee.com/announcements/1616</guid>
+            <pubDate>Fri, 30 Oct 2026 13:12:13 GMT</pubDate>
+            <description><![CDATA[[IMPORTANTE]Validação do Certificado INMETRO na criação e atualização de anúncio]]></description>
+            <content:encoded><![CDATA[[IMPORTANTE]Validação do Certificado INMETRO na criação e atualização de anúncio]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - [TW][Important] Self-Designed AWB No Longer Supported for 7-ELEVEN Orders]]></title>
+            <link>https://open.shopee.com/announcements/1610</link>
+            <guid>https://open.shopee.com/announcements/1610</guid>
+            <pubDate>Fri, 30 Oct 2026 10:44:27 GMT</pubDate>
+            <description><![CDATA[[TW][Important] Self-Designed AWB No Longer Supported for 7-ELEVEN Orders]]></description>
+            <content:encoded><![CDATA[[TW][Important] Self-Designed AWB No Longer Supported for 7-ELEVEN Orders]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Product and Open Platform Console]]></title>
+            <link>https://open.shopee.com/announcements/1614</link>
+            <guid>https://open.shopee.com/announcements/1614</guid>
+            <pubDate>Fri, 30 Oct 2026 10:41:48 GMT</pubDate>
+            <description><![CDATA[Significant OpenAPI Updates of Product and Open Platform Console]]></description>
+            <content:encoded><![CDATA[Significant OpenAPI Updates of Product and Open Platform Console]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [IMPORTANCE][Action Required]Shipping Document Creation and Download API Updates]]></title>
             <link>https://open.shopee.com/announcements/1613</link>

@@ -1,6 +1,27 @@
 {
   "announcements": [
     {
+      "id": 1616,
+      "platform": "shopee",
+      "title": "[IMPORTANTE]Validação do Certificado INMETRO na criação e atualização de anúncio",
+      "url": "https://open.shopee.com/announcements/1616",
+      "createdAt": 1793365933
+    },
+    {
+      "id": 1614,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Product and Open Platform Console",
+      "url": "https://open.shopee.com/announcements/1614",
+      "createdAt": 1793356908
+    },
+    {
+      "id": 1610,
+      "platform": "shopee",
+      "title": "[TW][Important] Self-Designed AWB No Longer Supported for 7-ELEVEN Orders",
+      "url": "https://open.shopee.com/announcements/1610",
+      "createdAt": 1793357067
+    },
+    {
       "id": 1615,
       "platform": "shopee",
       "title": "[TW] Increased TO Label Download Quantity Limit",
