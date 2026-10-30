@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 27 Oct 2026 13:48:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 10:37:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,49 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>tiktok</category>
         <category>shopee</category>
         <category>lazada</category>
+        <category>tiktok</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [IMPORTANCE][Action Required]Shipping Document Creation and Download API Updates]]></title>
+            <link>https://open.shopee.com/announcements/1613</link>
+            <guid>https://open.shopee.com/announcements/1613</guid>
+            <pubDate>Fri, 30 Oct 2026 10:15:31 GMT</pubDate>
+            <description><![CDATA[[IMPORTANCE][Action Required]Shipping Document Creation and Download API Updates]]></description>
+            <content:encoded><![CDATA[[IMPORTANCE][Action Required]Shipping Document Creation and Download API Updates]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates of Order, Logistics and First Mile]]></title>
+            <link>https://open.shopee.com/announcements/1612</link>
+            <guid>https://open.shopee.com/announcements/1612</guid>
+            <pubDate>Fri, 30 Oct 2026 10:10:04 GMT</pubDate>
+            <description><![CDATA[Significant OpenAPI Updates of Order, Logistics and First Mile]]></description>
+            <content:encoded><![CDATA[Significant OpenAPI Updates of Order, Logistics and First Mile]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - [TW] Increased TO Label Download Quantity Limit]]></title>
+            <link>https://open.shopee.com/announcements/1615</link>
+            <guid>https://open.shopee.com/announcements/1615</guid>
+            <pubDate>Fri, 30 Oct 2026 10:03:14 GMT</pubDate>
+            <description><![CDATA[[TW] Increased TO Label Download Quantity Limit]]></description>
+            <content:encoded><![CDATA[[TW] Increased TO Label Download Quantity Limit]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[LAZADA] - LAZADA D11 Campaign Downgrade Plan]]></title>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=276509</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=276509</guid>
+            <pubDate>Fri, 30 Oct 2026 06:16:24 GMT</pubDate>
+            <description><![CDATA[LAZADA D11 Campaign Downgrade Plan]]></description>
+            <content:encoded><![CDATA[LAZADA D11 Campaign Downgrade Plan]]></content:encoded>
+            <category>lazada</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - Development Shops: Virtual credit cards for mobile test orders]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6ae05757655ae002aa0b854a</link>

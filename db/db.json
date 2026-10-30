@@ -1,6 +1,34 @@
 {
   "announcements": [
     {
+      "id": 1615,
+      "platform": "shopee",
+      "title": "[TW] Increased TO Label Download Quantity Limit",
+      "url": "https://open.shopee.com/announcements/1615",
+      "createdAt": 1793354594
+    },
+    {
+      "id": 1613,
+      "platform": "shopee",
+      "title": "[IMPORTANCE][Action Required]Shipping Document Creation and Download API Updates",
+      "url": "https://open.shopee.com/announcements/1613",
+      "createdAt": 1793355331
+    },
+    {
+      "id": 1612,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Order, Logistics and First Mile",
+      "url": "https://open.shopee.com/announcements/1612",
+      "createdAt": 1793355004
+    },
+    {
+      "id": 276509,
+      "platform": "lazada",
+      "title": "LAZADA D11 Campaign Downgrade Plan",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=276509",
+      "createdAt": 1793340984
+    },
+    {
       "id": "6ae05757655ae002aa0b854a",
       "platform": "tiktok",
       "title": "Development Shops: Virtual credit cards for mobile test orders",
