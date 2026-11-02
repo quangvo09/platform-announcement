@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6ae85e9a489b3a02be6cb1d4",
+      "platform": "tiktok",
+      "title": "Analytics API Changelog: New Off Site and ACC APIs",
+      "url": "https://partner.tiktokshop.com/docv2/page/6ae85e9a489b3a02be6cb1d4",
+      "createdAt": 1793613658
+    },
+    {
       "id": 1616,
       "platform": "shopee",
       "title": "[IMPORTANTE]Validação do Certificado INMETRO na criação e atualização de anúncio",
