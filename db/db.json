@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1619,
+      "platform": "shopee",
+      "title": "Esclarecimento: atributo Anatel para Bluetooth, Wi-Fi e RF",
+      "url": "https://open.shopee.com/announcements/1619",
+      "createdAt": 1793726410
+    },
+    {
+      "id": 1618,
+      "platform": "shopee",
+      "title": "Esclarecimento: atributo Anatel para Bluetooth, Wi-Fi e RF",
+      "url": "https://open.shopee.com/announcements/1618",
+      "createdAt": 1793715524
+    },
+    {
       "id": "6ae97b8b01193302c05d7cb9",
       "platform": "tiktok",
       "title": "2026 October TikTok Shop API Updates Summary",
