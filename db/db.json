@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1625,
+      "platform": "shopee",
+      "title": "[IMPORTANT] New Rules for BR FBS Fiscal Document APIs - 30/11/2026",
+      "url": "https://open.shopee.com/announcements/1625",
+      "createdAt": 1793987865
+    },
+    {
       "id": 1627,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Order,Payment and Logistics",
