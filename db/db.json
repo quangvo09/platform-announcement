@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1627,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Order,Payment and Logistics",
+      "url": "https://open.shopee.com/announcements/1627",
+      "createdAt": 1793963085
+    },
+    {
       "id": 1621,
       "platform": "shopee",
       "title": " [MY] Buyer Name Masking Update for AWB",
