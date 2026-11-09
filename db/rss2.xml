@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Mon, 09 Nov 2026 07:29:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 18:01:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,69 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>tiktok</category>
         <category>shopee</category>
+        <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [IMPORTANTE] Validação do campo indPres nas NF-e enviadas pela OpenAPI]]></title>
+            <link>https://open.shopee.com/announcements/1608</link>
+            <guid>https://open.shopee.com/announcements/1608</guid>
+            <pubDate>Mon, 09 Nov 2026 13:05:18 GMT</pubDate>
+            <description><![CDATA[[IMPORTANTE] Validação do campo indPres nas NF-e enviadas pela OpenAPI]]></description>
+            <content:encoded><![CDATA[[IMPORTANTE] Validação do campo indPres nas NF-e enviadas pela OpenAPI]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[TIKTOK] - Product APIs add Seller SKU requirements for EU cross-border POP listings]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6af19d584f20d802b39577eb</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6af19d584f20d802b39577eb</guid>
+            <pubDate>Mon, 09 Nov 2026 10:17:01 GMT</pubDate>
+            <description><![CDATA[Product APIs add Seller SKU requirements for EU cross-border POP listings]]></description>
+            <content:encoded><![CDATA[Product APIs add Seller SKU requirements for EU cross-border POP listings]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[TIKTOK] - Product APIs now support temporary listings for LIVE]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6af19cc152cc5602a3ffacff</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6af19cc152cc5602a3ffacff</guid>
+            <pubDate>Mon, 09 Nov 2026 10:14:24 GMT</pubDate>
+            <description><![CDATA[Product APIs now support temporary listings for LIVE]]></description>
+            <content:encoded><![CDATA[Product APIs now support temporary listings for LIVE]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[TIKTOK] - Product APIs add the is_blind_box request field]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6af19c4c655ae002aa233d88</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6af19c4c655ae002aa233d88</guid>
+            <pubDate>Mon, 09 Nov 2026 10:12:57 GMT</pubDate>
+            <description><![CDATA[Product APIs add the is_blind_box request field]]></description>
+            <content:encoded><![CDATA[Product APIs add the is_blind_box request field]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[TIKTOK] - Product APIs now support measurement-based product attributes]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6af19beb036e2f02a8156cfd</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6af19beb036e2f02a8156cfd</guid>
+            <pubDate>Mon, 09 Nov 2026 10:10:56 GMT</pubDate>
+            <description><![CDATA[Product APIs now support measurement-based product attributes]]></description>
+            <content:encoded><![CDATA[Product APIs now support measurement-based product attributes]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[TIKTOK] - For the US Market: Promotion Activity IDs in Order Price Details]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6af17ee7caf98a02af1520f9</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6af17ee7caf98a02af1520f9</guid>
+            <pubDate>Mon, 09 Nov 2026 08:06:12 GMT</pubDate>
+            <description><![CDATA[For the US Market: Promotion Activity IDs in Order Price Details]]></description>
+            <content:encoded><![CDATA[For the US Market: Promotion Activity IDs in Order Price Details]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - 3PL Bulky Item Split Shipment API Integration Guide]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6af175c2372fa602d4190303</link>

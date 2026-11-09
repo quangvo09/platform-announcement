@@ -1,6 +1,48 @@
 {
   "announcements": [
     {
+      "id": 1608,
+      "platform": "shopee",
+      "title": "[IMPORTANTE] Validação do campo indPres nas NF-e enviadas pela OpenAPI",
+      "url": "https://open.shopee.com/announcements/1608",
+      "createdAt": 1794229518
+    },
+    {
+      "id": "6af19d584f20d802b39577eb",
+      "platform": "tiktok",
+      "title": "Product APIs add Seller SKU requirements for EU cross-border POP listings",
+      "url": "https://partner.tiktokshop.com/docv2/page/6af19d584f20d802b39577eb",
+      "createdAt": 1794219421
+    },
+    {
+      "id": "6af19cc152cc5602a3ffacff",
+      "platform": "tiktok",
+      "title": "Product APIs now support temporary listings for LIVE",
+      "url": "https://partner.tiktokshop.com/docv2/page/6af19cc152cc5602a3ffacff",
+      "createdAt": 1794219264
+    },
+    {
+      "id": "6af19c4c655ae002aa233d88",
+      "platform": "tiktok",
+      "title": "Product APIs add the is_blind_box request field",
+      "url": "https://partner.tiktokshop.com/docv2/page/6af19c4c655ae002aa233d88",
+      "createdAt": 1794219177
+    },
+    {
+      "id": "6af19beb036e2f02a8156cfd",
+      "platform": "tiktok",
+      "title": "Product APIs now support measurement-based product attributes",
+      "url": "https://partner.tiktokshop.com/docv2/page/6af19beb036e2f02a8156cfd",
+      "createdAt": 1794219056
+    },
+    {
+      "id": "6af17ee7caf98a02af1520f9",
+      "platform": "tiktok",
+      "title": "For the US Market: Promotion Activity IDs in Order Price Details",
+      "url": "https://partner.tiktokshop.com/docv2/page/6af17ee7caf98a02af1520f9",
+      "createdAt": 1794211572
+    },
+    {
       "id": "6af175c2372fa602d4190303",
       "platform": "tiktok",
       "title": "3PL Bulky Item Split Shipment API Integration Guide",
