@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": "6af175c2372fa602d4190303",
+      "platform": "tiktok",
+      "title": "3PL Bulky Item Split Shipment API Integration Guide",
+      "url": "https://partner.tiktokshop.com/docv2/page/6af175c2372fa602d4190303",
+      "createdAt": 1794209249
+    },
+    {
+      "id": "6af1722351fb4402d02e5e92",
+      "platform": "tiktok",
+      "title": "For US Markets: Change the Shipping Warehouse Before Purchasing a Label",
+      "url": "https://partner.tiktokshop.com/docv2/page/6af1722351fb4402d02e5e92",
+      "createdAt": 1794208317
+    },
+    {
       "id": 1625,
       "platform": "shopee",
       "title": "[IMPORTANT] New Rules for BR FBS Fiscal Document APIs - 30/11/2026",

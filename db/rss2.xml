@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Fri, 06 Nov 2026 22:33:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 07:29:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,29 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - 3PL Bulky Item Split Shipment API Integration Guide]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6af175c2372fa602d4190303</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6af175c2372fa602d4190303</guid>
+            <pubDate>Mon, 09 Nov 2026 07:27:29 GMT</pubDate>
+            <description><![CDATA[3PL Bulky Item Split Shipment API Integration Guide]]></description>
+            <content:encoded><![CDATA[3PL Bulky Item Split Shipment API Integration Guide]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[TIKTOK] - For US Markets: Change the Shipping Warehouse Before Purchasing a Label]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6af1722351fb4402d02e5e92</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6af1722351fb4402d02e5e92</guid>
+            <pubDate>Mon, 09 Nov 2026 07:11:57 GMT</pubDate>
+            <description><![CDATA[For US Markets: Change the Shipping Warehouse Before Purchasing a Label]]></description>
+            <content:encoded><![CDATA[For US Markets: Change the Shipping Warehouse Before Purchasing a Label]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [IMPORTANT] New Rules for BR FBS Fiscal Document APIs - 30/11/2026]]></title>
             <link>https://open.shopee.com/announcements/1625</link>
