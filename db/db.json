@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1628,
+      "platform": "shopee",
+      "title": "[MY] Fulfilment Policy Update: Non-Fulfilment Rate (NFR) Penalty",
+      "url": "https://open.shopee.com/announcements/1628",
+      "createdAt": 1794292309
+    },
+    {
       "id": 1608,
       "platform": "shopee",
       "title": "[IMPORTANTE] Validação do campo indPres nas NF-e enviadas pela OpenAPI",
