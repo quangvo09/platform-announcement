@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1630,
+      "platform": "shopee",
+      "title": "[ATUALIZAÇÃO] Novas Regras nas APIs de Documentos Fiscais FBS - 30/11/2026",
+      "url": "https://open.shopee.com/announcements/1630",
+      "createdAt": 1794314339
+    },
+    {
+      "id": 1629,
+      "platform": "shopee",
+      "title": "[ATUALIZAÇÃO] Novas Regras nas APIs de Documentos Fiscais FBS - 30/11/2026",
+      "url": "https://open.shopee.com/announcements/1629",
+      "createdAt": 1794314307
+    },
+    {
       "id": 1628,
       "platform": "shopee",
       "title": "[MY] Fulfilment Policy Update: Non-Fulfilment Rate (NFR) Penalty",

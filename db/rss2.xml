@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 10 Nov 2026 08:59:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 16:52:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,26 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [ATUALIZAÇÃO] Novas Regras nas APIs de Documentos Fiscais FBS - 30/11/2026]]></title>
+            <link>https://open.shopee.com/announcements/1630</link>
+            <guid>https://open.shopee.com/announcements/1630</guid>
+            <pubDate>Tue, 10 Nov 2026 12:38:59 GMT</pubDate>
+            <description><![CDATA[[ATUALIZAÇÃO] Novas Regras nas APIs de Documentos Fiscais FBS - 30/11/2026]]></description>
+            <content:encoded><![CDATA[[ATUALIZAÇÃO] Novas Regras nas APIs de Documentos Fiscais FBS - 30/11/2026]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SHOPEE] - [ATUALIZAÇÃO] Novas Regras nas APIs de Documentos Fiscais FBS - 30/11/2026]]></title>
+            <link>https://open.shopee.com/announcements/1629</link>
+            <guid>https://open.shopee.com/announcements/1629</guid>
+            <pubDate>Tue, 10 Nov 2026 12:38:27 GMT</pubDate>
+            <description><![CDATA[[ATUALIZAÇÃO] Novas Regras nas APIs de Documentos Fiscais FBS - 30/11/2026]]></description>
+            <content:encoded><![CDATA[[ATUALIZAÇÃO] Novas Regras nas APIs de Documentos Fiscais FBS - 30/11/2026]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [MY] Fulfilment Policy Update: Non-Fulfilment Rate (NFR) Penalty]]></title>
             <link>https://open.shopee.com/announcements/1628</link>
