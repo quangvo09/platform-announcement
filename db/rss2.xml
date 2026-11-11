@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Tue, 10 Nov 2026 16:52:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 10:04:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -17,6 +17,16 @@
         <category>shopee</category>
         <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [MY] Important Update for New Logistics Channel SPX Light Bulky]]></title>
+            <link>https://open.shopee.com/announcements/1631</link>
+            <guid>https://open.shopee.com/announcements/1631</guid>
+            <pubDate>Wed, 11 Nov 2026 03:13:38 GMT</pubDate>
+            <description><![CDATA[[MY] Important Update for New Logistics Channel SPX Light Bulky]]></description>
+            <content:encoded><![CDATA[[MY] Important Update for New Logistics Channel SPX Light Bulky]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [ATUALIZAÇÃO] Novas Regras nas APIs de Documentos Fiscais FBS - 30/11/2026]]></title>
             <link>https://open.shopee.com/announcements/1630</link>

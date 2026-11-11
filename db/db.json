@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1631,
+      "platform": "shopee",
+      "title": "[MY] Important Update for New Logistics Channel SPX Light Bulky",
+      "url": "https://open.shopee.com/announcements/1631",
+      "createdAt": 1794366818
+    },
+    {
       "id": 1630,
       "platform": "shopee",
       "title": "[ATUALIZAÇÃO] Novas Regras nas APIs de Documentos Fiscais FBS - 30/11/2026",
