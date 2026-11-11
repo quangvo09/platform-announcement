@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 11 Nov 2026 10:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 18:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,39 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>shopee</category>
         <category>tiktok</category>
+        <category>shopee</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[TIKTOK] - Update Inventory API: New Inventory and Warehouse Update Modes]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6af45ffe01193302c06ea9ca</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6af45ffe01193302c06ea9ca</guid>
+            <pubDate>Wed, 11 Nov 2026 12:33:31 GMT</pubDate>
+            <description><![CDATA[Update Inventory API: New Inventory and Warehouse Update Modes]]></description>
+            <content:encoded><![CDATA[Update Inventory API: New Inventory and Warehouse Update Modes]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[TIKTOK] - Get Product API: New Product Detail URL Response Field]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6af45f5a84a56d02d1993905</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6af45f5a84a56d02d1993905</guid>
+            <pubDate>Wed, 11 Nov 2026 12:30:09 GMT</pubDate>
+            <description><![CDATA[Get Product API: New Product Detail URL Response Field]]></description>
+            <content:encoded><![CDATA[Get Product API: New Product Detail URL Response Field]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[TIKTOK] - For All Market：Sample Settings Updates in Target Collaboration APIs]]></title>
+            <link>https://partner.tiktokshop.com/docv2/page/6af43d95c3e0a102b505d029</link>
+            <guid>https://partner.tiktokshop.com/docv2/page/6af43d95c3e0a102b505d029</guid>
+            <pubDate>Wed, 11 Nov 2026 10:05:21 GMT</pubDate>
+            <description><![CDATA[For All Market：Sample Settings Updates in Target Collaboration APIs]]></description>
+            <content:encoded><![CDATA[For All Market：Sample Settings Updates in Target Collaboration APIs]]></content:encoded>
+            <category>tiktok</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/tiktok.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [MY] Important Update for New Logistics Channel SPX Light Bulky]]></title>
             <link>https://open.shopee.com/announcements/1631</link>
