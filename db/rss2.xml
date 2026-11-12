@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Wed, 11 Nov 2026 18:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 17:27:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -14,9 +14,19 @@
             <link>https://github.com/quangvo09/platform-announcement</link>
         </image>
         <copyright>@2024</copyright>
-        <category>tiktok</category>
         <category>shopee</category>
+        <category>tiktok</category>
         <category>lazada</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - [ATUALIZAÇÃO] Adiamento da validação do campo indPres nas NF-e]]></title>
+            <link>https://open.shopee.com/announcements/1632</link>
+            <guid>https://open.shopee.com/announcements/1632</guid>
+            <pubDate>Thu, 12 Nov 2026 14:43:33 GMT</pubDate>
+            <description><![CDATA[[ATUALIZAÇÃO] Adiamento da validação do campo indPres nas NF-e]]></description>
+            <content:encoded><![CDATA[[ATUALIZAÇÃO] Adiamento da validação do campo indPres nas NF-e]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[TIKTOK] - Update Inventory API: New Inventory and Warehouse Update Modes]]></title>
             <link>https://partner.tiktokshop.com/docv2/page/6af45ffe01193302c06ea9ca</link>

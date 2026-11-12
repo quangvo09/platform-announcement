@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1632,
+      "platform": "shopee",
+      "title": "[ATUALIZAÇÃO] Adiamento da validação do campo indPres nas NF-e",
+      "url": "https://open.shopee.com/announcements/1632",
+      "createdAt": 1794494613
+    },
+    {
       "id": "6af45ffe01193302c06ea9ca",
       "platform": "tiktok",
       "title": "Update Inventory API: New Inventory and Warehouse Update Modes",
