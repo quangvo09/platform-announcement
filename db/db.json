@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1633,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates of Supplier Product",
+      "url": "https://open.shopee.com/announcements/1633",
+      "createdAt": 1794559620
+    },
+    {
       "id": 1632,
       "platform": "shopee",
       "title": "[ATUALIZAÇÃO] Adiamento da validação do campo indPres nas NF-e",
