@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6afab01124208802db3e4267",
+      "platform": "tiktok",
+      "title": "Seller-Side Partner Campaign API Integration Guide",
+      "url": "https://partner.tiktokshop.com/docv2/page/6afab01124208802db3e4267",
+      "createdAt": 1794814072
+    },
+    {
       "id": 1633,
       "platform": "shopee",
       "title": "Significant OpenAPI Updates of Supplier Product",
