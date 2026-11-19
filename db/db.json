@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "6afe795151fb4402d03e4a9c",
+      "platform": "tiktok",
+      "title": "AI Report API Changelog | Custom queries for shop performance data",
+      "url": "https://partner.tiktokshop.com/docv2/page/6afe795151fb4402d03e4a9c",
+      "createdAt": 1795062576
+    },
+    {
       "id": "6afab01124208802db3e4267",
       "platform": "tiktok",
       "title": "Seller-Side Partner Campaign API Integration Guide",
