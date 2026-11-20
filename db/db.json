@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": "6b001da224208802db45c7a4",
+      "platform": "tiktok",
+      "title": "Finance  API Updates: New smart_shipping_fee_amount Field in Transaction APIs",
+      "url": "https://partner.tiktokshop.com/docv2/page/6b001da224208802db45c7a4",
+      "createdAt": 1795169901
+    },
+    {
+      "id": "6b00155ff8250302b7bfe5d7",
+      "platform": "tiktok",
+      "title": "Product API changelog — Size chart updates and Seller SKU requirements",
+      "url": "https://partner.tiktokshop.com/docv2/page/6b00155ff8250302b7bfe5d7",
+      "createdAt": 1795167637
+    },
+    {
       "id": 1637,
       "platform": "shopee",
       "title": "[VN] Mandatory Penetration Test Report Submission for Buyer PII Access",
