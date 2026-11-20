@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1637,
+      "platform": "shopee",
+      "title": "[VN] Mandatory Penetration Test Report Submission for Buyer PII Access",
+      "url": "https://open.shopee.com/announcements/1637",
+      "createdAt": 1795150468
+    },
+    {
       "id": "6afe795151fb4402d03e4a9c",
       "platform": "tiktok",
       "title": "AI Report API Changelog | Custom queries for shop performance data",
