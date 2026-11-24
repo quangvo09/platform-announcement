@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1651,
+      "platform": "shopee",
+      "title": "[ATUALIZAÇÃO] Validação do campo indPres nas NF-e enviadas pela OpenAPI",
+      "url": "https://open.shopee.com/announcements/1651",
+      "createdAt": 1795524534
+    },
+    {
       "id": 1650,
       "platform": "shopee",
       "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
