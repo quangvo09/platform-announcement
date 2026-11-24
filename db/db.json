@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1650,
+      "platform": "shopee",
+      "title": "[BR] Welcome! Guia para Novos Desenvolvedores: Principais fluxos e dúvidas.",
+      "url": "https://open.shopee.com/announcements/1650",
+      "createdAt": 1795466302
+    },
+    {
       "id": "6b001da224208802db45c7a4",
       "platform": "tiktok",
       "title": "Finance  API Updates: New smart_shipping_fee_amount Field in Transaction APIs",
