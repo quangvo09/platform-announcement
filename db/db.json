@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1653,
+      "platform": "shopee",
+      "title": "[ATUALIZAÇÃO] Novas Regras nas APIs de Documentos Fiscais FBS - 14/12/2026",
+      "url": "https://open.shopee.com/announcements/1653",
+      "createdAt": 1795617297
+    },
+    {
       "id": 1651,
       "platform": "shopee",
       "title": "[ATUALIZAÇÃO] Validação do campo indPres nas NF-e enviadas pela OpenAPI",
