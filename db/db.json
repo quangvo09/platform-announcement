@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": 1654,
+      "platform": "shopee",
+      "title": "[ATUALIZAÇÃO] Nova data e ajuste na validação do campo indPres nas NF-e",
+      "url": "https://open.shopee.com/announcements/1654",
+      "createdAt": 1795632555
+    },
+    {
       "id": 1653,
       "platform": "shopee",
       "title": "[ATUALIZAÇÃO] Novas Regras nas APIs de Documentos Fiscais FBS - 14/12/2026",
