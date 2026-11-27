@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": 1657,
+      "platform": "shopee",
+      "title": "Significant OpenAPI Updates to Order and Product",
+      "url": "https://open.shopee.com/announcements/1657",
+      "createdAt": 1795772778
+    },
+    {
+      "id": 305528,
+      "platform": "lazada",
+      "title": "LAZADA D12 Campaign Downgrade Plan",
+      "url": "https://open.lazada.com/apps/announcement/detail?docId=305528",
+      "createdAt": 1795767727
+    },
+    {
       "id": 1654,
       "platform": "shopee",
       "title": "[ATUALIZAÇÃO] Nova data e ajuste na validação do campo indPres nas NF-e",

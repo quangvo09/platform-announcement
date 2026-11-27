@@ -4,7 +4,7 @@
         <title>Platform Announcements</title>
         <link>https://github.com/quangvo09/platform-announcement</link>
         <description>Platform Announcements Feed</description>
-        <lastBuildDate>Thu, 26 Nov 2026 01:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 11:36:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>QuangVo</generator>
         <language>en</language>
@@ -15,8 +15,28 @@
         </image>
         <copyright>@2024</copyright>
         <category>shopee</category>
-        <category>tiktok</category>
         <category>lazada</category>
+        <category>tiktok</category>
+        <item>
+            <title><![CDATA[[SHOPEE] - Significant OpenAPI Updates to Order and Product]]></title>
+            <link>https://open.shopee.com/announcements/1657</link>
+            <guid>https://open.shopee.com/announcements/1657</guid>
+            <pubDate>Fri, 27 Nov 2026 09:46:18 GMT</pubDate>
+            <description><![CDATA[Significant OpenAPI Updates to Order and Product]]></description>
+            <content:encoded><![CDATA[Significant OpenAPI Updates to Order and Product]]></content:encoded>
+            <category>shopee</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/shopee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[LAZADA] - LAZADA D12 Campaign Downgrade Plan]]></title>
+            <link>https://open.lazada.com/apps/announcement/detail?docId=305528</link>
+            <guid>https://open.lazada.com/apps/announcement/detail?docId=305528</guid>
+            <pubDate>Fri, 27 Nov 2026 08:22:07 GMT</pubDate>
+            <description><![CDATA[LAZADA D12 Campaign Downgrade Plan]]></description>
+            <content:encoded><![CDATA[LAZADA D12 Campaign Downgrade Plan]]></content:encoded>
+            <category>lazada</category>
+            <enclosure url="https://raw.githubusercontent.com/quangvo09/platform-announcement/master/public/lazada.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SHOPEE] - [ATUALIZAÇÃO] Nova data e ajuste na validação do campo indPres nas NF-e]]></title>
             <link>https://open.shopee.com/announcements/1654</link>
